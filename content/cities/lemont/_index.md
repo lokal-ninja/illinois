@@ -1,6 +1,6 @@
 ---
 title: Lemont
 url: /lemont/
-latitude: 41.673642
-longitude: -88.0017261
+latitude: 41.6737149
+longitude: -88.00162630000001
 ---

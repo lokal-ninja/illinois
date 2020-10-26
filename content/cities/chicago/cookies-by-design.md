@@ -1,4 +1,4 @@
 ---
-title: "Cookies By Design"
+title: "Cookies by Design"
 url: /chicago/cookies-by-design/
 ---

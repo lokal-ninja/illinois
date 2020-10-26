@@ -1,4 +1,4 @@
 ---
-title: "Frank F Opyt Funeral Home"
+title: "Frank F. Opyt Funeral Home"
 url: /chicago/frank-f-opyt-funeral-home/
 ---

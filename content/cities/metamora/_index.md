@@ -1,6 +1,6 @@
 ---
-title: metamora
+title: Metamora
 url: /metamora/
-latitude: 
-longitude: 
+latitude: 40.7907409
+longitude: -89.3614407
 ---

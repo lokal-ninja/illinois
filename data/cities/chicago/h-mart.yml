@@ -1,12 +1,12 @@
-id: 6292166623
-type: node
-shop: bakery
-latitude: 41.877639300000006
-longitude: -87.6447203
-postcode: "60661"
+id: 156356426
+type: way
+shop: supermarket
+latitude: 41.877890400000005
+longitude: -87.64451480000001
+postcode: "60611"
 city: Chicago
-street: "West Gladys Avenue"
+street: "West Jackson Boulevard"
 housenumber: 711
-phone: "+1-312-966-4666"
-opening_hours: ""
-website: "https://www.hmart.com/"
+phone: ""
+opening_hours: "Mo-Sa 09:00-21:00"
+website: ""

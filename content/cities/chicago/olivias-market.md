@@ -1,4 +1,4 @@
 ---
-title: "Olivia’s Market"
+title: "Olivia's Market"
 url: /chicago/olivias-market/
 ---

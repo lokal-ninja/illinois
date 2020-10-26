@@ -1,4 +1,4 @@
 ---
-title: "Margie’s Candies"
+title: "Margie's Candies"
 url: /chicago/margies-candies/
 ---

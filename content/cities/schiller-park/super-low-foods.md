@@ -1,4 +1,4 @@
 ---
-title: "Super Low Foods "
+title: "Super Low Foods"
 url: /schiller-park/super-low-foods/
 ---

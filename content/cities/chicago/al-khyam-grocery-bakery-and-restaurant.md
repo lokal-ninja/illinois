@@ -1,4 +1,4 @@
 ---
-title: "AL KHYAM GROCERY, BAKERY and RESTAURANT"
+title: "Al Khyam Grocery, Bakery & Restaurant"
 url: /chicago/al-khyam-grocery-bakery-and-restaurant/
 ---

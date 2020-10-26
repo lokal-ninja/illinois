@@ -1,4 +1,4 @@
 ---
-title: "SpeedWay"
+title: "Speedway"
 url: /bolingbrook/speedway/
 ---

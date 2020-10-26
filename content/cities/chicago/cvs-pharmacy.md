@@ -1,4 +1,4 @@
 ---
-title: "CVS/Pharmacy"
+title: "CVS Pharmacy"
 url: /chicago/cvs-pharmacy/
 ---

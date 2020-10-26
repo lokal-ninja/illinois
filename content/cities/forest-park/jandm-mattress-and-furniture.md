@@ -1,4 +1,4 @@
 ---
-title: "J&M Mattress & Furniture "
+title: "J&M Mattress & Furniture"
 url: /forest-park/jandm-mattress-and-furniture/
 ---

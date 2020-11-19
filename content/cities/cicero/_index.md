@@ -1,6 +1,6 @@
 ---
 title: Cicero
 url: /cicero/
-latitude: 41.845587800000004
-longitude: -87.7539448
+latitude: 41.845539800000005
+longitude: -87.7540199
 ---

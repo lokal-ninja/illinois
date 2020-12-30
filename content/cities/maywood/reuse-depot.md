@@ -1,4 +1,4 @@
 ---
-title: "ReUse Depot"
+title: "Reuse Depot"
 url: /maywood/reuse-depot/
 ---

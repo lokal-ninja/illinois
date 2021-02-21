@@ -1,6 +1,5 @@
 id: 548791912
 type: way
-shop: pet
 latitude: 41.7066262
 longitude: -88.300324
 postcode: "60543"
@@ -9,4 +8,4 @@ street: "5th Street"
 housenumber: 305
 phone: "+1-630-554-1272"
 opening_hours: ""
-website: "https://www.petsmart.com/store-locator/store/?storeID=1640&utm_source=google&utm_medium=organic&utm_campaign=google-my-business"
+website: "https://www.petsmart.com/store-locator/store/?storeID=1640"

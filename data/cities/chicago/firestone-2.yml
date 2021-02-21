@@ -1,6 +1,5 @@
 id: 162508477
 type: way
-shop: car repair
 latitude: 41.7949009
 longitude: -87.76481100000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Chicago
 street: "South Archer Avenue"
 housenumber: 5945-5949
 phone: ""
-opening_hours: "Su 08:00-17:00pm Mo-Fr 07:00-19:00pm Sat 07:00-18:00"
-website: "https://local.firestonecompleteautocare.com/illinois/chicago/5945-s-archer-ave/?utm_source=google&utm_medium=organic&utm_campaign=localmaps&lw_cmp=oloc_google_localmaps_maps"
+opening_hours: "Su 08:00-17:00; Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+website: "https://local.firestonecompleteautocare.com/illinois/chicago/5945-s-archer-ave/"

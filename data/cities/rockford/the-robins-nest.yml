@@ -1,6 +1,5 @@
 id: 6762046692
 type: node
-shop: sports
 latitude: 42.264149700000004
 longitude: -89.0366388
 postcode: "61108"
@@ -8,5 +7,5 @@ city: Rockford
 street: "East State Street"
 housenumber: 3925
 phone: ""
-opening_hours: "Mo-Th,Sa 11:00-17:00; Su 12:00-17:00; PH closed ; Fr 11:00-21:00"
+opening_hours: "Mo-Th,Sa 11:00-17:00; Su 12:00-17:00; PH closed; Fr 11:00-21:00"
 website: ""

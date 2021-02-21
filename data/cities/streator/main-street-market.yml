@@ -1,6 +1,5 @@
 id: 6420605514
 type: node
-shop: shop
 latitude: 41.120785500000004
 longitude: -88.83190520000001
 postcode: "61364"
@@ -9,4 +8,4 @@ street: "East Main Street"
 housenumber: 317
 phone: ""
 opening_hours: ""
-website: "https://streator-main-street-market.business.site/?utm_source=gmb&utm_medium=referral"
+website: "https://streator-main-street-market.business.site/"

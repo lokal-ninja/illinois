@@ -1,6 +1,5 @@
 id: 8092273667
 type: node
-shop: hairdresser
 latitude: 42.11466
 longitude: -88.0489223
 postcode: "60067"
@@ -8,5 +7,5 @@ city: Palatine
 street: "North Smith Street"
 housenumber: 220
 phone: "8473612547"
-opening_hours: "Tu  12:00-21:00 PM; We 10:00-21:00; Th 10:00-21:00; Fr  10:00-18:00 Sa  09:00-17:00"
+opening_hours: "Tu 12:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 10:00-18:00; Sa 09:00-17:00"
 website: ""

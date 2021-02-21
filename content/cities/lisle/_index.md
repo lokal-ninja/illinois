@@ -1,6 +1,6 @@
 ---
 title: Lisle
 url: /lisle/
-latitude: 41.801141
-longitude: -88.0747875
+latitude: 41.801159000000006
+longitude: -88.0747687
 ---

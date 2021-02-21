@@ -1,6 +1,5 @@
 id: 7820561085
 type: node
-shop: car
 latitude: 42.249431
 longitude: -88.3449403
 postcode: "60014"
@@ -8,5 +7,5 @@ city: Crystal Lake
 street: "West Terra Cotta Avenue"
 housenumber: 680
 phone: "+1 815 459 6400"
-opening_hours: "Mo-Fr 9:00-21:00; Sa 9:00-18:00;"
+opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00"
 website: ""

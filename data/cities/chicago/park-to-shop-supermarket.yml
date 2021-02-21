@@ -1,6 +1,5 @@
 id: 210537370
 type: way
-shop: supermarket
 latitude: 41.8567514
 longitude: -87.63874750000001
 postcode: "60616"
@@ -9,4 +8,4 @@ street: "South Canal Street"
 housenumber: 1835
 phone: ""
 opening_hours: "Mo-Su 08:00-20:00"
-website: ""
+website: "https://ptsmall.world/"

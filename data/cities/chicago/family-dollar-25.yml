@@ -1,12 +1,11 @@
-id: 162167942
-type: way
-shop: variety store
-latitude: 41.801304800000004
-longitude: -87.74359790000001
-postcode: "60638"
+id: 8380289528
+type: node
+latitude: 41.7518497
+longitude: -87.62905810000001
+postcode: "60620"
 city: Chicago
-street: "South Cicero Avenue"
-housenumber: 5018
+street: "West 79th Street"
+housenumber: 120
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: "https://www.familydollar.com/locations/il/chicago/32004/"

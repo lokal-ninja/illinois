@@ -1,12 +1,11 @@
 id: 138183450
 type: way
-shop: books
-latitude: 40.108541100000004
-longitude: -88.2290413
+latitude: 40.108538800000005
+longitude: -88.22904430000001
 postcode: "61820"
 city: Champaign
 street: "South Wright Street"
 housenumber: 809
 phone: ""
 opening_hours: "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00"
-website: "http://www.uofibookstore.uiuc.edu/"
+website: "https://bookstore.illinois.edu/"

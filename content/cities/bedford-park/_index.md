@@ -1,6 +1,6 @@
 ---
 title: Bedford Park
 url: /bedford-park/
-latitude: 41.7628101
-longitude: -87.80005510000001
+latitude: 41.7690519
+longitude: -87.7770096
 ---

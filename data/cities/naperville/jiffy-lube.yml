@@ -1,12 +1,11 @@
-id: 292642507
-type: way
-shop: car repair
-latitude: 41.7885733
-longitude: -88.1329113
-postcode: "60563"
+id: 8356103472
+type: node
+latitude: 41.680271700000006
+longitude: -88.2063411
+postcode: "60564"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 922
-phone: ""
-opening_hours: ""
-website: ""
+street: "Ace Lane"
+housenumber: 5008
+phone: "+1 630 904 0033"
+opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
+website: "https://www.jiffylube.com/locations/il/naperville/2992"

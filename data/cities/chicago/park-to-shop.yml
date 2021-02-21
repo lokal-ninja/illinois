@@ -1,6 +1,5 @@
 id: 8152698386
 type: node
-shop: supermarket
 latitude: 41.8485487
 longitude: -87.6412111
 postcode: "60616"
@@ -9,4 +8,4 @@ street: "South Wallace Street"
 housenumber: 2425
 phone: "+13127919111"
 opening_hours: "Mo-Su 08:00-21:00"
-website: "parktoshopmarket.com"
+website: "https://ptsmall.world/"

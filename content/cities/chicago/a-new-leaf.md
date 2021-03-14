@@ -1,5 +1,5 @@
 ---
-title: "A new Leaf"
+title: "A New Leaf"
 url: /chicago/a-new-leaf/
 shop: florist
 ---

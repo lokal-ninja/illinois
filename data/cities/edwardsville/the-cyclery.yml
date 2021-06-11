@@ -1,11 +1,11 @@
-id: 3780080436
-type: node
-latitude: 38.7823681
-longitude: -89.9505129
+id: 545135048
+type: way
+latitude: 38.782469500000005
+longitude: -89.95080340000001
 postcode: "62025"
 city: Edwardsville
 street: "Troy Road"
-housenumber: 2472
+housenumber: 2427;2472
 phone: ""
 opening_hours: ""
 website: ""

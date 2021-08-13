@@ -1,6 +1,6 @@
 ---
 title: Beecher
 url: /beecher/
-latitude: 41.340590000000006
-longitude: -87.6214286
+latitude: 41.3405417
+longitude: -87.62151440000001
 ---

@@ -1,5 +1,5 @@
 ---
-title: "talia"
+title: "Talia"
 url: /evanston/talia/
-shop: boutique
+shop: clothes
 ---

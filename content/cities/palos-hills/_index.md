@@ -1,6 +1,6 @@
 ---
 title: Palos Hills
 url: /palos-hills/
-latitude: 41.696699200000005
-longitude: -87.8169984
+latitude: 41.696639700000006
+longitude: -87.816924
 ---

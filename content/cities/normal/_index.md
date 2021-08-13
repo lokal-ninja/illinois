@@ -1,6 +1,6 @@
 ---
 title: Normal
 url: /normal/
-latitude: 40.511769900000004
-longitude: -88.9944815
+latitude: 40.5092866
+longitude: -88.9843795
 ---

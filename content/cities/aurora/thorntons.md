@@ -1,5 +1,5 @@
 ---
-title: "Thornton's"
+title: "Thorntons"
 url: /aurora/thorntons/
 shop: convenience
 ---

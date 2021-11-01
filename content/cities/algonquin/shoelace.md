@@ -1,5 +1,5 @@
 ---
 title: "Shoelace"
 url: /algonquin/shoelace/
-shop: clothes
+shop: shoes
 ---

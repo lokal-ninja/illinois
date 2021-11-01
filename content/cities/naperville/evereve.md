@@ -1,5 +1,5 @@
 ---
-title: "EVEREVE"
+title: "Evereve"
 url: /naperville/evereve/
 shop: clothes
 ---

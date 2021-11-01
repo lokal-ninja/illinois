@@ -1,5 +1,5 @@
 ---
 title: "Mrs. Fields"
 url: /chicago/mrs-fields/
-shop: bakery
+shop: pastry
 ---

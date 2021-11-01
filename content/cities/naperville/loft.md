@@ -1,5 +1,5 @@
 ---
-title: "LOFT"
+title: "Loft"
 url: /naperville/loft/
 shop: clothes
 ---

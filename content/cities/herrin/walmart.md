@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /herrin/walmart/
-shop: supermarket
+shop: department store
 ---

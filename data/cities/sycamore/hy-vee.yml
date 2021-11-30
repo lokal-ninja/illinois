@@ -1,11 +1,11 @@
-id: 8025852882
-type: node
-latitude: 41.9589153
-longitude: -88.718676
+id: 1000392746
+type: way
+latitude: 41.9594292
+longitude: -88.7190444
 postcode: "60178"
 city: Sycamore
-street: "Dekalb Avenue"
+street: "DeKalb Avenue"
 housenumber: 2700
-phone: "+1-815-756-6174"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.hy-vee.com/stores/detail.aspx"
+phone: "+1 815-756-6174"
+opening_hours: "Mo-Su 06:00-11:00"
+website: "https://www.hy-vee.com/stores/detail.aspx?s=978"

@@ -1,6 +1,0 @@
----
-title: East Hazel Crest
-url: /east-hazel-crest/
-latitude: 41.5736457
-longitude: -87.6464346
----

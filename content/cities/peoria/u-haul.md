@@ -1,0 +1,5 @@
+---
+title: "U-Haul"
+url: /peoria/u-haul/
+shop: Mieten
+---

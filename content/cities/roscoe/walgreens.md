@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /roscoe/walgreens/
-shop: Lebensmittel
+shop: Drogerie
 ---

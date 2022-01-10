@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /aurora/fossil/
-shop: Uhren
+shop: watches
 ---

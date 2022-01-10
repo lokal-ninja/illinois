@@ -1,5 +1,5 @@
 ---
 title: "Scout"
 url: /chicago/scout/
-shop: Antiquitäten
+shop: antiques
 ---

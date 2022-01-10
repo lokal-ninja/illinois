@@ -1,5 +1,5 @@
 ---
 title: "Sears Auto Center"
 url: /cherry-valley/sears-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

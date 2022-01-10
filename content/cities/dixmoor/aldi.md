@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dixmoor/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

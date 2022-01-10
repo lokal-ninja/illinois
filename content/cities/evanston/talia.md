@@ -1,5 +1,5 @@
 ---
 title: "Talia"
 url: /evanston/talia/
-shop: Kleidung
+shop: clothes
 ---

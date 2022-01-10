@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /carpentersville/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /chicago/advance-auto-parts-5/
-shop: Autoteile
+shop: car parts
 ---

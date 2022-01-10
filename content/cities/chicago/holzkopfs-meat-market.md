@@ -1,5 +1,5 @@
 ---
 title: "Holzkopf's Meat Market"
 url: /chicago/holzkopfs-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lighthouse Yoga"
 url: /evanston/lighthouse-yoga/
-shop: Allgemein
+shop: shop
 ---

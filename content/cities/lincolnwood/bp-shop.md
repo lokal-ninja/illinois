@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /lincolnwood/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

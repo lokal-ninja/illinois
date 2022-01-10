@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /naperville/oberweis/
-shop: Milch
+shop: dairy
 ---

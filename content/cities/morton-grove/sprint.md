@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /morton-grove/sprint/
-shop: Handy
+shop: mobile phone
 ---

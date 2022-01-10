@@ -1,5 +1,5 @@
 ---
 title: "Milwaukee Furniture"
 url: /chicago/milwaukee-furniture/
-shop: Möbel
+shop: furniture
 ---

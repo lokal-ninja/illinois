@@ -1,5 +1,5 @@
 ---
 title: "New York Bakery"
 url: /chicago/new-york-bakery/
-shop: Bäckerei
+shop: bakery
 ---

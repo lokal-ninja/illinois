@@ -1,5 +1,5 @@
 ---
 title: "Tous Les Jours"
 url: /schaumburg/tous-les-jours/
-shop: Bäckerei
+shop: bakery
 ---

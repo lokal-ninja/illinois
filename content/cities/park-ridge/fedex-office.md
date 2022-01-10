@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /park-ridge/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

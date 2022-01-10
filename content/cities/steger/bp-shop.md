@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /steger/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

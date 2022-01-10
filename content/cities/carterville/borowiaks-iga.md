@@ -1,5 +1,5 @@
 ---
 title: "Borowiak's IGA"
 url: /carterville/borowiaks-iga/
-shop: Supermarkt
+shop: supermarket
 ---

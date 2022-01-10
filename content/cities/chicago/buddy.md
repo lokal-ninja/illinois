@@ -1,5 +1,5 @@
 ---
 title: "Buddy"
 url: /chicago/buddy/
-shop: Kunst
+shop: art
 ---

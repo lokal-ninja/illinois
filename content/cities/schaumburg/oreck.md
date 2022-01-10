@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /schaumburg/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

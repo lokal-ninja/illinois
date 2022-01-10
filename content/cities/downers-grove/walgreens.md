@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /downers-grove/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside"
 url: /schaumburg/sunnyside/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shampooches Dog Grooming"
 url: /alton/shampooches-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

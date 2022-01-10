@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /berwyn/shell/
-shop: Lebensmittel
+shop: convenience
 ---

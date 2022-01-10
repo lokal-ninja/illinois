@@ -1,5 +1,5 @@
 ---
 title: "Shreeji Grocers"
 url: /des-plaines/shreeji-grocers/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gordmans"
 url: /champaign/gordmans/
-shop: Warenhaus
+shop: department store
 ---

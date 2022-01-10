@@ -1,5 +1,5 @@
 ---
 title: "OSKA Company Store"
 url: /evanston/oska-company-store/
-shop: Kleidung
+shop: clothes
 ---

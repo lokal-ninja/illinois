@@ -1,5 +1,5 @@
 ---
 title: "KC Summers Toyota"
 url: /mattoon/kc-summers-toyota/
-shop: Autohaus
+shop: car
 ---

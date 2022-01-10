@@ -1,5 +1,5 @@
 ---
 title: "LubePro's"
 url: /hillside/lubepros/
-shop: Autowerkstatt
+shop: car repair
 ---

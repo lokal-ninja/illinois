@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /matteson/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

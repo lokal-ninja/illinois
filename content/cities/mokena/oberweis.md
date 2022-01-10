@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /mokena/oberweis/
-shop: Milch
+shop: dairy
 ---

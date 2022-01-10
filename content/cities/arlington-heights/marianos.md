@@ -1,5 +1,5 @@
 ---
 title: "Mariano's"
 url: /arlington-heights/marianos/
-shop: Supermarkt
+shop: supermarket
 ---

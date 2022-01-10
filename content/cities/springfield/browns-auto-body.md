@@ -1,5 +1,5 @@
 ---
 title: "Brown's Auto Body"
 url: /springfield/browns-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

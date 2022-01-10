@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /springfield/carquest/
-shop: Autoteile
+shop: car parts
 ---

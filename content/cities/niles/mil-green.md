@@ -1,5 +1,5 @@
 ---
 title: "Mil-Green"
 url: /niles/mil-green/
-shop: Möbel
+shop: furniture
 ---

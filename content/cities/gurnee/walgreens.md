@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /gurnee/walgreens/
-shop: Drogerie
+shop: chemist
 ---

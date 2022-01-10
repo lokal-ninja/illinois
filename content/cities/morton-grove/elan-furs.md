@@ -1,5 +1,5 @@
 ---
 title: "Elan Furs"
 url: /morton-grove/elan-furs/
-shop: Kleidung
+shop: clothes
 ---

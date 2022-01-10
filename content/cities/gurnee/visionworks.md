@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /gurnee/visionworks/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zen Leaf"
 url: /aurora/zen-leaf/
-shop: Hanf
+shop: cannabis
 ---

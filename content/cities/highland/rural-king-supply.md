@@ -1,5 +1,5 @@
 ---
 title: "Rural King Supply"
 url: /highland/rural-king-supply/
-shop: Dorfladen
+shop: general
 ---

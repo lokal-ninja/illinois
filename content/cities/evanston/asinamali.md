@@ -1,5 +1,5 @@
 ---
 title: "Asinamali"
 url: /evanston/asinamali/
-shop: Kleidung
+shop: clothes
 ---

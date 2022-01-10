@@ -1,5 +1,5 @@
 ---
 title: "901MLK Storage"
 url: /north-chicago/901mlk-storage/
-shop: Mieten
+shop: storage rental
 ---

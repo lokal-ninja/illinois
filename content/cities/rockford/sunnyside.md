@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside"
 url: /rockford/sunnyside/
-shop: Hanf
+shop: cannabis
 ---

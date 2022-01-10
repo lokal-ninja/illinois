@@ -1,5 +1,5 @@
 ---
 title: "Sam Leman Chrysler Dodge Jeep"
 url: /morton/sam-leman-chrysler-dodge-jeep/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weekends Only"
 url: /fairview-heights/weekends-only/
-shop: Möbel
+shop: furniture
 ---

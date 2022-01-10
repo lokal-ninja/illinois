@@ -1,5 +1,5 @@
 ---
 title: "The RoomPlace"
 url: /orland-park/the-roomplace/
-shop: Möbel
+shop: furniture
 ---

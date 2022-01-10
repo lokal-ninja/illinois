@@ -1,5 +1,5 @@
 ---
 title: "Campus Gear"
 url: /evanston/campus-gear/
-shop: Kleidung
+shop: clothes
 ---

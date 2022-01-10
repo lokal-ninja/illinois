@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /wilmette/aveda/
-shop: Kosmetik
+shop: beauty
 ---

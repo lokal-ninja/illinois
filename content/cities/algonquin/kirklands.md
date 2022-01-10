@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /algonquin/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

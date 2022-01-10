@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /chicago/whole-foods-market-11/
-shop: Supermarkt
+shop: supermarket
 ---

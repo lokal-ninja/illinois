@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /rapids-city/getgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Our Town Books"
 url: /jacksonville/our-town-books/
-shop: Bücher
+shop: books
 ---

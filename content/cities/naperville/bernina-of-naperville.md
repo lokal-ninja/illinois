@@ -1,5 +1,5 @@
 ---
 title: "Bernina of Naperville"
 url: /naperville/bernina-of-naperville/
-shop: Nähzubehör
+shop: sewing
 ---

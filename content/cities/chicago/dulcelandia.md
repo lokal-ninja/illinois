@@ -1,5 +1,5 @@
 ---
 title: "Dulcelandia"
 url: /chicago/dulcelandia/
-shop: Süßwaren
+shop: confectionery
 ---

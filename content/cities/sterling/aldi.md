@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /sterling/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

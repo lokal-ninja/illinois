@@ -1,5 +1,5 @@
 ---
 title: "The Great Escape"
 url: /loves-park/the-great-escape/
-shop: Outdoor
+shop: outdoor
 ---

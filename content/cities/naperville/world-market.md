@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /naperville/world-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

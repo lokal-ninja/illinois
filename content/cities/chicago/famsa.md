@@ -1,5 +1,5 @@
 ---
 title: "Famsa"
 url: /chicago/famsa/
-shop: Möbel
+shop: furniture
 ---

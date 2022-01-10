@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hoffman-estates/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /waukegan/shell/
-shop: Lebensmittel
+shop: convenience
 ---

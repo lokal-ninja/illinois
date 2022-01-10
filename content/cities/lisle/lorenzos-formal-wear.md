@@ -1,5 +1,5 @@
 ---
 title: "Lorenzo's Formal Wear"
 url: /lisle/lorenzos-formal-wear/
-shop: Kleidung
+shop: clothes
 ---

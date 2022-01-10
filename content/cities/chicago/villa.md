@@ -1,5 +1,5 @@
 ---
 title: "VILLA"
 url: /chicago/villa/
-shop: Schuhe
+shop: shoes
 ---

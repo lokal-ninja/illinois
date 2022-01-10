@@ -1,5 +1,5 @@
 ---
 title: "Fashion Nails"
 url: /evanston/fashion-nails/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /berwyn/sprint/
-shop: Handy
+shop: mobile phone
 ---

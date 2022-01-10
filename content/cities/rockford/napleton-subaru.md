@@ -1,5 +1,5 @@
 ---
 title: "Napleton Subaru"
 url: /rockford/napleton-subaru/
-shop: Autohaus
+shop: car
 ---

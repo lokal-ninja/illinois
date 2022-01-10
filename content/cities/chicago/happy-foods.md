@@ -1,5 +1,5 @@
 ---
 title: "Happy Foods"
 url: /chicago/happy-foods/
-shop: Supermarkt
+shop: supermarket
 ---

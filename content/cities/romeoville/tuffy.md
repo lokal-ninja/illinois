@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /romeoville/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

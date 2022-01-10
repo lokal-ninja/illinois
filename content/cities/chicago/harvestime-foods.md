@@ -1,5 +1,5 @@
 ---
 title: "HarvesTime Foods"
 url: /chicago/harvestime-foods/
-shop: Supermarkt
+shop: supermarket
 ---

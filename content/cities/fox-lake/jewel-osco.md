@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /fox-lake/jewel-osco/
-shop: Supermarkt
+shop: supermarket
 ---

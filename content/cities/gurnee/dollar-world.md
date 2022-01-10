@@ -1,5 +1,5 @@
 ---
 title: "Dollar World"
 url: /gurnee/dollar-world/
-shop: Warenhaus
+shop: department store
 ---

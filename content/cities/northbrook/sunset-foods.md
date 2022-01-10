@@ -1,5 +1,5 @@
 ---
 title: "Sunset Foods"
 url: /northbrook/sunset-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /glencoe/benjamin-moore/
-shop: Farben
+shop: paint
 ---

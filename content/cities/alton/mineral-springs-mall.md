@@ -1,5 +1,5 @@
 ---
 title: "Mineral Springs Mall"
 url: /alton/mineral-springs-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

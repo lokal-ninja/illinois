@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /aurora/timberland/
-shop: Kleidung
+shop: clothes
 ---

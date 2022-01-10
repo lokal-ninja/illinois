@@ -1,5 +1,5 @@
 ---
 title: "Mevyn"
 url: /chicago/mevyn/
-shop: Kleidung
+shop: clothes
 ---

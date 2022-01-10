@@ -1,5 +1,5 @@
 ---
 title: "Grappa Growlers"
 url: /belleville/grappa-growlers/
-shop: Wein
+shop: wine
 ---

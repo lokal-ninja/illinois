@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /chicago/cricket-wireless-15/
-shop: Handy
+shop: mobile phone
 ---

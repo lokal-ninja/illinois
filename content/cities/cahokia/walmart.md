@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /cahokia/walmart/
-shop: Warenhaus
+shop: department store
 ---

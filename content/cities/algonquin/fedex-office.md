@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /algonquin/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

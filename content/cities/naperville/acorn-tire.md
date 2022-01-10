@@ -1,5 +1,5 @@
 ---
 title: "Acorn Tire"
 url: /naperville/acorn-tire/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /glen-ellyn/walmart/
-shop: Warenhaus
+shop: department store
 ---

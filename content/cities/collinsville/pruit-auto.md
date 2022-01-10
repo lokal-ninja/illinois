@@ -1,5 +1,5 @@
 ---
 title: "Pruit Auto"
 url: /collinsville/pruit-auto/
-shop: Allgemein
+shop: shop
 ---

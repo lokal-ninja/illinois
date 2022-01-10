@@ -1,5 +1,5 @@
 ---
 title: "Dreamline Cabinets"
 url: /bridgeview/dreamline-cabinets/
-shop: Küchen
+shop: kitchen
 ---

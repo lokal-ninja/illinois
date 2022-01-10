@@ -1,5 +1,5 @@
 ---
 title: "Discount Auto Warehouse"
 url: /chicago/discount-auto-warehouse/
-shop: Autoteile
+shop: car parts
 ---

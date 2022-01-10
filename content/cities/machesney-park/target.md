@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /machesney-park/target/
-shop: Warenhaus
+shop: department store
 ---

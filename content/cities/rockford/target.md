@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /rockford/target/
-shop: Warenhaus
+shop: department store
 ---

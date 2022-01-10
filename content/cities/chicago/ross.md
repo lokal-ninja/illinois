@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /chicago/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greer"
 url: /chicago/greer/
-shop: Schreibwaren
+shop: office supplies
 ---

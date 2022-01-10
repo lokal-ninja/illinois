@@ -1,5 +1,5 @@
 ---
 title: "Blue City Cycles"
 url: /chicago/blue-city-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

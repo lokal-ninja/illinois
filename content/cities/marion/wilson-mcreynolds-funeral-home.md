@@ -1,5 +1,5 @@
 ---
 title: "Wilson-McReynolds Funeral Home"
 url: /marion/wilson-mcreynolds-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sugargoat"
 url: /chicago/sugargoat/
-shop: Bäckerei
+shop: bakery
 ---

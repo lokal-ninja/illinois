@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /moline/shell/
-shop: Lebensmittel
+shop: convenience
 ---

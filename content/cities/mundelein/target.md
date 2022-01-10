@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mundelein/target/
-shop: Warenhaus
+shop: department store
 ---

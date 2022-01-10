@@ -1,5 +1,5 @@
 ---
 title: "Cafe LAppetito Lakeview"
 url: /chicago/cafe-lappetito-lakeview/
-shop: Bäckerei
+shop: bakery
 ---

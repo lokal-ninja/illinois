@@ -1,5 +1,5 @@
 ---
 title: "Heads or Tails Dog Grooming"
 url: /oswego/heads-or-tails-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

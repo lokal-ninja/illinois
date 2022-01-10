@@ -1,5 +1,5 @@
 ---
 title: "JC Licht"
 url: /naperville/jc-licht/
-shop: Farben
+shop: paint
 ---

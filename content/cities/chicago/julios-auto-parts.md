@@ -1,5 +1,5 @@
 ---
 title: "Julio's Auto Parts"
 url: /chicago/julios-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

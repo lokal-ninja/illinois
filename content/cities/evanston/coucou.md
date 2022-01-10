@@ -1,5 +1,5 @@
 ---
 title: "Coucou"
 url: /evanston/coucou/
-shop: Kleidung
+shop: clothes
 ---

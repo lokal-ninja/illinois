@@ -1,5 +1,5 @@
 ---
 title: "Auffenberg Ford North"
 url: /ofallon/auffenberg-ford-north/
-shop: Autohaus
+shop: car
 ---

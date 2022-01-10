@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /rockford/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

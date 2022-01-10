@@ -1,5 +1,5 @@
 ---
 title: "Van Drunen Ford"
 url: /homewood/van-drunen-ford/
-shop: Autohaus
+shop: car
 ---

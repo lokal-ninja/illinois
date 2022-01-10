@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hodgkins/target/
-shop: Warenhaus
+shop: department store
 ---

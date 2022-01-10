@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /matteson/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

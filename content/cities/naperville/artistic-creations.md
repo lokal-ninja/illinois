@@ -1,5 +1,5 @@
 ---
 title: "Artistic Creations"
 url: /naperville/artistic-creations/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Barn Nursery and Landscape Center"
 url: /cary/the-barn-nursery-and-landscape-center/
-shop: Garten-Center
+shop: garden centre
 ---

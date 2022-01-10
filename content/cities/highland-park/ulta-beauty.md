@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /highland-park/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

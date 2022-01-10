@@ -1,5 +1,5 @@
 ---
 title: "Golf Galaxy"
 url: /schaumburg/golf-galaxy/
-shop: Sport
+shop: sports
 ---

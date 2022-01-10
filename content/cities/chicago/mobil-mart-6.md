@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /chicago/mobil-mart-6/
-shop: Lebensmittel
+shop: convenience
 ---

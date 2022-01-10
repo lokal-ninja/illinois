@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /peoria/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

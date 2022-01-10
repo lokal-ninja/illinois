@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /algonquin/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

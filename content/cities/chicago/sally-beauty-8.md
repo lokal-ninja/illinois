@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /chicago/sally-beauty-8/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

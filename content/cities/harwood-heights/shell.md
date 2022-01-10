@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /harwood-heights/shell/
-shop: Lebensmittel
+shop: convenience
 ---

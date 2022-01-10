@@ -1,5 +1,5 @@
 ---
 title: "Floyd Imports"
 url: /springfield/floyd-imports/
-shop: Autowerkstatt
+shop: car repair
 ---

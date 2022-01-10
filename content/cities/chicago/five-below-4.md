@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /chicago/five-below-4/
-shop: Kramladen
+shop: variety store
 ---

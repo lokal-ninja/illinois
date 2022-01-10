@@ -1,5 +1,5 @@
 ---
 title: "Manley Ford"
 url: /belvidere/manley-ford/
-shop: Autohaus
+shop: car
 ---

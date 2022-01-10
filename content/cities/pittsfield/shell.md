@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /pittsfield/shell/
-shop: Lebensmittel
+shop: convenience
 ---

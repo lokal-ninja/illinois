@@ -1,5 +1,5 @@
 ---
 title: "TJ Dollar Bazaar"
 url: /chicago/tj-dollar-bazaar/
-shop: Supermarkt
+shop: supermarket
 ---

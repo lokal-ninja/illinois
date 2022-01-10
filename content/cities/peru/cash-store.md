@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /peru/cash-store/
-shop: Leiher
+shop: pawnbroker
 ---

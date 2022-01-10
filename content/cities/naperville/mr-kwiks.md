@@ -1,5 +1,5 @@
 ---
 title: "Mr. Kwiks"
 url: /naperville/mr-kwiks/
-shop: Autowerkstatt
+shop: car repair
 ---

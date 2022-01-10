@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /chicago/costco/
-shop: Großhandel
+shop: wholesale
 ---

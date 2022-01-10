@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /palatine/walmart/
-shop: Warenhaus
+shop: department store
 ---

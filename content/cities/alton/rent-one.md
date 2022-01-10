@@ -1,5 +1,5 @@
 ---
 title: "Rent One"
 url: /alton/rent-one/
-shop: Mieten
+shop: storage rental
 ---

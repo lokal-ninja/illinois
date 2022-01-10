@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /homer-glen/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

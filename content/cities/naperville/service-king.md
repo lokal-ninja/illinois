@@ -1,5 +1,5 @@
 ---
 title: "Service King"
 url: /naperville/service-king/
-shop: Autowerkstatt
+shop: car repair
 ---

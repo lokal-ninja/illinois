@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /glen-carbon/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /carbondale/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

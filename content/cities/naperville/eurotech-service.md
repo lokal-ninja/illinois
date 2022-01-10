@@ -1,5 +1,5 @@
 ---
 title: "Eurotech Service"
 url: /naperville/eurotech-service/
-shop: Autowerkstatt
+shop: car repair
 ---

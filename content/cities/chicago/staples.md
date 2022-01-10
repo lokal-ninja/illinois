@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /chicago/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

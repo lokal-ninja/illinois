@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chicago/aldi-19/
-shop: Supermarkt
+shop: supermarket
 ---

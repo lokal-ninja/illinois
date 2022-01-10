@@ -1,5 +1,5 @@
 ---
 title: "Infiniti"
 url: /naperville/infiniti/
-shop: Autohaus
+shop: car
 ---

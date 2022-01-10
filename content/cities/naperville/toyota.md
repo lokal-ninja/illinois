@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /naperville/toyota/
-shop: Autohaus
+shop: car
 ---

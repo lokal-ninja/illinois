@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /algonquin/xfinity/
-shop: Handy
+shop: mobile phone
 ---

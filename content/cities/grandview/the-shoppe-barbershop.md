@@ -1,5 +1,5 @@
 ---
 title: "The Shoppe Barbershop"
 url: /grandview/the-shoppe-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

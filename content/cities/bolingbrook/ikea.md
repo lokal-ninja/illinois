@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /bolingbrook/ikea/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mchenry/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papersource"
 url: /evanston/papersource/
-shop: Sport
+shop: sports
 ---

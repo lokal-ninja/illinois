@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /niles/target-2/
-shop: Warenhaus
+shop: department store
 ---

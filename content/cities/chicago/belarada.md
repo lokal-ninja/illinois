@@ -1,5 +1,5 @@
 ---
 title: "Belarada"
 url: /chicago/belarada/
-shop: Bäckerei
+shop: bakery
 ---

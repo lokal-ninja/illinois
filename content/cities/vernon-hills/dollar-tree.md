@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /vernon-hills/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

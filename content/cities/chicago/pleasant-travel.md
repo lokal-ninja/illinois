@@ -1,5 +1,5 @@
 ---
 title: "Pleasant Travel"
 url: /chicago/pleasant-travel/
-shop: Reisebüro
+shop: travel agency
 ---

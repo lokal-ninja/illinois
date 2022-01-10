@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /dekalb/petco/
-shop: Tiere
+shop: pet
 ---

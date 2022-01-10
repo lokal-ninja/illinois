@@ -1,5 +1,5 @@
 ---
 title: "Fred's Hardware"
 url: /mascoutah/freds-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

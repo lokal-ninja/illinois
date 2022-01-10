@@ -1,5 +1,5 @@
 ---
 title: "Pastoral"
 url: /chicago/pastoral/
-shop: Bäckerei
+shop: bakery
 ---

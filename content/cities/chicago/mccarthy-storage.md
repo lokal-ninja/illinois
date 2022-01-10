@@ -1,5 +1,5 @@
 ---
 title: "McCarthy Storage"
 url: /chicago/mccarthy-storage/
-shop: Mieten
+shop: storage rental
 ---

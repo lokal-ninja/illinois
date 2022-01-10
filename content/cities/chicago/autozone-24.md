@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chicago/autozone-24/
-shop: Autoteile
+shop: car parts
 ---

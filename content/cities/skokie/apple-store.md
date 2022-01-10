@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
 url: /skokie/apple-store/
-shop: Elektronik
+shop: electronics
 ---

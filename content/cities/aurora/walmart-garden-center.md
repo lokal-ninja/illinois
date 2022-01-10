@@ -1,5 +1,5 @@
 ---
 title: "Walmart Garden Center"
 url: /aurora/walmart-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

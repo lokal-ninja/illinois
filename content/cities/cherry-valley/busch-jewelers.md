@@ -1,5 +1,5 @@
 ---
 title: "Busch Jewelers"
 url: /cherry-valley/busch-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

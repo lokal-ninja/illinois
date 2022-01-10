@@ -1,5 +1,5 @@
 ---
 title: "Modell Funeral Home"
 url: /homer-glen/modell-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

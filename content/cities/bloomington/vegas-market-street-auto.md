@@ -1,5 +1,5 @@
 ---
 title: "Vega's Market Street Auto"
 url: /bloomington/vegas-market-street-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

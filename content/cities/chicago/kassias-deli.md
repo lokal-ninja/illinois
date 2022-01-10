@@ -1,5 +1,5 @@
 ---
 title: "Kassia's Deli"
 url: /chicago/kassias-deli/
-shop: Feinkost
+shop: deli
 ---

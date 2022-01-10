@@ -1,5 +1,5 @@
 ---
 title: "Valli Produce"
 url: /arlington-heights/valli-produce/
-shop: Supermarkt
+shop: supermarket
 ---

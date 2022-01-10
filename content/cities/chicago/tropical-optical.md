@@ -1,5 +1,5 @@
 ---
 title: "Tropical Optical"
 url: /chicago/tropical-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /steger/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /woodridge/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

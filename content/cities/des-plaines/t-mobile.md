@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /des-plaines/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /champaign/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

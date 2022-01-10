@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /cherry-valley/sears/
-shop: Warenhaus
+shop: department store
 ---

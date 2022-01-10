@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /chicago/t-mobile-14/
-shop: Handy
+shop: mobile phone
 ---

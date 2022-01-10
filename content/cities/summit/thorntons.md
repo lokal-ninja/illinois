@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /summit/thorntons/
-shop: Lebensmittel
+shop: convenience
 ---

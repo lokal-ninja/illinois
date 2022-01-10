@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /roscoe/schnucks/
-shop: Supermarkt
+shop: supermarket
 ---

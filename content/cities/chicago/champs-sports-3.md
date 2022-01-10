@@ -1,5 +1,5 @@
 ---
 title: "Champs Sports"
 url: /chicago/champs-sports-3/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewel"
 url: /chicago/jewel/
-shop: Supermarkt
+shop: supermarket
 ---

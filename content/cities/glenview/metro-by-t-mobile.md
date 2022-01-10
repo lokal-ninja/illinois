@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /glenview/metro-by-t-mobile/
-shop: Handy
+shop: mobile phone
 ---

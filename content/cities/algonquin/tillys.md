@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /algonquin/tillys/
-shop: Kleidung
+shop: clothes
 ---

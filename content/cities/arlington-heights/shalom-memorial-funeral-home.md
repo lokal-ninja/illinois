@@ -1,5 +1,5 @@
 ---
 title: "Shalom Memorial Funeral Home"
 url: /arlington-heights/shalom-memorial-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

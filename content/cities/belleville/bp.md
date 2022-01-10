@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /belleville/bp/
-shop: Lebensmittel
+shop: convenience
 ---

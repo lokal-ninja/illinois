@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /gurnee/nothing-bundt-cakes/
-shop: Bäckerei
+shop: bakery
 ---

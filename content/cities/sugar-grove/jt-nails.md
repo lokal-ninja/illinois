@@ -1,5 +1,5 @@
 ---
 title: "JT Nails"
 url: /sugar-grove/jt-nails/
-shop: Kosmetik
+shop: beauty
 ---

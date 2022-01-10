@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /crestwood/menards/
-shop: Baumarkt
+shop: doityourself
 ---

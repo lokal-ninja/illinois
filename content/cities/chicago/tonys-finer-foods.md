@@ -1,5 +1,5 @@
 ---
 title: "Tony's Finer Foods"
 url: /chicago/tonys-finer-foods/
-shop: Supermarkt
+shop: supermarket
 ---

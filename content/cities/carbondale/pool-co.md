@@ -1,5 +1,5 @@
 ---
 title: "Pool Co"
 url: /carbondale/pool-co/
-shop: Pool
+shop: swimming pool
 ---

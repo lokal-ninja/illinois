@@ -1,5 +1,5 @@
 ---
 title: "Leamington Foods"
 url: /chicago/leamington-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Flor"
 url: /chicago/la-flor/
-shop: Supermarkt
+shop: supermarket
 ---

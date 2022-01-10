@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /cicero/ross/
-shop: Warenhaus
+shop: department store
 ---

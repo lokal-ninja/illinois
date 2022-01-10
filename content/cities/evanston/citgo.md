@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /evanston/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

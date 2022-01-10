@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /alton/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MobilityWorks"
 url: /niles/mobilityworks/
-shop: Sanitätshaus
+shop: medical supply
 ---

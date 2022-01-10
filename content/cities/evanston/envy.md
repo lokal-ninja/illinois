@@ -1,5 +1,5 @@
 ---
 title: "Envy"
 url: /evanston/envy/
-shop: Kleidung
+shop: clothes
 ---

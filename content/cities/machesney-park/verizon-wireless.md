@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /machesney-park/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

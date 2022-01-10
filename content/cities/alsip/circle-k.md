@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /alsip/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evan St. Liquors"
 url: /chicago/evan-st-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

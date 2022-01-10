@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /yorkville/autozone/
-shop: Autoteile
+shop: car parts
 ---

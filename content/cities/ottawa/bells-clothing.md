@@ -1,5 +1,5 @@
 ---
 title: "Bell's Clothing"
 url: /ottawa/bells-clothing/
-shop: Kleidung
+shop: clothes
 ---

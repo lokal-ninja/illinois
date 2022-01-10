@@ -1,5 +1,5 @@
 ---
 title: "Merlin"
 url: /schaumburg/merlin/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U-Stor-It"
 url: /chicago/u-stor-it/
-shop: Mieten
+shop: storage rental
 ---

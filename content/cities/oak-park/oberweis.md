@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /oak-park/oberweis/
-shop: Milch
+shop: dairy
 ---

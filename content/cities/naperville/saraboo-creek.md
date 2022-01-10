@@ -1,5 +1,5 @@
 ---
 title: "SaraBoo Creek"
 url: /naperville/saraboo-creek/
-shop: Andenken
+shop: gift
 ---

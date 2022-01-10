@@ -1,5 +1,5 @@
 ---
 title: "dd's Discounts"
 url: /cicero/dds-discounts/
-shop: Warenhaus
+shop: department store
 ---

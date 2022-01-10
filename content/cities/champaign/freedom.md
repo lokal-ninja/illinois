@@ -1,5 +1,5 @@
 ---
 title: "Freedom"
 url: /champaign/freedom/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /alton/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zimmerman Autobody"
 url: /morton/zimmerman-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

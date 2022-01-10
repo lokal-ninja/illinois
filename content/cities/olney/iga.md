@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /olney/iga/
-shop: Supermarkt
+shop: supermarket
 ---

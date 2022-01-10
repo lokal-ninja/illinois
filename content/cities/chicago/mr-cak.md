@@ -1,5 +1,5 @@
 ---
 title: "Mr Cak"
 url: /chicago/mr-cak/
-shop: Bäckerei
+shop: bakery
 ---

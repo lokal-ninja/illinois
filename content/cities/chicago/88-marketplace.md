@@ -1,5 +1,5 @@
 ---
 title: "88 Marketplace"
 url: /chicago/88-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

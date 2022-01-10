@@ -1,5 +1,5 @@
 ---
 title: "ACE"
 url: /mahomet/ace/
-shop: Eisenwaren
+shop: hardware
 ---

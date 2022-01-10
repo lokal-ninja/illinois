@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /rosemont/gamestop/
-shop: Videospiele
+shop: video games
 ---

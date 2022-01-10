@@ -1,5 +1,5 @@
 ---
 title: "The Piano People"
 url: /champaign/the-piano-people/
-shop: Instrumente
+shop: musical instrument
 ---

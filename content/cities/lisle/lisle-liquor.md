@@ -1,5 +1,5 @@
 ---
 title: "Lisle Liquor"
 url: /lisle/lisle-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

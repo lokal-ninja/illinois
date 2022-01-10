@@ -1,5 +1,5 @@
 ---
 title: "Butler Funeral Home"
 url: /springfield/butler-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

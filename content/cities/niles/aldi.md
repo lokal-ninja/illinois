@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /niles/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

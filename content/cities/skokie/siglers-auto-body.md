@@ -1,5 +1,5 @@
 ---
 title: "Sigler's Auto Body"
 url: /skokie/siglers-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

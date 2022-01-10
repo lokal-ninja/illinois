@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /skokie/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

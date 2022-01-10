@@ -1,5 +1,5 @@
 ---
 title: "WinField United"
 url: /curran/winfield-united/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /hamel/shell/
-shop: Lebensmittel
+shop: convenience
 ---

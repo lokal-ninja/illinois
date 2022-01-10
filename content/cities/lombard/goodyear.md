@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /lombard/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

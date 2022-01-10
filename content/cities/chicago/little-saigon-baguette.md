@@ -1,5 +1,5 @@
 ---
 title: "Little Saigon Baguette"
 url: /chicago/little-saigon-baguette/
-shop: Bäckerei
+shop: bakery
 ---

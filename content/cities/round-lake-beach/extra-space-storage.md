@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /round-lake-beach/extra-space-storage/
-shop: Mieten
+shop: storage rental
 ---

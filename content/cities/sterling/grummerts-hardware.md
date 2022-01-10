@@ -1,5 +1,5 @@
 ---
 title: "Grummert's Hardware"
 url: /sterling/grummerts-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

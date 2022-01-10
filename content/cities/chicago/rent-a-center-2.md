@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /chicago/rent-a-center-2/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Preet Beauties"
 url: /naperville/preet-beauties/
-shop: Kosmetik
+shop: beauty
 ---

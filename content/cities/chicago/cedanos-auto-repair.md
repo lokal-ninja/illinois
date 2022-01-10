@@ -1,5 +1,5 @@
 ---
 title: "Cedano's Auto Repair"
 url: /chicago/cedanos-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

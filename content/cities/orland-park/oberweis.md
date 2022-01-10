@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /orland-park/oberweis/
-shop: Milch
+shop: dairy
 ---

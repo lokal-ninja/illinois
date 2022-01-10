@@ -1,5 +1,5 @@
 ---
 title: "Armitage Food"
 url: /chicago/armitage-food/
-shop: Lebensmittel
+shop: convenience
 ---

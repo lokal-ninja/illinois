@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /urbana/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

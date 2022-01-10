@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /hillside/gamestop/
-shop: Videospiele
+shop: video games
 ---

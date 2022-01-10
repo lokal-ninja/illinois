@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /crystal-lake/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloodshot Records"
 url: /chicago/bloodshot-records/
-shop: Musik
+shop: music
 ---

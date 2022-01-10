@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /skokie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

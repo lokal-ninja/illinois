@@ -1,5 +1,5 @@
 ---
 title: "Skinfo"
 url: /lincolnshire/skinfo/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /wilmette/jewel-osco-2/
-shop: Supermarkt
+shop: supermarket
 ---

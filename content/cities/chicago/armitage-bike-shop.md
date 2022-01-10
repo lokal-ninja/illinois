@@ -1,5 +1,5 @@
 ---
 title: "Armitage Bike Shop"
 url: /chicago/armitage-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

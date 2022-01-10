@@ -1,5 +1,5 @@
 ---
 title: "Natural Beginnings Health Food"
 url: /chicago/natural-beginnings-health-food/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

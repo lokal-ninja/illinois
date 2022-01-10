@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /niles/shell/
-shop: Lebensmittel
+shop: convenience
 ---

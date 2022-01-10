@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /chicago/shell-10/
-shop: Lebensmittel
+shop: convenience
 ---

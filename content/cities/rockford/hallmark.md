@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /rockford/hallmark/
-shop: Andenken
+shop: gift
 ---

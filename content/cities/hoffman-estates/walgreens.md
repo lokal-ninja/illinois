@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hoffman-estates/walgreens/
-shop: Drogerie
+shop: chemist
 ---

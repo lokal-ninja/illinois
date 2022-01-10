@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /chicago/ulta-beauty-3/
-shop: Kosmetik
+shop: beauty
 ---

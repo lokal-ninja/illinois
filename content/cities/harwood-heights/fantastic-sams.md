@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /harwood-heights/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

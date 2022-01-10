@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /frankfort/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

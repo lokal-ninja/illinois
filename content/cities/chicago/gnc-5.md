@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /chicago/gnc-5/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /glenview/walgreens/
-shop: Drogerie
+shop: chemist
 ---

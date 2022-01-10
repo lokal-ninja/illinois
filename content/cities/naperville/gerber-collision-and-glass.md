@@ -1,5 +1,5 @@
 ---
-title: "Gerber Collision And Glass"
+title: "Gerber Collision & Glass"
 url: /naperville/gerber-collision-and-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

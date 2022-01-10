@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /alton/target/
-shop: Warenhaus
+shop: department store
 ---

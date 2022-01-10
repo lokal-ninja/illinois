@@ -1,5 +1,5 @@
 ---
 title: "Fay Furniture"
 url: /east-saint-louis/fay-furniture/
-shop: Möbel
+shop: furniture
 ---

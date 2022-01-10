@@ -1,5 +1,5 @@
 ---
 title: "Moreno's Liquors"
 url: /chicago/morenos-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

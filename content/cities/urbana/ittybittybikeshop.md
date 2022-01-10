@@ -1,5 +1,5 @@
 ---
 title: "IttyBittyBikeShop"
 url: /urbana/ittybittybikeshop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /lincolnwood/lids/
-shop: Kleidung
+shop: clothes
 ---

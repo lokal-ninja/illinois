@@ -1,5 +1,5 @@
 ---
 title: "Elite Nails SK Spa"
 url: /chicago/elite-nails-sk-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloomingdale's"
 url: /skokie/bloomingdales/
-shop: Warenhaus
+shop: department store
 ---

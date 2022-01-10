@@ -1,5 +1,5 @@
 ---
 title: "Herbaland"
 url: /chicago/herbaland/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

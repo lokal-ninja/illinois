@@ -1,5 +1,5 @@
 ---
 title: "Los Artistas"
 url: /chicago/los-artistas/
-shop: Spirituosen
+shop: alcohol
 ---

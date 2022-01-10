@@ -1,5 +1,5 @@
 ---
 title: "Elegant Nails"
 url: /bolingbrook/elegant-nails/
-shop: Kosmetik
+shop: beauty
 ---

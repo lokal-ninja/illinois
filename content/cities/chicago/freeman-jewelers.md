@@ -1,5 +1,5 @@
 ---
 title: "Freeman Jewelers"
 url: /chicago/freeman-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

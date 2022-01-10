@@ -1,5 +1,5 @@
 ---
 title: "Deb-N-Heir"
 url: /naperville/deb-n-heir/
-shop: Möbel
+shop: furniture
 ---

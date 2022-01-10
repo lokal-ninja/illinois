@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /algonquin/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

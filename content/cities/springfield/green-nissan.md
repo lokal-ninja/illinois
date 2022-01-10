@@ -1,5 +1,5 @@
 ---
 title: "Green Nissan"
 url: /springfield/green-nissan/
-shop: Autohaus
+shop: car
 ---

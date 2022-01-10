@@ -1,5 +1,5 @@
 ---
 title: "Gat Guns"
 url: /east-dundee/gat-guns/
-shop: Waffen
+shop: weapons
 ---

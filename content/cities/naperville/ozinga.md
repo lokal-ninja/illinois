@@ -1,5 +1,5 @@
 ---
 title: "Ozinga"
 url: /naperville/ozinga/
-shop: Baustoffe
+shop: trade
 ---

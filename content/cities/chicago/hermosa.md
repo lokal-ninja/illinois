@@ -1,5 +1,5 @@
 ---
 title: "Hermosa"
 url: /chicago/hermosa/
-shop: Bäckerei
+shop: bakery
 ---

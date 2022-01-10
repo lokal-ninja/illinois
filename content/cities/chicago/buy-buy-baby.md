@@ -1,5 +1,5 @@
 ---
 title: "Buy Buy Baby"
 url: /chicago/buy-buy-baby/
-shop: Babysachen
+shop: baby goods
 ---

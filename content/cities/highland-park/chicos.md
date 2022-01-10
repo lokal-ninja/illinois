@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /highland-park/chicos/
-shop: Kleidung
+shop: clothes
 ---

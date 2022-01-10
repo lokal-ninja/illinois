@@ -1,5 +1,5 @@
 ---
 title: "J.L.O"
 url: /mundelein/j-l-o/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Kia"
 url: /chicago/evergreen-kia/
-shop: Autohaus
+shop: car
 ---

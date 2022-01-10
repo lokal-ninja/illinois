@@ -1,5 +1,5 @@
 ---
 title: "Fast Stop"
 url: /morrison/fast-stop/
-shop: Lebensmittel
+shop: convenience
 ---

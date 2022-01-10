@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /naperville/lush/
-shop: Kosmetik
+shop: beauty
 ---

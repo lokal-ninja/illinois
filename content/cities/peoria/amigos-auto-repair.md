@@ -1,5 +1,5 @@
 ---
 title: "Amigos Auto Repair"
 url: /peoria/amigos-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Griesel Jimenéz Stodden Funeral Home"
 url: /chicago/griesel-jimenez-stodden-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

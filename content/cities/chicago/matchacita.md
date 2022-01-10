@@ -1,5 +1,5 @@
 ---
 title: "Matchacita"
 url: /chicago/matchacita/
-shop: Tee
+shop: tea
 ---

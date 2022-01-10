@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /chicago/citgo-38/
-shop: Lebensmittel
+shop: convenience
 ---

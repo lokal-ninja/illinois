@@ -1,5 +1,5 @@
 ---
 title: "Auto Repair"
 url: /chicago/auto-repair-2/
-shop: Autowerkstatt
+shop: car repair
 ---

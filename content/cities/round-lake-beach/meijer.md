@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /round-lake-beach/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chicago/dollar-tree-25/
-shop: Kramladen
+shop: variety store
 ---

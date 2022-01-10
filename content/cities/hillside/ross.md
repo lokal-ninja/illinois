@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /hillside/ross/
-shop: Warenhaus
+shop: department store
 ---

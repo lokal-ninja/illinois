@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /chicago/family-dollar-52/
-shop: Kramladen
+shop: variety store
 ---

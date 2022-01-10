@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /blue-island/autozone/
-shop: Autoteile
+shop: car parts
 ---

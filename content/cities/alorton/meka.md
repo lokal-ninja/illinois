@@ -1,5 +1,5 @@
 ---
 title: "Meka"
 url: /alorton/meka/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roseland Draperies and Interiors"
 url: /naperville/roseland-draperies-and-interiors/
-shop: Jalousien
+shop: window blind
 ---

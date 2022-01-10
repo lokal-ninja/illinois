@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /chicago/cubesmart-3/
-shop: Mieten
+shop: storage rental
 ---

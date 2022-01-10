@@ -1,5 +1,5 @@
 ---
 title: "Cricket"
 url: /dekalb/cricket/
-shop: Handy
+shop: mobile phone
 ---

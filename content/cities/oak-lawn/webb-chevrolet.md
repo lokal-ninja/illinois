@@ -1,5 +1,5 @@
 ---
 title: "Webb Chevrolet"
 url: /oak-lawn/webb-chevrolet/
-shop: Autohaus
+shop: car
 ---

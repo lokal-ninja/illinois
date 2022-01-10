@@ -1,5 +1,5 @@
 ---
 title: "Jennivee's Bakery"
 url: /chicago/jennivees-bakery/
-shop: Bäckerei
+shop: bakery
 ---

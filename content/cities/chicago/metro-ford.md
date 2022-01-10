@@ -1,5 +1,5 @@
 ---
 title: "Metro Ford"
 url: /chicago/metro-ford/
-shop: Autohaus
+shop: car
 ---

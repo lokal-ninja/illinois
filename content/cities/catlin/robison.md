@@ -1,5 +1,5 @@
 ---
 title: "Robison"
 url: /catlin/robison/
-shop: Bestattungen
+shop: funeral directors
 ---

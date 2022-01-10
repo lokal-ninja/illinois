@@ -1,5 +1,5 @@
 ---
 title: "Red Wing Shoes - Sycamore"
 url: /sycamore/red-wing-shoes-sycamore/
-shop: Schuhe
+shop: shoes
 ---

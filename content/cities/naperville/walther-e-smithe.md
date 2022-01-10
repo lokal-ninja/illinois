@@ -1,5 +1,5 @@
 ---
 title: "Walther E. Smithe"
 url: /naperville/walther-e-smithe/
-shop: Möbel
+shop: furniture
 ---

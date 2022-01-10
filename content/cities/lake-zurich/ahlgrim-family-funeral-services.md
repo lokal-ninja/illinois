@@ -1,5 +1,5 @@
 ---
 title: "Ahlgrim Family Funeral Services"
 url: /lake-zurich/ahlgrim-family-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Primberry Antiques"
 url: /south-beloit/primberry-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /long-grove/menards/
-shop: Baumarkt
+shop: doityourself
 ---

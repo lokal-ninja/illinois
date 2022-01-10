@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /westmont/sherwin-williams/
-shop: Farben
+shop: paint
 ---

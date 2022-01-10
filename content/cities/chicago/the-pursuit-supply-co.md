@@ -1,5 +1,5 @@
 ---
 title: "The Pursuit Supply Co."
 url: /chicago/the-pursuit-supply-co/
-shop: Kramladen
+shop: variety store
 ---

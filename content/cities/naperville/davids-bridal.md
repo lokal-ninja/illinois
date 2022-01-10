@@ -1,5 +1,5 @@
 ---
 title: "David's Bridal"
 url: /naperville/davids-bridal/
-shop: Kleidung
+shop: clothes
 ---

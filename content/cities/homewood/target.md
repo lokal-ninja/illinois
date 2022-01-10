@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /homewood/target/
-shop: Warenhaus
+shop: department store
 ---

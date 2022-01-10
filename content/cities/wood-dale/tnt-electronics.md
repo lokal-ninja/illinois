@@ -1,5 +1,5 @@
 ---
 title: "TNT Electronics"
 url: /wood-dale/tnt-electronics/
-shop: Autoteile
+shop: car parts
 ---

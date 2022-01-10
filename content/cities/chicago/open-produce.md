@@ -1,5 +1,5 @@
 ---
 title: "Open Produce"
 url: /chicago/open-produce/
-shop: Supermarkt
+shop: supermarket
 ---

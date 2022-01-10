@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rock-falls/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

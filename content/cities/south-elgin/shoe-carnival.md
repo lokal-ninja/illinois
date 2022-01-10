@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /south-elgin/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

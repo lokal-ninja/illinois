@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /galesburg/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /chicago/7-eleven-58/
-shop: Lebensmittel
+shop: convenience
 ---

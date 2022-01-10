@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /collinsville/spectrum/
-shop: Handy
+shop: mobile phone
 ---

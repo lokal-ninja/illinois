@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /glenwood/u-haul/
-shop: Mieten
+shop: storage rental
 ---

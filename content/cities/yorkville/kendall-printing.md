@@ -1,5 +1,5 @@
 ---
 title: "Kendall Printing"
 url: /yorkville/kendall-printing/
-shop: Kopieren
+shop: copyshop
 ---

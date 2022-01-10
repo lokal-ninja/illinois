@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /skokie/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

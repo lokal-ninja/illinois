@@ -1,5 +1,5 @@
 ---
 title: "CitiTrends"
 url: /champaign/cititrends/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /aurora/storagemart/
-shop: Mieten
+shop: storage rental
 ---

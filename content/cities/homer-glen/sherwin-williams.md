@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /homer-glen/sherwin-williams/
-shop: Farben
+shop: paint
 ---

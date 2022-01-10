@@ -1,5 +1,5 @@
 ---
 title: "Ace Transmission Inc"
 url: /hanover-park/ace-transmission-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

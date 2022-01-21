@@ -1,6 +1,6 @@
 ---
 title: Niles
 url: /niles/
-latitude: 42.011
-longitude: -87.769
+latitude: 42.012
+longitude: -87.772
 ---

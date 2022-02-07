@@ -1,6 +1,6 @@
 ---
 title: Metropolis
 url: /metropolis/
-latitude: 37.154
-longitude: -88.713
+latitude: 37.284
+longitude: -88.675
 ---

@@ -1,6 +1,6 @@
 ---
 title: Orland Hills
 url: /orland-hills/
-latitude: 41.6
-longitude: -87.844
+latitude: 41.599
+longitude: -87.843
 ---

@@ -1,6 +1,6 @@
 ---
 title: Evergreen Park
 url: /evergreen-park/
-latitude: 41.721
-longitude: -87.683
+latitude: 41.707
+longitude: -87.702
 ---

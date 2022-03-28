@@ -1,6 +1,6 @@
 ---
 title: McHenry
 url: /mchenry/
-latitude: 42.342
-longitude: -88.238
+latitude: 42.322
+longitude: -88.273
 ---

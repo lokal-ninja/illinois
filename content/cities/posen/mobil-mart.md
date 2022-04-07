@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /naperville/mobil-mart-4/
+url: /posen/mobil-mart/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sloan Implement"
 url: /fulton/sloan-implement/
-shop: agrarian
+shop: trade
 ---

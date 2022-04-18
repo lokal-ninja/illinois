@@ -1,11 +1,11 @@
-id: 148902941
-type: way
-latitude: 41.86809
-longitude: -87.64235
-postcode: "60607"
+id: 7121404346
+type: node
+latitude: 41.95315
+longitude: -87.75014
+postcode: "60641"
 city: Chicago
-street: "South Jefferson Street"
-housenumber: 1132
+street: "West Irving Park Road"
+housenumber: 4901
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-18:00"
-website: ""
+opening_hours: ""
+website: "https://www.binnys.com/chicago-portage-park"

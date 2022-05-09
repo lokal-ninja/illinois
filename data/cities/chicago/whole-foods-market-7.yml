@@ -1,11 +1,11 @@
-id: 7178428621
-type: node
-latitude: 41.99036
-longitude: -87.74869
-postcode: "60646"
+id: 131998284
+type: way
+latitude: 41.88287
+longitude: -87.64723
+postcode: "60661"
 city: Chicago
-street: "North Cicero Avenue"
-housenumber: 6020
+street: "North Halsted Street"
+housenumber: 1
 phone: ""
-opening_hours: ""
-website: "https://www.wholefoodsmarket.com/stores/sauganash"
+opening_hours: "7:00-22:00"
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Fox Lake
 url: /fox-lake/
-latitude: 42.364
-longitude: -88.17
+latitude: 42.392
+longitude: -88.182
 ---

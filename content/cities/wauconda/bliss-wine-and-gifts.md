@@ -1,5 +1,5 @@
 ---
-title: "Bliss WIne & GIfts"
+title: "Bliss Wine & GIfts"
 url: /wauconda/bliss-wine-and-gifts/
-shop: shop
+shop: wine
 ---

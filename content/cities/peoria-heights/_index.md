@@ -1,6 +1,6 @@
 ---
 title: Peoria Heights
 url: /peoria-heights/
-latitude: 40.754
-longitude: -89.561
+latitude: 40.742
+longitude: -89.576
 ---

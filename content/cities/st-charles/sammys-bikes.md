@@ -1,5 +1,5 @@
 ---
 title: "Sammy's Bikes"
-url: /saint-charles/sammys-bikes/
+url: /st-charles/sammys-bikes/
 shop: bicycle
 ---

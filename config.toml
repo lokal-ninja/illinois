@@ -1,4 +1,4 @@
-baseURL = "https://us.shoogle.net/illinois"
+baseURL = "https://us.shoogle.net/illinois/"
 languageCode = "en-US"
 title = "Illinois"
 theme = "ln-base"

@@ -1,6 +1,6 @@
 ---
 title: Joliet
 url: /joliet/
-latitude: 41.516
-longitude: -88.127
+latitude: 41.523
+longitude: -88.143
 ---

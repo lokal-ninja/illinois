@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /dekalb/hobby-lobby/
-shop: art
+shop: craft
 ---

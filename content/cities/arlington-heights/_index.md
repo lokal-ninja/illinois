@@ -1,6 +1,6 @@
 ---
 title: Arlington Heights
 url: /arlington-heights/
-latitude: 42.128
-longitude: -88.001
+latitude: 42.052
+longitude: -87.974
 ---

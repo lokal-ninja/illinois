@@ -1,6 +1,6 @@
 ---
 title: Volo
 url: /volo/
-latitude: 42.325
-longitude: -88.163
+latitude: 42.363
+longitude: -88.165
 ---

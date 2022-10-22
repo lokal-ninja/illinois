@@ -1,5 +1,5 @@
 ---
-title: "PGA TOUR Superstore"
+title: "PGA Tour Superstore"
 url: /vernon-hills/pga-tour-superstore/
 shop: sports
 ---

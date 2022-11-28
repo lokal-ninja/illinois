@@ -1,6 +1,6 @@
 ---
 title: Harvey
 url: /harvey/
-latitude: 41.6
-longitude: -87.636
+latitude: 41.622
+longitude: -87.673
 ---

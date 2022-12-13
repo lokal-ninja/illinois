@@ -1,5 +1,5 @@
 ---
 title: "American Science & Surplus"
-url: /chicago/american-science-and-surplus/
+url: /park-ridge/american-science-and-surplus/
 shop: toys
 ---

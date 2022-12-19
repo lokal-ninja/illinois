@@ -1,11 +1,11 @@
-id: 210329794
-type: way
-latitude: 41.94683
-longitude: -87.65004
-postcode: "60657"
+id: 10261545941
+type: node
+latitude: 41.88595
+longitude: -87.63281
+postcode: "60601"
 city: Chicago
-street: "North Halsted Street"
-housenumber: 3548-3550
+street: "North LaSalle Street"
+housenumber: 200
 phone: ""
 opening_hours: ""
 website: ""

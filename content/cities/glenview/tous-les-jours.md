@@ -1,5 +1,5 @@
 ---
 title: "Tous les Jours"
-url: /naperville/tous-les-jours/
+url: /glenview/tous-les-jours/
 shop: bakery
 ---

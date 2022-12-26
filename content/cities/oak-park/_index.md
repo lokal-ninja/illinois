@@ -1,6 +1,6 @@
 ---
 title: Oak Park
 url: /oak-park/
-latitude: 41.909
-longitude: -87.779
+latitude: 41.888
+longitude: -87.784
 ---

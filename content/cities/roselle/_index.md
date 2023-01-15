@@ -1,6 +1,6 @@
 ---
 title: Roselle
 url: /roselle/
-latitude: 41.999
-longitude: -88.079
+latitude: 41.986
+longitude: -88.086
 ---

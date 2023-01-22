@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /elmwood-park/t-mobile-2/
+url: /chicago/t-mobile-42/
 shop: mobile phone
 ---

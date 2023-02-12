@@ -1,6 +1,6 @@
 ---
 title: Carlinville
 url: /carlinville/
-latitude: 39.268
-longitude: -89.895
+latitude: 39.28
+longitude: -89.883
 ---

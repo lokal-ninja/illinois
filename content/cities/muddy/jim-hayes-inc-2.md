@@ -1,5 +1,5 @@
 ---
 title: "Jim Hayes Inc."
-url: /muddy/jim-hayes-inc-2/
+url: /muddy/jim-hayes-inc/
 shop: car
 ---

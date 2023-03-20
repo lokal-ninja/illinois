@@ -7,5 +7,5 @@ city: Springfield
 street: "Wabash Avenue"
 housenumber: 3051
 phone: "+1-217-546-6339"
-opening_hours: "Mo-Sa 09:00-21:00; 10:00-18:00"
+opening_hours: "Mo-Sa 09:00-21:00,10:00-18:00"
 website: "https://stores.joann.com/il/springfield/2246"

@@ -1,6 +1,6 @@
 ---
 title: Mascoutah
 url: /mascoutah/
-latitude: 38.49
+latitude: 38.496
 longitude: -89.795
 ---

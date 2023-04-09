@@ -1,6 +1,6 @@
 ---
 title: East Saint Louis
 url: /east-saint-louis/
-latitude: 38.628
-longitude: -90.155
+latitude: 38.63
+longitude: -90.154
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mattoon
 url: /mattoon/
-latitude: 39.483
-longitude: -88.33
+latitude: 39.481
+longitude: -88.378
 ---

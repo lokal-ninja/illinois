@@ -1,5 +1,5 @@
 ---
-title: "Bombon Cafe"
+title: "BomBon Cafe"
 url: /chicago/bombon-cafe/
 shop: bakery
 ---

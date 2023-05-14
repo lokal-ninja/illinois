@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /niles/shell/
+url: /summit/shell/
 shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Skokie
 url: /skokie/
-latitude: 42.02
-longitude: -87.747
+latitude: 42.053
+longitude: -87.746
 ---

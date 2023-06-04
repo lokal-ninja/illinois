@@ -1,6 +1,6 @@
 ---
 title: Great Lakes
 url: /great-lakes/
-latitude: 42.308
-longitude: -87.875
+latitude: 42.313
+longitude: -87.865
 ---

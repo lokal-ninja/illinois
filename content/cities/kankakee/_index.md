@@ -1,6 +1,6 @@
 ---
 title: Kankakee
 url: /kankakee/
-latitude: 41.118
-longitude: -87.868
+latitude: 41.141
+longitude: -87.826
 ---

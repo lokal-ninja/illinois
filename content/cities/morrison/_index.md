@@ -1,6 +1,6 @@
 ---
 title: Morrison
 url: /morrison/
-latitude: 41.809
-longitude: -89.961
+latitude: 41.808
+longitude: -89.965
 ---

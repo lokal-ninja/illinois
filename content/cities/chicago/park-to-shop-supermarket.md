@@ -1,5 +1,5 @@
 ---
-title: "Park To Shop Supermarket"
+title: "Park to Shop Supermarket"
 url: /chicago/park-to-shop-supermarket/
 shop: supermarket
 ---

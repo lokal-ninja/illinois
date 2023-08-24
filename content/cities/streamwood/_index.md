@@ -1,6 +1,6 @@
 ---
 title: Streamwood
 url: /streamwood/
-latitude: 42.012
-longitude: -88.177
+latitude: 42.017
+longitude: -88.201
 ---

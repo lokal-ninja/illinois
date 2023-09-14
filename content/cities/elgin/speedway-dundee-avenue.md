@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /elgin/speedway/
+url: /elgin/speedway-dundee-avenue/
 shop: convenience
 ---

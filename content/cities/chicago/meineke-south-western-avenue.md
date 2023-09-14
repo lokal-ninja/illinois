@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
-url: /chicago/meineke/
+url: /chicago/meineke-south-western-avenue/
 shop: car repair
 ---

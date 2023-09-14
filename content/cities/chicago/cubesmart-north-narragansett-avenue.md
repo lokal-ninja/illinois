@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /chicago/cubesmart/
+url: /chicago/cubesmart-north-narragansett-avenue/
 shop: storage rental
 ---

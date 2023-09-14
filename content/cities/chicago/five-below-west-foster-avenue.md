@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
-url: /chicago/five-below/
+url: /chicago/five-below-west-foster-avenue/
 shop: variety store
 ---

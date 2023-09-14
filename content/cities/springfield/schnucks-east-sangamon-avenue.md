@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
-url: /springfield/schnucks/
+url: /springfield/schnucks-east-sangamon-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /chicago/extra-space-storage/
+url: /chicago/extra-space-storage-south-western-avenue-2/
 shop: storage rental
 ---

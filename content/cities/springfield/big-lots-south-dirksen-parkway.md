@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
-url: /springfield/big-lots/
+url: /springfield/big-lots-south-dirksen-parkway/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /glenview/shell/
+url: /glenview/shell-waukegan-road/
 shop: convenience
 ---

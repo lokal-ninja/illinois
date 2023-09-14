@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /freeport/mobil-mart/
+url: /freeport/mobil-mart-south-west-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "County Market"
-url: /springfield/county-market/
+url: /springfield/county-market-south-dirksen-parkway/
 shop: supermarket
 ---

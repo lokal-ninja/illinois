@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /chicago/t-mobile/
+url: /chicago/t-mobile-east-103rd-street/
 shop: mobile phone
 ---

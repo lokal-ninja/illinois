@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /frankfort/speedway/
+url: /frankfort/speedway-south-center-road/
 shop: convenience
 ---

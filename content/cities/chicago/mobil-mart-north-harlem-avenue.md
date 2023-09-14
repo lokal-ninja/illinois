@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /chicago/mobil-mart/
+url: /chicago/mobil-mart-north-harlem-avenue/
 shop: convenience
 ---

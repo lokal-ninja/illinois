@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
-url: /chicago/marshalls/
+url: /chicago/marshalls-south-pulaski-road/
 shop: department store
 ---

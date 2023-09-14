@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /chicago/marathon/
+url: /chicago/marathon-west-fullerton-avenue/
 shop: convenience
 ---

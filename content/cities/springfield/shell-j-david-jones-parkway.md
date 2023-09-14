@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /springfield/shell/
+url: /springfield/shell-j-david-jones-parkway/
 shop: convenience
 ---

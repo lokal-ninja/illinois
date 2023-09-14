@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
-url: /chicago/xfinity/
+url: /chicago/xfinity-west-north-avenue/
 shop: mobile phone
 ---

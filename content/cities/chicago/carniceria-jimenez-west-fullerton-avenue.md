@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Jimenez"
-url: /chicago/carniceria-jimenez/
+url: /chicago/carniceria-jimenez-west-fullerton-avenue/
 shop: supermarket
 ---

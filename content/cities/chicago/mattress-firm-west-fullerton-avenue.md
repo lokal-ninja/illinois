@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /chicago/mattress-firm/
+url: /chicago/mattress-firm-west-fullerton-avenue/
 shop: bed
 ---

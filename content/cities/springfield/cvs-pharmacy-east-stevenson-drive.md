@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /springfield/cvs-pharmacy/
+url: /springfield/cvs-pharmacy-east-stevenson-drive/
 shop: chemist
 ---

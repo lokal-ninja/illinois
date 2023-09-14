@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
-url: /chicago/amoco/
+url: /chicago/amoco-north-clark-street/
 shop: convenience
 ---

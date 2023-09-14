@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /springfield/circle-k/
+url: /springfield/circle-k-east-stevenson-drive/
 shop: convenience
 ---

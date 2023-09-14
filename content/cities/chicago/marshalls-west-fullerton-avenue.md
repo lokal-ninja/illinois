@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
-url: /chicago/marshalls/
+url: /chicago/marshalls-west-fullerton-avenue/
 shop: department store
 ---

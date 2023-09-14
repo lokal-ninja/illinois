@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /gurnee/speedway/
+url: /gurnee/speedway-grand-avenue/
 shop: convenience
 ---

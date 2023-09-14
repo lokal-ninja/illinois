@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /palatine/speedway/
+url: /palatine/speedway-north-rand-road/
 shop: convenience
 ---

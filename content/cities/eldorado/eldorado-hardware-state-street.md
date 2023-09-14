@@ -1,5 +1,5 @@
 ---
 title: "Eldorado Hardware"
-url: /eldorado/eldorado-hardware/
+url: /eldorado/eldorado-hardware-state-street/
 shop: hardware
 ---

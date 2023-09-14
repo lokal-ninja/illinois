@@ -1,5 +1,5 @@
 ---
 title: "Menards"
-url: /chicago/menards/
+url: /chicago/menards-west-north-avenue/
 shop: doityourself
 ---

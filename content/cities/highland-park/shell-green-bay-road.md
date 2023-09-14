@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /highland-park/shell/
+url: /highland-park/shell-green-bay-road/
 shop: convenience
 ---

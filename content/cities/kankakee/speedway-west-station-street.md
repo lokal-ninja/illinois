@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kankakee/speedway/
+url: /kankakee/speedway-west-station-street/
 shop: convenience
 ---

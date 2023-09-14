@@ -1,5 +1,5 @@
 ---
 title: "Naperville Running Co."
-url: /naperville/naperville-running-co/
+url: /naperville/naperville-running-co-west-jefferson-avenue/
 shop: shoes
 ---

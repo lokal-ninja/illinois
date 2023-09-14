@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /mokena/cvs-pharmacy/
+url: /mokena/cvs-pharmacy-west-lincoln-highway/
 shop: chemist
 ---

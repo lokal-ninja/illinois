@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /rockford/shell/
+url: /rockford/shell-south-alpine-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /niles/ross/
+url: /niles/ross-west-touhy-avenue/
 shop: department store
 ---

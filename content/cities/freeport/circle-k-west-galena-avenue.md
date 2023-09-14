@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /freeport/circle-k/
+url: /freeport/circle-k-west-galena-avenue/
 shop: convenience
 ---

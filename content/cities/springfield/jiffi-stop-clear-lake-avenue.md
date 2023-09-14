@@ -1,5 +1,5 @@
 ---
 title: "Jiffi Stop"
-url: /springfield/jiffi-stop/
+url: /springfield/jiffi-stop-clear-lake-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lockport/speedway/
+url: /lockport/speedway-south-state-street/
 shop: convenience
 ---

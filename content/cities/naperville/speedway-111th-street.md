@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /naperville/speedway/
+url: /naperville/speedway-111th-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
-url: /hillside/carmax/
+url: /hillside/carmax-north-wolf-road/
 shop: car
 ---

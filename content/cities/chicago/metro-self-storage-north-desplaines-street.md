@@ -1,5 +1,5 @@
 ---
 title: "Metro Self Storage"
-url: /chicago/metro-self-storage/
+url: /chicago/metro-self-storage-north-desplaines-street/
 shop: storage rental
 ---

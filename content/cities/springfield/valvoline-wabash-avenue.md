@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
-url: /springfield/valvoline/
+url: /springfield/valvoline-wabash-avenue/
 shop: car repair
 ---

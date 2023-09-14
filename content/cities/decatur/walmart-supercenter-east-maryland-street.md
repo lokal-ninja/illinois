@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /decatur/walmart-supercenter/
+url: /decatur/walmart-supercenter-east-maryland-street/
 shop: supermarket
 ---

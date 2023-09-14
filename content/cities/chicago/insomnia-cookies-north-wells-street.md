@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
-url: /chicago/insomnia-cookies/
+url: /chicago/insomnia-cookies-north-wells-street/
 shop: pastry
 ---

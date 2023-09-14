@@ -1,5 +1,5 @@
 ---
 title: "Foxtrot"
-url: /chicago/foxtrot/
+url: /chicago/foxtrot-north-green-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /naperville/verizon/
+url: /naperville/verizon-showplace-drive/
 shop: mobile phone
 ---

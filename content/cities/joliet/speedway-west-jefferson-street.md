@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /joliet/speedway/
+url: /joliet/speedway-west-jefferson-street/
 shop: convenience
 ---

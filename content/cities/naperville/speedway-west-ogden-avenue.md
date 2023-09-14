@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /naperville/speedway/
+url: /naperville/speedway-west-ogden-avenue/
 shop: convenience
 ---

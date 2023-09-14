@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /chicago/t-mobile/
+url: /chicago/t-mobile-west-irving-park-road/
 shop: mobile phone
 ---

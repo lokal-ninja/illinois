@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /chicago/advance-auto-parts/
+url: /chicago/advance-auto-parts-south-pulaski-road-2/
 shop: car parts
 ---

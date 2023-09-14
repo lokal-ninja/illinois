@@ -1,5 +1,5 @@
 ---
 title: "Cermak Produce"
-url: /chicago/cermak-produce/
+url: /chicago/cermak-produce-west-north-avenue/
 shop: supermarket
 ---

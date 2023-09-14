@@ -1,5 +1,5 @@
 ---
 title: "Spex"
-url: /evanston/spex/
+url: /evanston/spex-central-street/
 shop: optician
 ---

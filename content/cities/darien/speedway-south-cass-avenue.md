@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /darien/speedway/
+url: /darien/speedway-south-cass-avenue/
 shop: convenience
 ---

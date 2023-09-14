@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /chicago/marathon/
+url: /chicago/marathon-south-damen-avenue/
 shop: convenience
 ---

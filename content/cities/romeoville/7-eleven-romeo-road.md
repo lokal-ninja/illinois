@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /romeoville/7-eleven/
+url: /romeoville/7-eleven-romeo-road/
 shop: convenience
 ---

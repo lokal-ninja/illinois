@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /warrenville/speedway/
+url: /warrenville/speedway-illinois-route-59/
 shop: convenience
 ---

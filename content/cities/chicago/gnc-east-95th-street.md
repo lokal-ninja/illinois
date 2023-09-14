@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /chicago/gnc/
+url: /chicago/gnc-east-95th-street/
 shop: nutrition supplements
 ---

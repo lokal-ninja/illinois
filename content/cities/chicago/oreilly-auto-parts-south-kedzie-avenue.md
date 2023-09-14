@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /chicago/oreilly-auto-parts/
+url: /chicago/oreilly-auto-parts-south-kedzie-avenue/
 shop: car parts
 ---

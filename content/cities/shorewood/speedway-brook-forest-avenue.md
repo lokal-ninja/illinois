@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /shorewood/speedway/
+url: /shorewood/speedway-brook-forest-avenue/
 shop: convenience
 ---

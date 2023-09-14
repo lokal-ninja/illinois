@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /niles/autozone/
+url: /niles/autozone-north-milwaukee-avenue/
 shop: car parts
 ---

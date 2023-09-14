@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /berwyn/citgo/
+url: /berwyn/citgo-south-harlem-avenue/
 shop: convenience
 ---

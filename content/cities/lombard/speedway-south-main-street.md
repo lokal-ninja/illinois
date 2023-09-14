@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lombard/speedway/
+url: /lombard/speedway-south-main-street/
 shop: convenience
 ---

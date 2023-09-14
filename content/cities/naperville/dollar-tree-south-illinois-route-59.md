@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /naperville/dollar-tree/
+url: /naperville/dollar-tree-south-illinois-route-59/
 shop: variety store
 ---

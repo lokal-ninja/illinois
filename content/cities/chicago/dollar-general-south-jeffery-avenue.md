@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /chicago/dollar-general/
+url: /chicago/dollar-general-south-jeffery-avenue/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /chicago-heights/citgo/
+url: /chicago-heights/citgo-west-lincoln-highway/
 shop: convenience
 ---

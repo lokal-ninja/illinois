@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /naperville/atandt/
+url: /naperville/atandt-showplace-drive/
 shop: mobile phone
 ---

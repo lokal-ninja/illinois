@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /des-plaines/7-eleven/
+url: /des-plaines/7-eleven-ballard-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /ottawa/kroger/
+url: /ottawa/kroger-east-mckinley-road/
 shop: supermarket
 ---

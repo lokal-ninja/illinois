@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /chicago/autozone/
+url: /chicago/autozone-south-ashland-avenue/
 shop: car parts
 ---

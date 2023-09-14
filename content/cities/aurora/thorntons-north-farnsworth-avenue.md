@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
-url: /aurora/thorntons/
+url: /aurora/thorntons-north-farnsworth-avenue/
 shop: convenience
 ---

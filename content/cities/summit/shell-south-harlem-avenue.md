@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /summit/shell/
+url: /summit/shell-south-harlem-avenue/
 shop: convenience
 ---

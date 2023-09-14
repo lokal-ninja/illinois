@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /naperville/firestone/
+url: /naperville/firestone-forgue-drive/
 shop: car repair
 ---

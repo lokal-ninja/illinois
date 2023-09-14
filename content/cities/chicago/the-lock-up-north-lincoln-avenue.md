@@ -1,5 +1,5 @@
 ---
 title: "The Lock Up"
-url: /chicago/the-lock-up/
+url: /chicago/the-lock-up-north-lincoln-avenue/
 shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
-url: /schaumburg/kohls/
+url: /schaumburg/kohls-east-golf-road/
 shop: department store
 ---

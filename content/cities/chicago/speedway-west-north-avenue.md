@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /chicago/speedway/
+url: /chicago/speedway-west-north-avenue/
 shop: convenience
 ---

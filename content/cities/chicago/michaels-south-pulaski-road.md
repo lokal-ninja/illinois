@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /chicago/michaels/
+url: /chicago/michaels-south-pulaski-road/
 shop: craft
 ---

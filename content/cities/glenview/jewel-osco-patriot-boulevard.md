@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
-url: /glenview/jewel-osco/
+url: /glenview/jewel-osco-patriot-boulevard/
 shop: supermarket
 ---

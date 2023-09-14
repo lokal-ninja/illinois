@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /springfield/lowes/
+url: /springfield/lowes-west-wabash/
 shop: doityourself
 ---

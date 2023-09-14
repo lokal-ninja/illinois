@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /alsip/speedway/
+url: /alsip/speedway-west-127th-street/
 shop: convenience
 ---

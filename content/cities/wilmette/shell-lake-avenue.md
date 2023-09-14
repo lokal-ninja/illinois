@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /wilmette/shell/
+url: /wilmette/shell-lake-avenue/
 shop: convenience
 ---

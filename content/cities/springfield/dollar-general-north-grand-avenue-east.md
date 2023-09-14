@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /springfield/dollar-general/
+url: /springfield/dollar-general-north-grand-avenue-east/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pete's Market"
-url: /chicago/petes-market/
+url: /chicago/petes-market-west-cermak-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lids"
-url: /chicago/lids/
+url: /chicago/lids-north-michigan-avenue/
 shop: clothes
 ---

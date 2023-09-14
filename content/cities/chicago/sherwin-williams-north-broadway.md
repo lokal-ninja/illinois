@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /chicago/sherwin-williams/
+url: /chicago/sherwin-williams-north-broadway/
 shop: paint
 ---

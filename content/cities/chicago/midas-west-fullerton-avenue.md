@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /chicago/midas/
+url: /chicago/midas-west-fullerton-avenue/
 shop: car repair
 ---

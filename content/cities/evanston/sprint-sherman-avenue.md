@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /evanston/sprint/
+url: /evanston/sprint-sherman-avenue/
 shop: mobile phone
 ---

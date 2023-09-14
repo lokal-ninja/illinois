@@ -1,5 +1,5 @@
 ---
 title: "DTLR"
-url: /chicago/dtlr/
+url: /chicago/dtlr-east-87th-street/
 shop: shoes
 ---

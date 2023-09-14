@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /rockford/shell/
+url: /rockford/shell-kilburn-avenue/
 shop: convenience
 ---

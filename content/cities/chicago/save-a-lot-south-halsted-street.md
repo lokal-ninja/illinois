@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
-url: /chicago/save-a-lot/
+url: /chicago/save-a-lot-south-halsted-street/
 shop: supermarket
 ---

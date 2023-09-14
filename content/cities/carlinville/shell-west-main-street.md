@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /carlinville/shell/
+url: /carlinville/shell-west-main-street/
 shop: convenience
 ---

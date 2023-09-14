@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
-url: /chicago/valvoline/
+url: /chicago/valvoline-south-halsted-street/
 shop: car repair
 ---

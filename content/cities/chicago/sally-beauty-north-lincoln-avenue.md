@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
-url: /chicago/sally-beauty/
+url: /chicago/sally-beauty-north-lincoln-avenue/
 shop: hairdresser supply
 ---

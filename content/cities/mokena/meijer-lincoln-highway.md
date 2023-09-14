@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /mokena/meijer/
+url: /mokena/meijer-lincoln-highway/
 shop: supermarket
 ---

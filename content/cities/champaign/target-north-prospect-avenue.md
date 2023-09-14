@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /champaign/target/
+url: /champaign/target-north-prospect-avenue/
 shop: department store
 ---

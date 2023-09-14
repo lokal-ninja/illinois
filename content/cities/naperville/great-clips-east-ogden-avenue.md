@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /naperville/great-clips/
+url: /naperville/great-clips-east-ogden-avenue/
 shop: hairdresser
 ---

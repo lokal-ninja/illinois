@@ -1,5 +1,5 @@
 ---
 title: "Menards"
-url: /springfield/menards/
+url: /springfield/menards-chuckwagon-drive/
 shop: doityourself
 ---

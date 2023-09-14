@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /matteson/burlington/
+url: /matteson/burlington-lincoln-highway/
 shop: department store
 ---

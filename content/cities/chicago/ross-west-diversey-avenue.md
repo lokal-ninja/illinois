@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /chicago/ross/
+url: /chicago/ross-west-diversey-avenue/
 shop: department store
 ---

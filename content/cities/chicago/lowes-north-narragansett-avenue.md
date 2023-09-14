@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /chicago/lowes/
+url: /chicago/lowes-north-narragansett-avenue/
 shop: doityourself
 ---

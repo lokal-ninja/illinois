@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /chicago/dollar-tree/
+url: /chicago/dollar-tree-south-western-avenue-2/
 shop: variety store
 ---

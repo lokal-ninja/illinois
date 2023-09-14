@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /skokie/shell/
+url: /skokie/shell-west-howard-street/
 shop: convenience
 ---

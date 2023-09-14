@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /cicero/bp-shop/
+url: /cicero/bp-shop-south-cicero-avenue/
 shop: convenience
 ---

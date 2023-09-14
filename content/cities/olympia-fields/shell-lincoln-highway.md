@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /olympia-fields/shell/
+url: /olympia-fields/shell-lincoln-highway/
 shop: convenience
 ---

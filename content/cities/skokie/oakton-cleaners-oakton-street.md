@@ -1,5 +1,5 @@
 ---
 title: "Oakton Cleaners"
-url: /skokie/oakton-cleaners/
+url: /skokie/oakton-cleaners-oakton-street/
 shop: laundry
 ---

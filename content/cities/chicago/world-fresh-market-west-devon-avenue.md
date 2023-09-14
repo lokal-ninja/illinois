@@ -1,5 +1,5 @@
 ---
 title: "World Fresh Market"
-url: /chicago/world-fresh-market/
+url: /chicago/world-fresh-market-west-devon-avenue/
 shop: supermarket
 ---

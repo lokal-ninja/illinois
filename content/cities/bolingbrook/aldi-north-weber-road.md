@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /bolingbrook/aldi/
+url: /bolingbrook/aldi-north-weber-road/
 shop: supermarket
 ---

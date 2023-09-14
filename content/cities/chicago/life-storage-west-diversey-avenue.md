@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
-url: /chicago/life-storage/
+url: /chicago/life-storage-west-diversey-avenue/
 shop: storage rental
 ---

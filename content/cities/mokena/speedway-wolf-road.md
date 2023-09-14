@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /mokena/speedway/
+url: /mokena/speedway-wolf-road/
 shop: convenience
 ---

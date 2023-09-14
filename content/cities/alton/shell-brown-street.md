@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /alton/shell/
+url: /alton/shell-brown-street/
 shop: convenience
 ---

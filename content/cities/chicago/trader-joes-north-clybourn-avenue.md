@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
-url: /chicago/trader-joes/
+url: /chicago/trader-joes-north-clybourn-avenue/
 shop: supermarket
 ---

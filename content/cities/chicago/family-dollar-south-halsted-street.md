@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /chicago/family-dollar/
+url: /chicago/family-dollar-south-halsted-street/
 shop: variety store
 ---

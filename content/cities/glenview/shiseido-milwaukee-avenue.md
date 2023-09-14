@@ -1,5 +1,5 @@
 ---
 title: "Shiseido"
-url: /glenview/shiseido/
+url: /glenview/shiseido-milwaukee-avenue/
 shop: beauty
 ---

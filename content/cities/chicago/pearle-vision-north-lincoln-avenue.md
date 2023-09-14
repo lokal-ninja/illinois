@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
-url: /chicago/pearle-vision/
+url: /chicago/pearle-vision-north-lincoln-avenue/
 shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /springfield/aldi/
+url: /springfield/aldi-north-dirksen-parkway/
 shop: supermarket
 ---

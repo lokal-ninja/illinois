@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
-url: /chicago/kilwins/
+url: /chicago/kilwins-north-clark-street/
 shop: confectionery
 ---

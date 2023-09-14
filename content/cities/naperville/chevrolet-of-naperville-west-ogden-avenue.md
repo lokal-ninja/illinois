@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet of Naperville"
-url: /naperville/chevrolet-of-naperville/
+url: /naperville/chevrolet-of-naperville-west-ogden-avenue/
 shop: car
 ---

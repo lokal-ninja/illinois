@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /lincolnwood/shell/
+url: /lincolnwood/shell-north-lincoln-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
-url: /bolingbrook/rebel/
+url: /bolingbrook/rebel-south-bolingbrook-drive/
 shop: convenience
 ---

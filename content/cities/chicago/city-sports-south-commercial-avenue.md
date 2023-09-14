@@ -1,5 +1,5 @@
 ---
 title: "City Sports"
-url: /chicago/city-sports/
+url: /chicago/city-sports-south-commercial-avenue/
 shop: sports
 ---

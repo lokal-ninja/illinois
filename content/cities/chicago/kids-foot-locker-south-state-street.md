@@ -1,5 +1,5 @@
 ---
 title: "Kids Foot Locker"
-url: /chicago/kids-foot-locker/
+url: /chicago/kids-foot-locker-south-state-street/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fairplay Foods"
-url: /chicago/fairplay-foods/
+url: /chicago/fairplay-foods-south-western-avenue/
 shop: supermarket
 ---

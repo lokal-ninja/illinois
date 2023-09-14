@@ -1,5 +1,5 @@
 ---
 title: "The Salvation Army"
-url: /chicago/the-salvation-army/
+url: /chicago/the-salvation-army-west-grand-avenue/
 shop: charity
 ---

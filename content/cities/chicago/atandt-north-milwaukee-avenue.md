@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /chicago/atandt/
+url: /chicago/atandt-north-milwaukee-avenue/
 shop: mobile phone
 ---

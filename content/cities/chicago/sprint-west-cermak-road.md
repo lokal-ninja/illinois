@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /chicago/sprint/
+url: /chicago/sprint-west-cermak-road/
 shop: mobile phone
 ---

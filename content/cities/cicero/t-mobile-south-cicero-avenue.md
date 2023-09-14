@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /cicero/t-mobile/
+url: /cicero/t-mobile-south-cicero-avenue/
 shop: mobile phone
 ---

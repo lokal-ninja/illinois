@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /springfield/firestone/
+url: /springfield/firestone-south-macarthur-boulevard/
 shop: car repair
 ---

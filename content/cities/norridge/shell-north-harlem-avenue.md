@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /norridge/shell/
+url: /norridge/shell-north-harlem-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /naperville/speedway/
+url: /naperville/speedway-reflection-drive/
 shop: convenience
 ---

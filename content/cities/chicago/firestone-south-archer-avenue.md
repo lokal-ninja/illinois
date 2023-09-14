@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /chicago/firestone/
+url: /chicago/firestone-south-archer-avenue/
 shop: car repair
 ---

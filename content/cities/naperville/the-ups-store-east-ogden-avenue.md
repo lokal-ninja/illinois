@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
-url: /naperville/the-ups-store/
+url: /naperville/the-ups-store-east-ogden-avenue/
 shop: copyshop
 ---

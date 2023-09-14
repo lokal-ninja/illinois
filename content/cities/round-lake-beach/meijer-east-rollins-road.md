@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /round-lake-beach/meijer/
+url: /round-lake-beach/meijer-east-rollins-road/
 shop: convenience
 ---

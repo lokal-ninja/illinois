@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /niles/verizon/
+url: /niles/verizon-west-touhy-avenue/
 shop: mobile phone
 ---

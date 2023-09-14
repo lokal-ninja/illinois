@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /chicago/citgo/
+url: /chicago/citgo-south-pulaski-road-2/
 shop: convenience
 ---

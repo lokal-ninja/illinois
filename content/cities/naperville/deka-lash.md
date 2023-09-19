@@ -1,5 +1,5 @@
 ---
-title: "Deka Lash"
+title: "deka lash"
 url: /naperville/deka-lash/
 shop: beauty
 ---

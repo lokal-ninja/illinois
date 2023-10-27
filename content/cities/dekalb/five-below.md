@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /dekalb/five-below/
-shop: general
+shop: variety store
 ---

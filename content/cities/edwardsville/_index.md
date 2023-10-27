@@ -1,6 +1,6 @@
 ---
 title: Edwardsville
 url: /edwardsville/
-latitude: 38.817
-longitude: -89.948
+latitude: 38.813
+longitude: -89.957
 ---

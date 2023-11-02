@@ -1,5 +1,5 @@
 ---
-title: "Bark out loud"
+title: "Bark Out Loud"
 url: /chicago/bark-out-loud/
 shop: pet grooming
 ---

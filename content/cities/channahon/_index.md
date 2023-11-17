@@ -1,6 +1,6 @@
 ---
 title: Channahon
 url: /channahon/
-latitude: 41.457
-longitude: -88.192
+latitude: 41.419
+longitude: -88.269
 ---

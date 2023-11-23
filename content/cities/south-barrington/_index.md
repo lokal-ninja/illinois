@@ -1,6 +1,6 @@
 ---
 title: South Barrington
 url: /south-barrington/
-latitude: 42.072
-longitude: -88.167
+latitude: 42.074
+longitude: -88.184
 ---

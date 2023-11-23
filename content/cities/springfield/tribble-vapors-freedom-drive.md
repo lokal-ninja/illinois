@@ -1,5 +1,5 @@
 ---
 title: "Tribble Vapors"
-url: /springfield/tribble-vapors-denver-drive/
+url: /springfield/tribble-vapors-freedom-drive/
 shop: e-cigarette
 ---

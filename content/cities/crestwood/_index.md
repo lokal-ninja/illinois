@@ -1,6 +1,6 @@
 ---
 title: Crestwood
 url: /crestwood/
-latitude: 41.638
-longitude: -87.739
+latitude: 41.647
+longitude: -87.737
 ---

@@ -1,6 +1,6 @@
 ---
 title: Riverside
 url: /riverside/
-latitude: 41.83
-longitude: -87.803
+latitude: 41.843
+longitude: -87.804
 ---

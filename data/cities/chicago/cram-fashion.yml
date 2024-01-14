@@ -7,5 +7,5 @@ city: Chicago
 street: "North Broadway"
 housenumber: 3331
 phone: "+1-773-477-1737"
-opening_hours: "Mo-11:00-18:00; Tu-off; We-11:00-18:00; Th-11:00-18:00; Fr-11:00-19:00; Sa-11:00-19:00; Su-11:00-17:00"
+opening_hours: "Mo,We,Th 11:00-18:00; Tu off; Fr-Sa 11:00-19:00; Su 11:00-17:00"
 website: "https://www.cramfashion.com/"

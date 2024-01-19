@@ -7,5 +7,5 @@ city: Glenview
 street: "Harlem Avenue"
 housenumber: 1011
 phone: "+1-847-998-5900"
-opening_hours: "Mo 11:00-17:00; Tu 11:00-17:00; Th 11:00-17:00; Fr 11:00-17:00; Sa 10:00-17:00; Su 11:00-16:00; Apr 01-Sep 30 off; We off Mo 11:00-17:00; Tu 11:00-17:00; Th 11:00-17:00; Fr 11:00-17:00; Sa 10:00-17:00; Su 11:00-16:00; Oct 01-Mar 31 off; We off"
+opening_hours: "Mo-Tu,Th-Fr 11:00-17:00; Sa 10:00-17:00; Su 11:00-16:00"
 website: "http://glenviewcycle.com/"

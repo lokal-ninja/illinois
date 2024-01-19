@@ -1,6 +1,6 @@
 ---
 title: Bolingbrook
 url: /bolingbrook/
-latitude: 41.719
-longitude: -88.04
+latitude: 41.726
+longitude: -88.039
 ---

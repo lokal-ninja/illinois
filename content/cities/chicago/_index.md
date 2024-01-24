@@ -1,6 +1,6 @@
 ---
 title: Chicago
 url: /chicago/
-latitude: 41.939
-longitude: -87.698
+latitude: 41.967
+longitude: -87.658
 ---

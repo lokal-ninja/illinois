@@ -1,5 +1,5 @@
 ---
-title: "Lawrence's Fish and Shrimp"
+title: "Lawrence's Fish & Shrimp"
 url: /chicago/lawrences-fish-and-shrimp/
 shop: seafood
 ---

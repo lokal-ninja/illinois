@@ -1,6 +1,6 @@
 ---
 title: Bourbonnais
 url: /bourbonnais/
-latitude: 41.162
-longitude: -87.877
+latitude: 41.161
+longitude: -87.886
 ---

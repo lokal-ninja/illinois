@@ -1,6 +1,6 @@
 ---
 title: Vandalia
 url: /vandalia/
-latitude: 38.966
-longitude: -89.135
+latitude: 38.976
+longitude: -89.101
 ---

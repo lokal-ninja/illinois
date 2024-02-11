@@ -1,6 +1,6 @@
 ---
 title: Pekin
 url: /pekin/
-latitude: 40.548
-longitude: -89.603
+latitude: 40.569
+longitude: -89.628
 ---

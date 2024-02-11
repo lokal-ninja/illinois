@@ -1,6 +1,6 @@
 ---
 title: Silvis
 url: /silvis/
-latitude: 41.494
-longitude: -90.406
+latitude: 41.495
+longitude: -90.407
 ---

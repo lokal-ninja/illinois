@@ -1,6 +1,6 @@
 ---
 title: Sauk Village
 url: /sauk-village/
-latitude: 41.492
-longitude: -87.559
+latitude: 41.491
+longitude: -87.556
 ---

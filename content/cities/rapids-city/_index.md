@@ -1,6 +1,6 @@
 ---
 title: Rapids City
 url: /rapids-city/
-latitude: 41.578
-longitude: -90.356
+latitude: 41.581
+longitude: -90.346
 ---

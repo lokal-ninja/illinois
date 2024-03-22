@@ -1,5 +1,5 @@
 ---
-title: "Hay"
+title: "HAY"
 url: /chicago/hay/
-shop: houseware
+shop: interior decoration
 ---

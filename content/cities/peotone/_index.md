@@ -1,6 +1,6 @@
 ---
 title: Peotone
 url: /peotone/
-latitude: 41.332
+latitude: 41.331
 longitude: -87.786
 ---

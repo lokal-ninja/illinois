@@ -1,6 +1,6 @@
 ---
 title: Urbana
 url: /urbana/
-latitude: 40.141
-longitude: -88.195
+latitude: 40.106
+longitude: -88.219
 ---

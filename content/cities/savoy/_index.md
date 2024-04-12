@@ -1,6 +1,6 @@
 ---
 title: Savoy
 url: /savoy/
-latitude: 40.071
-longitude: -88.251
+latitude: 40.05
+longitude: -88.256
 ---

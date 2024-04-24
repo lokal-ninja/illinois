@@ -1,6 +1,6 @@
 ---
 title: Minooka
 url: /minooka/
-latitude: 41.42
+latitude: 41.461
 longitude: -88.273
 ---

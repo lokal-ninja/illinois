@@ -1,6 +1,6 @@
 ---
 title: Darien
 url: /darien/
-latitude: 41.729
-longitude: -88.012
+latitude: 41.749
+longitude: -88.01
 ---

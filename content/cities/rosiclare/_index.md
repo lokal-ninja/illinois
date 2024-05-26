@@ -1,6 +1,6 @@
 ---
 title: Rosiclare
 url: /rosiclare/
-latitude: 37.427
-longitude: -88.346
+latitude: 37.426
+longitude: -88.347
 ---

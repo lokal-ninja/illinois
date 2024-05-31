@@ -1,6 +1,6 @@
 ---
 title: Maroa
 url: /maroa/
-latitude: 40.037
-longitude: -88.956
+latitude: 40.029
+longitude: -88.957
 ---

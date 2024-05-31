@@ -1,6 +1,6 @@
 ---
 title: Plano
 url: /plano/
-latitude: 41.653
-longitude: -88.567
+latitude: 41.658
+longitude: -88.551
 ---

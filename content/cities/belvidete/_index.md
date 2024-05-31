@@ -1,6 +1,6 @@
 ---
 title: Belvidete
 url: /belvidete/
-latitude: 42.272
-longitude: -88.859
+latitude: 42.276
+longitude: -88.891
 ---

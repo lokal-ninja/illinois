@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /peru/aldi/
 shop: supermarket
 ---

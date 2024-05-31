@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /broadview/aldi/
 shop: supermarket
 ---

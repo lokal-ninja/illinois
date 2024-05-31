@@ -1,5 +1,5 @@
 ---
 title: "DTLR"
 url: /chicago/dtlr-south-wentworth-avenue/
-shop: shoes
+shop: clothes
 ---

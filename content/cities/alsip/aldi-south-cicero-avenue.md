@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /alsip/aldi-south-cicero-avenue/
 shop: supermarket
 ---

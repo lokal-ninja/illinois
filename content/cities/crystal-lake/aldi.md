@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /crystal-lake/aldi/
 shop: supermarket
 ---

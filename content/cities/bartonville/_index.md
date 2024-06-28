@@ -1,6 +1,6 @@
 ---
 title: Bartonville
 url: /bartonville/
-latitude: 40.646
-longitude: -89.675
+latitude: 40.644
+longitude: -89.681
 ---

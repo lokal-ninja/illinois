@@ -1,6 +1,6 @@
 ---
 title: Glenwood
 url: /glenwood/
-latitude: 41.543
-longitude: -87.609
+latitude: 41.559
+longitude: -87.636
 ---

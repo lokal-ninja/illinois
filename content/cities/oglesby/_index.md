@@ -1,6 +1,6 @@
 ---
 title: Oglesby
 url: /oglesby/
-latitude: 41.294
-longitude: -89.088
+latitude: 41.295
+longitude: -89.068
 ---

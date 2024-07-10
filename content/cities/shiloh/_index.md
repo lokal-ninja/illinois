@@ -1,6 +1,6 @@
 ---
 title: Shiloh
 url: /shiloh/
-latitude: 38.571
-longitude: -89.926
+latitude: 38.573
+longitude: -89.924
 ---

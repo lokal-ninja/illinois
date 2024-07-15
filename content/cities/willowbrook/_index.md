@@ -1,6 +1,6 @@
 ---
 title: Willowbrook
 url: /willowbrook/
-latitude: 41.75
-longitude: -87.94
+latitude: 41.759
+longitude: -87.943
 ---

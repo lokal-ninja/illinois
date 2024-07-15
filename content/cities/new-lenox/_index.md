@@ -1,6 +1,6 @@
 ---
 title: New Lenox
 url: /new-lenox/
-latitude: 41.513
-longitude: -87.949
+latitude: 41.516
+longitude: -87.977
 ---

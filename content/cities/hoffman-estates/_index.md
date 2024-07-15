@@ -1,6 +1,6 @@
 ---
-title: HoffMan Estates
+title: Hoffman Estates
 url: /hoffman-estates/
-latitude: 42.074
-longitude: -88.193
+latitude: 42.062
+longitude: -88.135
 ---

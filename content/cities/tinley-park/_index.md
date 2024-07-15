@@ -1,6 +1,6 @@
 ---
 title: Tinley Park
 url: /tinley-park/
-latitude: 41.601
-longitude: -87.786
+latitude: 41.587
+longitude: -87.784
 ---

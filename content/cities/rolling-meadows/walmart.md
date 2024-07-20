@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rolling-meadows/walmart/
-shop: supermarket
+shop: department store
 ---

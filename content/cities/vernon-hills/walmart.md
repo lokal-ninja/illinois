@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /vernon-hills/walmart/
-shop: supermarket
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /lincolnwood/jd-sports/
-shop: clothes
+shop: sports
 ---

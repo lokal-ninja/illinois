@@ -1,6 +1,6 @@
 ---
 title: Fairview Heights
 url: /fairview-heights/
-latitude: 38.594
+latitude: 38.589
 longitude: -89.987
 ---

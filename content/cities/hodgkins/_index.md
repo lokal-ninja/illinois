@@ -1,6 +1,6 @@
 ---
 title: Hodgkins
 url: /hodgkins/
-latitude: 41.779
+latitude: 41.782
 longitude: -87.859
 ---

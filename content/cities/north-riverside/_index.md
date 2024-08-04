@@ -1,6 +1,6 @@
 ---
 title: North Riverside
 url: /north-riverside/
-latitude: 41.854
-longitude: -87.805
+latitude: 41.846
+longitude: -87.811
 ---

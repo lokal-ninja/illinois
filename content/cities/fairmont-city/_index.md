@@ -1,6 +1,6 @@
 ---
 title: Fairmont City
 url: /fairmont-city/
-latitude: 38.648
-longitude: -90.103
+latitude: 38.647
+longitude: -90.112
 ---

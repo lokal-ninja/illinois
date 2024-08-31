@@ -1,6 +1,6 @@
 ---
 title: Richton Park
 url: /richton-park/
-latitude: 41.48
-longitude: -87.75
+latitude: 41.485
+longitude: -87.704
 ---

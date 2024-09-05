@@ -1,5 +1,5 @@
 ---
 title: "Art gallery"
 url: /millstadt/art-gallery/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /homewood/shell/
-shop: convenience
+shop: Lebensmittel
 ---

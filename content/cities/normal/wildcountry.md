@@ -1,5 +1,5 @@
 ---
 title: "WildCountry"
 url: /normal/wildcountry/
-shop: outdoor
+shop: Outdoor
 ---

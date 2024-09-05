@@ -1,5 +1,5 @@
 ---
 title: "Kreations"
 url: /springfield/kreations/
-shop: garden centre
+shop: Garten-Center
 ---

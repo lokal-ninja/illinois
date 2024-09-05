@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lombard/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

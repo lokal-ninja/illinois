@@ -1,5 +1,5 @@
 ---
 title: "Wilmette Pet Center"
 url: /wilmette/wilmette-pet-center/
-shop: pet
+shop: Tiere
 ---

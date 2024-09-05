@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /forsyth/petsmart/
-shop: pet
+shop: Tiere
 ---

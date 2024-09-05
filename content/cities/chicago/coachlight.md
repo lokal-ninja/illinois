@@ -1,5 +1,5 @@
 ---
 title: "Coachlight"
 url: /chicago/coachlight/
-shop: laundry
+shop: Wäscherei
 ---

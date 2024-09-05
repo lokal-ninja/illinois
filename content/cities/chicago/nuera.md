@@ -1,5 +1,5 @@
 ---
 title: "NuEra"
 url: /chicago/nuera/
-shop: cannabis
+shop: Hanf
 ---

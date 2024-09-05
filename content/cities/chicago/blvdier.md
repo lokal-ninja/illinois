@@ -1,5 +1,5 @@
 ---
 title: "BLVDier"
 url: /chicago/blvdier/
-shop: clothes
+shop: Kleidung
 ---

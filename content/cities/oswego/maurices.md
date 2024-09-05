@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /oswego/maurices/
-shop: clothes
+shop: Kleidung
 ---

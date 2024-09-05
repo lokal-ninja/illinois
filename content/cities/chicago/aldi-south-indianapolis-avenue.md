@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chicago/aldi-south-indianapolis-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /downers-grove/oberweis/
-shop: dairy
+shop: Milch
 ---

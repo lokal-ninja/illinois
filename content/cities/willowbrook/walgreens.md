@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /willowbrook/walgreens/
-shop: chemist
+shop: Drogerie
 ---

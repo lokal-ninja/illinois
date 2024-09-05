@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /algonquin/thorntons/
-shop: convenience
+shop: Lebensmittel
 ---

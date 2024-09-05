@@ -1,5 +1,5 @@
 ---
 title: "Blicks"
 url: /schaumburg/blicks/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naperville Optical"
 url: /naperville/naperville-optical/
-shop: optician
+shop: Optiker
 ---

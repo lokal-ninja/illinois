@@ -1,5 +1,5 @@
 ---
 title: "Torres Supermercado"
 url: /cicero/torres-supermercado/
-shop: supermarket
+shop: Supermarkt
 ---

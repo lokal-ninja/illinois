@@ -1,5 +1,5 @@
 ---
 title: "Parkway Pointe Mini Storage"
 url: /springfield/parkway-pointe-mini-storage/
-shop: storage rental
+shop: Mieten
 ---

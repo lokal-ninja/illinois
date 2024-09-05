@@ -1,5 +1,5 @@
 ---
 title: "Floyds Barbershop"
 url: /la-grange/floyds-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

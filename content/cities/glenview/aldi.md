@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /glenview/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

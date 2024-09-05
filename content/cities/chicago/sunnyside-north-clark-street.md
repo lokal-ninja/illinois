@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside"
 url: /chicago/sunnyside-north-clark-street/
-shop: cannabis
+shop: Hanf
 ---

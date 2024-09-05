@@ -1,5 +1,5 @@
 ---
 title: "Roanoke IGA"
 url: /roanoke/roanoke-iga/
-shop: supermarket
+shop: Supermarkt
 ---

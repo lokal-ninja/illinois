@@ -1,5 +1,5 @@
 ---
 title: "Pinot's Palette"
 url: /woodridge/pinots-palette/
-shop: wine
+shop: Wein
 ---

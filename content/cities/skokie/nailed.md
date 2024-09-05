@@ -1,5 +1,5 @@
 ---
 title: "Nailed"
 url: /skokie/nailed/
-shop: beauty
+shop: Kosmetik
 ---

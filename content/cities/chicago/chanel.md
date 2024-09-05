@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
 url: /chicago/chanel/
-shop: clothes
+shop: Kleidung
 ---

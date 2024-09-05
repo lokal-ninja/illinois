@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lincolnwood/shell/
-shop: convenience
+shop: Lebensmittel
 ---

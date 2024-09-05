@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /springfield/carmax/
-shop: car
+shop: Autohaus
 ---

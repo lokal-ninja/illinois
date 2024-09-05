@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /evanston/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

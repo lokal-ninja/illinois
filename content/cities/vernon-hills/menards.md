@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /vernon-hills/menards/
-shop: doityourself
+shop: Baumarkt
 ---

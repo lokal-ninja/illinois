@@ -1,5 +1,5 @@
 ---
 title: "Personal Touch Tailor"
 url: /western-springs/personal-touch-tailor/
-shop: tailor
+shop: Schneiderei
 ---

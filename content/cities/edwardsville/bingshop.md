@@ -1,5 +1,5 @@
 ---
 title: "BingShop"
 url: /edwardsville/bingshop/
-shop: shop
+shop: Allgemein
 ---

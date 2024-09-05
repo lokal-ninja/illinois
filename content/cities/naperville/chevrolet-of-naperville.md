@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet of Naperville"
 url: /naperville/chevrolet-of-naperville/
-shop: car
+shop: Autohaus
 ---

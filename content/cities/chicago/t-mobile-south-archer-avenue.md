@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /chicago/t-mobile-south-archer-avenue/
-shop: mobile phone
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mount-prospect/petsmart/
-shop: pet
+shop: Tiere
 ---

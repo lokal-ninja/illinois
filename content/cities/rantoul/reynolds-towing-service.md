@@ -1,5 +1,5 @@
 ---
 title: "Reynolds Towing Service"
 url: /rantoul/reynolds-towing-service/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /rosemont/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

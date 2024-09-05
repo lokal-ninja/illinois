@@ -1,5 +1,5 @@
 ---
 title: "UPS Customer Center"
 url: /chicago/ups-customer-center/
-shop: copyshop
+shop: Kopieren
 ---

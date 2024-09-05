@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /williamsville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

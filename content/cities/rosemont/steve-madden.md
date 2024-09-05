@@ -1,5 +1,5 @@
 ---
 title: "Steve Madden"
 url: /rosemont/steve-madden/
-shop: shoes
+shop: Schuhe
 ---

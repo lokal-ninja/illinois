@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /rockford/schnucks/
-shop: supermarket
+shop: Supermarkt
 ---

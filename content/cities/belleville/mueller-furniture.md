@@ -1,5 +1,5 @@
 ---
 title: "Mueller Furniture"
 url: /belleville/mueller-furniture/
-shop: furniture
+shop: Möbel
 ---

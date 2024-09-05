@@ -1,5 +1,5 @@
 ---
 title: "Rinse"
 url: /chicago/rinse/
-shop: laundry
+shop: Wäscherei
 ---

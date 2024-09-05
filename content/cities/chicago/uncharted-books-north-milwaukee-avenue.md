@@ -1,5 +1,5 @@
 ---
 title: "Uncharted Books"
 url: /chicago/uncharted-books-north-milwaukee-avenue/
-shop: books
+shop: Bücher
 ---

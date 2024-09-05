@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /volo/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

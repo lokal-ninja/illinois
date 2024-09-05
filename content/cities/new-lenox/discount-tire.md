@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /new-lenox/discount-tire/
-shop: tyres
+shop: Reifen
 ---

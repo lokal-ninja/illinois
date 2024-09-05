@@ -1,5 +1,5 @@
 ---
 title: "Gander Outdoors"
 url: /marion/gander-outdoors/
-shop: outdoor
+shop: Outdoor
 ---

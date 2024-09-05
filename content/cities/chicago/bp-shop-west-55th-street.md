@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /chicago/bp-shop-west-55th-street/
-shop: convenience
+shop: Lebensmittel
 ---

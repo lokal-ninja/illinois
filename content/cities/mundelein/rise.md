@@ -1,5 +1,5 @@
 ---
 title: "RISE"
 url: /mundelein/rise/
-shop: cannabis
+shop: Hanf
 ---

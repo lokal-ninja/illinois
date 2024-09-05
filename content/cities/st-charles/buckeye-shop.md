@@ -1,5 +1,5 @@
 ---
 title: "Buckeye Shop"
 url: /st-charles/buckeye-shop/
-shop: shop
+shop: Allgemein
 ---

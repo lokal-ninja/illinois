@@ -1,5 +1,5 @@
 ---
 title: "Sullivan's"
 url: /morrison/sullivans/
-shop: supermarket
+shop: Supermarkt
 ---

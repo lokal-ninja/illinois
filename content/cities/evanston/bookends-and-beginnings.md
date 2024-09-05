@@ -1,5 +1,5 @@
 ---
-title: "Bookends & Beginnings"
+title: "Bookends and Beginnings"
 url: /evanston/bookends-and-beginnings/
-shop: books
+shop: Bücher
 ---

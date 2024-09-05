@@ -1,5 +1,5 @@
 ---
 title: "Second Reading Book Shop"
 url: /alton/second-reading-book-shop/
-shop: books
+shop: Bücher
 ---

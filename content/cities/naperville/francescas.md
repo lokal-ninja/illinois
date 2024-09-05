@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /naperville/francescas/
-shop: clothes
+shop: Kleidung
 ---

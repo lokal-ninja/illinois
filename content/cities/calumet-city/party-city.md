@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /calumet-city/party-city/
-shop: party
+shop: Partyzubehör
 ---

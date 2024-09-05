@@ -1,5 +1,5 @@
 ---
 title: "Zander Import Groceries"
 url: /niles/zander-import-groceries/
-shop: supermarket
+shop: Supermarkt
 ---

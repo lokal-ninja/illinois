@@ -1,5 +1,5 @@
 ---
 title: "MinuteMan"
 url: /wauconda/minuteman/
-shop: convenience
+shop: Lebensmittel
 ---

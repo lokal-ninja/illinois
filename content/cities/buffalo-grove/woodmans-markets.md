@@ -1,5 +1,5 @@
 ---
 title: "Woodman's Markets"
 url: /buffalo-grove/woodmans-markets/
-shop: supermarket
+shop: Supermarkt
 ---

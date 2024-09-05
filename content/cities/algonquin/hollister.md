@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /algonquin/hollister/
-shop: clothes
+shop: Kleidung
 ---

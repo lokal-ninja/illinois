@@ -1,5 +1,5 @@
 ---
 title: "Alterations by Azar"
 url: /champaign/alterations-by-azar/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abbott's Florist"
 url: /champaign/abbotts-florist/
-shop: florist
+shop: Blumen
 ---

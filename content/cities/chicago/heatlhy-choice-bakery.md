@@ -1,5 +1,5 @@
 ---
 title: "Heatlhy Choice Bakery"
 url: /chicago/heatlhy-choice-bakery/
-shop: bakery
+shop: Bäckerei
 ---

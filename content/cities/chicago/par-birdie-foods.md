@@ -1,5 +1,5 @@
 ---
 title: "Par-Birdie Foods"
 url: /chicago/par-birdie-foods/
-shop: supermarket
+shop: Supermarkt
 ---

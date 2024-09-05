@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /chicago/citgo-south-cottage-grove-avenue-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Berwyn Kia"
 url: /berwyn/berwyn-kia/
-shop: car
+shop: Autohaus
 ---

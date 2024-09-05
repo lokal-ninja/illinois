@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /alsip/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /homer-glen/discount-tire/
-shop: tyres
+shop: Reifen
 ---

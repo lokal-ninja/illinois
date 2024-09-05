@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /carbondale/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

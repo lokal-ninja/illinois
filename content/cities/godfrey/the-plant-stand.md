@@ -1,5 +1,5 @@
 ---
 title: "The Plant Stand"
 url: /godfrey/the-plant-stand/
-shop: garden centre
+shop: Garten-Center
 ---

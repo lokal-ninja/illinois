@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pekin/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

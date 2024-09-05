@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /carpentersville/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

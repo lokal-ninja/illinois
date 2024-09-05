@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /carbondale/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /chicago/shell-west-north-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

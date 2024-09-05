@@ -1,5 +1,5 @@
 ---
 title: "Fleet Feet"
 url: /chicago/fleet-feet-north-wells-street/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mosser's Shoes"
 url: /springfield/mossers-shoes/
-shop: shoes
+shop: Schuhe
 ---

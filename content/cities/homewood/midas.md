@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /homewood/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

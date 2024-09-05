@@ -1,5 +1,5 @@
 ---
 title: "Old Town Nails"
 url: /chicago/old-town-nails/
-shop: beauty
+shop: Kosmetik
 ---

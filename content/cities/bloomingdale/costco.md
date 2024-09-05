@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /bloomingdale/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /north-aurora/michaels/
-shop: craft
+shop: Basteln
 ---

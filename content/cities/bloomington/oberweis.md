@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /bloomington/oberweis/
-shop: dairy
+shop: Milch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /chicago/rainbow-south-damen-avenue/
-shop: clothes
+shop: Kleidung
 ---

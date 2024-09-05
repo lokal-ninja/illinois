@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /gurnee/oberweis/
-shop: dairy
+shop: Milch
 ---

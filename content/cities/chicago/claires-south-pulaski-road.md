@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /chicago/claires-south-pulaski-road/
-shop: boutique
+shop: Modehaus
 ---

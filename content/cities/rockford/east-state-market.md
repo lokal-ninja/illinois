@@ -1,5 +1,5 @@
 ---
 title: "East State Market"
 url: /rockford/east-state-market/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Remarkable Resale"
 url: /rochester/remarkable-resale/
-shop: clothes
+shop: Kleidung
 ---

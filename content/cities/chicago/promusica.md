@@ -1,5 +1,5 @@
 ---
 title: "ProMusica"
 url: /chicago/promusica/
-shop: hifi
+shop: Hifi
 ---

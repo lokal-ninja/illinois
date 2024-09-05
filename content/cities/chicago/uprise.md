@@ -1,5 +1,5 @@
 ---
 title: "Uprise"
 url: /chicago/uprise/
-shop: sports
+shop: Sport
 ---

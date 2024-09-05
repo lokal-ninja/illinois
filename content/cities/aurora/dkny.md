@@ -1,5 +1,5 @@
 ---
 title: "DKNY"
 url: /aurora/dkny/
-shop: clothes
+shop: Kleidung
 ---

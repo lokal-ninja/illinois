@@ -1,5 +1,5 @@
 ---
 title: "TJAYZ"
 url: /springfield/tjayz/
-shop: convenience
+shop: Lebensmittel
 ---

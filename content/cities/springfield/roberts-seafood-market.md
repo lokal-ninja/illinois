@@ -1,5 +1,5 @@
 ---
 title: "Robert's Seafood Market"
 url: /springfield/roberts-seafood-market/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boriken"
 url: /chicago/boriken/
-shop: alcohol
+shop: Spirituosen
 ---

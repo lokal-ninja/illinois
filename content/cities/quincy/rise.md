@@ -1,5 +1,5 @@
 ---
 title: "RISE"
 url: /quincy/rise/
-shop: cannabis
+shop: Hanf
 ---

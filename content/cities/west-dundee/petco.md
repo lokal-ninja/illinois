@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /west-dundee/petco/
-shop: pet
+shop: Tiere
 ---

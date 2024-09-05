@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /skokie/amoco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /chicago/citgo-west-chicago-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

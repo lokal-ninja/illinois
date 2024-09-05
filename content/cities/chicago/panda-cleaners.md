@@ -1,5 +1,5 @@
 ---
 title: "Panda Cleaners"
 url: /chicago/panda-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

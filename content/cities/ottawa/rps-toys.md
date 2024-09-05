@@ -1,5 +1,5 @@
 ---
 title: "RPS Toys"
 url: /ottawa/rps-toys/
-shop: toys
+shop: Spielzeug
 ---

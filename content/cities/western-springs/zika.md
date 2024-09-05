@@ -1,5 +1,5 @@
 ---
 title: "Zika"
 url: /western-springs/zika/
-shop: beauty
+shop: Kosmetik
 ---

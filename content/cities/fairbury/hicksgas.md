@@ -1,5 +1,5 @@
 ---
 title: "Hicksgas"
 url: /fairbury/hicksgas/
-shop: gas
+shop: Gasflaschen
 ---

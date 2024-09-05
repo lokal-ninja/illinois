@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /hillside/carmax/
-shop: car
+shop: Autohaus
 ---

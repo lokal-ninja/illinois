@@ -1,5 +1,5 @@
 ---
 title: "Muller's Woodfield Acura"
 url: /hoffman-estates/mullers-woodfield-acura/
-shop: car
+shop: Autohaus
 ---

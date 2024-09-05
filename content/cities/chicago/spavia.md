@@ -1,5 +1,5 @@
 ---
 title: "spavia"
 url: /chicago/spavia/
-shop: beauty
+shop: Kosmetik
 ---

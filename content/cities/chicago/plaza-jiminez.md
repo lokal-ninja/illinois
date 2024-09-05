@@ -1,5 +1,5 @@
 ---
 title: "Plaza Jiminez"
 url: /chicago/plaza-jiminez/
-shop: supermarket
+shop: Supermarkt
 ---

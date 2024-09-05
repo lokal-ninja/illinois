@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /streamwood/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

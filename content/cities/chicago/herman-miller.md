@@ -1,5 +1,5 @@
 ---
 title: "Herman Miller"
 url: /chicago/herman-miller/
-shop: furniture
+shop: Möbel
 ---

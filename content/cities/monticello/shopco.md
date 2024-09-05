@@ -1,5 +1,5 @@
 ---
 title: "Shopco"
 url: /monticello/shopco/
-shop: supermarket
+shop: Supermarkt
 ---

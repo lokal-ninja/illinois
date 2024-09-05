@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /forsyth/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

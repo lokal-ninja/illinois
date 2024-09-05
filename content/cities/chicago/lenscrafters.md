@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /chicago/lenscrafters/
-shop: optician
+shop: Optiker
 ---

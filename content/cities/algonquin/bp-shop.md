@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /algonquin/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Malabar Inc"
 url: /glenview/royal-malabar-inc/
-shop: convenience
+shop: Lebensmittel
 ---

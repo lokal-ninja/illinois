@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /downers-grove/ferguson/
-shop: kitchen
+shop: Küchen
 ---

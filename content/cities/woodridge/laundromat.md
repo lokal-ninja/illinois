@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /woodridge/laundromat/
-shop: laundry
+shop: Wäscherei
 ---

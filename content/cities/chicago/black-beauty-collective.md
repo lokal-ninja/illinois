@@ -1,5 +1,5 @@
 ---
 title: "Black Beauty Collective"
 url: /chicago/black-beauty-collective/
-shop: beauty
+shop: Kosmetik
 ---

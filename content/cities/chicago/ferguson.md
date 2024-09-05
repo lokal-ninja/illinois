@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /chicago/ferguson/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /glenview/shell/
-shop: convenience
+shop: Lebensmittel
 ---

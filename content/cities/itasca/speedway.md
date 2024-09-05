@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /itasca/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

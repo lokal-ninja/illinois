@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /collinsville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

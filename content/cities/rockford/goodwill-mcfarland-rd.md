@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /rockford/goodwill-mcfarland-rd/
-shop: charity
+shop: Gebrauchtwaren
 ---

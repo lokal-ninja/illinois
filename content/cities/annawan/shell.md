@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /annawan/shell/
-shop: convenience
+shop: Lebensmittel
 ---

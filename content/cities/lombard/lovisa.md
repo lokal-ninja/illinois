@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
 url: /lombard/lovisa/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naperville Chrysler Jeep Dodge Ram"
 url: /naperville/naperville-chrysler-jeep-dodge-ram/
-shop: car
+shop: Autohaus
 ---

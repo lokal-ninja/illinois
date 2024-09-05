@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /naperville/oberweis-north-route-59/
-shop: dairy
+shop: Milch
 ---

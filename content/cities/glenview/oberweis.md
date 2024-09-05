@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /glenview/oberweis/
-shop: dairy
+shop: Milch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chanvre"
 url: /franklin-park/chanvre/
-shop: cannabis
+shop: Hanf
 ---

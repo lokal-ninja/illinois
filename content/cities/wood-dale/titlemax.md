@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /wood-dale/titlemax/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kunes"
 url: /monmouth/kunes/
-shop: car
+shop: Autohaus
 ---

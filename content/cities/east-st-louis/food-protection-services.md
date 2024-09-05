@@ -1,5 +1,5 @@
 ---
 title: "Food Protection Services"
 url: /east-st-louis/food-protection-services/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rinkel Produce"
 url: /glen-carbon/rinkel-produce/
-shop: farm
+shop: Hofladen
 ---

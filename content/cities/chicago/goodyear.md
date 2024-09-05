@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /chicago/goodyear/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oakton Cleaners"
 url: /skokie/oakton-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

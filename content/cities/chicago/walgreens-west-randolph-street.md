@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /chicago/walgreens-west-randolph-street/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /aurora/lacoste/
-shop: clothes
+shop: Kleidung
 ---

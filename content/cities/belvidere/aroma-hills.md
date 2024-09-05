@@ -1,5 +1,5 @@
 ---
 title: "Aroma Hills"
 url: /belvidere/aroma-hills/
-shop: cannabis
+shop: Hanf
 ---

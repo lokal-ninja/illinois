@@ -1,5 +1,5 @@
 ---
 title: "Flower Connection"
 url: /springfield/flower-connection/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ghirardelli's"
 url: /chicago/ghirardellis/
-shop: confectionery
+shop: Süßwaren
 ---

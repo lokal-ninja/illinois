@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /norridge/shoe-carnival/
-shop: shoes
+shop: Schuhe
 ---

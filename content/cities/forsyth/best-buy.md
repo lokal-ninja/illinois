@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /forsyth/best-buy/
-shop: electronics
+shop: Elektronik
 ---

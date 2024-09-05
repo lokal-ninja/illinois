@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /waukegan/walgreens/
-shop: chemist
+shop: Drogerie
 ---

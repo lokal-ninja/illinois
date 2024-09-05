@@ -1,5 +1,5 @@
 ---
 title: "Stonehaven"
 url: /elmhurst/stonehaven/
-shop: shop
+shop: Allgemein
 ---

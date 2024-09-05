@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /new-lenox/jewel-osco/
-shop: supermarket
+shop: Supermarkt
 ---

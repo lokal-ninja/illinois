@@ -1,5 +1,5 @@
 ---
 title: "Regis"
 url: /chicago/regis/
-shop: hairdresser
+shop: Friseur
 ---

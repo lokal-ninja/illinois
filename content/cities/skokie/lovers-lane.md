@@ -1,5 +1,5 @@
 ---
 title: "Lover's Lane"
 url: /skokie/lovers-lane/
-shop: erotic
+shop: Erotik
 ---

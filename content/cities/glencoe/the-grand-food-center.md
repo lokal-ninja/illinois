@@ -1,5 +1,5 @@
 ---
 title: "The Grand Food Center"
 url: /glencoe/the-grand-food-center/
-shop: supermarket
+shop: Supermarkt
 ---

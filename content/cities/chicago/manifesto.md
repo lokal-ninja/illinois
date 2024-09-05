@@ -1,5 +1,5 @@
 ---
 title: "Manifesto"
 url: /chicago/manifesto/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /carrollton/ford/
-shop: car
+shop: Autohaus
 ---

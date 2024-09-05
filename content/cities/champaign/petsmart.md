@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /champaign/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quality Buick GMC Cadillac"
 url: /alton/quality-buick-gmc-cadillac/
-shop: car
+shop: Autohaus
 ---

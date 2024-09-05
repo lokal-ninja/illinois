@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /lincolnwood/oberweis/
-shop: dairy
+shop: Milch
 ---

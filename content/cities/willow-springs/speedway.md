@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /willow-springs/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /westmont/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Connor"
 url: /springfield/connor/
-shop: shop
+shop: Allgemein
 ---

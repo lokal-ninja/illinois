@@ -1,5 +1,5 @@
 ---
 title: "Clark"
 url: /rockford/clark/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FAS Mart"
 url: /roscoe/fas-mart/
-shop: convenience
+shop: Lebensmittel
 ---

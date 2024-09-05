@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /lincolnwood/pink/
-shop: clothes
+shop: Kleidung
 ---

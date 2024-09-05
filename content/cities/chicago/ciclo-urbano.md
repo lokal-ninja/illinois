@@ -1,5 +1,5 @@
 ---
 title: "Ciclo Urbano"
 url: /chicago/ciclo-urbano/
-shop: bicycle
+shop: Fahrrad
 ---

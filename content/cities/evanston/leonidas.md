@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /evanston/leonidas/
-shop: chocolate
+shop: Schokolade
 ---

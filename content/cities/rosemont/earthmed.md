@@ -1,5 +1,5 @@
 ---
 title: "EarthMed"
 url: /rosemont/earthmed/
-shop: cannabis
+shop: Hanf
 ---

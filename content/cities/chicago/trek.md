@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /chicago/trek/
-shop: bicycle
+shop: Fahrrad
 ---

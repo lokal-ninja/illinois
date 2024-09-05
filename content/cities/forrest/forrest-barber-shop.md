@@ -1,5 +1,5 @@
 ---
 title: "Forrest Barber Shop"
 url: /forrest/forrest-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

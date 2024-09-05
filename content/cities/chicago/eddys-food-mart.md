@@ -1,5 +1,5 @@
 ---
 title: "Eddy's Food Mart"
 url: /chicago/eddys-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

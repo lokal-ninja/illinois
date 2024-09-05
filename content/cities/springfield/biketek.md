@@ -1,5 +1,5 @@
 ---
 title: "BikeTek"
 url: /springfield/biketek/
-shop: bicycle
+shop: Fahrrad
 ---

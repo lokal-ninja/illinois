@@ -1,5 +1,5 @@
 ---
 title: "Cacao Cafe"
 url: /orland-park/cacao-cafe/
-shop: coffee
+shop: Kaffee
 ---

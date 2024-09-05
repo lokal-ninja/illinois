@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /vernon-hills/target/
-shop: supermarket
+shop: Supermarkt
 ---

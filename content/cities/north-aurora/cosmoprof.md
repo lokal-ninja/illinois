@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /north-aurora/cosmoprof/
-shop: hairdresser
+shop: Friseur
 ---

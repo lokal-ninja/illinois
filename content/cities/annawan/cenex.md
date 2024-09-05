@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /annawan/cenex/
-shop: convenience
+shop: Lebensmittel
 ---

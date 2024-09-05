@@ -1,5 +1,5 @@
 ---
 title: "Lincoln"
 url: /schaumburg/lincoln/
-shop: car
+shop: Autohaus
 ---

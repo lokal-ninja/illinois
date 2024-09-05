@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /carbondale/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

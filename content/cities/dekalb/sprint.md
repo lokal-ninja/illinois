@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /dekalb/sprint/
-shop: mobile phone
+shop: Handy
 ---

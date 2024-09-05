@@ -1,5 +1,5 @@
 ---
 title: "Swirlz Cupcakes"
 url: /chicago/swirlz-cupcakes/
-shop: bakery
+shop: Bäckerei
 ---

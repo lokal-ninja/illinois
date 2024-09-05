@@ -1,5 +1,5 @@
 ---
 title: "NYC Bagel Deli"
 url: /chicago/nyc-bagel-deli/
-shop: bakery
+shop: Bäckerei
 ---

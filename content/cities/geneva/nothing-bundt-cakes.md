@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /geneva/nothing-bundt-cakes/
-shop: pastry
+shop: Konditorei
 ---

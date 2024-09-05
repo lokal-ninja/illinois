@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /lacon/iga/
-shop: supermarket
+shop: Supermarkt
 ---

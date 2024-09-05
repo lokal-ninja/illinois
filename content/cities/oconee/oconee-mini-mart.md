@@ -1,5 +1,5 @@
 ---
 title: "Oconee Mini Mart"
 url: /oconee/oconee-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

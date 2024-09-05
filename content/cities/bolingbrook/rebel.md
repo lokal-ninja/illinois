@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /bolingbrook/rebel/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grapevine Foods"
 url: /orland-park/grapevine-foods/
-shop: bakery
+shop: Bäckerei
 ---

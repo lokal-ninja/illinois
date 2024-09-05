@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /springfield/walgreens-south-koke-mill-road/
-shop: chemist
+shop: Drogerie
 ---

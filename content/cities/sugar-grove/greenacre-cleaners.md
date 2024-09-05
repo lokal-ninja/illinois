@@ -1,5 +1,5 @@
 ---
 title: "Greenacre Cleaners"
 url: /sugar-grove/greenacre-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /naperville/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

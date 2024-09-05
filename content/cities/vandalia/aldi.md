@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /vandalia/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /lincoln/iga/
-shop: supermarket
+shop: Supermarkt
 ---

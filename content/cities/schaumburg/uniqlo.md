@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /schaumburg/uniqlo/
-shop: clothes
+shop: Kleidung
 ---

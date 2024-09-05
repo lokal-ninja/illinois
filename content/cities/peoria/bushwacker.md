@@ -1,5 +1,5 @@
 ---
 title: "Bushwacker"
 url: /peoria/bushwacker/
-shop: outdoor
+shop: Outdoor
 ---

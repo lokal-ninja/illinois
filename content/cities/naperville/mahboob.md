@@ -1,5 +1,5 @@
 ---
 title: "Mahboob"
 url: /naperville/mahboob/
-shop: hairdresser
+shop: Friseur
 ---

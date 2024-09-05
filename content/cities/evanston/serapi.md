@@ -1,5 +1,5 @@
 ---
 title: "Serapi"
 url: /evanston/serapi/
-shop: shop
+shop: Allgemein
 ---

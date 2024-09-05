@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /aurora/spencers/
-shop: gift
+shop: Andenken
 ---

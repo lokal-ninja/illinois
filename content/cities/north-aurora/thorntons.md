@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /north-aurora/thorntons/
-shop: convenience
+shop: Lebensmittel
 ---

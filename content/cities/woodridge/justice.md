@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /woodridge/justice/
-shop: clothes
+shop: Kleidung
 ---

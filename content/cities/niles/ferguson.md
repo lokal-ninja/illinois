@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /niles/ferguson/
-shop: trade
+shop: Baustoffe
 ---

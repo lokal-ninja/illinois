@@ -1,5 +1,5 @@
 ---
 title: "Vaptricity"
 url: /grayslake/vaptricity/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

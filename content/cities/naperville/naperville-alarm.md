@@ -1,5 +1,5 @@
 ---
 title: "Naperville Alarm"
 url: /naperville/naperville-alarm/
-shop: security
+shop: Sicherheit
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ponnopozz"
 url: /chicago/ponnopozz/
-shop: art
+shop: Kunst
 ---

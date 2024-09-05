@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /naperville/ulta-beauty-aurora-avenue/
-shop: beauty
+shop: Kosmetik
 ---

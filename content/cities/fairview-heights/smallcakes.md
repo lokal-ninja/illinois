@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /fairview-heights/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

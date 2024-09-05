@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /chicago/kilwins/
-shop: confectionery
+shop: Süßwaren
 ---

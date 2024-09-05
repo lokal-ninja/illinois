@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /glenview/amoco/
-shop: convenience
+shop: Lebensmittel
 ---

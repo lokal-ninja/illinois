@@ -1,5 +1,5 @@
 ---
 title: "Vitamin World"
 url: /aurora/vitamin-world/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /melrose-park/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /bloomington/schnucks/
-shop: supermarket
+shop: Supermarkt
 ---

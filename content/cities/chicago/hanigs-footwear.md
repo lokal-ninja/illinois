@@ -1,5 +1,5 @@
 ---
 title: "Hanig's Footwear"
 url: /chicago/hanigs-footwear/
-shop: shoes
+shop: Schuhe
 ---

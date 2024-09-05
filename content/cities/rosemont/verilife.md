@@ -1,5 +1,5 @@
 ---
 title: "Verilife"
 url: /rosemont/verilife/
-shop: cannabis
+shop: Hanf
 ---

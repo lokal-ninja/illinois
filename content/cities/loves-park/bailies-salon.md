@@ -1,5 +1,5 @@
 ---
 title: "Bailie's Salon"
 url: /loves-park/bailies-salon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daffodils"
 url: /chicago/daffodils/
-shop: florist
+shop: Blumen
 ---

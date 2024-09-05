@@ -1,5 +1,5 @@
 ---
 title: "Good Stop"
 url: /buffalo-grove/good-stop/
-shop: convenience
+shop: Lebensmittel
 ---

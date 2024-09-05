@@ -1,5 +1,5 @@
 ---
 title: "Creekside Gardens"
 url: /collinsville/creekside-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

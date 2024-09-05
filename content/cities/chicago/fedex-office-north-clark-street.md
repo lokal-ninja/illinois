@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /chicago/fedex-office-north-clark-street/
-shop: copyshop
+shop: Kopieren
 ---

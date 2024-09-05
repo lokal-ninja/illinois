@@ -1,5 +1,5 @@
 ---
 title: "TravelXclusive"
 url: /naperville/travelxclusive/
-shop: travel agency
+shop: Reisebüro
 ---

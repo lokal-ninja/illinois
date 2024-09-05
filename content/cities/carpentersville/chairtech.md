@@ -1,5 +1,5 @@
 ---
 title: "ChairTech"
 url: /carpentersville/chairtech/
-shop: furniture
+shop: Möbel
 ---

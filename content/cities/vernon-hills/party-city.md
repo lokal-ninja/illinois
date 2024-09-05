@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /vernon-hills/party-city/
-shop: party
+shop: Partyzubehör
 ---

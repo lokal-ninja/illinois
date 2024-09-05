@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /peoria/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

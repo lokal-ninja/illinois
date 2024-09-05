@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /oakwood/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

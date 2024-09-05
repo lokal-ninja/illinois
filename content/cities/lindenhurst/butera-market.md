@@ -1,5 +1,5 @@
 ---
 title: "Butera Market"
 url: /lindenhurst/butera-market/
-shop: supermarket
+shop: Supermarkt
 ---

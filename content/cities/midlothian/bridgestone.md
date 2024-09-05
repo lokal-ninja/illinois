@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /midlothian/bridgestone/
-shop: tyres
+shop: Reifen
 ---

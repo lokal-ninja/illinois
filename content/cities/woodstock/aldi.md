@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /woodstock/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

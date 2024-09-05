@@ -1,5 +1,5 @@
 ---
 title: "Galaxy Nail Bar"
 url: /springfield/galaxy-nail-bar/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alvaro’s Tire Shop"
 url: /chicago/alvaros-tire-shop/
-shop: tyres
+shop: Reifen
 ---

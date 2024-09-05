@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /chicago/marathon-east-75th-street/
-shop: convenience
+shop: Lebensmittel
 ---

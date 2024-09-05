@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lemont/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

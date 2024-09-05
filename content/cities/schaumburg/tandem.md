@@ -1,5 +1,5 @@
 ---
 title: "Tandem"
 url: /schaumburg/tandem/
-shop: butcher
+shop: Metzgerei
 ---

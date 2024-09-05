@@ -1,5 +1,5 @@
 ---
 title: "Ruby Jewel Antiques"
 url: /paxton/ruby-jewel-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

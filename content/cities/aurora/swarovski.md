@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /aurora/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

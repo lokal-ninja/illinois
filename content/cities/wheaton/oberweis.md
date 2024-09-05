@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /wheaton/oberweis/
-shop: dairy
+shop: Milch
 ---

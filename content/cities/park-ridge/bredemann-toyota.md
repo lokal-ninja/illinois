@@ -1,5 +1,5 @@
 ---
 title: "Bredemann Toyota"
 url: /park-ridge/bredemann-toyota/
-shop: car
+shop: Autohaus
 ---

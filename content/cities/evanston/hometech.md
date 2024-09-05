@@ -1,5 +1,5 @@
 ---
 title: "hometech"
 url: /evanston/hometech/
-shop: electronics
+shop: Elektronik
 ---

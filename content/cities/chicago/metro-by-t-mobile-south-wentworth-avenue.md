@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /chicago/metro-by-t-mobile-south-wentworth-avenue/
-shop: mobile phone
+shop: Handy
 ---

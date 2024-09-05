@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /alton/conoco/
-shop: convenience
+shop: Lebensmittel
 ---

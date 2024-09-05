@@ -1,5 +1,5 @@
 ---
 title: "Essential Skin Care"
 url: /forest-park/essential-skin-care/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scrub-A-Dub"
 url: /chicago/scrub-a-dub/
-shop: laundry
+shop: Wäscherei
 ---

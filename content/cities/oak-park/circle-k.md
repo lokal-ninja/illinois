@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /oak-park/circle-k/
-shop: convenience
+shop: Lebensmittel
 ---

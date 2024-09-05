@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /coal-city/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

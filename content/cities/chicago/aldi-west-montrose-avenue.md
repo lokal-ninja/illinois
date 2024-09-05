@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chicago/aldi-west-montrose-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

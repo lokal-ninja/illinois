@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /forest-park/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

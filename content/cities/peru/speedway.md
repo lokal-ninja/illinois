@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /peru/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

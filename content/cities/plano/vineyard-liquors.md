@@ -1,5 +1,5 @@
 ---
 title: "Vineyard Liquors"
 url: /plano/vineyard-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

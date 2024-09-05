@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /skokie/cubesmart/
-shop: storage rental
+shop: Mieten
 ---

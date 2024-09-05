@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /chicago/mobil-mart-west-washington-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

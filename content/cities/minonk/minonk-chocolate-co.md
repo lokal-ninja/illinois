@@ -1,5 +1,5 @@
 ---
 title: "Minonk Chocolate Co."
 url: /minonk/minonk-chocolate-co/
-shop: chocolate
+shop: Schokolade
 ---

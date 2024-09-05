@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /algonquin/loft/
-shop: clothes
+shop: Kleidung
 ---

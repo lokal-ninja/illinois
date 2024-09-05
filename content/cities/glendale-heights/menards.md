@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /glendale-heights/menards/
-shop: doityourself
+shop: Baumarkt
 ---

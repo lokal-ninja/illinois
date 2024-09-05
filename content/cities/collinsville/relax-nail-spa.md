@@ -1,5 +1,5 @@
 ---
 title: "Relax Nail Spa"
 url: /collinsville/relax-nail-spa/
-shop: beauty
+shop: Kosmetik
 ---

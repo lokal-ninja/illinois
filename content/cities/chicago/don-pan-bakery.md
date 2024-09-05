@@ -1,5 +1,5 @@
 ---
 title: "Don Pan Bakery"
 url: /chicago/don-pan-bakery/
-shop: bakery
+shop: Bäckerei
 ---

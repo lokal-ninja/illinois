@@ -1,5 +1,5 @@
 ---
 title: "Dania Furnture"
 url: /northbrook/dania-furnture/
-shop: furniture
+shop: Möbel
 ---

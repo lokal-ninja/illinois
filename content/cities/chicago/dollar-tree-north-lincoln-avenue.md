@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chicago/dollar-tree-north-lincoln-avenue/
-shop: variety store
+shop: Kramladen
 ---

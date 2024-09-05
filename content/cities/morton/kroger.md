@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /morton/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

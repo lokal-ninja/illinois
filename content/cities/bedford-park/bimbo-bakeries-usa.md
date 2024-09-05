@@ -1,5 +1,5 @@
 ---
 title: "Bimbo Bakeries USA"
 url: /bedford-park/bimbo-bakeries-usa/
-shop: bakery
+shop: Bäckerei
 ---

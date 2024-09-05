@@ -1,5 +1,5 @@
 ---
 title: "Slumberland"
 url: /rockford/slumberland/
-shop: houseware
+shop: Haushaltsartikel
 ---

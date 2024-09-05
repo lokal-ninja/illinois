@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /frankfort/speedway-west-lincoln-highway/
-shop: convenience
+shop: Lebensmittel
 ---

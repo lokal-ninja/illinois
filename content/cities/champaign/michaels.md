@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /champaign/michaels/
-shop: craft
+shop: Basteln
 ---

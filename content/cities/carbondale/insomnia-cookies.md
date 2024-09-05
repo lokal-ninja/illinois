@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /carbondale/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consignment Lounge"
 url: /chicago/consignment-lounge/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /chicago/meineke/
-shop: car repair
+shop: Autowerkstatt
 ---

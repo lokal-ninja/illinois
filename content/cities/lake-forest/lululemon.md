@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /lake-forest/lululemon/
-shop: clothes
+shop: Kleidung
 ---

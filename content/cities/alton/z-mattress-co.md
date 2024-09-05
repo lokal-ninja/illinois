@@ -1,5 +1,5 @@
 ---
 title: "Z Mattress Co."
 url: /alton/z-mattress-co/
-shop: bed
+shop: Betten
 ---

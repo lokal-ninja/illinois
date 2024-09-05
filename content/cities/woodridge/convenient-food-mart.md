@@ -1,5 +1,5 @@
 ---
 title: "Convenient Food Mart"
 url: /woodridge/convenient-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

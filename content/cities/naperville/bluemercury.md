@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /naperville/bluemercury/
-shop: beauty
+shop: Kosmetik
 ---

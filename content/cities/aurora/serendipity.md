@@ -1,5 +1,5 @@
 ---
 title: "Serendipity"
 url: /aurora/serendipity/
-shop: charity
+shop: Gebrauchtwaren
 ---

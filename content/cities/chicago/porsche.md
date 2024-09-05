@@ -1,5 +1,5 @@
 ---
 title: "Porsche"
 url: /chicago/porsche/
-shop: car
+shop: Autohaus
 ---

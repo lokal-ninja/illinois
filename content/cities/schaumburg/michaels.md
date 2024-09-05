@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /schaumburg/michaels/
-shop: craft
+shop: Basteln
 ---

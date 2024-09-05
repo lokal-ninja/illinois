@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /grafton/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

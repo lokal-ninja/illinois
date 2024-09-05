@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /chicago/lids-west-addison-street/
-shop: clothes
+shop: Kleidung
 ---

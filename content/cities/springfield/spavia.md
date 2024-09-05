@@ -1,5 +1,5 @@
 ---
 title: "Spavia"
 url: /springfield/spavia/
-shop: beauty
+shop: Kosmetik
 ---

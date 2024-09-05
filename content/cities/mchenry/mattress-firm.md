@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /mchenry/mattress-firm/
-shop: bed
+shop: Betten
 ---

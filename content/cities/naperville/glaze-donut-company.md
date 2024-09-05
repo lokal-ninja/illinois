@@ -1,5 +1,5 @@
 ---
 title: "Glaze Donut Company"
 url: /naperville/glaze-donut-company/
-shop: pastry
+shop: Konditorei
 ---

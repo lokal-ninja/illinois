@@ -1,5 +1,5 @@
 ---
 title: "Rosy’s Bakery"
 url: /chicago/rosys-bakery/
-shop: bakery
+shop: Bäckerei
 ---

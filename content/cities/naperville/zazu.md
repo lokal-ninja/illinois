@@ -1,5 +1,5 @@
 ---
 title: "Zazu"
 url: /naperville/zazu/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MattressBOSS"
 url: /champaign/mattressboss/
-shop: bed
+shop: Betten
 ---

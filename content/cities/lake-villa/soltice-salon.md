@@ -1,5 +1,5 @@
 ---
 title: "Soltice Salon"
 url: /lake-villa/soltice-salon/
-shop: hairdresser
+shop: Friseur
 ---

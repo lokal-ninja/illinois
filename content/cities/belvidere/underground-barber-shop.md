@@ -1,5 +1,5 @@
 ---
 title: "Underground Barber Shop"
 url: /belvidere/underground-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

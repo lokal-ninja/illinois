@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /arlington-heights/mattress-firm/
-shop: bed
+shop: Betten
 ---

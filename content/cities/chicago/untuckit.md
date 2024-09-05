@@ -1,5 +1,5 @@
 ---
 title: "UNTUCKit"
 url: /chicago/untuckit/
-shop: clothes
+shop: Kleidung
 ---

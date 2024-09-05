@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /evergreen-park/oberweis/
-shop: dairy
+shop: Milch
 ---

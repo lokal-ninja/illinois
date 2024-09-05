@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /lombard/cleaners/
-shop: laundry
+shop: Wäscherei
 ---

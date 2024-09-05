@@ -1,5 +1,5 @@
 ---
 title: "Weber's Bakery"
 url: /chicago/webers-bakery/
-shop: bakery
+shop: Bäckerei
 ---

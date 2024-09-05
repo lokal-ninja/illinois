@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /polo/shell/
-shop: convenience
+shop: Lebensmittel
 ---

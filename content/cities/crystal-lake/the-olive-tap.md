@@ -1,5 +1,5 @@
 ---
 title: "The Olive Tap"
 url: /crystal-lake/the-olive-tap/
-shop: convenience
+shop: Lebensmittel
 ---

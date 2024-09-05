@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /western-springs/oberweis/
-shop: dairy
+shop: Milch
 ---

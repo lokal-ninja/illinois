@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /deerfield/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

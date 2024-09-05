@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /schaumburg/rebel/
-shop: convenience
+shop: Lebensmittel
 ---

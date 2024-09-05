@@ -1,5 +1,5 @@
 ---
 title: "Disc Replay"
 url: /champaign/disc-replay/
-shop: video games
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /aurora/jared/
-shop: jewelry
+shop: Schmuck
 ---

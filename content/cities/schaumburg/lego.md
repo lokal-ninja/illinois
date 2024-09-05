@@ -1,5 +1,5 @@
 ---
 title: "Lego"
 url: /schaumburg/lego/
-shop: toys
+shop: Spielzeug
 ---

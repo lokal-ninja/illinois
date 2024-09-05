@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /rockford/airgas/
-shop: gas
+shop: Gasflaschen
 ---

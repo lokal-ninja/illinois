@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /south-holland/arco/
-shop: convenience
+shop: Lebensmittel
 ---

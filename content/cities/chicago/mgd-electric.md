@@ -1,5 +1,5 @@
 ---
 title: "MGD Electric"
 url: /chicago/mgd-electric/
-shop: electrical
+shop: Elektrisch
 ---

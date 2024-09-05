@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /chicago/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

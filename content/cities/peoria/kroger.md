@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /peoria/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

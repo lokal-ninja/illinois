@@ -1,5 +1,5 @@
 ---
 title: "Kishwaukee College Bookstore"
 url: /malta/kishwaukee-college-bookstore/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petland"
 url: /rockford/petland/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /chicago/thorntons/
-shop: convenience
+shop: Lebensmittel
 ---

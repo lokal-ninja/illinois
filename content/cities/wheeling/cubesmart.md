@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /wheeling/cubesmart/
-shop: storage rental
+shop: Mieten
 ---

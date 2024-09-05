@@ -1,5 +1,5 @@
 ---
 title: "Rich’s Deli"
 url: /chicago/richs-deli/
-shop: deli
+shop: Feinkost
 ---

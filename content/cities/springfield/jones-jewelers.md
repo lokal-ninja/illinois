@@ -1,5 +1,5 @@
 ---
 title: "Jones Jewelers"
 url: /springfield/jones-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

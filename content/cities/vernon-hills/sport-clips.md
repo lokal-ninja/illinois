@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /vernon-hills/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside"
 url: /chicago/sunnyside/
-shop: cannabis
+shop: Hanf
 ---

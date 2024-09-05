@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /belvidere/fastenal/
-shop: trade
+shop: Baustoffe
 ---

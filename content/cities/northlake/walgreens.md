@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /northlake/walgreens/
-shop: chemist
+shop: Drogerie
 ---

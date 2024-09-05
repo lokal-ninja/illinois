@@ -1,5 +1,5 @@
 ---
 title: "San Juan Bakery"
 url: /chicago/san-juan-bakery/
-shop: bakery
+shop: Bäckerei
 ---

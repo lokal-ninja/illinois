@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /chicago/walmart-supercenter-west-diversey-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

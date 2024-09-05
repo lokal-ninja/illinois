@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /orland-park/whole-foods-market/
-shop: supermarket
+shop: Supermarkt
 ---

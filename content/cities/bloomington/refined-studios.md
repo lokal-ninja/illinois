@@ -1,5 +1,5 @@
 ---
 title: "Refined Studios"
 url: /bloomington/refined-studios/
-shop: hairdresser
+shop: Friseur
 ---

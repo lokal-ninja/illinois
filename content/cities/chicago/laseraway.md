@@ -1,5 +1,5 @@
 ---
 title: "LaserAway"
 url: /chicago/laseraway/
-shop: beauty
+shop: Kosmetik
 ---

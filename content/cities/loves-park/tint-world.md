@@ -1,5 +1,5 @@
 ---
 title: "Tint World"
 url: /loves-park/tint-world/
-shop: shop
+shop: Allgemein
 ---

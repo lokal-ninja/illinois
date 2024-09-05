@@ -1,5 +1,5 @@
 ---
 title: "Paul Stuart"
 url: /chicago/paul-stuart/
-shop: clothes
+shop: Kleidung
 ---

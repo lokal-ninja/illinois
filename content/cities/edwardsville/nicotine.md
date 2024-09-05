@@ -1,5 +1,5 @@
 ---
 title: "Nicotine+"
 url: /edwardsville/nicotine/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

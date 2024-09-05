@@ -1,5 +1,5 @@
 ---
 title: "Secure Locks Locksmith"
 url: /chicago/secure-locks-locksmith/
-shop: locksmith
+shop: Schlüsseldienst
 ---

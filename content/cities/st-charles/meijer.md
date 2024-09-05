@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /st-charles/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

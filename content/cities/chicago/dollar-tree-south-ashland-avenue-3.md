@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chicago/dollar-tree-south-ashland-avenue-3/
-shop: variety store
+shop: Kramladen
 ---

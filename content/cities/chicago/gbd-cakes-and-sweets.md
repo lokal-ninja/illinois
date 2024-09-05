@@ -1,5 +1,5 @@
 ---
 title: "GBD Cakes and Sweets"
 url: /chicago/gbd-cakes-and-sweets/
-shop: bakery
+shop: Bäckerei
 ---

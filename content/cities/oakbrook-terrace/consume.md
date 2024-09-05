@@ -1,5 +1,5 @@
 ---
 title: "Consume"
 url: /oakbrook-terrace/consume/
-shop: cannabis
+shop: Hanf
 ---

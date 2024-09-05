@@ -1,5 +1,5 @@
 ---
 title: "Rock River Outdoor Equipment"
 url: /byron/rock-river-outdoor-equipment/
-shop: groundskeeping
+shop: Platzpflege
 ---

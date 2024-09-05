@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /mokena/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

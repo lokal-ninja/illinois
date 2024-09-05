@@ -1,5 +1,5 @@
 ---
 title: "Acro"
 url: /chicago/acro/
-shop: convenience
+shop: Lebensmittel
 ---

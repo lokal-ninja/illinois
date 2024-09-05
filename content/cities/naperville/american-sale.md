@@ -1,5 +1,5 @@
 ---
 title: "American Sale"
 url: /naperville/american-sale/
-shop: outdoor
+shop: Outdoor
 ---

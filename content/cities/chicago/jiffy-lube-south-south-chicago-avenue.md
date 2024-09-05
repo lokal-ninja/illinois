@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /chicago/jiffy-lube-south-south-chicago-avenue/
-shop: car repair
+shop: Autowerkstatt
 ---

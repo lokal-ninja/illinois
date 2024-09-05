@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /burbank/michaels/
-shop: craft
+shop: Basteln
 ---

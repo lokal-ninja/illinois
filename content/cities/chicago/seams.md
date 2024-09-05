@@ -1,5 +1,5 @@
 ---
 title: "Seams"
 url: /chicago/seams/
-shop: tailor
+shop: Schneiderei
 ---

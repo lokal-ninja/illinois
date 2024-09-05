@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /volo/thorntons/
-shop: convenience
+shop: Lebensmittel
 ---

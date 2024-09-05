@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /glencoe/carmax/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Craft"
 url: /springfield/auto-craft/
-shop: car repair
+shop: Autowerkstatt
 ---

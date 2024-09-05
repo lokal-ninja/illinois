@@ -1,5 +1,5 @@
 ---
 title: "Mayfair Beauty Shop"
 url: /evanston/mayfair-beauty-shop/
-shop: beauty
+shop: Kosmetik
 ---

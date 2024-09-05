@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lombard/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

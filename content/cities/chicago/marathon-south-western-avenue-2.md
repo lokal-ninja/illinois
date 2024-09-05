@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /chicago/marathon-south-western-avenue-2/
-shop: convenience
+shop: Lebensmittel
 ---

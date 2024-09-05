@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /dekalb/aarons/
-shop: furniture
+shop: Möbel
 ---

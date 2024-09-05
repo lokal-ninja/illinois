@@ -1,5 +1,5 @@
 ---
 title: "Mekato’s Colombian Bakery"
 url: /chicago/mekatos-colombian-bakery/
-shop: bakery
+shop: Bäckerei
 ---

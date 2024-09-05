@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /streator/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

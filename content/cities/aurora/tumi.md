@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /aurora/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

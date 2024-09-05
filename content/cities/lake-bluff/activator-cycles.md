@@ -1,5 +1,5 @@
 ---
 title: "Activator Cycles"
 url: /lake-bluff/activator-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

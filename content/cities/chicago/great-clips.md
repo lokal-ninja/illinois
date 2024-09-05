@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /chicago/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

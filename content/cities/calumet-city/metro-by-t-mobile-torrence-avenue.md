@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /calumet-city/metro-by-t-mobile-torrence-avenue/
-shop: mobile phone
+shop: Handy
 ---

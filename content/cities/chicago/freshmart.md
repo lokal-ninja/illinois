@@ -1,5 +1,5 @@
 ---
 title: "FreshMart"
 url: /chicago/freshmart/
-shop: supermarket
+shop: Supermarkt
 ---

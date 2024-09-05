@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /carbondale/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

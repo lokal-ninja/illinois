@@ -1,5 +1,5 @@
 ---
 title: "Cermak Fresh Market"
 url: /chicago/cermak-fresh-market-west-cermak-road/
-shop: supermarket
+shop: Supermarkt
 ---

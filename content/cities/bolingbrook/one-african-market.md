@@ -1,5 +1,5 @@
 ---
 title: "One African Market"
 url: /bolingbrook/one-african-market/
-shop: convenience
+shop: Lebensmittel
 ---

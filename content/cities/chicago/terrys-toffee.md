@@ -1,5 +1,5 @@
 ---
 title: "Terry’s Toffee"
 url: /chicago/terrys-toffee/
-shop: bakery
+shop: Bäckerei
 ---

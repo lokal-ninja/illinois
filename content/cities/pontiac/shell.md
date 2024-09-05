@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /pontiac/shell/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /dekalb/schnucks/
-shop: supermarket
+shop: Supermarkt
 ---

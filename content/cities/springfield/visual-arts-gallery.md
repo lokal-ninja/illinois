@@ -1,5 +1,5 @@
 ---
 title: "Visual Arts Gallery"
 url: /springfield/visual-arts-gallery/
-shop: art
+shop: Kunst
 ---

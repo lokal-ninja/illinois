@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /glen-carbon/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Birkenstock"
 url: /wilmette/birkenstock/
-shop: shoes
+shop: Schuhe
 ---

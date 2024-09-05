@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rockton/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

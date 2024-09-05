@@ -1,5 +1,5 @@
 ---
 title: "Matteson Liquors"
 url: /matteson/matteson-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

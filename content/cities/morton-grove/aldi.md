@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /morton-grove/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

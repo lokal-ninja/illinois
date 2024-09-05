@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /peoria/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

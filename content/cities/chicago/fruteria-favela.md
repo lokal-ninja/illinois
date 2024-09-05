@@ -1,5 +1,5 @@
 ---
 title: "Fruteria Favela"
 url: /chicago/fruteria-favela/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

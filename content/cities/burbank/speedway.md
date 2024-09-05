@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /burbank/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

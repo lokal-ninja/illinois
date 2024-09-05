@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /bolingbrook/michaels/
-shop: craft
+shop: Basteln
 ---

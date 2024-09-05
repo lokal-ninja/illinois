@@ -1,5 +1,5 @@
 ---
 title: "Prairie Path Cycles"
 url: /batavia/prairie-path-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

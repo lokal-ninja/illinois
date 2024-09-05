@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /romeoville/rebel/
-shop: convenience
+shop: Lebensmittel
 ---

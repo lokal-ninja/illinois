@@ -1,5 +1,5 @@
 ---
 title: "Foodstuffs"
 url: /evanston/foodstuffs/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

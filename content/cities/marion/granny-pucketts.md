@@ -1,5 +1,5 @@
 ---
 title: "Granny Puckett's"
 url: /marion/granny-pucketts/
-shop: bakery
+shop: Bäckerei
 ---

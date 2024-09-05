@@ -1,5 +1,5 @@
 ---
 title: "Sudz"
 url: /chicago/sudz/
-shop: laundry
+shop: Wäscherei
 ---

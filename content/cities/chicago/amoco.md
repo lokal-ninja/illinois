@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /chicago/amoco/
-shop: convenience
+shop: Lebensmittel
 ---

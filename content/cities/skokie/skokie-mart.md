@@ -1,5 +1,5 @@
 ---
 title: "Skokie Mart"
 url: /skokie/skokie-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /rockford/hyundai/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /aurora/journeys/
-shop: shoes
+shop: Schuhe
 ---

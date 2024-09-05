@@ -1,5 +1,5 @@
 ---
 title: "All About Eyes"
 url: /springfield/all-about-eyes/
-shop: optician
+shop: Optiker
 ---

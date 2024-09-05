@@ -1,5 +1,5 @@
 ---
 title: "Qik-n-EZ"
 url: /springfield/qik-n-ez-wabash-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

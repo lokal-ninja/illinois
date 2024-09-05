@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /lake-in-the-hills/at-home/
-shop: houseware
+shop: Haushaltsartikel
 ---

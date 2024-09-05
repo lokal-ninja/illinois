@@ -1,5 +1,5 @@
 ---
 title: "Xeno"
 url: /rockford/xeno/
-shop: beauty
+shop: Kosmetik
 ---

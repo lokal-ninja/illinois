@@ -1,5 +1,5 @@
 ---
 title: "Fresh Farms"
 url: /niles/fresh-farms/
-shop: supermarket
+shop: Supermarkt
 ---

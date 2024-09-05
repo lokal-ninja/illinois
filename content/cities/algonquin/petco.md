@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /algonquin/petco/
-shop: pet
+shop: Tiere
 ---

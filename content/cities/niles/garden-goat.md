@@ -1,5 +1,5 @@
 ---
 title: "Garden Goat"
 url: /niles/garden-goat/
-shop: garden centre
+shop: Garten-Center
 ---

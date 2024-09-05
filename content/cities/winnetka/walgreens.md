@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /winnetka/walgreens/
-shop: chemist
+shop: Drogerie
 ---

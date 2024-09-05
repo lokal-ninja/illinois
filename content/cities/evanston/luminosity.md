@@ -1,5 +1,5 @@
 ---
 title: "Luminosity"
 url: /evanston/luminosity/
-shop: hairdresser
+shop: Friseur
 ---

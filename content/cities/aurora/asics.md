@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /aurora/asics/
-shop: shoes
+shop: Schuhe
 ---

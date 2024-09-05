@@ -1,5 +1,5 @@
 ---
 title: "Magic Touch Cleaners"
 url: /darien/magic-touch-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

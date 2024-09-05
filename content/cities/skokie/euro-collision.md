@@ -1,5 +1,5 @@
 ---
 title: "Euro Collision"
 url: /skokie/euro-collision/
-shop: car repair
+shop: Autowerkstatt
 ---

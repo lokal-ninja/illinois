@@ -1,5 +1,5 @@
 ---
 title: "Heyday"
 url: /chicago/heyday/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /algonquin/express/
-shop: clothes
+shop: Kleidung
 ---

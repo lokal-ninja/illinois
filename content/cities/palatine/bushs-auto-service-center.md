@@ -1,5 +1,5 @@
 ---
 title: "Bush's  Auto Service Center"
 url: /palatine/bushs-auto-service-center/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
 url: /rosemont/allsaints/
-shop: clothes
+shop: Kleidung
 ---

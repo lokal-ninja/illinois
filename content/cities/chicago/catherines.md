@@ -1,5 +1,5 @@
 ---
 title: "Catherines"
 url: /chicago/catherines/
-shop: clothes
+shop: Kleidung
 ---

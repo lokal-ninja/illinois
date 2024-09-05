@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /champaign/oberweis/
-shop: dairy
+shop: Milch
 ---

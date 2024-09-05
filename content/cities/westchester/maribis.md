@@ -1,5 +1,5 @@
 ---
 title: "Maribis"
 url: /westchester/maribis/
-shop: cannabis
+shop: Hanf
 ---

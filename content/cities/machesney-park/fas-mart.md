@@ -1,5 +1,5 @@
 ---
 title: "FAS Mart"
 url: /machesney-park/fas-mart/
-shop: convenience
+shop: Lebensmittel
 ---

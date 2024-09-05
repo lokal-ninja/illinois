@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /crestwood/autozone/
-shop: car parts
+shop: Autoteile
 ---

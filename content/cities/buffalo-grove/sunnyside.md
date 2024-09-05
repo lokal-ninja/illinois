@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside"
 url: /buffalo-grove/sunnyside/
-shop: cannabis
+shop: Hanf
 ---

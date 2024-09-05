@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /east-peoria/target/
-shop: supermarket
+shop: Supermarkt
 ---

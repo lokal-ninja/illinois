@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /rosemont/ecco/
-shop: shoes
+shop: Schuhe
 ---

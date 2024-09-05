@@ -1,5 +1,5 @@
 ---
 title: "Upscale Male"
 url: /naperville/upscale-male/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /rockford/peterbilt/
-shop: shop
+shop: Allgemein
 ---

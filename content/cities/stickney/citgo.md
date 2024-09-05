@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /stickney/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

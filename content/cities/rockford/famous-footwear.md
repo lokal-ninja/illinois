@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /rockford/famous-footwear/
-shop: shoes
+shop: Schuhe
 ---

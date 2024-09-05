@@ -1,5 +1,5 @@
 ---
 title: "Eyewear Express"
 url: /rockford/eyewear-express/
-shop: optician
+shop: Optiker
 ---

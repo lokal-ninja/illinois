@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /chicago/visionworks-north-cicero-avenue/
-shop: optician
+shop: Optiker
 ---

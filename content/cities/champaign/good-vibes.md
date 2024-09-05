@@ -1,5 +1,5 @@
 ---
 title: "Good Vibes"
 url: /champaign/good-vibes/
-shop: electronics
+shop: Elektronik
 ---

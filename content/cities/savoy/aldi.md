@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /savoy/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

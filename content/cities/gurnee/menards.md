@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /gurnee/menards/
-shop: doityourself
+shop: Baumarkt
 ---

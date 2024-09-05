@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /arlington-heights/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

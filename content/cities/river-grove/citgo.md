@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /river-grove/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

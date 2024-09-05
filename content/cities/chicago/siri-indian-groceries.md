@@ -1,5 +1,5 @@
 ---
 title: "Siri Indian Groceries"
 url: /chicago/siri-indian-groceries/
-shop: convenience
+shop: Lebensmittel
 ---

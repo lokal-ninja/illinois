@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /algonquin/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jack Schmitt Ford"
 url: /collinsville/jack-schmitt-ford/
-shop: car
+shop: Autohaus
 ---

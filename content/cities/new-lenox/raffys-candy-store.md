@@ -1,5 +1,5 @@
 ---
 title: "Raffy's Candy Store"
 url: /new-lenox/raffys-candy-store/
-shop: confectionery
+shop: Süßwaren
 ---

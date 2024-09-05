@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /bolingbrook/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

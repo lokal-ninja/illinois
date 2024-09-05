@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /summit/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

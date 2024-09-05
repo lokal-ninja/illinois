@@ -1,5 +1,5 @@
 ---
 title: "Cornerstone Jeweler"
 url: /new-lenox/cornerstone-jeweler/
-shop: jewelry
+shop: Schmuck
 ---

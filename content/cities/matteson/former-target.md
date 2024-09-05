@@ -1,5 +1,5 @@
 ---
 title: "Former Target"
 url: /matteson/former-target/
-shop: vacant
+shop: Leerstehend
 ---

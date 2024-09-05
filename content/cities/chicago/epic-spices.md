@@ -1,5 +1,5 @@
 ---
 title: "Epic Spices"
 url: /chicago/epic-spices/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

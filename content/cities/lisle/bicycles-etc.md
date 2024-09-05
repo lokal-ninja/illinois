@@ -1,5 +1,5 @@
 ---
 title: "Bicycles Etc."
 url: /lisle/bicycles-etc/
-shop: bicycle
+shop: Fahrrad
 ---

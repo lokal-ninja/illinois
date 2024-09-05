@@ -1,5 +1,5 @@
 ---
 title: "Cinnaholic"
 url: /naperville/cinnaholic/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /oswego/old-navy/
-shop: clothes
+shop: Kleidung
 ---

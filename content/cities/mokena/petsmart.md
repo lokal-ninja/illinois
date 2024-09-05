@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mokena/petsmart/
-shop: pet
+shop: Tiere
 ---

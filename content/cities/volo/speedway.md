@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /volo/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

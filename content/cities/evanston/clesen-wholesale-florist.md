@@ -1,5 +1,5 @@
 ---
 title: "Clesen Wholesale Florist"
 url: /evanston/clesen-wholesale-florist/
-shop: florist
+shop: Blumen
 ---

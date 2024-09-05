@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /chicago/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

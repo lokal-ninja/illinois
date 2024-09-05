@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /evanston/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Forest Park Foreign Car Repair"
 url: /forest-park/forest-park-foreign-car-repair/
-shop: car repair
+shop: Autowerkstatt
 ---

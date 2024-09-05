@@ -1,5 +1,5 @@
 ---
 title: "Check Into Cash"
 url: /cicero/check-into-cash/
-shop: pawnbroker
+shop: Leiher
 ---

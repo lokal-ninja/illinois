@@ -1,5 +1,5 @@
 ---
 title: "TT Nails"
 url: /darien/tt-nails/
-shop: beauty
+shop: Kosmetik
 ---

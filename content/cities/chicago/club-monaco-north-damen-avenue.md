@@ -1,5 +1,5 @@
 ---
 title: "Club Monaco"
 url: /chicago/club-monaco-north-damen-avenue/
-shop: clothes
+shop: Kleidung
 ---

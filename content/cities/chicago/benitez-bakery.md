@@ -1,5 +1,5 @@
 ---
 title: "Benitez Bakery"
 url: /chicago/benitez-bakery/
-shop: bakery
+shop: Bäckerei
 ---

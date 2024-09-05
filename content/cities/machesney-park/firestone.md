@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /machesney-park/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

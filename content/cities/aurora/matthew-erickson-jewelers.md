@@ -1,5 +1,5 @@
 ---
 title: "Matthew Erickson Jewelers"
 url: /aurora/matthew-erickson-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

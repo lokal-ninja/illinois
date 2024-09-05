@@ -1,5 +1,5 @@
 ---
 title: "Safeguard Self Storage"
 url: /chicago/safeguard-self-storage-north-northwest-highway/
-shop: storage rental
+shop: Mieten
 ---

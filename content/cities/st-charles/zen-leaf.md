@@ -1,5 +1,5 @@
 ---
 title: "Zen Leaf"
 url: /st-charles/zen-leaf/
-shop: cannabis
+shop: Hanf
 ---

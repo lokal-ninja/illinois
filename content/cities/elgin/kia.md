@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /elgin/kia/
-shop: car
+shop: Autohaus
 ---

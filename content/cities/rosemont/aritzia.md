@@ -1,5 +1,5 @@
 ---
 title: "Aritzia"
 url: /rosemont/aritzia/
-shop: clothes
+shop: Kleidung
 ---

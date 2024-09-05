@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /chicago/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

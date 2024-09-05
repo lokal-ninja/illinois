@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /dekalb/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

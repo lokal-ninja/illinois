@@ -1,5 +1,5 @@
 ---
 title: "Lundeen's"
 url: /dekalb/lundeens/
-shop: alcohol
+shop: Spirituosen
 ---

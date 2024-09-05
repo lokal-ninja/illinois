@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /mundelein/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

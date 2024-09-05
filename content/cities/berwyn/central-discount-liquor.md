@@ -1,5 +1,5 @@
 ---
 title: "Central Discount Liquor"
 url: /berwyn/central-discount-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

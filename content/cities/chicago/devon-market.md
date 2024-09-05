@@ -1,5 +1,5 @@
 ---
 title: "Devon Market"
 url: /chicago/devon-market/
-shop: supermarket
+shop: Supermarkt
 ---

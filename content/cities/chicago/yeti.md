@@ -1,5 +1,5 @@
 ---
 title: "Yeti"
 url: /chicago/yeti/
-shop: outdoor
+shop: Outdoor
 ---

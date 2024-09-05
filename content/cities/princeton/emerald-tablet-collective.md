@@ -1,5 +1,5 @@
 ---
 title: "Emerald Tablet Collective"
 url: /princeton/emerald-tablet-collective/
-shop: tattoo
+shop: Tattoo
 ---

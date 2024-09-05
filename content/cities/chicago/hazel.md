@@ -1,5 +1,5 @@
 ---
 title: "Hazel"
 url: /chicago/hazel/
-shop: houseware
+shop: Haushaltsartikel
 ---

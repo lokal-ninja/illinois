@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /schaumburg/oberweis/
-shop: dairy
+shop: Milch
 ---

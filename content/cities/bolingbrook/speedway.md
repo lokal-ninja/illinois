@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bolingbrook/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /waukegan/thorntons/
-shop: Lebensmittel
+shop: convenience
 ---

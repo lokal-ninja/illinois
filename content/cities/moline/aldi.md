@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /moline/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

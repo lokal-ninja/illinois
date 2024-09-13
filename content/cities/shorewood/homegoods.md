@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /shorewood/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

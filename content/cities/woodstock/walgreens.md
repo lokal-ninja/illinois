@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /woodstock/walgreens/
-shop: Drogerie
+shop: chemist
 ---

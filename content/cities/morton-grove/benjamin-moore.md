@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /morton-grove/benjamin-moore/
-shop: Farben
+shop: paint
 ---

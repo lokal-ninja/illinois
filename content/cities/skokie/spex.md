@@ -1,5 +1,5 @@
 ---
 title: "Spex"
 url: /skokie/spex/
-shop: Autowerkstatt
+shop: car repair
 ---

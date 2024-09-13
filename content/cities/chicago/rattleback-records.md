@@ -1,5 +1,5 @@
 ---
 title: "Rattleback Records"
 url: /chicago/rattleback-records/
-shop: Musik
+shop: music
 ---

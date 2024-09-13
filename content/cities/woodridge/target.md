@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /woodridge/target/
-shop: Warenhaus
+shop: department store
 ---

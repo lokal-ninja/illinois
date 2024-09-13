@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /morton-grove/dollar-tree-west-dempster-street/
-shop: Kramladen
+shop: variety store
 ---

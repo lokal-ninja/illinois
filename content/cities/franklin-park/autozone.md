@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /franklin-park/autozone/
-shop: Autoteile
+shop: car parts
 ---

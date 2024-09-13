@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /zion/murphy-usa/
-shop: Lebensmittel
+shop: convenience
 ---

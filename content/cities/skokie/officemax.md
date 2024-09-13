@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /skokie/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

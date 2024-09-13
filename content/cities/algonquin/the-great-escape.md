@@ -1,5 +1,5 @@
 ---
 title: "The Great Escape"
 url: /algonquin/the-great-escape/
-shop: Outdoor
+shop: outdoor
 ---

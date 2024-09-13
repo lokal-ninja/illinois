@@ -1,5 +1,5 @@
 ---
 title: "Maximum Distractions"
 url: /chicago/maximum-distractions/
-shop: Sammler
+shop: collector
 ---

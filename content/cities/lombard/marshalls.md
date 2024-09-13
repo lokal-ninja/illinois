@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /lombard/marshalls/
-shop: Warenhaus
+shop: department store
 ---

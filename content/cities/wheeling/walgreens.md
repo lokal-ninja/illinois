@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /wheeling/walgreens/
-shop: Drogerie
+shop: chemist
 ---

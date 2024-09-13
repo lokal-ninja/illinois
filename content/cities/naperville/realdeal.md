@@ -1,5 +1,5 @@
 ---
 title: "RealDeal"
 url: /naperville/realdeal/
-shop: Kramladen
+shop: variety store
 ---

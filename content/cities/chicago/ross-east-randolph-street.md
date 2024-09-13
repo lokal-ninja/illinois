@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /chicago/ross-east-randolph-street/
-shop: Warenhaus
+shop: department store
 ---

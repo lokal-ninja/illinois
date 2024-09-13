@@ -1,5 +1,5 @@
 ---
 title: "Country Market"
 url: /gibson-city/country-market/
-shop: Supermarkt
+shop: supermarket
 ---

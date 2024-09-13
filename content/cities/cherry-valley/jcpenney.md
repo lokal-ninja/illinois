@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /cherry-valley/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

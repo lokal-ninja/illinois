@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /north-aurora/verizon/
-shop: Handy
+shop: mobile phone
 ---

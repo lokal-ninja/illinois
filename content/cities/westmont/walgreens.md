@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /westmont/walgreens/
-shop: Drogerie
+shop: chemist
 ---

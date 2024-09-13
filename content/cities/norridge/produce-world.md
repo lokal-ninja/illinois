@@ -1,5 +1,5 @@
 ---
 title: "Produce World"
 url: /norridge/produce-world/
-shop: Supermarkt
+shop: supermarket
 ---

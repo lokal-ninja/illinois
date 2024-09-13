@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /rockford/autozone-south-alpine-road/
-shop: Autoteile
+shop: car parts
 ---

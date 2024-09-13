@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /oak-park/benjamin-moore/
-shop: Farben
+shop: paint
 ---

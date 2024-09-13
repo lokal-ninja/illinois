@@ -1,5 +1,5 @@
 ---
 title: "Gameday Spirit"
 url: /champaign/gameday-spirit/
-shop: Kleidung
+shop: clothes
 ---

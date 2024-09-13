@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /oswego/dsw/
-shop: Schuhe
+shop: shoes
 ---

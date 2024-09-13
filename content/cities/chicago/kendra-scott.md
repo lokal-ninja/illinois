@@ -1,5 +1,5 @@
 ---
 title: "Kendra Scott"
 url: /chicago/kendra-scott/
-shop: Schmuck
+shop: jewelry
 ---

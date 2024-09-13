@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /niles/walmart/
-shop: Warenhaus
+shop: department store
 ---

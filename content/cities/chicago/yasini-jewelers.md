@@ -1,5 +1,5 @@
 ---
 title: "Yasini Jewelers"
 url: /chicago/yasini-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

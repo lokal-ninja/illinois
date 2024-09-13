@@ -1,5 +1,5 @@
 ---
 title: "The Blue Violet"
 url: /morrison/the-blue-violet/
-shop: Blumen
+shop: florist
 ---

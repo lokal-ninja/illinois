@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /aurora/autozone/
-shop: Autoteile
+shop: car parts
 ---

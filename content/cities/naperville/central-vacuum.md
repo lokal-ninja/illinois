@@ -1,5 +1,5 @@
 ---
 title: "Central Vacuum"
 url: /naperville/central-vacuum/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

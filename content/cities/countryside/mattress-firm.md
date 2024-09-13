@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /countryside/mattress-firm/
-shop: Betten
+shop: bed
 ---

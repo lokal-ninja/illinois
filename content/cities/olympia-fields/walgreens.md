@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /olympia-fields/walgreens/
-shop: Drogerie
+shop: chemist
 ---

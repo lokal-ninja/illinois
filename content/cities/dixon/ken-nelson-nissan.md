@@ -1,5 +1,5 @@
 ---
 title: "Ken Nelson Nissan"
 url: /dixon/ken-nelson-nissan/
-shop: Autohaus
+shop: car
 ---

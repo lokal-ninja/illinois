@@ -1,5 +1,5 @@
 ---
 title: "Adidas Originals"
 url: /chicago/adidas-originals/
-shop: Kleidung
+shop: clothes
 ---

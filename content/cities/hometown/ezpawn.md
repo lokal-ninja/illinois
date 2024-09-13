@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /hometown/ezpawn/
-shop: Leiher
+shop: pawnbroker
 ---

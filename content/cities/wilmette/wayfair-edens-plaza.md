@@ -1,5 +1,5 @@
 ---
 title: "Wayfair Edens Plaza"
 url: /wilmette/wayfair-edens-plaza/
-shop: Möbel
+shop: furniture
 ---

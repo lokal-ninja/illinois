@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /matteson/burlington/
-shop: Warenhaus
+shop: department store
 ---

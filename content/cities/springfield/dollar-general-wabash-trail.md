@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /springfield/dollar-general-wabash-trail/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tobacco"
 url: /springfield/discount-tobacco-west-jefferson-street/
-shop: Tabak
+shop: tobacco
 ---

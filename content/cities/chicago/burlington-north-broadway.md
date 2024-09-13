@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /chicago/burlington-north-broadway/
-shop: Warenhaus
+shop: department store
 ---

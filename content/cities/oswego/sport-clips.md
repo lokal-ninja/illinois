@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /oswego/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

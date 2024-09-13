@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /chicago/citgo-south-california-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

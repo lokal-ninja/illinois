@@ -1,5 +1,5 @@
 ---
 title: "Kisselburg Wauconda"
 url: /wauconda/kisselburg-wauconda/
-shop: Bestattungen
+shop: funeral directors
 ---

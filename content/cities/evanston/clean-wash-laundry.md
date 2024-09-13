@@ -1,5 +1,5 @@
 ---
 title: "Clean Wash Laundry"
 url: /evanston/clean-wash-laundry/
-shop: Wäscherei
+shop: laundry
 ---

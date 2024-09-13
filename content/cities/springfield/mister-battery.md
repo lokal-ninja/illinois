@@ -1,5 +1,5 @@
 ---
 title: "Mister Battery"
 url: /springfield/mister-battery/
-shop: Energie
+shop: energy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KOTD"
 url: /aurora/kotd/
-shop: Schuhe
+shop: shoes
 ---

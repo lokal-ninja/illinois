@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /chicago/mobil-mart-west-pershing-road/
-shop: Lebensmittel
+shop: convenience
 ---

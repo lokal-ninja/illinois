@@ -1,5 +1,5 @@
 ---
 title: "Sandmeyer's"
 url: /chicago/sandmeyers/
-shop: Bücher
+shop: books
 ---

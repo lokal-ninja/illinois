@@ -1,5 +1,5 @@
 ---
 title: "BRANDT"
 url: /fairbury/brandt/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

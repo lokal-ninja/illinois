@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /morton-grove/public-storage/
-shop: Mieten
+shop: storage rental
 ---

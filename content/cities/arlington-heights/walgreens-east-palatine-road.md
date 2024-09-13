@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /arlington-heights/walgreens-east-palatine-road/
-shop: Drogerie
+shop: chemist
 ---

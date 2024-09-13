@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /naperville/public-storage-west-ogden-avenue/
-shop: Mieten
+shop: storage rental
 ---

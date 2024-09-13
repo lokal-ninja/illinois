@@ -1,5 +1,5 @@
 ---
 title: "Sine Qua Non"
 url: /chicago/sine-qua-non/
-shop: Friseur
+shop: hairdresser
 ---

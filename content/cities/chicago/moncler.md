@@ -1,5 +1,5 @@
 ---
 title: "Moncler"
 url: /chicago/moncler/
-shop: Kleidung
+shop: clothes
 ---

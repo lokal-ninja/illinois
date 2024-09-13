@@ -1,5 +1,5 @@
 ---
 title: "SaxMo Towing"
 url: /east-saint-louis/saxmo-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /oak-lawn/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /dekalb/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

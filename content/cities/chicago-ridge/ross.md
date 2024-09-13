@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /chicago-ridge/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olson Funeral Home"
 url: /chicago/olson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

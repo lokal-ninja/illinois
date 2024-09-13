@@ -1,5 +1,5 @@
 ---
 title: "Yemm"
 url: /galesburg/yemm/
-shop: Autohaus
+shop: car
 ---

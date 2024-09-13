@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkey"
 url: /round-lake-beach/grease-monkey/
-shop: Autowerkstatt
+shop: car repair
 ---

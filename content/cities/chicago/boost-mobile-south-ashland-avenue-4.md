@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /chicago/boost-mobile-south-ashland-avenue-4/
-shop: Handy
+shop: mobile phone
 ---

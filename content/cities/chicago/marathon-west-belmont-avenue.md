@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /chicago/marathon-west-belmont-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /naperville/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

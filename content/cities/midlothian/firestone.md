@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /midlothian/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

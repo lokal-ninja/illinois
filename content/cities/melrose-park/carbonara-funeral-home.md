@@ -1,5 +1,5 @@
 ---
 title: "Carbonara Funeral Home"
 url: /melrose-park/carbonara-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

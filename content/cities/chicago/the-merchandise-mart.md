@@ -1,5 +1,5 @@
 ---
 title: "The Merchandise Mart"
 url: /chicago/the-merchandise-mart/
-shop: Einkaufszentrum
+shop: mall
 ---

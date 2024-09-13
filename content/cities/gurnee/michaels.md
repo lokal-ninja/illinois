@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /gurnee/michaels/
-shop: Basteln
+shop: craft
 ---

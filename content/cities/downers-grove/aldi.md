@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /downers-grove/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

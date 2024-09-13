@@ -1,5 +1,5 @@
 ---
 title: "Barbara's Bookstore"
 url: /lombard/barbaras-bookstore/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Mattress"
 url: /niles/american-mattress/
-shop: Betten
+shop: bed
 ---

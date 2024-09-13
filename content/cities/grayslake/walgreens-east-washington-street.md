@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /grayslake/walgreens-east-washington-street/
-shop: Drogerie
+shop: chemist
 ---

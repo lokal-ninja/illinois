@@ -1,5 +1,5 @@
 ---
 title: "Derringer Auto Care"
 url: /springfield/derringer-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

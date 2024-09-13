@@ -1,5 +1,5 @@
 ---
 title: "Checkered Moon"
 url: /champaign/checkered-moon/
-shop: Raumausstattung
+shop: interior decoration
 ---

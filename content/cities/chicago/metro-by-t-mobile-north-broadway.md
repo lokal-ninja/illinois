@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /chicago/metro-by-t-mobile-north-broadway/
-shop: Handy
+shop: mobile phone
 ---

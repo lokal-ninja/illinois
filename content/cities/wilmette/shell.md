@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /wilmette/shell/
-shop: Lebensmittel
+shop: convenience
 ---

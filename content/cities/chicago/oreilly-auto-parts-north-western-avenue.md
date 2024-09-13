@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /chicago/oreilly-auto-parts-north-western-avenue/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /chicago/rainbow-south-halsted-street/
-shop: Kleidung
+shop: clothes
 ---

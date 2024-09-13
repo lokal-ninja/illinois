@@ -1,5 +1,5 @@
 ---
 title: "Kolatek Baking Company"
 url: /palatine/kolatek-baking-company/
-shop: Bäckerei
+shop: bakery
 ---

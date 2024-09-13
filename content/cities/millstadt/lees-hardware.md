@@ -1,5 +1,5 @@
 ---
 title: "Lee's Hardware"
 url: /millstadt/lees-hardware/
-shop: Haushaltsgeräte
+shop: appliance
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /la-grange/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

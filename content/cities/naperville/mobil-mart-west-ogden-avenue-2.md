@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /naperville/mobil-mart-west-ogden-avenue-2/
-shop: Lebensmittel
+shop: convenience
 ---

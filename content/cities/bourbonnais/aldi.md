@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bourbonnais/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

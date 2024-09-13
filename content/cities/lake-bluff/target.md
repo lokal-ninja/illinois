@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lake-bluff/target/
-shop: Warenhaus
+shop: department store
 ---

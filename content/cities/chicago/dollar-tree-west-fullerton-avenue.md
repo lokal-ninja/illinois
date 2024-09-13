@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chicago/dollar-tree-west-fullerton-avenue/
-shop: Kramladen
+shop: variety store
 ---

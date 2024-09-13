@@ -1,5 +1,5 @@
 ---
 title: "Plaza True Value Hardware"
 url: /chicago/plaza-true-value-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

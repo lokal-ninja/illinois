@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /fairview-heights/kohls/
-shop: Warenhaus
+shop: department store
 ---

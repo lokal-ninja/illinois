@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /oak-park/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

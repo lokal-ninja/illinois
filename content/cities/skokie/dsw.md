@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /skokie/dsw/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /blue-island/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

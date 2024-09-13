@@ -1,5 +1,5 @@
 ---
 title: "Amazon Go"
 url: /chicago/amazon-go/
-shop: Lebensmittel
+shop: convenience
 ---

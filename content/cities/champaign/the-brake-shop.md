@@ -1,5 +1,5 @@
 ---
 title: "The Brake Shop"
 url: /champaign/the-brake-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

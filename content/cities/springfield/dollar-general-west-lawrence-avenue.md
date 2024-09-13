@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /springfield/dollar-general-west-lawrence-avenue/
-shop: Kramladen
+shop: variety store
 ---

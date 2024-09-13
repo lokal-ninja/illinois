@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /summit/autozone/
-shop: Autoteile
+shop: car parts
 ---

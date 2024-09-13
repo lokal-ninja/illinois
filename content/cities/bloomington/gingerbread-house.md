@@ -1,5 +1,5 @@
 ---
 title: "Gingerbread House"
 url: /bloomington/gingerbread-house/
-shop: Spielzeug
+shop: toys
 ---

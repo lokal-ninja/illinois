@@ -1,5 +1,5 @@
 ---
 title: "His Her Hair"
 url: /galatia/his-her-hair/
-shop: Friseur
+shop: hairdresser
 ---

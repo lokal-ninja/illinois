@@ -1,5 +1,5 @@
 ---
 title: "NAILàCARTE"
 url: /chicago/nailacarte/
-shop: Kosmetik
+shop: beauty
 ---

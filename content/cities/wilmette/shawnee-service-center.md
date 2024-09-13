@@ -1,5 +1,5 @@
 ---
 title: "Shawnee Service Center"
 url: /wilmette/shawnee-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

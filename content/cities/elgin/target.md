@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /elgin/target/
-shop: Warenhaus
+shop: department store
 ---

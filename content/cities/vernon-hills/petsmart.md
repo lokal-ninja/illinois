@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /vernon-hills/petsmart/
-shop: Tiere
+shop: pet
 ---

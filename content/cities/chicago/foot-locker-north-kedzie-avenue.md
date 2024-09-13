@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /chicago/foot-locker-north-kedzie-avenue/
-shop: Schuhe
+shop: shoes
 ---

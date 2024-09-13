@@ -1,5 +1,5 @@
 ---
 title: "Block 37 Shops"
 url: /chicago/block-37-shops/
-shop: Einkaufszentrum
+shop: mall
 ---

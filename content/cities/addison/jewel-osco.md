@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /addison/jewel-osco/
-shop: Supermarkt
+shop: supermarket
 ---

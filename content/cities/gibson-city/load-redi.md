@@ -1,5 +1,5 @@
 ---
 title: "Load Redi"
 url: /gibson-city/load-redi/
-shop: Autowerkstatt
+shop: car repair
 ---

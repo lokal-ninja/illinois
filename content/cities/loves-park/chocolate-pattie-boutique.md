@@ -1,5 +1,5 @@
 ---
 title: "Chocolate Pattie Boutique"
 url: /loves-park/chocolate-pattie-boutique/
-shop: Kleidung
+shop: clothes
 ---

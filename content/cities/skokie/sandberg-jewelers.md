@@ -1,5 +1,5 @@
 ---
 title: "Sandberg Jewelers"
 url: /skokie/sandberg-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

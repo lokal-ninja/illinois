@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chicago/autozone-south-archer-avenue/
-shop: Autoteile
+shop: car parts
 ---

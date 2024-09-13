@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /bloomington/carters/
-shop: Kleidung
+shop: clothes
 ---

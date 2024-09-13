@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /chicago/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

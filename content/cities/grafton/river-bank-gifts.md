@@ -1,5 +1,5 @@
 ---
 title: "River Bank Gifts"
 url: /grafton/river-bank-gifts/
-shop: Andenken
+shop: gift
 ---

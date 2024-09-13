@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /plainfield/kohls-south-illinois-route-59/
-shop: Warenhaus
+shop: department store
 ---

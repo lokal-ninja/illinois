@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /dekalb/insomnia-cookies/
-shop: Konditorei
+shop: pastry
 ---

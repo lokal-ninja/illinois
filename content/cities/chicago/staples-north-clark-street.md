@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /chicago/staples-north-clark-street/
-shop: Schreibwaren
+shop: office supplies
 ---

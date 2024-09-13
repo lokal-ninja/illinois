@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /chicago/jiffy-lube-south-pulaski-road/
-shop: Autowerkstatt
+shop: car repair
 ---

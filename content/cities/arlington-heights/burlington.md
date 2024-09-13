@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /arlington-heights/burlington/
-shop: Warenhaus
+shop: department store
 ---

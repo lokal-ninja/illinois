@@ -1,5 +1,5 @@
 ---
 title: "Tony's Fresh Market"
 url: /plainfield/tonys-fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

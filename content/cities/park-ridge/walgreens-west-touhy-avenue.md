@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /park-ridge/walgreens-west-touhy-avenue/
-shop: Drogerie
+shop: chemist
 ---

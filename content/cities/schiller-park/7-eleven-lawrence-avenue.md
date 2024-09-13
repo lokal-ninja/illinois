@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /schiller-park/7-eleven-lawrence-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

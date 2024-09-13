@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /fairview-heights/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

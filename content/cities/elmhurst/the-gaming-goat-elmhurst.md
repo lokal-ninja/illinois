@@ -1,5 +1,5 @@
 ---
 title: "The Gaming Goat Elmhurst"
 url: /elmhurst/the-gaming-goat-elmhurst/
-shop: Spiele
+shop: games
 ---

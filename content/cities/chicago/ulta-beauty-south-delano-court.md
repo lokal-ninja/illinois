@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /chicago/ulta-beauty-south-delano-court/
-shop: Kosmetik
+shop: beauty
 ---

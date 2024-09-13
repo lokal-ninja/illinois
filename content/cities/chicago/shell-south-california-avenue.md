@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /chicago/shell-south-california-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

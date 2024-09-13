@@ -1,5 +1,5 @@
 ---
 title: "First Aid Comics"
 url: /chicago/first-aid-comics/
-shop: Bücher
+shop: books
 ---

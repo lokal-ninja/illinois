@@ -1,5 +1,5 @@
 ---
 title: "Prime Liquors"
 url: /warrenville/prime-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

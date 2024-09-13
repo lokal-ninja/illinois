@@ -1,5 +1,5 @@
 ---
 title: "M.J. Reed Jewelers"
 url: /champaign/m-j-reed-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

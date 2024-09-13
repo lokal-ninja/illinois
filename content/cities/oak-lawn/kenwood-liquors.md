@@ -1,5 +1,5 @@
 ---
 title: "Kenwood Liquors"
 url: /oak-lawn/kenwood-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

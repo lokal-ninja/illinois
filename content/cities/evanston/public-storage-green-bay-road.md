@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /evanston/public-storage-green-bay-road/
-shop: Mieten
+shop: storage rental
 ---

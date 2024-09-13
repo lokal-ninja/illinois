@@ -1,5 +1,5 @@
 ---
 title: "Jacobson Electric"
 url: /wheeling/jacobson-electric/
-shop: Lampen
+shop: lamps
 ---

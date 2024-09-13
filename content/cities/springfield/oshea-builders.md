@@ -1,5 +1,5 @@
 ---
 title: "O'Shea Builders"
 url: /springfield/oshea-builders/
-shop: Baustoffe
+shop: trade
 ---

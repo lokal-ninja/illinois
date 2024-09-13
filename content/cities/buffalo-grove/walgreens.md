@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /buffalo-grove/walgreens/
-shop: Drogerie
+shop: chemist
 ---

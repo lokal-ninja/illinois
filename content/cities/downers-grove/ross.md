@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /downers-grove/ross/
-shop: Warenhaus
+shop: department store
 ---

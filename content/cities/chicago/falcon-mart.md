@@ -1,5 +1,5 @@
 ---
 title: "Falcon Mart"
 url: /chicago/falcon-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wood Artisan"
 url: /grafton/wood-artisan/
-shop: Allgemein
+shop: shop
 ---

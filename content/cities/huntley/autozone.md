@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /huntley/autozone/
-shop: Autoteile
+shop: car parts
 ---

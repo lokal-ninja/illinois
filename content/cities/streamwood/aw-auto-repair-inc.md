@@ -1,5 +1,5 @@
 ---
 title: "AW Auto Repair Inc"
 url: /streamwood/aw-auto-repair-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

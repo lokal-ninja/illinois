@@ -1,5 +1,5 @@
 ---
 title: "Baladna Jewelry"
 url: /chicago/baladna-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /dekalb/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

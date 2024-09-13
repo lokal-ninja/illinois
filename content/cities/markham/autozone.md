@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /markham/autozone/
-shop: Autoteile
+shop: car parts
 ---

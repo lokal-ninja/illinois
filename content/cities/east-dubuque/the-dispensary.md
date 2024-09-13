@@ -1,5 +1,5 @@
 ---
 title: "The Dispensary"
 url: /east-dubuque/the-dispensary/
-shop: Hanf
+shop: cannabis
 ---

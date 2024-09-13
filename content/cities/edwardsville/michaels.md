@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /edwardsville/michaels/
-shop: Basteln
+shop: craft
 ---

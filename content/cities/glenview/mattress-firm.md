@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /glenview/mattress-firm/
-shop: Betten
+shop: bed
 ---

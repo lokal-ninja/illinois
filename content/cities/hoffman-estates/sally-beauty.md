@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /hoffman-estates/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

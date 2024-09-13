@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /lombard/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

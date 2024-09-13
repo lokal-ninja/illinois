@@ -1,5 +1,5 @@
 ---
 title: "A Cheap Tire"
 url: /springfield/a-cheap-tire/
-shop: Reifen
+shop: tyres
 ---

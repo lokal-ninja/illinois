@@ -1,5 +1,5 @@
 ---
 title: "The Piggy Bank"
 url: /springfield/the-piggy-bank/
-shop: Leiher
+shop: pawnbroker
 ---

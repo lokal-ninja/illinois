@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /orland-park/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

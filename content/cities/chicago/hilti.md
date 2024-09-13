@@ -1,5 +1,5 @@
 ---
 title: "Hilti"
 url: /chicago/hilti/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /wheaton/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

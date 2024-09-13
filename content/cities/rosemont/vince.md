@@ -1,5 +1,5 @@
 ---
 title: "VINCE."
 url: /rosemont/vince/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /south-holland/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

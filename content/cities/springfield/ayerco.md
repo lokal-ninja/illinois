@@ -1,5 +1,5 @@
 ---
 title: "Ayerco"
 url: /springfield/ayerco/
-shop: Lebensmittel
+shop: convenience
 ---

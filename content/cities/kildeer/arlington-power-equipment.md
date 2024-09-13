@@ -1,5 +1,5 @@
 ---
 title: "Arlington Power Equipment"
 url: /kildeer/arlington-power-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

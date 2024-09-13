@@ -1,5 +1,5 @@
 ---
 title: "Big Shoulders Coffee"
 url: /chicago/big-shoulders-coffee/
-shop: Kaffee
+shop: coffee
 ---

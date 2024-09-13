@@ -1,5 +1,5 @@
 ---
 title: "The Book Stall"
 url: /winnetka/the-book-stall/
-shop: Bücher
+shop: books
 ---

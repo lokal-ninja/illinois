@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /lake-zurich/oberweis/
-shop: Milch
+shop: dairy
 ---

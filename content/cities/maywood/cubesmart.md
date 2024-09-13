@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /maywood/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

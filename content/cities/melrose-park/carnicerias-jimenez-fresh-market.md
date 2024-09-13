@@ -1,5 +1,5 @@
 ---
 title: "Carnicerias Jimenez Fresh Market"
 url: /melrose-park/carnicerias-jimenez-fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /cicero/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

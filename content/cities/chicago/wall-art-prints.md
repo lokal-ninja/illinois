@@ -1,5 +1,5 @@
 ---
 title: "Wall Art Prints"
 url: /chicago/wall-art-prints/
-shop: Kunst
+shop: art
 ---

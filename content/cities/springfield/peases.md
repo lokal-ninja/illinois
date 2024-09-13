@@ -1,5 +1,5 @@
 ---
 title: "Pease's"
 url: /springfield/peases/
-shop: Süßwaren
+shop: confectionery
 ---

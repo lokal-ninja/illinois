@@ -1,5 +1,5 @@
 ---
 title: "Warehouse Liquors"
 url: /chicago/warehouse-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

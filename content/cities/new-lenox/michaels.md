@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /new-lenox/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /oswego/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

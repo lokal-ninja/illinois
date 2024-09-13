@@ -1,5 +1,5 @@
 ---
 title: "Belisima Donna"
 url: /chicago/belisima-donna/
-shop: Kosmetik
+shop: beauty
 ---

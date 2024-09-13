@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /geneva/loft/
-shop: Kleidung
+shop: clothes
 ---

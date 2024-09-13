@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /alton/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

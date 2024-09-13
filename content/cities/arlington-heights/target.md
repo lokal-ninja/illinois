@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /arlington-heights/target/
-shop: Warenhaus
+shop: department store
 ---

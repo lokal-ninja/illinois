@@ -1,5 +1,5 @@
 ---
 title: "Cornell Dollar Plus"
 url: /chicago/cornell-dollar-plus/
-shop: Kramladen
+shop: variety store
 ---

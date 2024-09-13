@@ -1,5 +1,5 @@
 ---
 title: "UPS Customer Center"
 url: /northbrook/ups-customer-center/
-shop: Kopieren
+shop: copyshop
 ---

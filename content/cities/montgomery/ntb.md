@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /montgomery/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

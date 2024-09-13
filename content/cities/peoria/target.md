@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /peoria/target/
-shop: Warenhaus
+shop: department store
 ---

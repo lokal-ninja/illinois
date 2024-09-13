@@ -1,5 +1,5 @@
 ---
 title: "Sunday's Seconds"
 url: /dekalb/sundays-seconds/
-shop: Gebrauchtwaren
+shop: charity
 ---

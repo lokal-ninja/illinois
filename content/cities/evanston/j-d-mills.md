@@ -1,5 +1,5 @@
 ---
 title: "J.D. Mills"
 url: /evanston/j-d-mills/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

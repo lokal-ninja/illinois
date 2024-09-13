@@ -1,5 +1,5 @@
 ---
 title: "Topdrawer"
 url: /chicago/topdrawer/
-shop: Modehaus
+shop: boutique
 ---

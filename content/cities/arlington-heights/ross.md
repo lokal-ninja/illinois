@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /arlington-heights/ross/
-shop: Warenhaus
+shop: department store
 ---

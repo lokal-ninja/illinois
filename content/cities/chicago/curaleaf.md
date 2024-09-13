@@ -1,5 +1,5 @@
 ---
 title: "Curaleaf"
 url: /chicago/curaleaf/
-shop: Hanf
+shop: cannabis
 ---

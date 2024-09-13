@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /chicago/ross-west-pershing-road/
-shop: Warenhaus
+shop: department store
 ---

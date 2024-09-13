@@ -1,5 +1,5 @@
 ---
 title: "Durango Western Wear"
 url: /cicero/durango-western-wear/
-shop: Kleidung
+shop: clothes
 ---

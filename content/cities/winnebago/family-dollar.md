@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /winnebago/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

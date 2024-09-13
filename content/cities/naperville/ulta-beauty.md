@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /naperville/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

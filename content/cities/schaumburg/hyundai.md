@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /schaumburg/hyundai/
-shop: Autohaus
+shop: car
 ---

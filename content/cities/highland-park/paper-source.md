@@ -1,5 +1,5 @@
 ---
 title: "Paper Source"
 url: /highland-park/paper-source/
-shop: Schreibwaren
+shop: office supplies
 ---

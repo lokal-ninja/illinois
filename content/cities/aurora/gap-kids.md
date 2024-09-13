@@ -1,5 +1,5 @@
 ---
 title: "Gap Kids"
 url: /aurora/gap-kids/
-shop: Kleidung
+shop: clothes
 ---

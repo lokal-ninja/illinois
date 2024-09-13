@@ -1,5 +1,5 @@
 ---
 title: "Tag's Bakery"
 url: /evanston/tags-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodstock KTM"
 url: /woodstock/woodstock-ktm/
-shop: Motorrad
+shop: motorcycle
 ---

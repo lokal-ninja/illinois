@@ -1,5 +1,5 @@
 ---
 title: "The Maxwell"
 url: /chicago/the-maxwell/
-shop: Einkaufszentrum
+shop: mall
 ---

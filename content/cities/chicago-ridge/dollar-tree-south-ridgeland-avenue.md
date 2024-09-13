@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chicago-ridge/dollar-tree-south-ridgeland-avenue/
-shop: Kramladen
+shop: variety store
 ---

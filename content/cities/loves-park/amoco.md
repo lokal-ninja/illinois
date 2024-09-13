@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /loves-park/amoco/
-shop: Lebensmittel
+shop: convenience
 ---

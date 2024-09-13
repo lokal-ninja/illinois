@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /rockford/michaels/
-shop: Basteln
+shop: craft
 ---

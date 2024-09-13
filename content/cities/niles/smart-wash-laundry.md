@@ -1,5 +1,5 @@
 ---
 title: "Smart Wash Laundry"
 url: /niles/smart-wash-laundry/
-shop: Wäscherei
+shop: laundry
 ---

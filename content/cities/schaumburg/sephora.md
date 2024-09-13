@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /schaumburg/sephora/
-shop: Kosmetik
+shop: beauty
 ---

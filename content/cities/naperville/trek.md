@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /naperville/trek/
-shop: Fahrrad
+shop: bicycle
 ---

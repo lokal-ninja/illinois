@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /dekalb/gamestop/
-shop: Videospiele
+shop: video games
 ---

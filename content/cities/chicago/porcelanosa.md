@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /chicago/porcelanosa/
-shop: Küchen
+shop: kitchen
 ---

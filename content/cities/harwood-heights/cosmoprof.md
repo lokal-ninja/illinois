@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /harwood-heights/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

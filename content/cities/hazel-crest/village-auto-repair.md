@@ -1,5 +1,5 @@
 ---
 title: "Village Auto Repair"
 url: /hazel-crest/village-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

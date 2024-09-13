@@ -1,5 +1,5 @@
 ---
 title: "Sierra"
 url: /springfield/sierra/
-shop: Outdoor
+shop: outdoor
 ---

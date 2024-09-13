@@ -1,5 +1,5 @@
 ---
 title: "Lamp Automotive"
 url: /wauconda/lamp-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /sauk-village/walgreens/
-shop: Drogerie
+shop: chemist
 ---

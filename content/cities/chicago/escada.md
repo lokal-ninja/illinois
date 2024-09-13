@@ -1,5 +1,5 @@
 ---
 title: "Escada"
 url: /chicago/escada/
-shop: Kleidung
+shop: clothes
 ---

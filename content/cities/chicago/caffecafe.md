@@ -1,5 +1,5 @@
 ---
 title: "Caffecafe"
 url: /chicago/caffecafe/
-shop: Kaffee
+shop: coffee
 ---

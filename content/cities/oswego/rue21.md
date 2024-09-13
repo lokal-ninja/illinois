@@ -1,5 +1,5 @@
 ---
 title: "rue21"
 url: /oswego/rue21/
-shop: Kleidung
+shop: clothes
 ---

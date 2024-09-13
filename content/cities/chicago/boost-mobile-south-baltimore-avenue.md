@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /chicago/boost-mobile-south-baltimore-avenue/
-shop: Handy
+shop: mobile phone
 ---

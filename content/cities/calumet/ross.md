@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /calumet/ross/
-shop: Warenhaus
+shop: department store
 ---

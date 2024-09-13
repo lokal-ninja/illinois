@@ -1,5 +1,5 @@
 ---
 title: "Heart Certified Auto Care"
 url: /wilmette/heart-certified-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

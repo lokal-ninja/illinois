@@ -1,5 +1,5 @@
 ---
 title: "Express Tires"
 url: /cicero/express-tires/
-shop: Reifen
+shop: tyres
 ---

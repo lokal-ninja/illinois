@@ -1,5 +1,5 @@
 ---
 title: "McShane's Exchange"
 url: /chicago/mcshanes-exchange/
-shop: Gebrauchtwaren
+shop: charity
 ---

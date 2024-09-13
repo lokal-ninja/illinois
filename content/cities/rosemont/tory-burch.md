@@ -1,5 +1,5 @@
 ---
 title: "Tory Burch"
 url: /rosemont/tory-burch/
-shop: Kleidung
+shop: clothes
 ---

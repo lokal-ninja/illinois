@@ -1,5 +1,5 @@
 ---
 title: "Prairie Gardens"
 url: /champaign/prairie-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

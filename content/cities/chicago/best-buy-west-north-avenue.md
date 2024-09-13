@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /chicago/best-buy-west-north-avenue/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /mount-prospect/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Micro Center"
 url: /chicago/micro-center/
-shop: Computer
+shop: computer
 ---

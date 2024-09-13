@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /highland-park/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

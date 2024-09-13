@@ -1,5 +1,5 @@
 ---
 title: "R Guns"
 url: /carpentersville/r-guns/
-shop: Waffen
+shop: weapons
 ---

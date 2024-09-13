@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /chicago/t-mobile-west-addison-street/
-shop: Handy
+shop: mobile phone
 ---

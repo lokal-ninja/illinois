@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /jacksonville/hy-vee/
-shop: Supermarkt
+shop: supermarket
 ---

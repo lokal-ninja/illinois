@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /oswego/five-below/
-shop: Kramladen
+shop: variety store
 ---

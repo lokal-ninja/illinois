@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /countryside/jewel-osco/
-shop: Supermarkt
+shop: supermarket
 ---

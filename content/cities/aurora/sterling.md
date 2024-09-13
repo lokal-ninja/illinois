@@ -1,5 +1,5 @@
 ---
 title: "Sterling"
 url: /aurora/sterling/
-shop: Autowerkstatt
+shop: car repair
 ---

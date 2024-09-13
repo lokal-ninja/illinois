@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz of Chicago"
 url: /chicago/mercedes-benz-of-chicago/
-shop: Autohaus
+shop: car
 ---

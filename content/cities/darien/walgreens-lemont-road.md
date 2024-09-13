@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /darien/walgreens-lemont-road/
-shop: Drogerie
+shop: chemist
 ---

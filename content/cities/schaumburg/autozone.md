@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /schaumburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

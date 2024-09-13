@@ -1,5 +1,5 @@
 ---
 title: "Elmwood Supply"
 url: /elmwood-park/elmwood-supply/
-shop: Baustoffe
+shop: trade
 ---

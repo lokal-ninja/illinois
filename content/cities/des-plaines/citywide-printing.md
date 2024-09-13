@@ -1,5 +1,5 @@
 ---
 title: "Citywide Printing"
 url: /des-plaines/citywide-printing/
-shop: Schreibwaren
+shop: office supplies
 ---

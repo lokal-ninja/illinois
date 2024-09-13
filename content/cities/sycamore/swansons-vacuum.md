@@ -1,5 +1,5 @@
 ---
 title: "Swanson's Vacuum"
 url: /sycamore/swansons-vacuum/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /broadview/target/
-shop: Warenhaus
+shop: department store
 ---

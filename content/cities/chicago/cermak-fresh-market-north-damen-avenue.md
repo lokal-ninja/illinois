@@ -1,5 +1,5 @@
 ---
 title: "Cermak Fresh Market"
 url: /chicago/cermak-fresh-market-north-damen-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

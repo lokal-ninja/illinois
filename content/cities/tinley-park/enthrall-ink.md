@@ -1,5 +1,5 @@
 ---
 title: "Enthrall Ink"
 url: /tinley-park/enthrall-ink/
-shop: Tattoo
+shop: tattoo
 ---

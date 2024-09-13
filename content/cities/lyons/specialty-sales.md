@@ -1,5 +1,5 @@
 ---
 title: "Specialty Sales"
 url: /lyons/specialty-sales/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pick-A-Dilly"
 url: /rockton/pick-a-dilly/
-shop: Antiquitäten
+shop: antiques
 ---

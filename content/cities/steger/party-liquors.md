@@ -1,5 +1,5 @@
 ---
 title: "Party Liquors"
 url: /steger/party-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

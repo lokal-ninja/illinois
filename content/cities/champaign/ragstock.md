@@ -1,5 +1,5 @@
 ---
 title: "Ragstock"
 url: /champaign/ragstock/
-shop: Kleidung
+shop: clothes
 ---

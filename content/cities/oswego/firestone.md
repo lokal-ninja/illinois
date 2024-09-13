@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /oswego/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

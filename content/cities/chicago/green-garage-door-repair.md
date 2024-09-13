@@ -1,5 +1,5 @@
 ---
 title: "Green Garage Door Repair"
 url: /chicago/green-garage-door-repair/
-shop: Allgemein
+shop: shop
 ---

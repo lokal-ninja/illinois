@@ -1,5 +1,5 @@
 ---
 title: "Stay Fresh Hair Studio"
 url: /oswego/stay-fresh-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

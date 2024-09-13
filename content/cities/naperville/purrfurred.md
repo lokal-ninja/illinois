@@ -1,5 +1,5 @@
 ---
 title: "PurrFurred"
 url: /naperville/purrfurred/
-shop: Tiersalon
+shop: pet grooming
 ---

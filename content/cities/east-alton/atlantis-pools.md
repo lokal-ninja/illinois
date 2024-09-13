@@ -1,5 +1,5 @@
 ---
 title: "Atlantis Pools"
 url: /east-alton/atlantis-pools/
-shop: Pool
+shop: swimming pool
 ---

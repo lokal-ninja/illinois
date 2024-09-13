@@ -1,5 +1,5 @@
 ---
 title: "BoRics"
 url: /niles/borics/
-shop: Friseur
+shop: hairdresser
 ---

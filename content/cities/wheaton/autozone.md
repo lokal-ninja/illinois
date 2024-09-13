@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /wheaton/autozone/
-shop: Autoteile
+shop: car parts
 ---

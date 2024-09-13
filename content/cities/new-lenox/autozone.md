@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /new-lenox/autozone/
-shop: Autoteile
+shop: car parts
 ---

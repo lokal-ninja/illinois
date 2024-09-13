@@ -1,5 +1,5 @@
 ---
 title: "Affinity Studios"
 url: /naperville/affinity-studios/
-shop: Basteln
+shop: craft
 ---

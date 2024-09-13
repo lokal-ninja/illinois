@@ -1,5 +1,5 @@
 ---
 title: "Rich's Britches"
 url: /skokie/richs-britches/
-shop: Kleidung
+shop: clothes
 ---

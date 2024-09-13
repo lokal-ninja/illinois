@@ -1,5 +1,5 @@
 ---
 title: "iStorage"
 url: /chicago/istorage/
-shop: Mieten
+shop: storage rental
 ---

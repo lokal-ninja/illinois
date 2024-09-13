@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hazel-crest/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /chicago/visionworks/
-shop: Optiker
+shop: optician
 ---

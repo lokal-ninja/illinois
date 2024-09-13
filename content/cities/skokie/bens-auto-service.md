@@ -1,5 +1,5 @@
 ---
 title: "Ben's Auto Service"
 url: /skokie/bens-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

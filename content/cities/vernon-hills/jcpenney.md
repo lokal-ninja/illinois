@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /vernon-hills/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

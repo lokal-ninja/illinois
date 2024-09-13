@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /grayslake/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /gurnee/macys/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /chester/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

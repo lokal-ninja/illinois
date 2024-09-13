@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cahokia/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

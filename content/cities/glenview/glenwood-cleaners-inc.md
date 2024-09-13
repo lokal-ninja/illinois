@@ -1,5 +1,5 @@
 ---
 title: "Glenwood Cleaners Inc"
 url: /glenview/glenwood-cleaners-inc/
-shop: Wäscherei
+shop: laundry
 ---

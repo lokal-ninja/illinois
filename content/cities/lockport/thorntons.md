@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /lockport/thorntons/
-shop: Lebensmittel
+shop: convenience
 ---

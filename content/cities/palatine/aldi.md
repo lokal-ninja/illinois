@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /palatine/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

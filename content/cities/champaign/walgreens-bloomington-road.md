@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /champaign/walgreens-bloomington-road/
-shop: Drogerie
+shop: chemist
 ---

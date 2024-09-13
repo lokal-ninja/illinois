@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /chicago/goodyear-east-87th-street/
-shop: Autowerkstatt
+shop: car repair
 ---

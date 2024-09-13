@@ -1,5 +1,5 @@
 ---
 title: "American Roofing Supply"
 url: /naperville/american-roofing-supply/
-shop: Baustoffe
+shop: trade
 ---

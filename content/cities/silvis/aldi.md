@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /silvis/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

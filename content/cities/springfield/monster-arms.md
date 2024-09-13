@@ -1,5 +1,5 @@
 ---
 title: "Monster Arms"
 url: /springfield/monster-arms/
-shop: Waffen
+shop: weapons
 ---

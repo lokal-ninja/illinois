@@ -1,5 +1,5 @@
 ---
 title: "Last Chance"
 url: /lombard/last-chance/
-shop: Allgemein
+shop: shop
 ---

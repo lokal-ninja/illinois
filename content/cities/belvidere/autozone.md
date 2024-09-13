@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /belvidere/autozone/
-shop: Autoteile
+shop: car parts
 ---

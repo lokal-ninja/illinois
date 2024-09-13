@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lansing/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /dekalb/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

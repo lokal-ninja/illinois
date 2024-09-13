@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /streamwood/target/
-shop: Warenhaus
+shop: department store
 ---

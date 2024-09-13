@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /cicero/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /homewood/xfinity/
-shop: Handy
+shop: mobile phone
 ---

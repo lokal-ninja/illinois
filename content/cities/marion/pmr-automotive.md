@@ -1,5 +1,5 @@
 ---
 title: "PMR Automotive"
 url: /marion/pmr-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

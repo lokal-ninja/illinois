@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /chicago/mattress-firm/
-shop: Betten
+shop: bed
 ---

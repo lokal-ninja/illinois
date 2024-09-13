@@ -1,5 +1,5 @@
 ---
 title: "La France Bakery"
 url: /chicago/la-france-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /homewood/smallcakes/
-shop: Konditorei
+shop: pastry
 ---

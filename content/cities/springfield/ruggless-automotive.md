@@ -1,5 +1,5 @@
 ---
 title: "Ruggless Automotive"
 url: /springfield/ruggless-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

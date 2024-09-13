@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /chicago/tj-maxx-west-irving-park-road/
-shop: Warenhaus
+shop: department store
 ---

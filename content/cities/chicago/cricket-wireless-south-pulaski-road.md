@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /chicago/cricket-wireless-south-pulaski-road/
-shop: Handy
+shop: mobile phone
 ---

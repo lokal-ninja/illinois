@@ -1,5 +1,5 @@
 ---
 title: "Beans Greens Proteins"
 url: /aurora/beans-greens-proteins/
-shop: Bioladen
+shop: health food
 ---

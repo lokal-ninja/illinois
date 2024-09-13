@@ -1,5 +1,5 @@
 ---
 title: "DriveTime"
 url: /midlothian/drivetime/
-shop: Autohaus
+shop: car
 ---

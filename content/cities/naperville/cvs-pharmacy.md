@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /naperville/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

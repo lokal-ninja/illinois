@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /chicago-heights/boost-mobile-north-halsted-street/
-shop: Handy
+shop: mobile phone
 ---

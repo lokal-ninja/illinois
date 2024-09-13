@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /kankakee/murphy-usa/
-shop: Lebensmittel
+shop: convenience
 ---

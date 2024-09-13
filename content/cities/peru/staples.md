@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /peru/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

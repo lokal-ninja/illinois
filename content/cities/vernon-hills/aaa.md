@@ -1,5 +1,5 @@
 ---
 title: "AAA"
 url: /vernon-hills/aaa/
-shop: Autowerkstatt
+shop: car repair
 ---

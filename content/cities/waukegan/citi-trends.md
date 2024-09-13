@@ -1,5 +1,5 @@
 ---
 title: "Citi Trends"
 url: /waukegan/citi-trends/
-shop: Kleidung
+shop: clothes
 ---

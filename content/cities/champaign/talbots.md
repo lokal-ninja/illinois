@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /champaign/talbots/
-shop: Kleidung
+shop: clothes
 ---

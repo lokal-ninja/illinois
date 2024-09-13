@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hillside/target/
-shop: Warenhaus
+shop: department store
 ---

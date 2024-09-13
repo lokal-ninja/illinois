@@ -1,5 +1,5 @@
 ---
 title: "Doggy Style Pet Shop"
 url: /chicago/doggy-style-pet-shop/
-shop: Tiere
+shop: pet
 ---

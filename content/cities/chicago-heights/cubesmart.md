@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /chicago-heights/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

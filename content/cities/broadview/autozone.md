@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /broadview/autozone/
-shop: Autoteile
+shop: car parts
 ---

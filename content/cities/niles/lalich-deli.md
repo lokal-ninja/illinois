@@ -1,5 +1,5 @@
 ---
 title: "Lalich Deli"
 url: /niles/lalich-deli/
-shop: Feinkost
+shop: deli
 ---

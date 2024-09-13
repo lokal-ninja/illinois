@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /berwyn/visionworks/
-shop: Optiker
+shop: optician
 ---

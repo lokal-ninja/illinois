@@ -1,5 +1,5 @@
 ---
 title: "Hawthorn Mall"
 url: /vernon-hills/hawthorn-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

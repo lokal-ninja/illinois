@@ -1,5 +1,5 @@
 ---
 title: "Cullop Jennings Florist"
 url: /collinsville/cullop-jennings-florist/
-shop: Blumen
+shop: florist
 ---

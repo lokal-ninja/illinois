@@ -1,5 +1,5 @@
 ---
 title: "Colonial-Wojciechowski Funeral Home"
 url: /niles/colonial-wojciechowski-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

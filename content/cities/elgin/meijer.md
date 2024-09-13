@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /elgin/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

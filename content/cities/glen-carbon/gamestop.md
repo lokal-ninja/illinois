@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /glen-carbon/gamestop/
-shop: Videospiele
+shop: video games
 ---

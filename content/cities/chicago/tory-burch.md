@@ -1,5 +1,5 @@
 ---
 title: "Tory Burch"
 url: /chicago/tory-burch/
-shop: Kleidung
+shop: clothes
 ---

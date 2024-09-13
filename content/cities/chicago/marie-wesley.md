@@ -1,5 +1,5 @@
 ---
 title: "Marie|Wesley"
 url: /chicago/marie-wesley/
-shop: Gebrauchtwaren
+shop: charity
 ---

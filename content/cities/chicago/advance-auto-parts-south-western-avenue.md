@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /chicago/advance-auto-parts-south-western-avenue/
-shop: Autoteile
+shop: car parts
 ---

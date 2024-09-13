@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /chicago/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

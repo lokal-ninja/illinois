@@ -1,5 +1,5 @@
 ---
 title: "Trickey's Service"
 url: /wood-river/trickeys-service/
-shop: Autowerkstatt
+shop: car repair
 ---

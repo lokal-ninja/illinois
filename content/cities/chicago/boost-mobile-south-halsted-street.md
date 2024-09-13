@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /chicago/boost-mobile-south-halsted-street/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /orland-park/petco/
-shop: Tiere
+shop: pet
 ---

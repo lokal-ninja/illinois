@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /aurora/dunkin/
-shop: Kaffee
+shop: coffee
 ---

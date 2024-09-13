@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /springfield/cvs-pharmacy-east-carpenter-street/
-shop: Drogerie
+shop: chemist
 ---

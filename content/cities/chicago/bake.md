@@ -1,5 +1,5 @@
 ---
 title: "Bake"
 url: /chicago/bake/
-shop: Bäckerei
+shop: bakery
 ---

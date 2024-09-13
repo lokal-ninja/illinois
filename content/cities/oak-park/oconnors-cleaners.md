@@ -1,5 +1,5 @@
 ---
 title: "O'Connor's Cleaners"
 url: /oak-park/oconnors-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Municipal Market"
 url: /chicago/municipal-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alpine Camera"
 url: /des-plaines/alpine-camera/
-shop: Foto
+shop: photo
 ---

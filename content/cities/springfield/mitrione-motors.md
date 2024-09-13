@@ -1,5 +1,5 @@
 ---
 title: "Mitrione Motors"
 url: /springfield/mitrione-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /beach-park/walgreens/
-shop: Drogerie
+shop: chemist
 ---

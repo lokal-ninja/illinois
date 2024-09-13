@@ -1,5 +1,5 @@
 ---
 title: "Red's Garden Center"
 url: /northbrook/reds-garden-center-dundee-road/
-shop: Garten-Center
+shop: garden centre
 ---

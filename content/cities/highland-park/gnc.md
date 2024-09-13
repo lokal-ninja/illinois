@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /highland-park/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

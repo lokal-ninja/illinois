@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /addison/ferguson/
-shop: Baustoffe
+shop: trade
 ---

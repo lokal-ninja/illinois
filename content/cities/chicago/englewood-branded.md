@@ -1,5 +1,5 @@
 ---
 title: "Englewood Branded"
 url: /chicago/englewood-branded/
-shop: Kleidung
+shop: clothes
 ---

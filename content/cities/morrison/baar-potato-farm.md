@@ -1,5 +1,5 @@
 ---
 title: "Baar Potato Farm"
 url: /morrison/baar-potato-farm/
-shop: Hofladen
+shop: farm
 ---

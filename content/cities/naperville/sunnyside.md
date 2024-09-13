@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside"
 url: /naperville/sunnyside/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cabinetland"
 url: /springfield/cabinetland/
-shop: Küchen
+shop: kitchen
 ---

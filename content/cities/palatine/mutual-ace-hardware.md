@@ -1,5 +1,5 @@
 ---
 title: "Mutual Ace Hardware"
 url: /palatine/mutual-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

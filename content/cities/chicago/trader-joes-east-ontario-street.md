@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /chicago/trader-joes-east-ontario-street/
-shop: Supermarkt
+shop: supermarket
 ---

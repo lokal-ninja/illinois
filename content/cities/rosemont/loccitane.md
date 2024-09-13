@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /rosemont/loccitane/
-shop: Kosmetik
+shop: beauty
 ---

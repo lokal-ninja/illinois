@@ -1,5 +1,5 @@
 ---
 title: "Locker Room"
 url: /bolingbrook/locker-room/
-shop: Kleidung
+shop: clothes
 ---

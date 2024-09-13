@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /naperville/athleta/
-shop: Kleidung
+shop: clothes
 ---

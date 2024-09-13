@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /mokena/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

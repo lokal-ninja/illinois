@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /channahon/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

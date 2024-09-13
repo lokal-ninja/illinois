@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /freeport/shell/
-shop: Lebensmittel
+shop: convenience
 ---

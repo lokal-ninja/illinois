@@ -1,5 +1,5 @@
 ---
 title: "King's Acres Self Storage"
 url: /loves-park/kings-acres-self-storage/
-shop: Mieten
+shop: storage rental
 ---

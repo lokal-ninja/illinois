@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /deerfield/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

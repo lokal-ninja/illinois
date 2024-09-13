@@ -1,5 +1,5 @@
 ---
 title: "Longchamp"
 url: /rosemont/longchamp/
-shop: Modehaus
+shop: boutique
 ---

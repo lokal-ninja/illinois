@@ -1,5 +1,5 @@
 ---
 title: "All About Pets"
 url: /galesburg/all-about-pets/
-shop: Tiersalon
+shop: pet grooming
 ---

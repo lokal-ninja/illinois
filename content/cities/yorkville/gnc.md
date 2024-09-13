@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /yorkville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

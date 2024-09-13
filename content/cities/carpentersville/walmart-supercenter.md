@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /carpentersville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

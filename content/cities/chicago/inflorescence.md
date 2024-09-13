@@ -1,5 +1,5 @@
 ---
 title: "InFlorEscence"
 url: /chicago/inflorescence/
-shop: Blumen
+shop: florist
 ---

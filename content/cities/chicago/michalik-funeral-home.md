@@ -1,5 +1,5 @@
 ---
 title: "Michalik Funeral Home"
 url: /chicago/michalik-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

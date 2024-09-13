@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /rosemont/columbia/
-shop: Kleidung
+shop: clothes
 ---

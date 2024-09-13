@@ -1,5 +1,5 @@
 ---
 title: "Kirchner Building Center"
 url: /paxton/kirchner-building-center/
-shop: Eisenwaren
+shop: hardware
 ---

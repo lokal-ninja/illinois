@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /tinley-park/best-buy/
-shop: Elektronik
+shop: electronics
 ---

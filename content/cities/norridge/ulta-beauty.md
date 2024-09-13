@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /norridge/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

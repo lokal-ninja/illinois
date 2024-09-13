@@ -1,5 +1,5 @@
 ---
 title: "Sports World"
 url: /chicago/sports-world/
-shop: Kleidung
+shop: clothes
 ---

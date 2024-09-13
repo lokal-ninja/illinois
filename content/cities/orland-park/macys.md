@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /orland-park/macys/
-shop: Warenhaus
+shop: department store
 ---

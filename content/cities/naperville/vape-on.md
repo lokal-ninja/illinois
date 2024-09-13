@@ -1,5 +1,5 @@
 ---
 title: "Vape On"
 url: /naperville/vape-on/
-shop: Tabak
+shop: tobacco
 ---

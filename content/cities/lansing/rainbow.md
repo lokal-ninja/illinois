@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /lansing/rainbow/
-shop: Kleidung
+shop: clothes
 ---

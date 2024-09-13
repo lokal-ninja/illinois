@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet of Homewood"
 url: /homewood/chevrolet-of-homewood/
-shop: Autowerkstatt
+shop: car repair
 ---

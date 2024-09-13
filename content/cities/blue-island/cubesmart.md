@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /blue-island/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

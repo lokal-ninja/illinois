@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /oak-park/dollar-tree-madison-street/
-shop: Kramladen
+shop: variety store
 ---

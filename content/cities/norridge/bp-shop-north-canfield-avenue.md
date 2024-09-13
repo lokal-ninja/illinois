@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /norridge/bp-shop-north-canfield-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zen Leaf"
 url: /prospect-heights/zen-leaf/
-shop: Hanf
+shop: cannabis
 ---

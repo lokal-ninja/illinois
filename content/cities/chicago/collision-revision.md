@@ -1,5 +1,5 @@
 ---
 title: "Collision Revision"
 url: /chicago/collision-revision/
-shop: Autowerkstatt
+shop: car repair
 ---

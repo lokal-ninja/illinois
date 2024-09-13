@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /rosemont/lids/
-shop: Kleidung
+shop: clothes
 ---

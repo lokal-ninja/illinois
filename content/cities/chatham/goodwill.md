@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /chatham/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

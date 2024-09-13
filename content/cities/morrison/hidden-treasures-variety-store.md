@@ -1,5 +1,5 @@
 ---
 title: "Hidden Treasures Variety Store"
 url: /morrison/hidden-treasures-variety-store/
-shop: Kramladen
+shop: variety store
 ---

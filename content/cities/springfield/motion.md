@@ -1,5 +1,5 @@
 ---
 title: "Motion"
 url: /springfield/motion/
-shop: Allgemein
+shop: shop
 ---

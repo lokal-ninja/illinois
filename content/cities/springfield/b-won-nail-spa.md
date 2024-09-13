@@ -1,5 +1,5 @@
 ---
 title: "B-won Nail Spa"
 url: /springfield/b-won-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

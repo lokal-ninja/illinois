@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /naperville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

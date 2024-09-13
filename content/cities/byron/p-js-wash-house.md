@@ -1,5 +1,5 @@
 ---
 title: "P J's Wash House"
 url: /byron/p-js-wash-house/
-shop: Wäscherei
+shop: laundry
 ---

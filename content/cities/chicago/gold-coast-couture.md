@@ -1,5 +1,5 @@
 ---
 title: "Gold Coast Couture"
 url: /chicago/gold-coast-couture/
-shop: Schreibwaren
+shop: office supplies
 ---

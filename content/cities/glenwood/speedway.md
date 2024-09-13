@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /glenwood/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

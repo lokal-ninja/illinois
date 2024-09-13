@@ -1,5 +1,5 @@
 ---
 title: "The Roux"
 url: /chicago/the-roux/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don Smith Paint"
 url: /springfield/don-smith-paint/
-shop: Farben
+shop: paint
 ---

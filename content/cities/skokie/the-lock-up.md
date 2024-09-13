@@ -1,5 +1,5 @@
 ---
 title: "The Lock Up"
 url: /skokie/the-lock-up/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /ottawa/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside Danville"
 url: /danville/sunnyside-danville/
-shop: Hanf
+shop: cannabis
 ---

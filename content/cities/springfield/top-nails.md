@@ -1,5 +1,5 @@
 ---
 title: "Top Nails"
 url: /springfield/top-nails/
-shop: Kosmetik
+shop: beauty
 ---

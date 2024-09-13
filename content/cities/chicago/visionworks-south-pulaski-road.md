@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /chicago/visionworks-south-pulaski-road/
-shop: Optiker
+shop: optician
 ---

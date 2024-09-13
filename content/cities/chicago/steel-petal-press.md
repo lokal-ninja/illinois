@@ -1,5 +1,5 @@
 ---
 title: "Steel Petal Press"
 url: /chicago/steel-petal-press/
-shop: Andenken
+shop: gift
 ---

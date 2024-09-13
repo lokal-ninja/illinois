@@ -1,5 +1,5 @@
 ---
 title: "Costco Tire Center"
 url: /niles/costco-tire-center/
-shop: Reifen
+shop: tyres
 ---

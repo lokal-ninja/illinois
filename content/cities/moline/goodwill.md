@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /moline/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

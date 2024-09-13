@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /franklin-park/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

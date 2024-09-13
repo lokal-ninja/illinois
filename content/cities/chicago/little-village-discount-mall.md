@@ -1,5 +1,5 @@
 ---
 title: "Little Village Discount Mall"
 url: /chicago/little-village-discount-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

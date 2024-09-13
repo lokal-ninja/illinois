@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /chicago/family-dollar-east-106th-street/
-shop: Kramladen
+shop: variety store
 ---

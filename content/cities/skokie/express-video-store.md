@@ -1,5 +1,5 @@
 ---
 title: "Express Video Store"
 url: /skokie/express-video-store/
-shop: Videothek
+shop: video
 ---

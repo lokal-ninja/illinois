@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /evanston/shell-chicago-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

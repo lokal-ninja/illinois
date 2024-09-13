@@ -1,5 +1,5 @@
 ---
 title: "BSA Outfitters"
 url: /fairview-heights/bsa-outfitters/
-shop: Outdoor
+shop: outdoor
 ---

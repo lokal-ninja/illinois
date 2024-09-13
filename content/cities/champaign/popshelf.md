@@ -1,5 +1,5 @@
 ---
 title: "pOpshelf"
 url: /champaign/popshelf/
-shop: Kramladen
+shop: variety store
 ---

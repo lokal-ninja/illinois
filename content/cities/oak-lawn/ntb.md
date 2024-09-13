@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /oak-lawn/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

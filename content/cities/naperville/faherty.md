@@ -1,5 +1,5 @@
 ---
 title: "Faherty"
 url: /naperville/faherty/
-shop: Kleidung
+shop: clothes
 ---

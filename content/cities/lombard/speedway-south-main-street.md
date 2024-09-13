@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lombard/speedway-south-main-street/
-shop: Lebensmittel
+shop: convenience
 ---

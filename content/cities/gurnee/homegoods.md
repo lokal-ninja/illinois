@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /gurnee/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

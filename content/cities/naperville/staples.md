@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /naperville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

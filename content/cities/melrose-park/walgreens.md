@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /melrose-park/walgreens/
-shop: Drogerie
+shop: chemist
 ---

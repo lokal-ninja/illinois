@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /aurora/aldi-west-galena-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

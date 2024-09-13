@@ -1,5 +1,5 @@
 ---
 title: "Just 99¢"
 url: /lincolnwood/just-99c/
-shop: Kramladen
+shop: variety store
 ---

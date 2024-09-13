@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /darien/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

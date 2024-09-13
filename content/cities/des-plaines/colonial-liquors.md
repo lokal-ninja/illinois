@@ -1,5 +1,5 @@
 ---
 title: "Colonial Liquors"
 url: /des-plaines/colonial-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

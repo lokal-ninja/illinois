@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /chicago/t-mobile-south-ashland-avenue-2/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /chicago-heights/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

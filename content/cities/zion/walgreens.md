@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /zion/walgreens/
-shop: Drogerie
+shop: chemist
 ---

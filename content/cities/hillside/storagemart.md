@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /hillside/storagemart/
-shop: Mieten
+shop: storage rental
 ---

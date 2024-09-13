@@ -1,5 +1,5 @@
 ---
 title: "Vape Pluss"
 url: /fairview-heights/vape-pluss/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Myers"
 url: /roscoe/myers/
-shop: Tiersalon
+shop: pet grooming
 ---

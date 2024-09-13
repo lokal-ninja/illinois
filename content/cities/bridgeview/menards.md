@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /bridgeview/menards/
-shop: Baumarkt
+shop: doityourself
 ---

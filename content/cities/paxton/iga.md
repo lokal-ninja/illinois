@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /paxton/iga/
-shop: Supermarkt
+shop: supermarket
 ---

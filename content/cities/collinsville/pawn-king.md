@@ -1,5 +1,5 @@
 ---
 title: "Pawn King"
 url: /collinsville/pawn-king/
-shop: Leiher
+shop: pawnbroker
 ---

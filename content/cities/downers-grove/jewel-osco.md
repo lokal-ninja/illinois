@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /downers-grove/jewel-osco/
-shop: Supermarkt
+shop: supermarket
 ---

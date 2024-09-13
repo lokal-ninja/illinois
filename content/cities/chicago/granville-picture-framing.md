@@ -1,5 +1,5 @@
 ---
 title: "Granville Picture Framing"
 url: /chicago/granville-picture-framing/
-shop: Rahmen
+shop: frame
 ---

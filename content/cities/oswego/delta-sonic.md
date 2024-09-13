@@ -1,5 +1,5 @@
 ---
 title: "Delta Sonic"
 url: /oswego/delta-sonic/
-shop: Lebensmittel
+shop: convenience
 ---

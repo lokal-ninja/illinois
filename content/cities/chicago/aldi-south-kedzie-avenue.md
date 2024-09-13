@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chicago/aldi-south-kedzie-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

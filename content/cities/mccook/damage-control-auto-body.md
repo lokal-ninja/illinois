@@ -1,5 +1,5 @@
 ---
 title: "Damage Control Auto Body"
 url: /mccook/damage-control-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

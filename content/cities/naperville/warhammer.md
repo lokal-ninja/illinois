@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /naperville/warhammer/
-shop: Spiele
+shop: games
 ---

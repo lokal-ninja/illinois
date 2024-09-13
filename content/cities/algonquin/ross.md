@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /algonquin/ross/
-shop: Warenhaus
+shop: department store
 ---

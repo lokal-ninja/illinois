@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /harvey/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

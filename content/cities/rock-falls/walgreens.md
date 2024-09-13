@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /rock-falls/walgreens/
-shop: Drogerie
+shop: chemist
 ---

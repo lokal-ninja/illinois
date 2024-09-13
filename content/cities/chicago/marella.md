@@ -1,5 +1,5 @@
 ---
 title: "Marella"
 url: /chicago/marella/
-shop: Kleidung
+shop: clothes
 ---

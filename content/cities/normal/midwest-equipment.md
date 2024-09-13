@@ -1,5 +1,5 @@
 ---
 title: "Midwest Equipment"
 url: /normal/midwest-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

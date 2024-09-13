@@ -1,5 +1,5 @@
 ---
 title: "Soak Bath Company"
 url: /wauconda/soak-bath-company/
-shop: Kosmetik
+shop: beauty
 ---

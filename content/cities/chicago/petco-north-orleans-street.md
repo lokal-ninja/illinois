@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /chicago/petco-north-orleans-street/
-shop: Tiere
+shop: pet
 ---

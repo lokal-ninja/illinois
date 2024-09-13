@@ -1,5 +1,5 @@
 ---
 title: "Hemblock Service"
 url: /belvidere/hemblock-service/
-shop: Autowerkstatt
+shop: car repair
 ---

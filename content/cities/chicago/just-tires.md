@@ -1,5 +1,5 @@
 ---
 title: "Just Tires"
 url: /chicago/just-tires/
-shop: Reifen
+shop: tyres
 ---

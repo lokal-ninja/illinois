@@ -1,5 +1,5 @@
 ---
 title: "Mowerworks"
 url: /lake-barrington/mowerworks/
-shop: Allgemein
+shop: shop
 ---

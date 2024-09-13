@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /chicago/lenscrafters-north-clark-street/
-shop: Optiker
+shop: optician
 ---

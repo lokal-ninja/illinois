@@ -1,5 +1,5 @@
 ---
 title: "Liquor Shoppe"
 url: /germantown-hills/liquor-shoppe/
-shop: Spirituosen
+shop: alcohol
 ---

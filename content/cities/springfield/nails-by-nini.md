@@ -1,5 +1,5 @@
 ---
 title: "Nails By Nini"
 url: /springfield/nails-by-nini/
-shop: Kosmetik
+shop: beauty
 ---

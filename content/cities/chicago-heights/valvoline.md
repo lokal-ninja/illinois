@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /chicago-heights/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

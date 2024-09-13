@@ -1,5 +1,5 @@
 ---
 title: "Larsen Marine"
 url: /waukegan/larsen-marine/
-shop: Boot
+shop: boat
 ---

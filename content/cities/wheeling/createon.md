@@ -1,5 +1,5 @@
 ---
 title: "CreateOn"
 url: /wheeling/createon/
-shop: Spielzeug
+shop: toys
 ---

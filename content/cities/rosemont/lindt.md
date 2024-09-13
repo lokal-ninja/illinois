@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /rosemont/lindt/
-shop: Schokolade
+shop: chocolate
 ---

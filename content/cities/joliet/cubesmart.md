@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /joliet/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

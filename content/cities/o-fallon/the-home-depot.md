@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /o-fallon/the-home-depot/
-shop: Baumarkt
+shop: doityourself
 ---

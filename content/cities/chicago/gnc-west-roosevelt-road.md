@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /chicago/gnc-west-roosevelt-road/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

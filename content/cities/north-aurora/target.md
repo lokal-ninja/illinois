@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /north-aurora/target/
-shop: Warenhaus
+shop: department store
 ---

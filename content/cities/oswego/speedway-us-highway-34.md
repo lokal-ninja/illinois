@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /oswego/speedway-us-highway-34/
-shop: Lebensmittel
+shop: convenience
 ---

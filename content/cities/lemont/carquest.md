@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /lemont/carquest/
-shop: Autoteile
+shop: car parts
 ---

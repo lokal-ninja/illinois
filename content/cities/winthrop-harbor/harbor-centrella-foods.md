@@ -1,5 +1,5 @@
 ---
 title: "Harbor Centrella Foods"
 url: /winthrop-harbor/harbor-centrella-foods/
-shop: Supermarkt
+shop: supermarket
 ---

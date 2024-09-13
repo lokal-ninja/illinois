@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /gurnee/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

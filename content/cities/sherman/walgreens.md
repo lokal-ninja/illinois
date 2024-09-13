@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /sherman/walgreens/
-shop: Drogerie
+shop: chemist
 ---

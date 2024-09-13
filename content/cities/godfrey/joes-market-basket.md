@@ -1,5 +1,5 @@
 ---
 title: "Joe's Market Basket"
 url: /godfrey/joes-market-basket/
-shop: Garten-Center
+shop: garden centre
 ---

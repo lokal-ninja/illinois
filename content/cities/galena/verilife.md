@@ -1,5 +1,5 @@
 ---
 title: "Verilife"
 url: /galena/verilife/
-shop: Hanf
+shop: cannabis
 ---

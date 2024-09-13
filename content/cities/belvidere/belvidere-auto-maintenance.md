@@ -1,5 +1,5 @@
 ---
 title: "Belvidere Auto Maintenance"
 url: /belvidere/belvidere-auto-maintenance/
-shop: Autowerkstatt
+shop: car repair
 ---

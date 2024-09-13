@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lake-zurich/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

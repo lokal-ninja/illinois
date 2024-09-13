@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /rockford/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

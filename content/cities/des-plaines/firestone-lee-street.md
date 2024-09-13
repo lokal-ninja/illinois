@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /des-plaines/firestone-lee-street/
-shop: Autowerkstatt
+shop: car repair
 ---

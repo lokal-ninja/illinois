@@ -1,5 +1,5 @@
 ---
 title: "Herban Produce"
 url: /chicago/herban-produce/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hilary’s Cookies"
 url: /chicago/hilarys-cookies/
-shop: Bäckerei
+shop: bakery
 ---

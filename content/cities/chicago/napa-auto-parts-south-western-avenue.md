@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /chicago/napa-auto-parts-south-western-avenue/
-shop: Autoteile
+shop: car parts
 ---

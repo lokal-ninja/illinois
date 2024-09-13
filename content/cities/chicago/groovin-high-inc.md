@@ -1,5 +1,5 @@
 ---
 title: "Groovin High, Inc."
 url: /chicago/groovin-high-inc/
-shop: Musik
+shop: music
 ---

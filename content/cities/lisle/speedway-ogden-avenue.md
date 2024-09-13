@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lisle/speedway-ogden-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

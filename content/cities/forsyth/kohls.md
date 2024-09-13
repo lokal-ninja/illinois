@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /forsyth/kohls/
-shop: Warenhaus
+shop: department store
 ---

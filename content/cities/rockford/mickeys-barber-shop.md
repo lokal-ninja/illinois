@@ -1,5 +1,5 @@
 ---
 title: "Mickey's Barber Shop"
 url: /rockford/mickeys-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

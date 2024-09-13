@@ -1,5 +1,5 @@
 ---
 title: "Sapp Bros Travel Center"
 url: /peru/sapp-bros-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Pride Laundry"
 url: /springfield/family-pride-laundry/
-shop: Wäscherei
+shop: laundry
 ---

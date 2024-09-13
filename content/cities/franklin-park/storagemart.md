@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /franklin-park/storagemart/
-shop: Mieten
+shop: storage rental
 ---

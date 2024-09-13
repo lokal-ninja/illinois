@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /mount-prospect/mattress-firm-east-rand-road/
-shop: Betten
+shop: bed
 ---

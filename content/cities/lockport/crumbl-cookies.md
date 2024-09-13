@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /lockport/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

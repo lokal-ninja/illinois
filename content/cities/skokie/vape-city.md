@@ -1,5 +1,5 @@
 ---
 title: "Vape City"
 url: /skokie/vape-city/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

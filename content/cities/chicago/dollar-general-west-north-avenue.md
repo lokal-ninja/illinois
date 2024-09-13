@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /chicago/dollar-general-west-north-avenue/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whimsy Tea"
 url: /springfield/whimsy-tea/
-shop: Tee
+shop: tea
 ---

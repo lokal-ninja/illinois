@@ -1,5 +1,5 @@
 ---
 title: "Iridium"
 url: /chicago/iridium/
-shop: Kleidung
+shop: clothes
 ---

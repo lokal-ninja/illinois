@@ -1,5 +1,5 @@
 ---
 title: "Oil Depot"
 url: /naperville/oil-depot/
-shop: Autowerkstatt
+shop: car repair
 ---

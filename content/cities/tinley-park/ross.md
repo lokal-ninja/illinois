@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /tinley-park/ross/
-shop: Warenhaus
+shop: department store
 ---

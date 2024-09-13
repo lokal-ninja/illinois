@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /north-aurora/walgreens/
-shop: Drogerie
+shop: chemist
 ---

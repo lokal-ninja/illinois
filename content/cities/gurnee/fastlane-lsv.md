@@ -1,5 +1,5 @@
 ---
 title: "Fastlane LSV"
 url: /gurnee/fastlane-lsv/
-shop: Autowerkstatt
+shop: car repair
 ---

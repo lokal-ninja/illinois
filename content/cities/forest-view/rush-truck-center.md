@@ -1,5 +1,5 @@
 ---
 title: "Rush Truck Center"
 url: /forest-view/rush-truck-center/
-shop: Autowerkstatt
+shop: car repair
 ---

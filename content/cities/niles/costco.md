@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /niles/costco/
-shop: Großhandel
+shop: wholesale
 ---

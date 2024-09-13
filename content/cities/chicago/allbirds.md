@@ -1,5 +1,5 @@
 ---
 title: "Allbirds"
 url: /chicago/allbirds/
-shop: Schuhe
+shop: shoes
 ---

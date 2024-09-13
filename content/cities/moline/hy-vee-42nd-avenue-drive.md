@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /moline/hy-vee-42nd-avenue-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Show"
 url: /olney/shoe-show/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hill Printing"
 url: /marion/hill-printing/
-shop: Kopieren
+shop: copyshop
 ---

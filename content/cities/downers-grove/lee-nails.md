@@ -1,5 +1,5 @@
 ---
 title: "Lee Nails"
 url: /downers-grove/lee-nails/
-shop: Kosmetik
+shop: beauty
 ---

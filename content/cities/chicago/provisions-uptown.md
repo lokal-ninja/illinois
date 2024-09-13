@@ -1,5 +1,5 @@
 ---
 title: "Provisions Uptown"
 url: /chicago/provisions-uptown/
-shop: Spirituosen
+shop: alcohol
 ---

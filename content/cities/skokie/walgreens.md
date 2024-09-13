@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /skokie/walgreens/
-shop: Drogerie
+shop: chemist
 ---

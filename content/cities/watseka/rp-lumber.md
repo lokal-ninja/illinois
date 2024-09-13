@@ -1,5 +1,5 @@
 ---
 title: "RP Lumber"
 url: /watseka/rp-lumber/
-shop: Baustoffe
+shop: trade
 ---

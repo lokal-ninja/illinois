@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /naperville/marshalls/
-shop: Warenhaus
+shop: department store
 ---

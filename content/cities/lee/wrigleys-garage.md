@@ -1,5 +1,5 @@
 ---
 title: "Wrigley's Garage"
 url: /lee/wrigleys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

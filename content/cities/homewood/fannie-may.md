@@ -1,5 +1,5 @@
 ---
 title: "Fannie May"
 url: /homewood/fannie-may/
-shop: Schokolade
+shop: chocolate
 ---

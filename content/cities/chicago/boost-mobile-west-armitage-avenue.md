@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /chicago/boost-mobile-west-armitage-avenue/
-shop: Handy
+shop: mobile phone
 ---

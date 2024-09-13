@@ -1,5 +1,5 @@
 ---
 title: "J G Uniforms"
 url: /chicago/j-g-uniforms/
-shop: Kleidung
+shop: clothes
 ---

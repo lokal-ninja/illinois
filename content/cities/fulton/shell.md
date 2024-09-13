@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /fulton/shell/
-shop: Lebensmittel
+shop: convenience
 ---

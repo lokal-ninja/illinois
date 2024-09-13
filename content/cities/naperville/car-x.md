@@ -1,5 +1,5 @@
 ---
 title: "Car-X"
 url: /naperville/car-x/
-shop: Autowerkstatt
+shop: car repair
 ---

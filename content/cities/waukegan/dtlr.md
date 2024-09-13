@@ -1,5 +1,5 @@
 ---
 title: "DTLR"
 url: /waukegan/dtlr/
-shop: Kleidung
+shop: clothes
 ---

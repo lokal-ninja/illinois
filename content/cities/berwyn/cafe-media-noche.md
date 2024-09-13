@@ -1,5 +1,5 @@
 ---
 title: "Cafe Media Noche"
 url: /berwyn/cafe-media-noche/
-shop: Kaffee
+shop: coffee
 ---

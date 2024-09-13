@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bensenville/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

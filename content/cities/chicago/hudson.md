@@ -1,5 +1,5 @@
 ---
 title: "Hudson"
 url: /chicago/hudson/
-shop: Lebensmittel
+shop: convenience
 ---

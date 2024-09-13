@@ -1,5 +1,5 @@
 ---
 title: "American Freight"
 url: /naperville/american-freight/
-shop: Warenhaus
+shop: department store
 ---

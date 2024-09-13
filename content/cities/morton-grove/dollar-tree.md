@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /morton-grove/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

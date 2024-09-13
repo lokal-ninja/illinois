@@ -1,5 +1,5 @@
 ---
 title: "Tanishq"
 url: /aurora/tanishq/
-shop: Schmuck
+shop: jewelry
 ---

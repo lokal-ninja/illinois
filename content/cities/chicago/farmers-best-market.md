@@ -1,5 +1,5 @@
 ---
 title: "Farmers Best Market"
 url: /chicago/farmers-best-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Transomatic"
 url: /des-plaines/transomatic/
-shop: Autowerkstatt
+shop: car repair
 ---

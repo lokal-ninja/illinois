@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /oak-park/target/
-shop: Warenhaus
+shop: department store
 ---

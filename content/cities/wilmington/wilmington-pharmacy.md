@@ -1,5 +1,5 @@
 ---
 title: "Wilmington Pharmacy"
 url: /wilmington/wilmington-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

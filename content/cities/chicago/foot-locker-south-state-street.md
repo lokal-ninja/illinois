@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /chicago/foot-locker-south-state-street/
-shop: Schuhe
+shop: shoes
 ---

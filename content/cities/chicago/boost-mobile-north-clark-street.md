@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /chicago/boost-mobile-north-clark-street/
-shop: Handy
+shop: mobile phone
 ---

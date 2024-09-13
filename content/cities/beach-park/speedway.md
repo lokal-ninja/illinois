@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /beach-park/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

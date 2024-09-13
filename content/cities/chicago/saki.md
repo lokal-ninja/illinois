@@ -1,5 +1,5 @@
 ---
 title: "Saki"
 url: /chicago/saki/
-shop: Musik
+shop: music
 ---

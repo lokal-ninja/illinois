@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /north-riverside/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

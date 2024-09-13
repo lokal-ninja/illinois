@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /arlington-heights/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

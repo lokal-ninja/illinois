@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chicago/dollar-tree-west-87th-street/
-shop: Kramladen
+shop: variety store
 ---

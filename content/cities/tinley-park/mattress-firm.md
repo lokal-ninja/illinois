@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /tinley-park/mattress-firm/
-shop: Betten
+shop: bed
 ---

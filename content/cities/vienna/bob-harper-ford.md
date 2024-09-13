@@ -1,5 +1,5 @@
 ---
 title: "Bob Harper Ford"
 url: /vienna/bob-harper-ford/
-shop: Autowerkstatt
+shop: car repair
 ---

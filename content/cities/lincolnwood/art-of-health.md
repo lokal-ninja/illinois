@@ -1,5 +1,5 @@
 ---
 title: "Art of Health"
 url: /lincolnwood/art-of-health/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toe the Line Dance Store"
 url: /buffalo-grove/toe-the-line-dance-store/
-shop: Kleidung
+shop: clothes
 ---

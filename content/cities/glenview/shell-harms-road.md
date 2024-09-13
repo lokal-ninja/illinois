@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /glenview/shell-harms-road/
-shop: Lebensmittel
+shop: convenience
 ---

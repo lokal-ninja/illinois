@@ -1,5 +1,5 @@
 ---
 title: "Blaine's Automotive"
 url: /plainfield/blaines-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

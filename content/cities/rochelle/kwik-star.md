@@ -1,5 +1,5 @@
 ---
 title: "Kwik Star"
 url: /rochelle/kwik-star/
-shop: Lebensmittel
+shop: convenience
 ---

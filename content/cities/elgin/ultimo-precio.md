@@ -1,5 +1,5 @@
 ---
 title: "Ultimo Precio"
 url: /elgin/ultimo-precio/
-shop: Autohaus
+shop: car
 ---

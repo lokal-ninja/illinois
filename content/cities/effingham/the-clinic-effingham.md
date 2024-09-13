@@ -1,5 +1,5 @@
 ---
 title: "The Clinic Effingham"
 url: /effingham/the-clinic-effingham/
-shop: Hanf
+shop: cannabis
 ---

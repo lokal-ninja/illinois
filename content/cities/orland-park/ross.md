@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /orland-park/ross/
-shop: Warenhaus
+shop: department store
 ---

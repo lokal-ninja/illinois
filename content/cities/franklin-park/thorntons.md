@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /franklin-park/thorntons/
-shop: Lebensmittel
+shop: convenience
 ---

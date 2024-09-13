@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hickory-hills/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

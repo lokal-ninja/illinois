@@ -1,5 +1,5 @@
 ---
 title: "ACE Fadezz Barbershop"
 url: /chicago/ace-fadezz-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

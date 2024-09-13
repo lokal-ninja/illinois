@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /springfield/aarons-walton-drive/
-shop: Möbel
+shop: furniture
 ---

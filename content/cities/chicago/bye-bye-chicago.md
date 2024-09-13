@@ -1,5 +1,5 @@
 ---
 title: "Bye Bye Chicago"
 url: /chicago/bye-bye-chicago/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gus Auto Imports"
 url: /naperville/gus-auto-imports/
-shop: Autohaus
+shop: car
 ---

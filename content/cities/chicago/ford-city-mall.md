@@ -1,5 +1,5 @@
 ---
 title: "Ford City Mall"
 url: /chicago/ford-city-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

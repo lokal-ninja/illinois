@@ -1,5 +1,5 @@
 ---
 title: "ECE Supply Center"
 url: /urbana/ece-supply-center/
-shop: Elektronik
+shop: electronics
 ---

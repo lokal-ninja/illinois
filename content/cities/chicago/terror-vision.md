@@ -1,5 +1,5 @@
 ---
 title: "Terror Vision"
 url: /chicago/terror-vision/
-shop: Musik
+shop: music
 ---

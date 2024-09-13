@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /highland-park/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

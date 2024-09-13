@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /berwyn/oreilly-auto-parts-south-harlem-avenue/
-shop: Autoteile
+shop: car parts
 ---

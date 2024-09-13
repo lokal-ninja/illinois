@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /palatine/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyde Park Barber Studio"
 url: /chicago/hyde-park-barber-studio/
-shop: Friseur
+shop: hairdresser
 ---

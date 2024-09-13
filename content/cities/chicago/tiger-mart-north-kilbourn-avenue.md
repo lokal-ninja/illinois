@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /chicago/tiger-mart-north-kilbourn-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

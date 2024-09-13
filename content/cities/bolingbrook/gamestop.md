@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bolingbrook/gamestop/
-shop: Videospiele
+shop: video games
 ---

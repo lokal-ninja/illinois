@@ -1,5 +1,5 @@
 ---
 title: "FedEx Freight"
 url: /rockford/fedex-freight/
-shop: Kopieren
+shop: copyshop
 ---

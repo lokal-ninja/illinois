@@ -1,5 +1,5 @@
 ---
 title: "Brothers Country Supply"
 url: /oswego/brothers-country-supply/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frank’s Alterations"
 url: /chicago/franks-alterations/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /bridgeview/walmart/
-shop: Warenhaus
+shop: department store
 ---

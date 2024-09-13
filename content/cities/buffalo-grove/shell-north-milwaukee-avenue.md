@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /buffalo-grove/shell-north-milwaukee-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

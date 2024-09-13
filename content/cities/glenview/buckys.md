@@ -1,5 +1,5 @@
 ---
 title: "Bucky's"
 url: /glenview/buckys/
-shop: Lebensmittel
+shop: convenience
 ---

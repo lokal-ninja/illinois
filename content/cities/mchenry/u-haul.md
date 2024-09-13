@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /mchenry/u-haul/
-shop: Mieten
+shop: storage rental
 ---

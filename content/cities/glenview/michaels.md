@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /glenview/michaels/
-shop: Basteln
+shop: craft
 ---

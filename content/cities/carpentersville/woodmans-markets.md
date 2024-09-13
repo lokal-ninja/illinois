@@ -1,5 +1,5 @@
 ---
 title: "Woodman's Markets"
 url: /carpentersville/woodmans-markets/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John's Lavanderia"
 url: /chicago/johns-lavanderia/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BLH Computers"
 url: /springfield/blh-computers/
-shop: Computer
+shop: computer
 ---

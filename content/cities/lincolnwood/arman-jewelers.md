@@ -1,5 +1,5 @@
 ---
 title: "Arman Jewelers"
 url: /lincolnwood/arman-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

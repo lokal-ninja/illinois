@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /hoffman-estates/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

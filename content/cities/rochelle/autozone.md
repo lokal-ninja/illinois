@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /rochelle/autozone/
-shop: Autoteile
+shop: car parts
 ---

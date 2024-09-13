@@ -1,5 +1,5 @@
 ---
 title: "DTLR"
 url: /chicago/dtlr-west-115th-street/
-shop: Kleidung
+shop: clothes
 ---

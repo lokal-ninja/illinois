@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /harvey/shell/
-shop: Lebensmittel
+shop: convenience
 ---

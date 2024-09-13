@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /chicago/family-dollar-south-ashland-avenue/
-shop: Kramladen
+shop: variety store
 ---

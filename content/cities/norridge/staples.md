@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /norridge/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

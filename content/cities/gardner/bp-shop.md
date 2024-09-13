@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /gardner/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

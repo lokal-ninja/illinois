@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /springfield/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kewanee/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

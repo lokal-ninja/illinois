@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /bolingbrook/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

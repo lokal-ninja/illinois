@@ -1,5 +1,5 @@
 ---
 title: "Banner Plumbing Supply"
 url: /chicago/banner-plumbing-supply/
-shop: Baustoffe
+shop: trade
 ---

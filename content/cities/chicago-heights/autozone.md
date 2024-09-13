@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chicago-heights/autozone/
-shop: Autoteile
+shop: car parts
 ---

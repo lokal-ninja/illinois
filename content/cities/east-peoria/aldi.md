@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /east-peoria/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

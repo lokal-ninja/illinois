@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bourbonnais/target/
-shop: Warenhaus
+shop: department store
 ---

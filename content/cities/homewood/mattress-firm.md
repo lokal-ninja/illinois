@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /homewood/mattress-firm/
-shop: Betten
+shop: bed
 ---

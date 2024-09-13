@@ -1,5 +1,5 @@
 ---
 title: "Kenny Corn"
 url: /aurora/kenny-corn/
-shop: Süßwaren
+shop: confectionery
 ---

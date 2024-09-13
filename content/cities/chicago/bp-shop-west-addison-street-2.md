@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /chicago/bp-shop-west-addison-street-2/
-shop: Lebensmittel
+shop: convenience
 ---

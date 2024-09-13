@@ -1,5 +1,5 @@
 ---
 title: "Cookies"
 url: /bloomington/cookies/
-shop: Hanf
+shop: cannabis
 ---

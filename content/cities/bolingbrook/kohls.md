@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /bolingbrook/kohls/
-shop: Warenhaus
+shop: department store
 ---

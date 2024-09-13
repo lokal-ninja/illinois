@@ -1,5 +1,5 @@
 ---
 title: "The Bike Rack"
 url: /oswego/the-bike-rack/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ole Saltys"
 url: /rockford/ole-saltys/
-shop: Supermarkt
+shop: supermarket
 ---

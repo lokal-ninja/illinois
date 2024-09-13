@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /woodridge/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

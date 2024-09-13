@@ -1,5 +1,5 @@
 ---
 title: "AYR Wellness"
 url: /normal/ayr-wellness/
-shop: Hanf
+shop: cannabis
 ---

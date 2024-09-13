@@ -1,5 +1,5 @@
 ---
 title: "Hong Hiep Mobile"
 url: /chicago/hong-hiep-mobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /springfield/circle-k-north-grand-avenue-east/
-shop: Lebensmittel
+shop: convenience
 ---

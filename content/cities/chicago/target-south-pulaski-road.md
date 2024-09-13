@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /chicago/target-south-pulaski-road/
-shop: Warenhaus
+shop: department store
 ---

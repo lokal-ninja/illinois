@@ -1,5 +1,5 @@
 ---
 title: "Vas Foremost Liquors"
 url: /chicago/vas-foremost-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /dupo/shell/
-shop: Lebensmittel
+shop: convenience
 ---

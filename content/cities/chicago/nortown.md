@@ -1,5 +1,5 @@
 ---
 title: "Nortown"
 url: /chicago/nortown/
-shop: Autowerkstatt
+shop: car repair
 ---

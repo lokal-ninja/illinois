@@ -1,5 +1,5 @@
 ---
 title: "SpeeDee"
 url: /homewood/speedee/
-shop: Autowerkstatt
+shop: car repair
 ---

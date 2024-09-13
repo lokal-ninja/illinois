@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /chicago/dollar-general-south-ashland-avenue/
-shop: Kramladen
+shop: variety store
 ---

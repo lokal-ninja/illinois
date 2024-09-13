@@ -1,5 +1,5 @@
 ---
 title: "Ultra Foods"
 url: /wheaton/ultra-foods/
-shop: Supermarkt
+shop: supermarket
 ---

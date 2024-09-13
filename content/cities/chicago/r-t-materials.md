@@ -1,5 +1,5 @@
 ---
 title: "R T Materials"
 url: /chicago/r-t-materials/
-shop: Baustoffe
+shop: trade
 ---

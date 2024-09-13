@@ -1,5 +1,5 @@
 ---
 title: "American Mattress"
 url: /northbrook/american-mattress/
-shop: Betten
+shop: bed
 ---

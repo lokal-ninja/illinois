@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /south-barrington/chicos/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /hillside/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

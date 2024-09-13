@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /springfield/menards-chuckwagon-drive/
-shop: Baumarkt
+shop: doityourself
 ---

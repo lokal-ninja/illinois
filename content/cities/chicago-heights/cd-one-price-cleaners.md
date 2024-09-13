@@ -1,5 +1,5 @@
 ---
 title: "CD One Price Cleaners"
 url: /chicago-heights/cd-one-price-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

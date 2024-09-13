@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /round-lake-beach/jewel-osco/
-shop: Supermarkt
+shop: supermarket
 ---

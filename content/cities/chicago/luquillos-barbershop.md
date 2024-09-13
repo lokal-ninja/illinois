@@ -1,5 +1,5 @@
 ---
 title: "Luquillo's Barbershop"
 url: /chicago/luquillos-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

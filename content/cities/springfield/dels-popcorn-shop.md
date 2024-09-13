@@ -1,5 +1,5 @@
 ---
 title: "Del's Popcorn Shop"
 url: /springfield/dels-popcorn-shop/
-shop: Allgemein
+shop: shop
 ---

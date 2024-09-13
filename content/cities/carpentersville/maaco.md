@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /carpentersville/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

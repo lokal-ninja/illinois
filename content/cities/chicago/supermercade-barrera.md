@@ -1,5 +1,5 @@
 ---
 title: "Supermercade Barrera"
 url: /chicago/supermercade-barrera/
-shop: Lebensmittel
+shop: convenience
 ---

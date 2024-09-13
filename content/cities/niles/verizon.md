@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /niles/verizon/
-shop: Handy
+shop: mobile phone
 ---

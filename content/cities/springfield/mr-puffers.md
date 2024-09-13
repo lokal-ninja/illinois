@@ -1,5 +1,5 @@
 ---
 title: "Mr. Puffers"
 url: /springfield/mr-puffers/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

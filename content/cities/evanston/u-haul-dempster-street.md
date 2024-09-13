@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /evanston/u-haul-dempster-street/
-shop: Mieten
+shop: storage rental
 ---

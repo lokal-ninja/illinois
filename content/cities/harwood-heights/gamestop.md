@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /harwood-heights/gamestop/
-shop: Videospiele
+shop: video games
 ---

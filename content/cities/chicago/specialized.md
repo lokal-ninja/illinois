@@ -1,5 +1,5 @@
 ---
 title: "Specialized"
 url: /chicago/specialized/
-shop: Fahrrad
+shop: bicycle
 ---

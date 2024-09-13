@@ -1,5 +1,5 @@
 ---
 title: "Hudson News"
 url: /chicago/hudson-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /springfield/valvoline-wabash-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

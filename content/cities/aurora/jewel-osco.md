@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /aurora/jewel-osco/
-shop: Supermarkt
+shop: supermarket
 ---

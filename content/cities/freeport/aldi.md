@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /freeport/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /des-plaines/public-storage/
-shop: Mieten
+shop: storage rental
 ---

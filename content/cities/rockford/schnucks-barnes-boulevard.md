@@ -1,5 +1,5 @@
 ---
 title: "Schnucks"
 url: /rockford/schnucks-barnes-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

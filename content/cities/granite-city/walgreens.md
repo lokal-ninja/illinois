@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /granite-city/walgreens/
-shop: Drogerie
+shop: chemist
 ---

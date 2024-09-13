@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /chicago/cricket-wireless-south-cicero-avenue/
-shop: Handy
+shop: mobile phone
 ---

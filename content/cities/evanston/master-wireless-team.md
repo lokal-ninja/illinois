@@ -1,5 +1,5 @@
 ---
 title: "Master Wireless Team"
 url: /evanston/master-wireless-team/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grasshopper Club"
 url: /chicago/grasshopper-club/
-shop: Hanf
+shop: cannabis
 ---

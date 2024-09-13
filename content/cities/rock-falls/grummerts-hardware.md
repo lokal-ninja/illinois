@@ -1,5 +1,5 @@
 ---
 title: "Grummert's Hardware"
 url: /rock-falls/grummerts-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /dekalb/target/
-shop: Warenhaus
+shop: department store
 ---

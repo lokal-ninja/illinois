@@ -1,5 +1,5 @@
 ---
 title: "Evanston Nails"
 url: /evanston/evanston-nails/
-shop: Kosmetik
+shop: beauty
 ---

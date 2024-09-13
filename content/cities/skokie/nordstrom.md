@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /skokie/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

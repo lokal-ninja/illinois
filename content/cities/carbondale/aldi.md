@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /carbondale/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

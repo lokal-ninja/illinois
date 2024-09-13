@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /bloomington/kroger-east-oakland-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

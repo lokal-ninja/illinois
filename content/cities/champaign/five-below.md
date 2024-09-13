@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /champaign/five-below/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /streamwood/verizon/
-shop: Handy
+shop: mobile phone
 ---

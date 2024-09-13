@@ -1,5 +1,5 @@
 ---
 title: "Smoker's Point"
 url: /chicago/smokers-point/
-shop: Tabak
+shop: tobacco
 ---

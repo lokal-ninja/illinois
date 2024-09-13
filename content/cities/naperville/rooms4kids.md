@@ -1,5 +1,5 @@
 ---
 title: "rooms4kids"
 url: /naperville/rooms4kids/
-shop: Möbel
+shop: furniture
 ---

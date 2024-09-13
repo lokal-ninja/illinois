@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /chicago/crocs/
-shop: Schuhe
+shop: shoes
 ---

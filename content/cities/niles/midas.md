@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /niles/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny Mustard Furnishing"
 url: /schaumburg/penny-mustard-furnishing/
-shop: Möbel
+shop: furniture
 ---

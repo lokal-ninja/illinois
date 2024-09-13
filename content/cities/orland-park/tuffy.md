@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /orland-park/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

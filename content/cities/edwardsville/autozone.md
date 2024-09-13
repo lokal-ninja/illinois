@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /edwardsville/autozone/
-shop: Autoteile
+shop: car parts
 ---

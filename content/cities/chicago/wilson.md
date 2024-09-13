@@ -1,5 +1,5 @@
 ---
 title: "Wilson"
 url: /chicago/wilson/
-shop: Kleidung
+shop: clothes
 ---

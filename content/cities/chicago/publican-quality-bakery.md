@@ -1,5 +1,5 @@
 ---
 title: "Publican Quality Bakery"
 url: /chicago/publican-quality-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metropolitan Automan Inc"
 url: /chicago/metropolitan-automan-inc/
-shop: Autohaus
+shop: car
 ---

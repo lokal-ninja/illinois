@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /quincy/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

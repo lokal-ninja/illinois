@@ -1,5 +1,5 @@
 ---
 title: "Safeguard Self Storage"
 url: /chicago/safeguard-self-storage-north-clybourn-avenue/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /pekin/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

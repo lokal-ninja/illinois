@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /chicago/public-storage-north-clark-street/
-shop: Mieten
+shop: storage rental
 ---

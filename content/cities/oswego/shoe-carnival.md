@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /oswego/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /harwood-heights/saloncentric/
-shop: Friseur
+shop: hairdresser
 ---

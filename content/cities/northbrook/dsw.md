@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /northbrook/dsw/
-shop: Schuhe
+shop: shoes
 ---

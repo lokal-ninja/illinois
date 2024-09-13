@@ -1,5 +1,5 @@
 ---
 title: "Newbold Toyota"
 url: /ofallon/newbold-toyota/
-shop: Autohaus
+shop: car
 ---

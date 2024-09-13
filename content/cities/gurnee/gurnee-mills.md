@@ -1,5 +1,5 @@
 ---
 title: "Gurnee Mills"
 url: /gurnee/gurnee-mills/
-shop: Einkaufszentrum
+shop: mall
 ---

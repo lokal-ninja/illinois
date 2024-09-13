@@ -1,5 +1,5 @@
 ---
 title: "Pelly's Liquors"
 url: /chicago/pellys-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

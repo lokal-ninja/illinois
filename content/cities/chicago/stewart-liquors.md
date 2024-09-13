@@ -1,5 +1,5 @@
 ---
 title: "Stewart Liquors"
 url: /chicago/stewart-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

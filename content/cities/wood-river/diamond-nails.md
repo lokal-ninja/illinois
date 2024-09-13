@@ -1,5 +1,5 @@
 ---
 title: "Diamond Nails"
 url: /wood-river/diamond-nails/
-shop: Kosmetik
+shop: beauty
 ---

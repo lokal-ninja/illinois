@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
 url: /harwood-heights/platos-closet/
-shop: Kleidung
+shop: clothes
 ---

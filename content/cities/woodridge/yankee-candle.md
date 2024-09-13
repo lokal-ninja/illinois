@@ -1,5 +1,5 @@
 ---
 title: "Yankee Candle"
 url: /woodridge/yankee-candle/
-shop: Kramladen
+shop: variety store
 ---

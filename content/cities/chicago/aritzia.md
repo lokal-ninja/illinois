@@ -1,5 +1,5 @@
 ---
 title: "Aritzia"
 url: /chicago/aritzia/
-shop: Kleidung
+shop: clothes
 ---

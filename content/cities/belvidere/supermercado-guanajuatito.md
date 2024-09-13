@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Guanajuatito"
 url: /belvidere/supermercado-guanajuatito/
-shop: Supermarkt
+shop: supermarket
 ---

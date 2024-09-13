@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /algonquin/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

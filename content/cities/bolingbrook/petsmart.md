@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /bolingbrook/petsmart/
-shop: Tiere
+shop: pet
 ---

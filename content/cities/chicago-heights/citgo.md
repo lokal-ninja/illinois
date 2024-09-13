@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /chicago-heights/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

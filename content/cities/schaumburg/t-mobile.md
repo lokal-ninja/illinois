@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /schaumburg/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

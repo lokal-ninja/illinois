@@ -1,5 +1,5 @@
 ---
 title: "Murdale True Value"
 url: /carbondale/murdale-true-value/
-shop: Baumarkt
+shop: doityourself
 ---

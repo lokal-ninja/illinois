@@ -1,5 +1,5 @@
 ---
 title: "Torres Supermarket"
 url: /berwyn/torres-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

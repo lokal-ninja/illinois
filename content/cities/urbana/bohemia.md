@@ -1,5 +1,5 @@
 ---
 title: "Bohemia"
 url: /urbana/bohemia/
-shop: Kleidung
+shop: clothes
 ---

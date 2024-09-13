@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bourbonnais/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

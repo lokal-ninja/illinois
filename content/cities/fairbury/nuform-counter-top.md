@@ -1,5 +1,5 @@
 ---
 title: "NuForm Counter Top"
 url: /fairbury/nuform-counter-top/
-shop: Küchen
+shop: kitchen
 ---

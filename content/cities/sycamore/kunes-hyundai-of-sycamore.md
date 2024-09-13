@@ -1,5 +1,5 @@
 ---
 title: "Kunes Hyundai of Sycamore"
 url: /sycamore/kunes-hyundai-of-sycamore/
-shop: Autohaus
+shop: car
 ---

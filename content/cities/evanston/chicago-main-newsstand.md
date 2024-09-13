@@ -1,5 +1,5 @@
 ---
 title: "Chicago Main Newsstand"
 url: /evanston/chicago-main-newsstand/
-shop: Zeitungen
+shop: newsagent
 ---

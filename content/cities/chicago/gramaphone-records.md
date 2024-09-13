@@ -1,5 +1,5 @@
 ---
 title: "Gramaphone Records"
 url: /chicago/gramaphone-records/
-shop: Musik
+shop: music
 ---

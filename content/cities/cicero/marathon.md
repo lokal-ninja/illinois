@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /cicero/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

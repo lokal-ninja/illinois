@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /melrose-park/burlington/
-shop: Warenhaus
+shop: department store
 ---

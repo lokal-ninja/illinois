@@ -1,5 +1,5 @@
 ---
 title: "Rivian Service Center"
 url: /normal/rivian-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /huntley/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /belvidere/mobil-mart-logan-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

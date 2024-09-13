@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /elmwood-park/walgreens/
-shop: Drogerie
+shop: chemist
 ---

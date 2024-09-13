@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /morrison/shell/
-shop: Lebensmittel
+shop: convenience
 ---

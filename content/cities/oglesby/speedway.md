@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /oglesby/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OIL/WASH ZONE"
 url: /naperville/oil-wash-zone/
-shop: Autowerkstatt
+shop: car repair
 ---

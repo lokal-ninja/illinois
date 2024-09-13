@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /evanston/sherwin-williams/
-shop: Farben
+shop: paint
 ---

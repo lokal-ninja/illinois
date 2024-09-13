@@ -1,5 +1,5 @@
 ---
 title: "Hawthorne"
 url: /chicago/hawthorne/
-shop: Haushaltsartikel
+shop: houseware
 ---

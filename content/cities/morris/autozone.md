@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /morris/autozone/
-shop: Autoteile
+shop: car parts
 ---

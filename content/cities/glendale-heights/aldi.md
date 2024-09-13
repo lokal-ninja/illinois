@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /glendale-heights/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

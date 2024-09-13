@@ -1,5 +1,5 @@
 ---
 title: "Pontiac Ace Hardware"
 url: /pontiac/pontiac-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

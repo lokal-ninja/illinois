@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /chicago/gnc-north-broadway/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

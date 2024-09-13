@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /ina/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

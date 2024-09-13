@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /fairview-heights/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

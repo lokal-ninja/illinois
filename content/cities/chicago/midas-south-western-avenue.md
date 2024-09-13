@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /chicago/midas-south-western-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

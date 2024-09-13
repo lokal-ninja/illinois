@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /wilmette/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

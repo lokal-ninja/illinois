@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /chicago/cvs-pharmacy-north-western-avenue/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon de Vive"
 url: /chicago/salon-de-vive/
-shop: Friseur
+shop: hairdresser
 ---

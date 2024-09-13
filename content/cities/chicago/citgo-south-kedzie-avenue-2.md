@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /chicago/citgo-south-kedzie-avenue-2/
-shop: Lebensmittel
+shop: convenience
 ---

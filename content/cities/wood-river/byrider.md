@@ -1,5 +1,5 @@
 ---
 title: "Byrider"
 url: /wood-river/byrider/
-shop: Autohaus
+shop: car
 ---

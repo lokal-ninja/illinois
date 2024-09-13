@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chicago/aldi-north-milwaukee-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

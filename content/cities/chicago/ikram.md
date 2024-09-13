@@ -1,5 +1,5 @@
 ---
 title: "Ikram"
 url: /chicago/ikram/
-shop: Kleidung
+shop: clothes
 ---

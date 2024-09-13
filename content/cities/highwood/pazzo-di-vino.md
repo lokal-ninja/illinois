@@ -1,5 +1,5 @@
 ---
 title: "Pazzo di Vino"
 url: /highwood/pazzo-di-vino/
-shop: Wein
+shop: wine
 ---

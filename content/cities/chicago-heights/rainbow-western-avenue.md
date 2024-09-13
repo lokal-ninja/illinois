@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /chicago-heights/rainbow-western-avenue/
-shop: Kleidung
+shop: clothes
 ---

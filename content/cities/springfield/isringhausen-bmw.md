@@ -1,5 +1,5 @@
 ---
 title: "Isringhausen BMW"
 url: /springfield/isringhausen-bmw/
-shop: Autohaus
+shop: car
 ---

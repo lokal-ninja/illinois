@@ -1,5 +1,5 @@
 ---
 title: "DeCraene's Service Center"
 url: /woodstock/decraenes-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

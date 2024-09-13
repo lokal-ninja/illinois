@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /evergreen-park/petsmart/
-shop: Tiere
+shop: pet
 ---

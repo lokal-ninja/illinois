@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /melrose-park/shell/
-shop: Lebensmittel
+shop: convenience
 ---

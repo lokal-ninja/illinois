@@ -1,5 +1,5 @@
 ---
 title: "Tastebud Food Tours"
 url: /chicago/tastebud-food-tours/
-shop: Bäckerei
+shop: bakery
 ---

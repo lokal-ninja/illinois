@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /blue-island/u-haul-135th-place/
-shop: Mieten
+shop: storage rental
 ---

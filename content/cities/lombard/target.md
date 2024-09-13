@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lombard/target/
-shop: Warenhaus
+shop: department store
 ---

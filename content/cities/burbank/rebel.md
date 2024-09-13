@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /burbank/rebel/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nails Lux"
 url: /naperville/nails-lux/
-shop: Kosmetik
+shop: beauty
 ---

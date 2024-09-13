@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /glenview/goodwill-old-willow-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

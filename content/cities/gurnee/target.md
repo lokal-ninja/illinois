@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /gurnee/target/
-shop: Warenhaus
+shop: department store
 ---

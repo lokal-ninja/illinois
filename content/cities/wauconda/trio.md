@@ -1,5 +1,5 @@
 ---
 title: "Trio"
 url: /wauconda/trio/
-shop: Lebensmittel
+shop: convenience
 ---

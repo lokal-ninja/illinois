@@ -1,5 +1,5 @@
 ---
 title: "Pet Supplies Plus"
 url: /merrionette-park/pet-supplies-plus/
-shop: Tiere
+shop: pet
 ---

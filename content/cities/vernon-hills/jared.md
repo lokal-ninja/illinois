@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /vernon-hills/jared/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxine"
 url: /elmhurst/maxine/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spark'd Dispensary"
 url: /chicago/sparkd-dispensary/
-shop: Hanf
+shop: cannabis
 ---

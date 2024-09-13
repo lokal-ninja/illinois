@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /alsip/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Melbar Import Car"
 url: /chicago/melbar-import-car/
-shop: Autowerkstatt
+shop: car repair
 ---

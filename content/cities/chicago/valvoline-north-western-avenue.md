@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /chicago/valvoline-north-western-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

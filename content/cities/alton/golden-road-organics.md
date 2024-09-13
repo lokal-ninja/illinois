@@ -1,5 +1,5 @@
 ---
 title: "Golden Road Organics"
 url: /alton/golden-road-organics/
-shop: Garten-Center
+shop: garden centre
 ---

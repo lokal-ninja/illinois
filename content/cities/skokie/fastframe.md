@@ -1,5 +1,5 @@
 ---
 title: "Fastframe"
 url: /skokie/fastframe/
-shop: Allgemein
+shop: shop
 ---

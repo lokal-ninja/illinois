@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /niles/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

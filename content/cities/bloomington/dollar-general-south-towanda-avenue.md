@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /bloomington/dollar-general-south-towanda-avenue/
-shop: Kramladen
+shop: variety store
 ---

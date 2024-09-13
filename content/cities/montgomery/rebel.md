@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /montgomery/rebel/
-shop: Lebensmittel
+shop: convenience
 ---

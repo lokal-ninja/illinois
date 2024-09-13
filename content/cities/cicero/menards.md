@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /cicero/menards/
-shop: Baumarkt
+shop: doityourself
 ---

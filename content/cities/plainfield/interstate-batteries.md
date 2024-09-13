@@ -1,5 +1,5 @@
 ---
 title: "Interstate Batteries"
 url: /plainfield/interstate-batteries/
-shop: Autoteile
+shop: car parts
 ---

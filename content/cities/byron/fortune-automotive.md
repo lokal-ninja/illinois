@@ -1,5 +1,5 @@
 ---
 title: "Fortune Automotive"
 url: /byron/fortune-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

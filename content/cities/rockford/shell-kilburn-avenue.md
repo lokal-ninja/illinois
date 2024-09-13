@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /rockford/shell-kilburn-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

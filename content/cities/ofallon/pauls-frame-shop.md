@@ -1,5 +1,5 @@
 ---
 title: "Paul's Frame Shop"
 url: /ofallon/pauls-frame-shop/
-shop: Allgemein
+shop: shop
 ---

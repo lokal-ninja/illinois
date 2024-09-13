@@ -1,5 +1,5 @@
 ---
 title: "COS"
 url: /chicago/cos/
-shop: Kleidung
+shop: clothes
 ---

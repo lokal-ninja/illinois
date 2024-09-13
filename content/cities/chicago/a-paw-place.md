@@ -1,5 +1,5 @@
 ---
 title: "A Paw Place"
 url: /chicago/a-paw-place/
-shop: Tiersalon
+shop: pet grooming
 ---

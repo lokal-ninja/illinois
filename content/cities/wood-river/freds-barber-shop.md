@@ -1,5 +1,5 @@
 ---
 title: "Fred's Barber Shop"
 url: /wood-river/freds-barber-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /springfield/smallcakes/
-shop: Konditorei
+shop: pastry
 ---

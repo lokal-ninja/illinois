@@ -1,5 +1,5 @@
 ---
 title: "Kiki's Korner"
 url: /winfield/kikis-korner/
-shop: Tiere
+shop: pet
 ---

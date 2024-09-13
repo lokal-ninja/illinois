@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /crystal-lake/shell/
-shop: Lebensmittel
+shop: convenience
 ---

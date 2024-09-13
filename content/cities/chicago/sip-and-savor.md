@@ -1,5 +1,5 @@
 ---
-title: "Sip and Savor"
+title: "Sip & Savor"
 url: /chicago/sip-and-savor/
-shop: Kaffee
+shop: bakery
 ---

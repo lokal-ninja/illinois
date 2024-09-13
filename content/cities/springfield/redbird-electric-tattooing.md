@@ -1,5 +1,5 @@
 ---
 title: "Redbird Electric Tattooing"
 url: /springfield/redbird-electric-tattooing/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /champaign/target/
-shop: Supermarkt
+shop: supermarket
 ---

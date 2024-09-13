@@ -1,5 +1,5 @@
 ---
 title: "Regent Window Fashions"
 url: /chicago/regent-window-fashions/
-shop: Jalousien
+shop: window blind
 ---

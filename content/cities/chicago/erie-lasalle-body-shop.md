@@ -1,5 +1,5 @@
 ---
 title: "Erie LaSalle Body Shop"
 url: /chicago/erie-lasalle-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

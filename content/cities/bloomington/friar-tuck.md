@@ -1,5 +1,5 @@
 ---
 title: "Friar Tuck"
 url: /bloomington/friar-tuck/
-shop: Spirituosen
+shop: alcohol
 ---

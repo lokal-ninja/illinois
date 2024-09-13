@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /naperville/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

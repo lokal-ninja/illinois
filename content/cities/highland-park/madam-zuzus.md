@@ -1,5 +1,5 @@
 ---
 title: "Madam Zuzu's"
 url: /highland-park/madam-zuzus/
-shop: Tee
+shop: tea
 ---

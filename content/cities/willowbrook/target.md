@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /willowbrook/target/
-shop: Warenhaus
+shop: department store
 ---

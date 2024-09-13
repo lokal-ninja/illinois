@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /new-lenox/target/
-shop: Warenhaus
+shop: department store
 ---

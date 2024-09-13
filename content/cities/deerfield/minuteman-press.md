@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press"
 url: /deerfield/minuteman-press/
-shop: Kopieren
+shop: copyshop
 ---

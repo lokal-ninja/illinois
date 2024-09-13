@@ -1,5 +1,5 @@
 ---
 title: "Belle Tire"
 url: /rockford/belle-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /shorewood/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

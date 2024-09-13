@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /yorkville/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

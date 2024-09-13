@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /mokena/speedway-wolf-road-2/
-shop: Lebensmittel
+shop: convenience
 ---

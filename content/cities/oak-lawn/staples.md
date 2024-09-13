@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /oak-lawn/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

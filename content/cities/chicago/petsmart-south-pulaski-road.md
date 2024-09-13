@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /chicago/petsmart-south-pulaski-road/
-shop: Tiere
+shop: pet
 ---

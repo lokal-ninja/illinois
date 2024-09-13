@@ -1,5 +1,5 @@
 ---
 title: "Gordon's Ace Hardware Riverside"
 url: /chicago/gordons-ace-hardware-riverside/
-shop: Baumarkt
+shop: doityourself
 ---

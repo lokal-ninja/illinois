@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /alton/gamestop/
-shop: Videospiele
+shop: video games
 ---

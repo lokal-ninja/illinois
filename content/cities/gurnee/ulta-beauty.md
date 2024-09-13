@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /gurnee/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /skokie/petco/
-shop: Tiere
+shop: pet
 ---

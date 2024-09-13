@@ -1,5 +1,5 @@
 ---
 title: "Mariano's Fresh Market"
 url: /park-ridge/marianos-fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /crestwood/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

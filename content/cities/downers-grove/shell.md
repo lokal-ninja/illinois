@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /downers-grove/shell/
-shop: Lebensmittel
+shop: convenience
 ---

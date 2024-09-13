@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /winthrop-harbor/west-marine/
-shop: Boot
+shop: boat
 ---

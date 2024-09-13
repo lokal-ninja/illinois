@@ -1,5 +1,5 @@
 ---
 title: "Sprout Home"
 url: /chicago/sprout-home/
-shop: Garten-Center
+shop: garden centre
 ---

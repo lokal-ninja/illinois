@@ -1,5 +1,5 @@
 ---
 title: "Strangelovely"
 url: /godfrey/strangelovely/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /chicago/cricket-wireless-south-halsted-street/
-shop: Handy
+shop: mobile phone
 ---

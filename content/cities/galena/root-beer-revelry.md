@@ -1,5 +1,5 @@
 ---
 title: "Root Beer Revelry"
 url: /galena/root-beer-revelry/
-shop: Getränke
+shop: beverages
 ---

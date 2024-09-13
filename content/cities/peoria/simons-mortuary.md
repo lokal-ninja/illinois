@@ -1,5 +1,5 @@
 ---
 title: "Simons Mortuary"
 url: /peoria/simons-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fannie May"
 url: /downers-grove/fannie-may/
-shop: Schokolade
+shop: chocolate
 ---

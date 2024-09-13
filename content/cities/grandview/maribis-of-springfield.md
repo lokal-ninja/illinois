@@ -1,5 +1,5 @@
 ---
 title: "Maribis of Springfield"
 url: /grandview/maribis-of-springfield/
-shop: Hanf
+shop: cannabis
 ---

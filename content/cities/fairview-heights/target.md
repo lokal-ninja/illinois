@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fairview-heights/target/
-shop: Warenhaus
+shop: department store
 ---

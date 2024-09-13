@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /chicago/cricket-wireless-west-roosevelt-road/
-shop: Handy
+shop: mobile phone
 ---

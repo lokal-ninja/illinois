@@ -1,5 +1,5 @@
 ---
 title: "Portable Sanitation Systems"
 url: /curran/portable-sanitation-systems/
-shop: Mieten
+shop: storage rental
 ---

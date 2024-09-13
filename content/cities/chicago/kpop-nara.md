@@ -1,5 +1,5 @@
 ---
 title: "KPOP NARA"
 url: /chicago/kpop-nara/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /stickney/shell/
-shop: Lebensmittel
+shop: convenience
 ---

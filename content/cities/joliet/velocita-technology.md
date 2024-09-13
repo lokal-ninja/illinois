@@ -1,5 +1,5 @@
 ---
 title: "Velocita Technology"
 url: /joliet/velocita-technology/
-shop: Computer
+shop: computer
 ---

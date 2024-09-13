@@ -1,5 +1,5 @@
 ---
 title: "Tropicuba"
 url: /chicago/tropicuba/
-shop: Lebensmittel
+shop: convenience
 ---

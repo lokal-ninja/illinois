@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /kildeer/michaels/
-shop: Basteln
+shop: craft
 ---

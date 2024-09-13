@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /bourbonnais/michaels/
-shop: Basteln
+shop: craft
 ---

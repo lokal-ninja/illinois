@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /peru/walgreens/
-shop: Drogerie
+shop: chemist
 ---

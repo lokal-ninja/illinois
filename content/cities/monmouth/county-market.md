@@ -1,5 +1,5 @@
 ---
 title: "County Market"
 url: /monmouth/county-market/
-shop: Supermarkt
+shop: supermarket
 ---

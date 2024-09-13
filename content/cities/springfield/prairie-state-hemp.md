@@ -1,5 +1,5 @@
 ---
 title: "Prairie State Hemp"
 url: /springfield/prairie-state-hemp/
-shop: Hanf
+shop: cannabis
 ---

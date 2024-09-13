@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /vernon-hills/burlington/
-shop: Warenhaus
+shop: department store
 ---

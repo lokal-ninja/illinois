@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /harvey/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

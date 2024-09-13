@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /rosemont/guess/
-shop: Kleidung
+shop: clothes
 ---

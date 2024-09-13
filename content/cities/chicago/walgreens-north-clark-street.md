@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /chicago/walgreens-north-clark-street/
-shop: Drogerie
+shop: chemist
 ---

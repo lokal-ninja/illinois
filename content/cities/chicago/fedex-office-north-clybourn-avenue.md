@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /chicago/fedex-office-north-clybourn-avenue/
-shop: Kopieren
+shop: copyshop
 ---

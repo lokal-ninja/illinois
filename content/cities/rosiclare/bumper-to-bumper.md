@@ -1,5 +1,5 @@
 ---
 title: "Bumper to Bumper"
 url: /rosiclare/bumper-to-bumper/
-shop: Autoteile
+shop: car parts
 ---

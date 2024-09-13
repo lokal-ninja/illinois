@@ -1,5 +1,5 @@
 ---
 title: "Images Beauty Supply"
 url: /centreville/images-beauty-supply/
-shop: Kosmetik
+shop: beauty
 ---

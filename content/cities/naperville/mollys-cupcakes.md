@@ -1,5 +1,5 @@
 ---
 title: "Molly's Cupcakes"
 url: /naperville/mollys-cupcakes/
-shop: Bäckerei
+shop: bakery
 ---

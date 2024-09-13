@@ -1,5 +1,5 @@
 ---
 title: "Stanford Automotive"
 url: /elizabethtown/stanford-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

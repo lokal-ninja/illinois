@@ -1,5 +1,5 @@
 ---
 title: "Jazza Nails"
 url: /warrenville/jazza-nails/
-shop: Kosmetik
+shop: beauty
 ---

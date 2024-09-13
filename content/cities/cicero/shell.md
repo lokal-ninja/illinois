@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /cicero/shell/
-shop: Lebensmittel
+shop: convenience
 ---

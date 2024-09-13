@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /danville/kohls/
-shop: Warenhaus
+shop: department store
 ---

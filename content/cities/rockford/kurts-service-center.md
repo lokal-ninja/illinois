@@ -1,5 +1,5 @@
 ---
 title: "Kurt's Service Center"
 url: /rockford/kurts-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

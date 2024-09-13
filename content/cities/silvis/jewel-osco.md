@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /silvis/jewel-osco/
-shop: Supermarkt
+shop: supermarket
 ---

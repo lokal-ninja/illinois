@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /chicago/gnc-west-87th-street/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

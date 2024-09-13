@@ -1,5 +1,5 @@
 ---
 title: "A Groomery Pet Grooming"
 url: /dekalb/a-groomery-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

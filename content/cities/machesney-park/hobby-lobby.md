@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /machesney-park/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

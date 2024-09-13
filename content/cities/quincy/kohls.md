@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /quincy/kohls/
-shop: Warenhaus
+shop: department store
 ---

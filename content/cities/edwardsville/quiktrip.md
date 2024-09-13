@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /edwardsville/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

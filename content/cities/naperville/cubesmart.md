@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /naperville/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

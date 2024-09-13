@@ -1,5 +1,5 @@
 ---
 title: "Curly's Furniture"
 url: /streator/curlys-furniture/
-shop: Möbel
+shop: furniture
 ---

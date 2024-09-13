@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mattoon/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

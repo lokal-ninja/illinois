@@ -1,5 +1,5 @@
 ---
 title: "Hearing Help Plus"
 url: /dekalb/hearing-help-plus/
-shop: Hörgeräte
+shop: hearing aids
 ---

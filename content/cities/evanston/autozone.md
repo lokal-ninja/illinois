@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /evanston/autozone/
-shop: Autoteile
+shop: car parts
 ---

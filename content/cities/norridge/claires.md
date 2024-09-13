@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /norridge/claires/
-shop: Modehaus
+shop: boutique
 ---

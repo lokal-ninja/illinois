@@ -1,5 +1,5 @@
 ---
 title: "New Generation Auto Inc"
 url: /stockton/new-generation-auto-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

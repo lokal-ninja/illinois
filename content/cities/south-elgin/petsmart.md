@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /south-elgin/petsmart/
-shop: Tiere
+shop: pet
 ---

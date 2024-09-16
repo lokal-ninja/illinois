@@ -1,11 +1,11 @@
 id: 211395763
-type: way
+type: node
 latitude: 41.721
 longitude: -87.53508
 postcode: "60617"
 city: Chicago
-street: "South Ewing Avenue"
-housenumber: 9601
-phone: "+1-773-768-5523"
+street: South Ewing Avenue
+housenumber: "9601"
+phone: +1-773-768-5523
 opening_hours: ""
 website: ""

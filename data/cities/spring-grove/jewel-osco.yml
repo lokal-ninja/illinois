@@ -1,11 +1,11 @@
 id: 291941767
-type: way
+type: node
 latitude: 42.436
 longitude: -88.2444
 postcode: "60081"
 city: Spring Grove
-street: "Route 12"
-housenumber: 2401
-phone: "+1 815-675-6716"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/spring-grove/2401-route-12.html"
+street: Route 12
+housenumber: "2401"
+phone: +1 815-675-6716
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/spring-grove/2401-route-12.html

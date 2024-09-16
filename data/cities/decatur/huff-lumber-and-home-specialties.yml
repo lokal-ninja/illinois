@@ -1,11 +1,11 @@
 id: 666193564
-type: way
+type: node
 latitude: 39.81435
 longitude: -88.96722
 postcode: "62521"
 city: Decatur
-street: "South Business Route 51"
-housenumber: 2201
-phone: "+1-217-423-7571"
+street: South Business Route 51
+housenumber: "2201"
+phone: +1-217-423-7571
 opening_hours: ""
-website: "https://www.huffhomespecialties.com/"
+website: https://www.huffhomespecialties.com/

@@ -1,11 +1,11 @@
 id: 1127411992
-type: way
+type: node
 latitude: 41.89738
 longitude: -88.76724
 postcode: "60115"
 city: DeKalb
-street: "Harvestore Drive"
-housenumber: 202
+street: Harvestore Drive
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 832389513
-type: way
+type: node
 latitude: 42.45621
 longitude: -89.0011
 postcode: "61073"
 city: Roscoe
-street: "East Rockton Road"
-housenumber: 5951
-phone: "+1 815-389-4920"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/IL/Roscoe/5951-East-Rockton-Rd"
+street: East Rockton Road
+housenumber: "5951"
+phone: +1 815-389-4920
+opening_hours: 24/7
+website: https://www.speedway.com/locations/IL/Roscoe/5951-East-Rockton-Rd

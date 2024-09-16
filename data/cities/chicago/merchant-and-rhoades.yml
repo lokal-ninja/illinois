@@ -4,8 +4,8 @@ latitude: 41.89968
 longitude: -87.62477
 postcode: "60611"
 city: Chicago
-street: "North Michigan Avenue"
-housenumber: 900
-phone: "+1-312-337-2525"
-opening_hours: "07:00-19:00"
-website: "https://merchantandrhoades.com/"
+street: North Michigan Avenue
+housenumber: "900"
+phone: +1-312-337-2525
+opening_hours: 07:00-19:00
+website: https://merchantandrhoades.com/

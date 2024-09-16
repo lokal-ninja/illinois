@@ -1,11 +1,11 @@
 id: 524994487
-type: way
+type: node
 latitude: 40.19518
 longitude: -88.4035
 postcode: "61853"
 city: Mahomet
-street: "East Main Street"
-housenumber: 406
+street: East Main Street
+housenumber: "406"
 phone: ""
 opening_hours: ""
 website: ""

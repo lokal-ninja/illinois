@@ -1,11 +1,11 @@
 id: 660880706
-type: way
+type: node
 latitude: 41.71895
 longitude: -87.68436
 postcode: "60805"
 city: Evergreen Park
-street: "South Western Avenue"
-housenumber: 9550
-phone: "+1 708-424-0477"
-opening_hours: "Su-Th 09:00-22:00; Fr,Sa 09:00-23:00"
-website: "https://www.burlington.com/store-details-Store-1094--9550-South-Western-Avenue--Evergreen-Park--IL--60805.aspx"
+street: South Western Avenue
+housenumber: "9550"
+phone: +1 708-424-0477
+opening_hours: Su-Th 09:00-22:00; Fr,Sa 09:00-23:00
+website: https://www.burlington.com/store-details-Store-1094--9550-South-Western-Avenue--Evergreen-Park--IL--60805.aspx

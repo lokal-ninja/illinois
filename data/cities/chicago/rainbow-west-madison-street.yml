@@ -1,11 +1,11 @@
 id: 162315081
-type: way
+type: node
 latitude: 41.8802
 longitude: -87.72752
 postcode: "60624"
 city: Chicago
-street: "West Madison Street"
-housenumber: 4049
+street: West Madison Street
+housenumber: "4049"
 phone: ""
 opening_hours: ""
-website: "https://stores.rainbowshops.com/il/chicago/326/"
+website: https://stores.rainbowshops.com/il/chicago/326/

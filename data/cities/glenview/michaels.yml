@@ -4,8 +4,8 @@ latitude: 42.10239
 longitude: -87.81281
 postcode: "60025"
 city: Glenview
-street: "Willow Road"
-housenumber: 2231
-phone: "+1 847-832-9196"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/il/glenview/2037"
+street: Willow Road
+housenumber: "2231"
+phone: +1 847-832-9196
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/il/glenview/2037

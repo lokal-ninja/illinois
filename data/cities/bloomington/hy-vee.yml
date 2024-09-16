@@ -1,11 +1,11 @@
 id: 543822718
-type: way
+type: node
 latitude: 40.4982
 longitude: -88.95042
 postcode: "61704"
 city: Bloomington
-street: "North Veterans Parkway"
-housenumber: 1403
+street: North Veterans Parkway
+housenumber: "1403"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

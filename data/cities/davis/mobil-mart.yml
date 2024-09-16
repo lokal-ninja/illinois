@@ -1,11 +1,11 @@
 id: 760899275
-type: way
+type: node
 latitude: 42.45463
 longitude: -89.38065
 postcode: "61019"
 city: Davis
-street: "Best Road"
-housenumber: 13965
+street: Best Road
+housenumber: "13965"
 phone: ""
 opening_hours: ""
 website: ""

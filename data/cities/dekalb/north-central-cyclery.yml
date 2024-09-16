@@ -1,11 +1,11 @@
 id: 1024304368
-type: way
+type: node
 latitude: 41.92869
 longitude: -88.74826
 postcode: "60115"
 city: Dekalb
-street: "East Lincoln Highway"
-housenumber: 534
+street: East Lincoln Highway
+housenumber: "534"
 phone: ""
 opening_hours: ""
-website: "https://www.northcentralcyclery.com/"
+website: https://www.northcentralcyclery.com/

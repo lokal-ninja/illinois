@@ -1,11 +1,11 @@
 id: 42118923
-type: way
+type: node
 latitude: 41.56593
 longitude: -88.1985
 postcode: "60586"
 city: Plainfield
-street: "Route 59"
-housenumber: 2480
-phone: "+1 815-254-3291"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/plainfield/2480-route-59.html"
+street: Route 59
+housenumber: "2480"
+phone: +1 815-254-3291
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/plainfield/2480-route-59.html

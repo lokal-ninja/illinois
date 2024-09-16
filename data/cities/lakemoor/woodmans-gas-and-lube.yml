@@ -1,11 +1,11 @@
 id: 870242119
-type: way
+type: node
 latitude: 42.32236
 longitude: -88.16855
 postcode: "60051"
 city: Lakemoor
-street: "IL Route 120"
-housenumber: 27565
+street: IL Route 120
+housenumber: "27565"
 phone: ""
-opening_hours: "07:15-18:45"
-website: "https://www.woodmans-food.com/locations//lakemoor/gas-lube"
+opening_hours: 07:15-18:45
+website: https://www.woodmans-food.com/locations//lakemoor/gas-lube

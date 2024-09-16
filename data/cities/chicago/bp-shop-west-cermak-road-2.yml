@@ -1,11 +1,11 @@
 id: 209786669
-type: way
+type: node
 latitude: 41.85175
 longitude: -87.67551
 postcode: "60608"
 city: Chicago
-street: "West Cermak Road"
-housenumber: 1955
+street: West Cermak Road
+housenumber: "1955"
 phone: ""
 opening_hours: ""
 website: ""

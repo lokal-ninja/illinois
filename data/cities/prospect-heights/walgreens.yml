@@ -1,11 +1,11 @@
 id: 1222320985
-type: way
+type: node
 latitude: 42.09601
 longitude: -87.93627
 postcode: "60070"
 city: Prospect Heights
-street: "North Elmhurst Road"
-housenumber: 1
+street: North Elmhurst Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

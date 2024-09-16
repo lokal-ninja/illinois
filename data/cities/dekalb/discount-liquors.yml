@@ -1,11 +1,11 @@
 id: 255793975
-type: way
+type: node
 latitude: 41.94545
 longitude: -88.77254
 postcode: "60115"
 city: Dekalb
-street: "West Hillcrest Drive"
-housenumber: 1039
+street: West Hillcrest Drive
+housenumber: "1039"
 phone: ""
 opening_hours: ""
 website: ""

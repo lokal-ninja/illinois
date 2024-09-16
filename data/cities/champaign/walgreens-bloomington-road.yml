@@ -1,11 +1,11 @@
 id: 244908523
-type: way
+type: node
 latitude: 40.13102
 longitude: -88.2568
 postcode: "61820"
 city: Champaign
-street: "Bloomington Road"
-housenumber: 841
-phone: "+1 217 3568237"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-841+bloomington+rd-champaign-il-61820/id=9611"
+street: Bloomington Road
+housenumber: "841"
+phone: +1 217 3568237
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-841+bloomington+rd-champaign-il-61820/id=9611

@@ -1,11 +1,11 @@
 id: 64494280
-type: way
+type: node
 latitude: 40.69199
 longitude: -89.59044
 postcode: "61602"
 city: Peoria
-street: "Main Street"
-housenumber: 317
-phone: "(309) 673-2606;(888) 868-6364"
-opening_hours: "Mo-Fr 09:00-15:00"
-website: "https://www.cookiesbydesign.com/locations/illinois/peoria/61602_148.aspx"
+street: Main Street
+housenumber: "317"
+phone: (309) 673-2606;(888) 868-6364
+opening_hours: Mo-Fr 09:00-15:00
+website: https://www.cookiesbydesign.com/locations/illinois/peoria/61602_148.aspx

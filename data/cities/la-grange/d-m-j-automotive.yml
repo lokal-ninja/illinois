@@ -1,11 +1,11 @@
 id: 944349241
-type: way
+type: node
 latitude: 41.80307
 longitude: -87.86868
 postcode: "60525"
 city: La Grange
-street: "South La Grange Road"
-housenumber: 603
-phone: "+1-708-352-5767"
+street: South La Grange Road
+housenumber: "603"
+phone: +1-708-352-5767
 opening_hours: ""
-website: "https://dmjautomotive.com/"
+website: https://dmjautomotive.com/

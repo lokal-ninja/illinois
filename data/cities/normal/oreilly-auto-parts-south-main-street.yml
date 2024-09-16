@@ -1,11 +1,11 @@
 id: 1036028541
-type: way
+type: node
 latitude: 40.49691
 longitude: -88.99476
 postcode: "61761"
 city: Normal
-street: "South Main Street"
-housenumber: 1315
+street: South Main Street
+housenumber: "1315"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/normal/autoparts-6058.html"
+website: https://locations.oreillyauto.com/il/normal/autoparts-6058.html

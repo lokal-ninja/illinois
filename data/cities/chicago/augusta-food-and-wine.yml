@@ -4,8 +4,8 @@ latitude: 41.96679
 longitude: -87.68795
 postcode: "60625"
 city: Chicago
-street: "West Leland Avenue"
-housenumber: 2312
-phone: "+1 773-783-2314"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
-website: "https://www.augustafoodandwine.com/"
+street: West Leland Avenue
+housenumber: "2312"
+phone: +1 773-783-2314
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
+website: https://www.augustafoodandwine.com/

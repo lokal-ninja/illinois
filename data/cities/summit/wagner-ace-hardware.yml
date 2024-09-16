@@ -1,11 +1,11 @@
 id: 1083629914
-type: way
+type: node
 latitude: 41.77492
 longitude: -87.81405
 postcode: "60501"
 city: Summit
-street: "South Archer Avenue"
-housenumber: 6401
-phone: "+1 708-458-0122"
-opening_hours: "Mo-Fr 07:30-16:00"
+street: South Archer Avenue
+housenumber: "6401"
+phone: +1 708-458-0122
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

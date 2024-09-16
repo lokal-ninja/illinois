@@ -1,11 +1,11 @@
 id: 687473904
-type: way
+type: node
 latitude: 42.24148
 longitude: -87.94186
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 901
-phone: "+1-847-573-0356"
+street: North Milwaukee Avenue
+housenumber: "901"
+phone: +1-847-573-0356
 opening_hours: ""
-website: "https://www.rei.com/stores/vernon-hills"
+website: https://www.rei.com/stores/vernon-hills

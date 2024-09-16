@@ -4,8 +4,8 @@ latitude: 41.70093
 longitude: -88.30781
 postcode: "60543"
 city: Oswego
-street: "Route 34"
-housenumber: 2510
-phone: "+1 630-554-4625"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/oswego-il-245"
+street: Route 34
+housenumber: "2510"
+phone: +1 630-554-4625
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/oswego-il-245

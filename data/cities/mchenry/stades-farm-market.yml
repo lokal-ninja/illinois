@@ -1,11 +1,11 @@
 id: 430197458
-type: way
+type: node
 latitude: 42.41701
 longitude: -88.26626
 postcode: "60051"
 city: McHenry
-street: "Miller Road"
-housenumber: 3709
+street: Miller Road
+housenumber: "3709"
 phone: ""
 opening_hours: ""
 website: ""

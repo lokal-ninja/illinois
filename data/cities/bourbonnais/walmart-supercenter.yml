@@ -1,11 +1,11 @@
 id: 672507055
-type: way
+type: node
 latitude: 41.18946
 longitude: -87.8473
 postcode: "60914"
 city: Bourbonnais
-street: "North State Route 50"
-housenumber: 2080
-phone: "+1 815-937-5100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1307/bourbonnais-il/whats-new"
+street: North State Route 50
+housenumber: "2080"
+phone: +1 815-937-5100
+opening_hours: 24/7
+website: https://www.walmart.com/store/1307/bourbonnais-il/whats-new

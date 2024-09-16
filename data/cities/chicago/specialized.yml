@@ -4,8 +4,8 @@ latitude: 41.88546
 longitude: -87.65075
 postcode: "60607"
 city: Chicago
-street: "West Lake Street"
-housenumber: 925
-phone: "+1 (312) 254-2852"
+street: West Lake Street
+housenumber: "925"
+phone: +1 (312) 254-2852
 opening_hours: ""
-website: "https://specializedchicago.com"
+website: https://specializedchicago.com

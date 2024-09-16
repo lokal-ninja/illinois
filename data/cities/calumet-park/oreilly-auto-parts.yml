@@ -1,11 +1,11 @@
 id: 767436306
-type: way
+type: node
 latitude: 41.65829
 longitude: -87.6603
 postcode: "60827"
 city: Calumet Park
-street: "South Ashland Avenue"
-housenumber: 13087
+street: South Ashland Avenue
+housenumber: "13087"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/calumetpark/autoparts-5810.html"
+website: https://locations.oreillyauto.com/il/calumetpark/autoparts-5810.html

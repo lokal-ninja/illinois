@@ -1,11 +1,11 @@
 id: 1268180783
-type: way
+type: node
 latitude: 42.08122
 longitude: -87.75669
 postcode: "60091"
 city: Wilmette
-street: "Lake Avenue"
-housenumber: 3232
+street: Lake Avenue
+housenumber: "3232"
 phone: ""
 opening_hours: ""
-website: "https://www.wayfair.com/edens-plaza-wilmette-illinois~b636.html"
+website: https://www.wayfair.com/edens-plaza-wilmette-illinois~b636.html

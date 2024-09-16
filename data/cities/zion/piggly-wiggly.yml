@@ -1,11 +1,11 @@
 id: 333067749
-type: way
+type: node
 latitude: 42.43489
 longitude: -87.82337
 postcode: "60099"
 city: Zion
-street: "Sheridan Road"
-housenumber: 3341
-phone: "+1 847-872-4400"
+street: Sheridan Road
+housenumber: "3341"
+phone: +1 847-872-4400
 opening_hours: ""
-website: "https://www.shopthepig.com/stores#/5332"
+website: https://www.shopthepig.com/stores#/5332

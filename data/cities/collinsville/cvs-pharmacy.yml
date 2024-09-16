@@ -1,11 +1,12 @@
 id: 560764905
-type: way
+type: node
 latitude: 38.69158
 longitude: -89.97126
 postcode: "62234"
 city: Collinsville
-street: "Vandalia Street"
-housenumber: 1800
+street: Vandalia Street
+housenumber: "1800"
 phone: ""
-opening_hours: "Store Hours: Mon-Sun 8AM-10PM. Rx Hours: Mon-Fri 8AM-8PM, Sat 9AM-6PM, Sun 10AM-6PM."
-website: "https://www.cvs.com/store-locator/collinsville-il-pharmacies/1800-vandalia-st-collinsville-il-62234/storeid=2510"
+opening_hours: '"Store Hours: Mon-Sun 8AM-10PM. Rx Hours: Mon-Fri 8AM-8PM, Sat 9AM-6PM,
+    Sun 10AM-6PM."'
+website: https://www.cvs.com/store-locator/collinsville-il-pharmacies/1800-vandalia-st-collinsville-il-62234/storeid=2510

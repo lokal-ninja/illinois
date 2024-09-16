@@ -1,11 +1,11 @@
 id: 1186111345
-type: way
+type: node
 latitude: 42.15083
 longitude: -87.79819
 postcode: "60062"
 city: Northbrook
-street: "Skokie Boulevard"
-housenumber: 127
-phone: "+1 847-480-9280"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://locations.traderjoes.com/il/northbrook/682/"
+street: Skokie Boulevard
+housenumber: "127"
+phone: +1 847-480-9280
+opening_hours: Mo-Su 09:00-21:00
+website: https://locations.traderjoes.com/il/northbrook/682/

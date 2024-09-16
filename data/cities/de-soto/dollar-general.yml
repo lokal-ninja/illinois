@@ -1,11 +1,11 @@
 id: 600908524
-type: way
+type: node
 latitude: 37.82202
 longitude: -89.22941
 postcode: "62924"
 city: De Soto
-street: "us 51"
-housenumber: 16019
+street: us 51
+housenumber: "16019"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/de-soto/14043"
+website: https://www.dollargeneral.com/store-directory/il/de-soto/14043

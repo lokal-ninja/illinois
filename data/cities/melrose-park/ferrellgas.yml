@@ -1,11 +1,11 @@
 id: 848949807
-type: way
+type: node
 latitude: 41.89976
 longitude: -87.8923
 postcode: "60160"
 city: Melrose Park
-street: "West Lake Street"
-housenumber: 4809
+street: West Lake Street
+housenumber: "4809"
 phone: ""
 opening_hours: ""
 website: ""

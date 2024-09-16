@@ -1,11 +1,11 @@
 id: 643208124
-type: way
+type: node
 latitude: 42.10573
 longitude: -87.73461
 postcode: "60093"
 city: Winnetka
-street: "Elm Street"
-housenumber: 800
+street: Elm Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

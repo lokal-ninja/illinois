@@ -4,8 +4,8 @@ latitude: 40.4821
 longitude: -88.95208
 postcode: "61704"
 city: Bloomington
-street: "North Veterans Parkway"
-housenumber: 305
-phone: "+1 309 663 0920"
-opening_hours: "Mo 10:30-20:00; Tu-Fr 10:30-21:00; Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.menswearhouse.com/store-locator/4624"
+street: North Veterans Parkway
+housenumber: "305"
+phone: +1 309 663 0920
+opening_hours: Mo 10:30-20:00; Tu-Fr 10:30-21:00; Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.menswearhouse.com/store-locator/4624

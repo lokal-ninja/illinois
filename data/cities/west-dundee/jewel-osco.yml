@@ -1,11 +1,11 @@
 id: 102716496
-type: way
+type: node
 latitude: 42.10102
 longitude: -88.3002
 postcode: "60118"
 city: West Dundee
-street: "West Main Street"
-housenumber: 1250
-phone: "+1 847-428-3355"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/west-dundee/1250-w-main-st.html"
+street: West Main Street
+housenumber: "1250"
+phone: +1 847-428-3355
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/west-dundee/1250-w-main-st.html

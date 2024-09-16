@@ -1,11 +1,11 @@
 id: 521940128
-type: way
+type: node
 latitude: 41.5808
 longitude: -88.16148
 postcode: "60435"
 city: Joliet
-street: "North Essington Road"
-housenumber: 3200
-phone: "+1 815-254-2330"
+street: North Essington Road
+housenumber: "3200"
+phone: +1 815-254-2330
 opening_hours: ""
 website: ""

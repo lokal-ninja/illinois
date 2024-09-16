@@ -1,11 +1,11 @@
 id: 201335975
-type: way
+type: node
 latitude: 41.87131
 longitude: -87.96367
 postcode: "60181"
 city: Villa Park
-street: "South Route 83"
-housenumber: 900
-phone: "+1 630-530-2550"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1737/villa-park-il/whats-new"
+street: South Route 83
+housenumber: "900"
+phone: +1 630-530-2550
+opening_hours: 24/7
+website: https://www.walmart.com/store/1737/villa-park-il/whats-new

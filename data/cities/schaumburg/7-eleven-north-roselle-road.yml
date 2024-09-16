@@ -1,11 +1,11 @@
 id: 438883890
-type: way
+type: node
 latitude: 42.05499
 longitude: -88.08055
-postcode: "60195-3643"
+postcode: 60195-3643
 city: Schaumburg
-street: "North Roselle Road"
-housenumber: 1530
-phone: "+1 847-882-5013"
+street: North Roselle Road
+housenumber: "1530"
+phone: +1 847-882-5013
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/schaumburg/1530-n-roselle-rd-33527"
+website: https://www.7-eleven.com/locations/il/schaumburg/1530-n-roselle-rd-33527

@@ -1,11 +1,11 @@
 id: 124619250
-type: way
+type: node
 latitude: 41.77235
 longitude: -88.20894
 postcode: "60504"
 city: Aurora
-street: "Illinois Route 59"
-housenumber: 956
-phone: "+1 630 423 0105"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.athome.com/store-detail/?StoreID=Illinois-Aurora"
+street: Illinois Route 59
+housenumber: "956"
+phone: +1 630 423 0105
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.athome.com/store-detail/?StoreID=Illinois-Aurora

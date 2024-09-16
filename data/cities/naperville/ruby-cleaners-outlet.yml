@@ -1,11 +1,11 @@
 id: 1181047822
-type: way
+type: node
 latitude: 41.70931
 longitude: -88.20794
 postcode: "60564"
 city: Naperville
-street: "Reflection Drive"
-housenumber: 3020
+street: Reflection Drive
+housenumber: "3020"
 phone: ""
 opening_hours: ""
 website: ""

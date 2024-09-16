@@ -1,11 +1,11 @@
 id: 47636607
-type: way
+type: node
 latitude: 42.03628
 longitude: -87.93927
 postcode: "60016"
 city: Des Plaines
-street: "South Elmhurst Road"
-housenumber: 819
-phone: "+1 847-956-1220"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/des-plaines/819-s-elmhurst-rd.html"
+street: South Elmhurst Road
+housenumber: "819"
+phone: +1 847-956-1220
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/des-plaines/819-s-elmhurst-rd.html

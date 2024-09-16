@@ -1,11 +1,11 @@
 id: 443486879
-type: way
+type: node
 latitude: 38.80517
 longitude: -89.95252
 postcode: "62025"
 city: Edwardsville
-street: "South Buchanan Street"
-housenumber: 447
-phone: "+1 618 656 9055"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.joesmarketbasket.com"
+street: South Buchanan Street
+housenumber: "447"
+phone: +1 618 656 9055
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.joesmarketbasket.com

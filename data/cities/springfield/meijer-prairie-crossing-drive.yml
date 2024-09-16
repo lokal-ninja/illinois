@@ -4,8 +4,8 @@ latitude: 39.73592
 longitude: -89.70434
 postcode: "62711"
 city: Springfield
-street: "Prairie Crossing Drive"
-housenumber: 2700
-phone: "+1-217-547-2429"
-opening_hours: "24/7"
+street: Prairie Crossing Drive
+housenumber: "2700"
+phone: +1-217-547-2429
+opening_hours: 24/7
 website: ""

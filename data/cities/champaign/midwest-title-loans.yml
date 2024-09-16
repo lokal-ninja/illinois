@@ -1,11 +1,11 @@
 id: 244908518
-type: way
+type: node
 latitude: 40.12729
 longitude: -88.25735
 postcode: "61820"
 city: Champaign
-street: "North Prospect Avenue"
-housenumber: 1202
-phone: "+1 217 8661040"
+street: North Prospect Avenue
+housenumber: "1202"
+phone: +1 217 8661040
 opening_hours: ""
 website: ""

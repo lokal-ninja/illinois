@@ -1,11 +1,11 @@
 id: 989873938
-type: way
+type: node
 latitude: 42.11682
 longitude: -87.74346
 postcode: "60093"
 city: Winnetka
-street: "Green Bay Road"
-housenumber: 925
+street: Green Bay Road
+housenumber: "925"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-925+green+bay+rd-winnetka-il-60093/id=21150"
+website: https://www.walgreens.com/locator/walgreens-925+green+bay+rd-winnetka-il-60093/id=21150

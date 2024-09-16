@@ -1,11 +1,11 @@
 id: 210693551
-type: way
+type: node
 latitude: 41.68947
 longitude: -87.60075
 postcode: "60628"
 city: Chicago
-street: "South Corliss Avenue"
-housenumber: 11259
+street: South Corliss Avenue
+housenumber: "11259"
 phone: ""
 opening_hours: ""
 website: ""

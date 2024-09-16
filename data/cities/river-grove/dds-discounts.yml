@@ -1,11 +1,11 @@
 id: 531664365
-type: way
+type: node
 latitude: 41.93554
 longitude: -87.83451
 postcode: "60171"
 city: River Grove
-street: "West Belmont Avenue"
-housenumber: 8345
+street: West Belmont Avenue
+housenumber: "8345"
 phone: ""
 opening_hours: ""
 website: ""

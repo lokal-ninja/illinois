@@ -1,11 +1,11 @@
 id: 879515714
-type: way
+type: node
 latitude: 41.84368
 longitude: -87.79291
 postcode: "60402"
 city: Berwyn
-street: "West 26th Street"
-housenumber: 6757
-phone: "+1 708-749-7117"
+street: West 26th Street
+housenumber: "6757"
+phone: +1 708-749-7117
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/berwyn/6757-w.-26th-st-27898"
+website: https://www.7-eleven.com/locations/il/berwyn/6757-w.-26th-st-27898

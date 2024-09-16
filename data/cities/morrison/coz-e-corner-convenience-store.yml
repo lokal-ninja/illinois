@@ -1,11 +1,11 @@
 id: 403277181
-type: way
+type: node
 latitude: 41.79577
 longitude: -89.9653
 postcode: "61270"
 city: Morrison
-street: "Tech Drive"
-housenumber: 401
+street: Tech Drive
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

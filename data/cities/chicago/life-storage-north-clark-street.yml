@@ -1,11 +1,11 @@
 id: 209953396
-type: way
+type: node
 latitude: 42.00129
 longitude: -87.6723
 postcode: "60626"
 city: Chicago
-street: "North Clark Street"
-housenumber: 6542
+street: North Clark Street
+housenumber: "6542"
 phone: ""
 opening_hours: ""
-website: "https://www.lifestorage.com/storage-units/illinois/chicago/60626/8578-near-rogers-park/"
+website: https://www.lifestorage.com/storage-units/illinois/chicago/60626/8578-near-rogers-park/

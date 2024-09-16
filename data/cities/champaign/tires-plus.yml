@@ -1,11 +1,11 @@
 id: 244853893
-type: way
+type: node
 latitude: 40.13715
 longitude: -88.25704
 postcode: "61822"
 city: Champaign
-street: "West Marketview Drive"
-housenumber: 807
-phone: "+1 217 3663201"
-opening_hours: "Mo-Fr 07:00-20:00;Sa 07:00-17:00;Su 09:00-16:00"
+street: West Marketview Drive
+housenumber: "807"
+phone: +1 217 3663201
+opening_hours: Mo-Fr 07:00-20:00;Sa 07:00-17:00;Su 09:00-16:00
 website: ""

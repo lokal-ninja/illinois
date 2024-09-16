@@ -1,11 +1,11 @@
 id: 217755462
-type: way
+type: node
 latitude: 41.95955
 longitude: -87.83474
 postcode: "60706"
 city: Norridge
-street: "North Cumberland Avenue"
-housenumber: 4411
+street: North Cumberland Avenue
+housenumber: "4411"
 phone: ""
 opening_hours: ""
-website: "https://buteramarket.com/"
+website: https://buteramarket.com/

@@ -1,11 +1,11 @@
 id: 1285383818
-type: way
+type: node
 latitude: 38.70052
 longitude: -89.96369
 postcode: "62234"
 city: Collinsville
-street: "Vandalia Street"
-housenumber: 2221
-phone: "1-618-345-2377"
+street: Vandalia Street
+housenumber: "2221"
+phone: 1-618-345-2377
 opening_hours: ""
 website: ""

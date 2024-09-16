@@ -4,8 +4,8 @@ latitude: 42.07201
 longitude: -87.79902
 postcode: "60025"
 city: Glenview
-street: "Waukegan Road"
-housenumber: 967
-phone: "+1 847 729 8700"
-opening_hours: "Su-Th 10:00-22:00, Fr-Sa 10:00-23:00"
-website: "https://www.oberweis.com/ice-cream-and-dairy-stores/Glenview"
+street: Waukegan Road
+housenumber: "967"
+phone: +1 847 729 8700
+opening_hours: Su-Th 10:00-22:00, Fr-Sa 10:00-23:00
+website: https://www.oberweis.com/ice-cream-and-dairy-stores/Glenview

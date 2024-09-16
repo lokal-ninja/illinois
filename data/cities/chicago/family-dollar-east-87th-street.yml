@@ -1,11 +1,11 @@
 id: 210841948
-type: way
+type: node
 latitude: 41.73658
 longitude: -87.61547
 postcode: "60619"
 city: Chicago
-street: "East 87th Street"
-housenumber: 364
+street: East 87th Street
+housenumber: "364"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

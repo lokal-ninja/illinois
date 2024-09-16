@@ -1,11 +1,11 @@
 id: 231274960
-type: way
+type: node
 latitude: 42.31798
 longitude: -89.02861
 postcode: "61111"
 city: Loves Park
-street: "East Riverside Boulevard"
-housenumber: 1701
+street: East Riverside Boulevard
+housenumber: "1701"
 phone: ""
 opening_hours: ""
 website: ""

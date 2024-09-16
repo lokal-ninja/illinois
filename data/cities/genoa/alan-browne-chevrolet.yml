@@ -1,11 +1,11 @@
 id: 901398106
-type: way
+type: node
 latitude: 42.08895
 longitude: -88.68356
 postcode: "60135"
 city: Genoa
-street: "Pearson Drive"
-housenumber: 700
-phone: "+1-815-784-2511"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 09:00-17:00"
-website: "alanbrownechevy.com"
+street: Pearson Drive
+housenumber: "700"
+phone: +1-815-784-2511
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 09:00-17:00
+website: alanbrownechevy.com

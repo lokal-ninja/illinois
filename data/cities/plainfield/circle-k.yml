@@ -1,11 +1,11 @@
 id: 896042364
-type: way
+type: node
 latitude: 41.66575
 longitude: -88.205
 postcode: "60585"
 city: Plainfield
-street: "Illinois Route 59"
-housenumber: 11900
-phone: "+1 815 436 0031"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/plainfield/11900-rt-59/4706733"
+street: Illinois Route 59
+housenumber: "11900"
+phone: +1 815 436 0031
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/plainfield/11900-rt-59/4706733

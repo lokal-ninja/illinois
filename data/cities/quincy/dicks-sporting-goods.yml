@@ -1,11 +1,11 @@
 id: 643238376
-type: way
+type: node
 latitude: 39.93253
 longitude: -91.32303
 postcode: "62301"
 city: Quincy
-street: "Broadway Street"
-housenumber: 6006
-phone: "+1 217-228-7780"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/il/quincy/1284/"
+street: Broadway Street
+housenumber: "6006"
+phone: +1 217-228-7780
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/il/quincy/1284/

@@ -1,11 +1,11 @@
 id: 713208915
-type: way
+type: node
 latitude: 38.7275
 longitude: -88.08476
 postcode: "62450"
 city: Olney
-street: "South Whittle Avenue"
-housenumber: 520
+street: South Whittle Avenue
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

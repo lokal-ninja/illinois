@@ -4,8 +4,8 @@ latitude: 41.86821
 longitude: -87.63878
 postcode: "60607"
 city: Chicago
-street: "South Canal Street"
-housenumber: 1101
-phone: "+1 312-435-4600"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/southloop"
+street: South Canal Street
+housenumber: "1101"
+phone: +1 312-435-4600
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/southloop

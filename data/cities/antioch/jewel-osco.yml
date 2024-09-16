@@ -1,11 +1,11 @@
 id: 507124363
-type: way
+type: node
 latitude: 42.47714
 longitude: -88.10646
 postcode: "60002"
 city: Antioch
-street: "IL-59"
-housenumber: 966
-phone: "+1 847-395-7363"
-opening_hours: "24/7"
-website: "https://local.jewelosco.com/il/antioch/966-route-59.html"
+street: IL-59
+housenumber: "966"
+phone: +1 847-395-7363
+opening_hours: 24/7
+website: https://local.jewelosco.com/il/antioch/966-route-59.html

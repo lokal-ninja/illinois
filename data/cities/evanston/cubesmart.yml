@@ -1,11 +1,11 @@
 id: 206675669
-type: way
+type: node
 latitude: 42.02518
 longitude: -87.70885
 postcode: "60202"
 city: Evanston
-street: "Oakton Street"
-housenumber: 2484
+street: Oakton Street
+housenumber: "2484"
 phone: ""
 opening_hours: ""
-website: "https://www.cubesmart.com/illinois-self-storage/evanston-self-storage/1355.html"
+website: https://www.cubesmart.com/illinois-self-storage/evanston-self-storage/1355.html

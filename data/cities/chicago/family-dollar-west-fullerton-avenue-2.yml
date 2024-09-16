@@ -1,11 +1,11 @@
 id: 163897252
-type: way
+type: node
 latitude: 41.92498
 longitude: -87.72513
 postcode: "60647"
 city: Chicago
-street: "West Fullerton Avenue"
-housenumber: 3916
+street: West Fullerton Avenue
+housenumber: "3916"
 phone: ""
 opening_hours: ""
-website: "https://locations.familydollar.com/il/chicago/27078/"
+website: https://locations.familydollar.com/il/chicago/27078/

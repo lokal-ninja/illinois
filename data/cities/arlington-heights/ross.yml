@@ -4,8 +4,8 @@ latitude: 42.11234
 longitude: -87.97788
 postcode: "60004"
 city: Arlington Heights
-street: "East Rand Road"
-housenumber: 370
-phone: "+1 847-870-0032"
-opening_hours: "Mo-Th 09:30-21:30; Fr-Sa 09:30-22:00; Su 10:00-21:00"
+street: East Rand Road
+housenumber: "370"
+phone: +1 847-870-0032
+opening_hours: Mo-Th 09:30-21:30; Fr-Sa 09:30-22:00; Su 10:00-21:00
 website: ""

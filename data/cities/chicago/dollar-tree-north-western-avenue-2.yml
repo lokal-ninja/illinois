@@ -1,11 +1,11 @@
 id: 209478140
-type: way
+type: node
 latitude: 41.96788
 longitude: -87.68946
 postcode: "60625"
 city: Chicago
-street: "North Western Avenue"
-housenumber: 4738
+street: North Western Avenue
+housenumber: "4738"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/chicago/3359/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/chicago/3359/

@@ -1,11 +1,11 @@
 id: 828610829
-type: way
+type: node
 latitude: 42.09708
 longitude: -87.95685
 postcode: "60004"
 city: Arlington Heights
-street: "North Rand Road"
-housenumber: 1021
+street: North Rand Road
+housenumber: "1021"
 phone: ""
 opening_hours: ""
 website: ""

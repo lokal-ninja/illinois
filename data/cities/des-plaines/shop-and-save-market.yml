@@ -1,11 +1,11 @@
 id: 138068191
-type: way
+type: node
 latitude: 42.04261
 longitude: -87.88574
 postcode: "60016"
 city: Des Plaines
-street: "Metropolitan Way"
-housenumber: 518
-phone: "+1-847-227-5800"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-20:00"
-website: "https://www.shopandsavemarket.com/locations/518-metropolitan-way-des-plaines"
+street: Metropolitan Way
+housenumber: "518"
+phone: +1-847-227-5800
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-20:00
+website: https://www.shopandsavemarket.com/locations/518-metropolitan-way-des-plaines

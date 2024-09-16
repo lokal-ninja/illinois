@@ -1,11 +1,11 @@
 id: 1032389094
-type: way
+type: node
 latitude: 40.48912
 longitude: -88.95849
 postcode: "61701"
 city: Bloomington
-street: "East Empire Street"
-housenumber: 1502
+street: East Empire Street
+housenumber: "1502"
 phone: ""
 opening_hours: ""
 website: ""

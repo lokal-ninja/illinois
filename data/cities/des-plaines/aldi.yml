@@ -1,11 +1,11 @@
 id: 430887629
-type: way
+type: node
 latitude: 42.02882
 longitude: -87.89255
 postcode: "60018"
 city: Des Plaines
-street: "Lee Street"
-housenumber: 1365
-phone: "+1 833-440-1071"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/des-plaines/1365-lee-st"
+street: Lee Street
+housenumber: "1365"
+phone: +1 833-440-1071
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/des-plaines/1365-lee-st

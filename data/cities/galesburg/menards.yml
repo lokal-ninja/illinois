@@ -1,11 +1,11 @@
 id: 182568163
-type: way
+type: node
 latitude: 40.98195
 longitude: -90.35804
 postcode: "61401"
 city: Galesburg
-street: "Veterans Drive"
-housenumber: 2791
+street: Veterans Drive
+housenumber: "2791"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3235"
+website: https://www.menards.com/store-details/store.html?store=3235

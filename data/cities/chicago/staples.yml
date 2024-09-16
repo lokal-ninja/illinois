@@ -4,8 +4,8 @@ latitude: 41.88341
 longitude: -87.62591
 postcode: "60602"
 city: Chicago
-street: "North Wabash Avenue"
-housenumber: 111
+street: North Wabash Avenue
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/il/chicago/111-north-wabash-ave"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/il/chicago/111-north-wabash-ave

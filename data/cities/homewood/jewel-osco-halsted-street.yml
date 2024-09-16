@@ -1,11 +1,11 @@
 id: 320392359
-type: way
+type: node
 latitude: 41.56734
 longitude: -87.6342
 postcode: "60430"
 city: Homewood
-street: "Halsted Street"
-housenumber: 17705
-phone: "+1 708-957-1810"
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://local.jewelosco.com/il/homewood/17705-s-halsted-st.html"
+street: Halsted Street
+housenumber: "17705"
+phone: +1 708-957-1810
+opening_hours: Mo-Su 00:00-24:00
+website: https://local.jewelosco.com/il/homewood/17705-s-halsted-st.html

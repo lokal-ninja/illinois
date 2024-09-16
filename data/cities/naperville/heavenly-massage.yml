@@ -1,11 +1,11 @@
 id: 442253970
-type: way
+type: node
 latitude: 41.6938
 longitude: -88.20574
 postcode: "60564"
 city: Naperville
-street: "Kaitlyn Drive"
-housenumber: 4140
-phone: "+1 630 355 5616"
+street: Kaitlyn Drive
+housenumber: "4140"
+phone: +1 630 355 5616
 opening_hours: ""
-website: "https://heavenlymassage.com/"
+website: https://heavenlymassage.com/

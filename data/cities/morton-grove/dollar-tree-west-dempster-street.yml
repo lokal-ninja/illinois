@@ -1,11 +1,11 @@
 id: 1275422042
-type: way
+type: node
 latitude: 42.03942
 longitude: -87.79669
 postcode: "60053"
 city: Morton Grove
-street: "West Dempster Street"
-housenumber: 6911
+street: West Dempster Street
+housenumber: "6911"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/il/morton-grove/8358/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/il/morton-grove/8358/

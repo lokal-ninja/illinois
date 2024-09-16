@@ -1,11 +1,11 @@
 id: 548974767
-type: way
+type: node
 latitude: 41.35957
 longitude: -89.12479
 postcode: "61354"
 city: Peru
-street: "38th Street"
-housenumber: 1421
-phone: "+1 815-223-0120"
-opening_hours: "Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/il/peru/1421-38th-st"
+street: 38th Street
+housenumber: "1421"
+phone: +1 815-223-0120
+opening_hours: Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/il/peru/1421-38th-st

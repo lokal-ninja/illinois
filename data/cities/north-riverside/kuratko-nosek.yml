@@ -1,11 +1,11 @@
 id: 1152711314
-type: way
+type: node
 latitude: 41.8448
 longitude: -87.82284
 postcode: "60546"
 city: North Riverside
-street: "Des Plaines Avenue"
-housenumber: 2447
+street: Des Plaines Avenue
+housenumber: "2447"
 phone: ""
 opening_hours: ""
-website: "https://www.kuratkonosek.com/"
+website: https://www.kuratkonosek.com/

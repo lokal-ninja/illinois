@@ -1,11 +1,11 @@
 id: 1218003439
-type: way
+type: node
 latitude: 41.63726
 longitude: -87.67916
 postcode: "60469"
 city: Posen
-street: "Western Avenue"
-housenumber: 14038
+street: Western Avenue
+housenumber: "14038"
 phone: ""
 opening_hours: ""
 website: ""

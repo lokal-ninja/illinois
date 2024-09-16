@@ -1,11 +1,11 @@
 id: 1206942518
-type: way
+type: node
 latitude: 41.72156
 longitude: -87.68951
 postcode: "60805"
 city: Evergreen Park
-street: "West 95th Street"
-housenumber: 2660
+street: West 95th Street
+housenumber: "2660"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/il/evergreen-park/officemax-6245"
+website: https://www.officedepot.com/storelocator/il/evergreen-park/officemax-6245

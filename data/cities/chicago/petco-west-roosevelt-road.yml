@@ -4,8 +4,8 @@ latitude: 41.86699
 longitude: -87.64304
 postcode: "60607"
 city: Chicago
-street: "West Roosevelt Road"
-housenumber: 611
-phone: "+1 312-243-2620"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1989.html"
+street: West Roosevelt Road
+housenumber: "611"
+phone: +1 312-243-2620
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1989.html

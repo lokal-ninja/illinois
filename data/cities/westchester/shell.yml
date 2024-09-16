@@ -1,11 +1,11 @@
 id: 225789831
-type: way
+type: node
 latitude: 41.86379
 longitude: -87.87861
 postcode: "60154"
 city: Westchester
-street: "Roosevelt Road"
-housenumber: 10200
+street: Roosevelt Road
+housenumber: "10200"
 phone: ""
 opening_hours: ""
 website: ""

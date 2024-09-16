@@ -1,11 +1,11 @@
 id: 163901275
-type: way
+type: node
 latitude: 41.92852
 longitude: -87.70627
 postcode: "60647"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 2579
+street: North Milwaukee Avenue
+housenumber: "2579"
 phone: ""
 opening_hours: ""
-website: "https://comfortstationlogansquare.org/"
+website: https://comfortstationlogansquare.org/

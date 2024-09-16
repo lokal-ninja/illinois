@@ -1,11 +1,11 @@
 id: 879496354
-type: way
+type: node
 latitude: 41.85139
 longitude: -87.79395
 postcode: "60402"
 city: Berwyn
-street: "Oak Park Avenue"
-housenumber: 2120
+street: Oak Park Avenue
+housenumber: "2120"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/berwyn/autoparts-3366.html"
+website: https://locations.oreillyauto.com/il/berwyn/autoparts-3366.html

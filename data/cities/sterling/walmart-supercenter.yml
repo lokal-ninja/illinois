@@ -1,11 +1,11 @@
 id: 319700421
-type: way
+type: node
 latitude: 41.81565
 longitude: -89.64368
 postcode: "61081"
 city: Sterling
-street: "East Lincolnway"
-housenumber: 4115
-phone: "+1 815-626-7200"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/891/sterling-il/whats-new"
+street: East Lincolnway
+housenumber: "4115"
+phone: +1 815-626-7200
+opening_hours: 24/7
+website: https://www.walmart.com/store/891/sterling-il/whats-new

@@ -4,8 +4,8 @@ latitude: 41.8846
 longitude: -87.65138
 postcode: "60607"
 city: Chicago
-street: "West Randolph Street"
-housenumber: 936
+street: West Randolph Street
+housenumber: "936"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.brooklinen.com/"
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su 10:00-18:00
+website: https://www.brooklinen.com/

@@ -4,8 +4,8 @@ latitude: 41.77421
 longitude: -88.14995
 postcode: "60540"
 city: Naperville
-street: "South Main Street"
-housenumber: 55
-phone: "+1 630 355 5683"
-opening_hours: "Mo-Th 10:00-18:00; Fr-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.loft.com/il/naperville/55-south-main-street.html"
+street: South Main Street
+housenumber: "55"
+phone: +1 630 355 5683
+opening_hours: Mo-Th 10:00-18:00; Fr-Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.loft.com/il/naperville/55-south-main-street.html

@@ -1,11 +1,11 @@
 id: 211353440
-type: way
+type: node
 latitude: 41.71937
 longitude: -87.53683
 postcode: "60617"
 city: Chicago
-street: "South Avenue L"
-housenumber: 9701
-phone: "+1-773-768-7960"
+street: South Avenue L
+housenumber: "9701"
+phone: +1-773-768-7960
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 247558296
-type: way
+type: node
 latitude: 40.70779
 longitude: -89.45723
 postcode: "61571"
 city: Washington
-street: "Freedom Parkway"
-housenumber: 1980
-phone: "+1 309-745-3339"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1421/washington-il/whats-new"
+street: Freedom Parkway
+housenumber: "1980"
+phone: +1 309-745-3339
+opening_hours: 24/7
+website: https://www.walmart.com/store/1421/washington-il/whats-new

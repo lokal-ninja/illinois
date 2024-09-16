@@ -1,11 +1,11 @@
 id: 858264940
-type: way
+type: node
 latitude: 40.46394
 longitude: -88.09532
 postcode: "60957"
 city: Paxton
-street: "North Market Street"
-housenumber: 349
-phone: "+1 (217) 379-2121"
+street: North Market Street
+housenumber: "349"
+phone: +1 (217) 379-2121
 opening_hours: ""
-website: "https://kirchnerbuildingcenters.com/contact"
+website: https://kirchnerbuildingcenters.com/contact

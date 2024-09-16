@@ -1,11 +1,11 @@
 id: 210118342
-type: way
+type: node
 latitude: 41.76446
 longitude: -87.66331
 postcode: "60636"
 city: Chicago
-street: "West 71st Street"
-housenumber: 1585
+street: West 71st Street
+housenumber: "1585"
 phone: ""
 opening_hours: ""
 website: ""

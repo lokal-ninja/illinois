@@ -1,11 +1,11 @@
 id: 232267096
-type: way
+type: node
 latitude: 41.8287
 longitude: -87.81726
 postcode: "60546"
 city: Riverside
-street: "East Burlington Street"
-housenumber: 52
+street: East Burlington Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

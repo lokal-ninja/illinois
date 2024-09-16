@@ -1,11 +1,11 @@
 id: 768649696
-type: way
+type: node
 latitude: 41.85131
 longitude: -87.78098
 postcode: "60402"
 city: Berwyn
-street: "West Cermak Road"
-housenumber: 6246
+street: West Cermak Road
+housenumber: "6246"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.worldslargestlaundry.com/"
+opening_hours: 24/7
+website: https://www.worldslargestlaundry.com/

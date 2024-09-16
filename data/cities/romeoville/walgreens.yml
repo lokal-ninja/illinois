@@ -1,11 +1,11 @@
 id: 44623824
-type: way
+type: node
 latitude: 41.64199
 longitude: -88.12565
 postcode: "60446"
 city: Romeoville
-street: "North Weber Road"
-housenumber: 498
+street: North Weber Road
+housenumber: "498"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-498+n+weber+rd-romeoville-il-60446/id=6563"
+website: https://www.walgreens.com/locator/walgreens-498+n+weber+rd-romeoville-il-60446/id=6563

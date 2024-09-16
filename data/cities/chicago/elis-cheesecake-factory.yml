@@ -1,11 +1,11 @@
 id: 151319602
-type: way
+type: node
 latitude: 41.95932
 longitude: -87.79448
 postcode: "60634"
 city: Chicago
-street: "West Forest Preserve Avenue"
-housenumber: 6701
+street: West Forest Preserve Avenue
+housenumber: "6701"
 phone: ""
 opening_hours: ""
-website: "https://elicheesecake.com/"
+website: https://elicheesecake.com/

@@ -1,11 +1,11 @@
 id: 188699619
-type: way
+type: node
 latitude: 41.51278
 longitude: -87.94942
 postcode: "60451"
 city: New Lenox
-street: "East Lincoln Highway"
-housenumber: 681
-phone: "+1-815-215-3054"
+street: East Lincoln Highway
+housenumber: "681"
+phone: +1-815-215-3054
 opening_hours: ""
-website: "https://www.discounttire.com/store/il/new-lenox/s/1891"
+website: https://www.discounttire.com/store/il/new-lenox/s/1891

@@ -1,11 +1,11 @@
 id: 210063194
-type: way
+type: node
 latitude: 41.73607
 longitude: -87.65378
 postcode: "60620"
 city: Chicago
-street: "West 87th Street"
-housenumber: 1200
+street: West 87th Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

@@ -1,11 +1,11 @@
 id: 165153004
-type: way
+type: node
 latitude: 41.82303
 longitude: -87.68921
 postcode: "60632"
 city: Chicago
-street: "South Archer Avenue"
-housenumber: 3871
+street: South Archer Avenue
+housenumber: "3871"
 phone: ""
 opening_hours: ""
 website: ""

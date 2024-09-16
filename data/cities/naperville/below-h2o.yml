@@ -1,11 +1,11 @@
 id: 975492434
-type: way
+type: node
 latitude: 41.75939
 longitude: -88.20287
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 554
-phone: "+1 630 820 2531"
+street: South Illinois Route 59
+housenumber: "554"
+phone: +1 630 820 2531
 opening_hours: ""
-website: "https://www.belowh2o.com/"
+website: https://www.belowh2o.com/

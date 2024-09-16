@@ -1,11 +1,11 @@
 id: 181384355
-type: way
+type: node
 latitude: 41.87427
 longitude: -87.64375
 postcode: "60607"
 city: Chicago
-street: "West Harrison Street"
-housenumber: 601
+street: West Harrison Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

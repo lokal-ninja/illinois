@@ -1,11 +1,11 @@
 id: 659441818
-type: way
+type: node
 latitude: 40.18689
 longitude: -87.62883
 postcode: "61832"
 city: Danville
-street: "North Vermilion Street"
-housenumber: 3623
-phone: "+1 217-431-5756"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Vermilion Street
+housenumber: "3623"
+phone: +1 217-431-5756
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 40779777
-type: way
+type: node
 latitude: 41.93595
 longitude: -87.66988
 postcode: "60657"
 city: Chicago
-street: "North Ashland Avenue"
-housenumber: 2940
-phone: "+1 773-871-8242"
-opening_hours: "Mo-Fr 05:00-01:00; Sa 05:00-01:00; Su 05:00-01:00"
-website: "https://local.jewelosco.com/il/chicago/2940-n-ashland-ave.html"
+street: North Ashland Avenue
+housenumber: "2940"
+phone: +1 773-871-8242
+opening_hours: Mo-Fr 05:00-01:00; Sa 05:00-01:00; Su 05:00-01:00
+website: https://local.jewelosco.com/il/chicago/2940-n-ashland-ave.html

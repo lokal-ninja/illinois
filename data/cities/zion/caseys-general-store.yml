@@ -1,11 +1,11 @@
 id: 1292428765
-type: way
+type: node
 latitude: 42.42958
 longitude: -87.82492
 postcode: "60099"
 city: Zion
-street: "Sheridan Road"
-housenumber: 39131
+street: Sheridan Road
+housenumber: "39131"
 phone: ""
 opening_hours: ""
 website: ""

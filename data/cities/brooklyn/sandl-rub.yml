@@ -1,11 +1,11 @@
 id: 656118741
-type: way
+type: node
 latitude: 38.6573
 longitude: -90.16872
 postcode: "62059"
 city: Brooklyn
-street: "South 3rd Street"
-housenumber: 109
+street: South 3rd Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

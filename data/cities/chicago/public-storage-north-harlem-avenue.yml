@@ -1,11 +1,11 @@
 id: 787997998
-type: way
+type: node
 latitude: 41.92312
 longitude: -87.80608
 postcode: "60707"
 city: Chicago
-street: "North Harlem Avenue"
-housenumber: 2351
+street: North Harlem Avenue
+housenumber: "2351"
 phone: ""
 opening_hours: ""
 website: ""

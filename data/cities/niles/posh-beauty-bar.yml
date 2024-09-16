@@ -1,11 +1,11 @@
 id: 688483247
-type: way
+type: node
 latitude: 42.01324
 longitude: -87.76788
 postcode: "60714"
 city: Niles
-street: "West Touhy Avenue"
-housenumber: 5610
+street: West Touhy Avenue
+housenumber: "5610"
 phone: ""
 opening_hours: ""
 website: ""

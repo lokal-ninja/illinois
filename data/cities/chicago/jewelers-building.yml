@@ -1,11 +1,11 @@
 id: 147478106
-type: way
+type: node
 latitude: 41.8817
 longitude: -87.62597
 postcode: "60603"
 city: Chicago
-street: "South Wabash Avenue"
-housenumber: 15
+street: South Wabash Avenue
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 730428639
-type: way
+type: node
 latitude: 41.62384
 longitude: -87.55934
 postcode: "60409"
 city: Calumet City
-street: "Torrence Avenue"
-housenumber: 470
+street: Torrence Avenue
+housenumber: "470"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cvs-pharmacy-address/470+South+Torrence+Avenue%2C+Corner+Of+Sibely-Calumet+City-IL-60409/storeid=5769"
+website: https://www.cvs.com/store-locator/cvs-pharmacy-address/470+South+Torrence+Avenue%2C+Corner+Of+Sibely-Calumet+City-IL-60409/storeid=5769

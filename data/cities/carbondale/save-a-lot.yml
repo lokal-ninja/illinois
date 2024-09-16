@@ -1,11 +1,11 @@
 id: 295045105
-type: way
+type: node
 latitude: 37.7251
 longitude: -89.21308
 postcode: "62901"
 city: Carbondale
-street: "East Walnut Street"
-housenumber: 301
-phone: "+1 618 529 8701"
+street: East Walnut Street
+housenumber: "301"
+phone: +1 618 529 8701
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/carbondale-62901-24447/"
+website: https://savealot.com/grocery-stores/carbondale-62901-24447/

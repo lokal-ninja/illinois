@@ -1,11 +1,11 @@
 id: 141907290
-type: way
+type: node
 latitude: 40.14776
 longitude: -88.2543
 postcode: "61822"
 city: Champaign
-street: "North Prospect Avenue"
-housenumber: 2610
-phone: "+1-217-352-0700"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1734/champaign-il/whats-new"
+street: North Prospect Avenue
+housenumber: "2610"
+phone: +1-217-352-0700
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1734/champaign-il/whats-new

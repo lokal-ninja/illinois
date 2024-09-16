@@ -1,11 +1,11 @@
 id: 596783216
-type: way
+type: node
 latitude: 40.11761
 longitude: -88.25045
 postcode: ""
 city: Champaign
-street: "North Elm Street"
-housenumber: 201
+street: North Elm Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

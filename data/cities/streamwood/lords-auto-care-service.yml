@@ -1,11 +1,11 @@
 id: 318745448
-type: way
+type: node
 latitude: 42.01205
 longitude: -88.17672
 postcode: "60107"
 city: Streamwood
-street: "East Irving Park Road"
-housenumber: 265
+street: East Irving Park Road
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

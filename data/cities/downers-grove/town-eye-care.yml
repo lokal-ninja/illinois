@@ -1,11 +1,11 @@
 id: 196677295
-type: way
+type: node
 latitude: 41.83555
 longitude: -88.01904
 postcode: "60515"
 city: Downers Grove
-street: "Butterfield Road"
-housenumber: 1412
+street: Butterfield Road
+housenumber: "1412"
 phone: ""
 opening_hours: ""
 website: ""

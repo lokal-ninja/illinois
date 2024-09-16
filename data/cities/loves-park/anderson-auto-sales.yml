@@ -1,11 +1,11 @@
 id: 261289700
-type: way
+type: node
 latitude: 42.31959
 longitude: -88.98348
 postcode: "61111"
 city: Loves Park
-street: "Perryville Path"
-housenumber: 4100
+street: Perryville Path
+housenumber: "4100"
 phone: ""
 opening_hours: ""
 website: ""

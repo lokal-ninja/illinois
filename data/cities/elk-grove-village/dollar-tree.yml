@@ -1,11 +1,11 @@
 id: 1040615322
-type: way
+type: node
 latitude: 42.00039
 longitude: -88.04332
 postcode: "60007"
 city: Elk Grove Village
-street: "North Meacham Road"
-housenumber: 915
+street: North Meacham Road
+housenumber: "915"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/il/elk-grove-village/7760/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/il/elk-grove-village/7760/

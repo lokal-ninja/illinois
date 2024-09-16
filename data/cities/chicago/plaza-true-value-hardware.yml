@@ -1,11 +1,11 @@
 id: 210694410
-type: way
+type: node
 latitude: 41.67927
 longitude: -87.62042
 postcode: "60628"
 city: Chicago
-street: "South Michigan Avenue"
-housenumber: 11813
-phone: "+1 773-264-2665"
+street: South Michigan Avenue
+housenumber: "11813"
+phone: +1 773-264-2665
 opening_hours: ""
-website: "https://stores.truevalue.com/il/chicago/380/"
+website: https://stores.truevalue.com/il/chicago/380/

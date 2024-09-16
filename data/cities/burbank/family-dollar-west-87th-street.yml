@@ -1,11 +1,11 @@
 id: 1176480549
-type: way
+type: node
 latitude: 41.73452
 longitude: -87.77058
 postcode: "60459"
 city: Burbank
-street: "West 87th Street"
-housenumber: 6010
+street: West 87th Street
+housenumber: "6010"
 phone: ""
 opening_hours: ""
-website: "https://locations.familydollar.com/il/burbank/26595/"
+website: https://locations.familydollar.com/il/burbank/26595/

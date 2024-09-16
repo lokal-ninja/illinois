@@ -1,11 +1,11 @@
 id: 653496455
-type: way
+type: node
 latitude: 41.23846
 longitude: -89.92453
 postcode: "61443"
 city: Kewanee
-street: "South Main Street"
-housenumber: 
+street: South Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kewanee-il-pharmacies/444-s-main-st-kewanee-il-61443/storeid=8691"
+website: https://www.cvs.com/store-locator/kewanee-il-pharmacies/444-s-main-st-kewanee-il-61443/storeid=8691

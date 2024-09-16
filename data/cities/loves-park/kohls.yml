@@ -1,11 +1,11 @@
 id: 121143464
-type: way
+type: node
 latitude: 42.36736
 longitude: -89.02954
 postcode: "61115"
 city: Loves Park
-street: "North Alpine Road"
-housenumber: 10153
-phone: "+1 815-639-1009"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/machesneypark-174.shtml"
+street: North Alpine Road
+housenumber: "10153"
+phone: +1 815-639-1009
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/machesneypark-174.shtml

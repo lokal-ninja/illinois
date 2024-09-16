@@ -1,11 +1,11 @@
 id: 514308064
-type: way
+type: node
 latitude: 42.09312
 longitude: -87.72372
 postcode: "60093"
 city: Winnetka
-street: "Green Bay Road"
-housenumber: 88
-phone: "+1 847-446-8230"
+street: Green Bay Road
+housenumber: "88"
+phone: +1 847-446-8230
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/winnetka/88-green-bay-road-33799"
+website: https://www.7-eleven.com/locations/il/winnetka/88-green-bay-road-33799

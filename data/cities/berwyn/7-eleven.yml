@@ -1,11 +1,11 @@
 id: 807481096
-type: way
+type: node
 latitude: 41.85835
 longitude: -87.78918
 postcode: "60402"
 city: Berwyn
-street: "16th Street"
-housenumber: 6603
-phone: "+1 708-749-3202"
+street: 16th Street
+housenumber: "6603"
+phone: +1 708-749-3202
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/berwyn/6603-west-16th-st.-27599"
+website: https://www.7-eleven.com/locations/il/berwyn/6603-west-16th-st.-27599

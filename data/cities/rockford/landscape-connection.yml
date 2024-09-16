@@ -1,11 +1,11 @@
 id: 681741209
-type: way
+type: node
 latitude: 42.21724
 longitude: -88.99792
 postcode: "61109"
 city: Rockford
-street: "South Mulford Road"
-housenumber: 4472
-phone: "+1 815-874-8733"
+street: South Mulford Road
+housenumber: "4472"
+phone: +1 815-874-8733
 opening_hours: ""
 website: ""

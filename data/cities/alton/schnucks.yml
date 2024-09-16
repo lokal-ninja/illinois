@@ -1,11 +1,11 @@
 id: 769765364
-type: way
+type: node
 latitude: 38.91431
 longitude: -90.14386
 postcode: "62002"
 city: Alton
-street: "Homer M Adams Parkway"
-housenumber: 2811
-phone: "+1-618-465-6673"
+street: Homer M Adams Parkway
+housenumber: "2811"
+phone: +1-618-465-6673
 opening_hours: ""
-website: "https://nourish.schnucks.com/"
+website: https://nourish.schnucks.com/

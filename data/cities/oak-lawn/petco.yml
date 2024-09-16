@@ -1,11 +1,11 @@
 id: 1178779094
-type: way
+type: node
 latitude: 41.72043
 longitude: -87.77628
 postcode: "60453"
 city: Oak Lawn
-street: "West 95th Street"
-housenumber: 6220
-phone: "+1 708-430-4400"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/il/oaklawn/pet-supplies-oaklawn-il-868.html"
+street: West 95th Street
+housenumber: "6220"
+phone: +1 708-430-4400
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/il/oaklawn/pet-supplies-oaklawn-il-868.html

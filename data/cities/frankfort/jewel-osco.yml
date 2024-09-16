@@ -1,11 +1,11 @@
 id: 438025907
-type: way
+type: node
 latitude: 41.50453
 longitude: -87.85299
 postcode: "60423"
 city: Frankfort
-street: "South La Grange Road"
-housenumber: 21164
-phone: "+1 815-464-5352"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/frankfort/21164-s-la-grange-rd.html"
+street: South La Grange Road
+housenumber: "21164"
+phone: +1 815-464-5352
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/frankfort/21164-s-la-grange-rd.html

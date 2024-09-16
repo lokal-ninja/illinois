@@ -1,11 +1,11 @@
 id: 986087468
-type: way
+type: node
 latitude: 41.91871
 longitude: -88.77612
 postcode: "60115"
 city: DeKalb
-street: "South Annie Glidden Road"
-housenumber: 1037
-phone: "+1 815-756-4200"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00, Su 10:00-18:00"
-website: "https://goodwillni.org/store/dekalb/"
+street: South Annie Glidden Road
+housenumber: "1037"
+phone: +1 815-756-4200
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-19:00, Su 10:00-18:00
+website: https://goodwillni.org/store/dekalb/

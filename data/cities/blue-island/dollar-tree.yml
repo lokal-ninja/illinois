@@ -1,11 +1,11 @@
 id: 233930681
-type: way
+type: node
 latitude: 41.65633
 longitude: -87.66103
 postcode: "60406"
 city: Blue Island
-street: "South Ashland Avenue"
-housenumber: 12964
+street: South Ashland Avenue
+housenumber: "12964"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.dollartree.com/locations/il/blue-island/4594/"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.dollartree.com/locations/il/blue-island/4594/

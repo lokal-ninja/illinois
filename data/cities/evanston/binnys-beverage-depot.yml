@@ -1,11 +1,11 @@
 id: 39256794
-type: way
+type: node
 latitude: 42.03818
 longitude: -87.68009
 postcode: "60202"
 city: Evanston
-street: "Chicago Avenue"
-housenumber: 1111
+street: Chicago Avenue
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

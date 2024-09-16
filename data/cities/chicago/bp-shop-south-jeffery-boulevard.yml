@@ -1,11 +1,11 @@
 id: 211320025
-type: way
+type: node
 latitude: 41.77294
 longitude: -87.57603
 postcode: "60649"
 city: Chicago
-street: "South Jeffery Boulevard"
-housenumber: 6701
+street: South Jeffery Boulevard
+housenumber: "6701"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 471627237
-type: way
+type: node
 latitude: 41.88208
 longitude: -87.88423
 postcode: "60162"
 city: Hillside
-street: "Mannheim Road"
-housenumber: 600
+street: Mannheim Road
+housenumber: "600"
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://www.cvs.com/store-locator/hillside-il-pharmacies/600-north-mannheim-rd-hillside-il-60162/storeid=2827"
+opening_hours: 07:00-22:00
+website: https://www.cvs.com/store-locator/hillside-il-pharmacies/600-north-mannheim-rd-hillside-il-60162/storeid=2827

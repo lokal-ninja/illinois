@@ -1,11 +1,11 @@
 id: 201451363
-type: way
+type: node
 latitude: 41.77241
 longitude: -88.14946
 postcode: "60540"
 city: Naperville
-street: "South Main Street"
-housenumber: 222
+street: South Main Street
+housenumber: "222"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-14:00; Su off"
-website: "http://www.liambrex.com/"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00; Su off
+website: http://www.liambrex.com/

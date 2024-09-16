@@ -1,11 +1,11 @@
 id: 238271009
-type: way
+type: node
 latitude: 40.61492
 longitude: -89.47312
 postcode: "61550"
 city: Morton
-street: "Detroit Avenue"
-housenumber: 230
+street: Detroit Avenue
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 686717210
-type: way
+type: node
 latitude: 41.3299
 longitude: -89.10204
 postcode: "61301"
 city: LaSalle
-street: "3rd Street"
-housenumber: 235
+street: 3rd Street
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

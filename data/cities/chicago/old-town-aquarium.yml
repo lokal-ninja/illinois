@@ -1,11 +1,11 @@
 id: 206585447
-type: way
+type: node
 latitude: 41.9103
 longitude: -87.63518
 postcode: "60610"
 city: Chicago
-street: "North Wells Street"
-housenumber: 1538
+street: North Wells Street
+housenumber: "1538"
 phone: ""
 opening_hours: ""
-website: "https://www.oldtownaquarium.com/"
+website: https://www.oldtownaquarium.com/

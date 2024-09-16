@@ -1,11 +1,11 @@
 id: 405515722
-type: way
+type: node
 latitude: 41.74681
 longitude: -87.60494
 postcode: "60619"
 city: Chicago
-street: "South Cottage Grove Avenue"
-housenumber: 8127
+street: South Cottage Grove Avenue
+housenumber: "8127"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/8127-s-cottage-grove-ave.html"
+website: https://www.autozone.com/locations/il/chicago/8127-s-cottage-grove-ave.html

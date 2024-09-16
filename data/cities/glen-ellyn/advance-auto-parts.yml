@@ -1,11 +1,11 @@
 id: 303125166
-type: way
+type: node
 latitude: 41.85962
 longitude: -88.05779
 postcode: "60137"
 city: Glen Ellyn
-street: "East Roosevelt Road"
-housenumber: 696
+street: East Roosevelt Road
+housenumber: "696"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/glen-ellyn/696-roosevelt-rd"
+website: https://stores.advanceautoparts.com/il/glen-ellyn/696-roosevelt-rd

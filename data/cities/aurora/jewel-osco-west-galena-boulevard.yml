@@ -1,11 +1,11 @@
 id: 161733153
-type: way
+type: node
 latitude: 41.76309
 longitude: -88.36412
 postcode: "60506"
 city: Aurora
-street: "West Galena Boulevard"
-housenumber: 1952
-phone: "+1 630-859-1212"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/aurora/1952-w-galena-blvd.html"
+street: West Galena Boulevard
+housenumber: "1952"
+phone: +1 630-859-1212
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/aurora/1952-w-galena-blvd.html

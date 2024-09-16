@@ -4,8 +4,8 @@ latitude: 41.79939
 longitude: -87.58877
 postcode: "60615"
 city: Chicago
-street: "East 53rd Street"
-housenumber: 1507
+street: East 53rd Street
+housenumber: "1507"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-17:00; Su 10:00-14:00"
-website: "https://locations.theupsstore.com/il/chicago/1507-e-53rd-st"
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-17:00; Su 10:00-14:00
+website: https://locations.theupsstore.com/il/chicago/1507-e-53rd-st

@@ -1,11 +1,11 @@
 id: 1001577203
-type: way
+type: node
 latitude: 42.26105
 longitude: -88.14329
 postcode: "60084"
 city: Wauconda
-street: "North Main Street"
-housenumber: 205
+street: North Main Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

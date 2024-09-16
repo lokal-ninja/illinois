@@ -1,11 +1,11 @@
 id: 26200456
-type: way
+type: node
 latitude: 42.02621
 longitude: -87.75392
 postcode: "60077"
 city: Skokie
-street: "Oakton Street"
-housenumber: 5035
-phone: "+1 847-673-0700"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su 09:00-16:00"
-website: "https://www.acehardware.com/home/index.jsp"
+street: Oakton Street
+housenumber: "5035"
+phone: +1 847-673-0700
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su 09:00-16:00
+website: https://www.acehardware.com/home/index.jsp

@@ -1,11 +1,11 @@
 id: 131643829
-type: way
+type: node
 latitude: 42.38316
 longitude: -87.97149
 postcode: "60031"
 city: Gurnee
-street: "Grand Avenue"
-housenumber: 6655
+street: Grand Avenue
+housenumber: "6655"
 phone: ""
 opening_hours: ""
-website: "https://www.marianos.com/stores/details/531/00523?cid=loc53100523_gmb"
+website: https://www.marianos.com/stores/details/531/00523?cid=loc53100523_gmb

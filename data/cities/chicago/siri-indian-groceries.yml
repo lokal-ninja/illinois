@@ -4,8 +4,8 @@ latitude: 41.83095
 longitude: -87.62039
 postcode: "60616"
 city: Chicago
-street: "East 35th Street"
-housenumber: 235
-phone: "+1-773-690-5782"
-opening_hours: "Mo-Th 12:00-20:00; Fr-Su 11:00-20:00"
-website: "https://www.sirigroceries.com/"
+street: East 35th Street
+housenumber: "235"
+phone: +1-773-690-5782
+opening_hours: Mo-Th 12:00-20:00; Fr-Su 11:00-20:00
+website: https://www.sirigroceries.com/

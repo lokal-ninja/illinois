@@ -1,11 +1,11 @@
 id: 407116971
-type: way
+type: node
 latitude: 42.03537
 longitude: -87.94147
 postcode: "60056"
 city: Mount Prospect
-street: "South Elmhurst Road"
-housenumber: 1668
+street: South Elmhurst Road
+housenumber: "1668"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/mount-prospect/1668-s-elmhurst-rd"
+website: https://stores.advanceautoparts.com/il/mount-prospect/1668-s-elmhurst-rd

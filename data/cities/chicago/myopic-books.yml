@@ -4,8 +4,8 @@ latitude: 41.90981
 longitude: -87.67685
 postcode: "60622"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 1564
-phone: "+1-773-862-4882"
-opening_hours: "Mo-Su 12:00-20:00"
-website: "https://www.myopicbookstore.com/"
+street: North Milwaukee Avenue
+housenumber: "1564"
+phone: +1-773-862-4882
+opening_hours: Mo-Su 12:00-20:00
+website: https://www.myopicbookstore.com/

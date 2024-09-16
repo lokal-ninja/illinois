@@ -1,11 +1,11 @@
 id: 441717541
-type: way
+type: node
 latitude: 41.83323
 longitude: -88.10458
 postcode: "60187"
 city: Wheaton
-street: "West Loop Road"
-housenumber: 20
-phone: "+1 833-440-1024"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/wheaton/20-w-loop-rd"
+street: West Loop Road
+housenumber: "20"
+phone: +1 833-440-1024
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/wheaton/20-w-loop-rd

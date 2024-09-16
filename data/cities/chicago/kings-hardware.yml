@@ -1,11 +1,11 @@
 id: 162316337
-type: way
+type: node
 latitude: 41.88011
 longitude: -87.73595
 postcode: "60624"
 city: Chicago
-street: "West Madison Street"
-housenumber: 4415
+street: West Madison Street
+housenumber: "4415"
 phone: "+17736268242"
 opening_hours: ""
 website: ""

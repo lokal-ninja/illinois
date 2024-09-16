@@ -1,11 +1,11 @@
 id: 438025893
-type: way
+type: node
 latitude: 41.50556
 longitude: -87.84557
 postcode: "60423"
 city: Frankfort
-street: "West Lincoln Highway"
-housenumber: 9423
+street: West Lincoln Highway
+housenumber: "9423"
 phone: ""
 opening_hours: ""
 website: ""

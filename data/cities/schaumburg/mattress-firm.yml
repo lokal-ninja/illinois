@@ -1,11 +1,11 @@
 id: 252040085
-type: way
+type: node
 latitude: 42.05011
 longitude: -88.07745
 postcode: "60173"
 city: Schaumburg
-street: "East Golf Road"
-housenumber: 62
-phone: "+1 847-882-0208"
+street: East Golf Road
+housenumber: "62"
+phone: +1 847-882-0208
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/il/schaumburg/119069/"
+website: https://www.mattressfirm.com/en-us/stores/il/schaumburg/119069/

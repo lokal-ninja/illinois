@@ -1,11 +1,11 @@
 id: 242544528
-type: way
+type: node
 latitude: 42.05124
 longitude: -88.06086
 postcode: "60173"
 city: Schaumburg
-street: "East Golf Road"
-housenumber: 750
+street: East Golf Road
+housenumber: "750"
 phone: ""
 opening_hours: ""
 website: ""

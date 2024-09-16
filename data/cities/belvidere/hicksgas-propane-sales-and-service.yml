@@ -1,11 +1,11 @@
 id: 695878516
-type: way
+type: node
 latitude: 42.251
 longitude: -88.81283
 postcode: "61008"
 city: Belvidere
-street: "Logan Avenue"
-housenumber: 6418
-phone: "+1 815-547-6309"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH closed"
+street: Logan Avenue
+housenumber: "6418"
+phone: +1 815-547-6309
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH closed
 website: ""

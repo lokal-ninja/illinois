@@ -1,11 +1,11 @@
 id: 1218403296
-type: way
+type: node
 latitude: 41.95363
 longitude: -88.72501
 postcode: "60115"
 city: Dekalb
-street: "Sycamore Road"
-housenumber: 2395
-phone: "+1 815-758-4320"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-19:00"
-website: "https://www.mattressfirm.com/stores/il/dekalb/mattress-stores-dekalb-il-60115-6792.html"
+street: Sycamore Road
+housenumber: "2395"
+phone: +1 815-758-4320
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-19:00
+website: https://www.mattressfirm.com/stores/il/dekalb/mattress-stores-dekalb-il-60115-6792.html

@@ -1,11 +1,11 @@
 id: 1226871966
-type: way
+type: node
 latitude: 42.14372
 longitude: -88.02765
 postcode: "60074"
 city: Palatine
-street: "North Rand Road"
-housenumber: 1930
+street: North Rand Road
+housenumber: "1930"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1067201550
-type: way
+type: node
 latitude: 42.33377
 longitude: -87.85616
 postcode: "60064"
 city: North Chicago
-street: "14th Street"
-housenumber: 
+street: 14th Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

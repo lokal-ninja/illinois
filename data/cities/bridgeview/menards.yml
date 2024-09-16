@@ -1,11 +1,11 @@
 id: 1082373898
-type: way
+type: node
 latitude: 41.72513
 longitude: -87.80087
 postcode: "60455"
 city: Bridgeview
-street: "Harlem Avenue"
-housenumber: 9140
+street: Harlem Avenue
+housenumber: "9140"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3332"
+website: https://www.menards.com/store-details/store.html?store=3332

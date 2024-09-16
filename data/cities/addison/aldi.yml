@@ -1,11 +1,11 @@
 id: 206747286
-type: way
+type: node
 latitude: 41.94885
 longitude: -88.03556
 postcode: "60101"
 city: Addison
-street: "North Rohlwing Road"
-housenumber: 1038
-phone: "+1 833-440-1033"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/addison/1038-n-rohlwing-rd"
+street: North Rohlwing Road
+housenumber: "1038"
+phone: +1 833-440-1033
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/addison/1038-n-rohlwing-rd

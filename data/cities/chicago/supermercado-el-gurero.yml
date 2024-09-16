@@ -1,11 +1,11 @@
 id: 209700541
-type: way
+type: node
 latitude: 41.80815
 longitude: -87.66767
 postcode: "60609"
 city: Chicago
-street: "West 47th Street"
-housenumber: 1701
+street: West 47th Street
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://www.supermercadoselguero.com/"
+website: https://www.supermercadoselguero.com/

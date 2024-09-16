@@ -1,11 +1,11 @@
 id: 1265243403
-type: way
+type: node
 latitude: 42.2196
 longitude: -88.26407
 postcode: "60013"
 city: Cary
-street: "Three Oaks Road"
-housenumber: 3340
-phone: "+1 833-440-1012"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/cary/3340-three-oaks-rd"
+street: Three Oaks Road
+housenumber: "3340"
+phone: +1 833-440-1012
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/cary/3340-three-oaks-rd

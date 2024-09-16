@@ -1,11 +1,11 @@
 id: 1026584437
-type: way
+type: node
 latitude: 42.34017
 longitude: -88.0036
 postcode: "60030"
 city: Grayslake
-street: "US Highway 45"
-housenumber: 295
+street: US Highway 45
+housenumber: "295"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-295+s+us+highway+45-grayslake-il-60030/id=2985"
+website: https://www.walgreens.com/locator/walgreens-295+s+us+highway+45-grayslake-il-60030/id=2985

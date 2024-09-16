@@ -1,11 +1,11 @@
 id: 850669848
-type: way
+type: node
 latitude: 41.91351
 longitude: -88.34809
 postcode: "60174"
 city: St. Charles
-street: "West Main Street"
-housenumber: 2670
-phone: "+1 833-440-1043"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/st.-charles/2670-w-main-street"
+street: West Main Street
+housenumber: "2670"
+phone: +1 833-440-1043
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/st.-charles/2670-w-main-street

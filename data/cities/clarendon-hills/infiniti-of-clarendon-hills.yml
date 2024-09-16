@@ -1,11 +1,11 @@
 id: 685714653
-type: way
+type: node
 latitude: 41.81002
 longitude: -87.96283
 postcode: "60514"
 city: Clarendon Hills
-street: "East Ogden Avenue"
-housenumber: 415
+street: East Ogden Avenue
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

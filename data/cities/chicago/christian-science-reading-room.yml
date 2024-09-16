@@ -4,8 +4,8 @@ latitude: 41.88719
 longitude: -87.62605
 postcode: "60601"
 city: Chicago
-street: "East Wacker Drive"
-housenumber: 55
+street: East Wacker Drive
+housenumber: "55"
 phone: ""
-opening_hours: "Mo,Fr 11:00-15:00; Tu 12:00-15:00; Th 10:00-14:00"
+opening_hours: Mo,Fr 11:00-15:00; Tu 12:00-15:00; Th 10:00-14:00
 website: ""

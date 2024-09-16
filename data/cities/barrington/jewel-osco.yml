@@ -1,11 +1,11 @@
 id: 1223355415
-type: way
+type: node
 latitude: 42.15523
 longitude: -88.13845
 postcode: "60010"
 city: Barrington
-street: "West Main Street"
-housenumber: 150
-phone: "+1 847-381-4525"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/barrington/150-w-main-st.html"
+street: West Main Street
+housenumber: "150"
+phone: +1 847-381-4525
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/barrington/150-w-main-st.html

@@ -1,11 +1,11 @@
 id: 548220399
-type: way
+type: node
 latitude: 42.18564
 longitude: -87.80338
 postcode: "60035"
 city: Highland Park
-street: "Green Bay Road"
-housenumber: 1812
+street: Green Bay Road
+housenumber: "1812"
 phone: ""
 opening_hours: ""
 website: ""

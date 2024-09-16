@@ -1,11 +1,11 @@
 id: 163239425
-type: way
+type: node
 latitude: 41.99776
 longitude: -87.7888
 postcode: "60631"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 6428
-phone: "+1-872-304-3113"
+street: North Milwaukee Avenue
+housenumber: "6428"
+phone: +1-872-304-3113
 opening_hours: ""
-website: "https://www.consumecannabis.com/dispensaries/chicago"
+website: https://www.consumecannabis.com/dispensaries/chicago

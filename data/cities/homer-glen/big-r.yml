@@ -1,11 +1,11 @@
 id: 485391535
-type: way
+type: node
 latitude: 41.60161
 longitude: -87.93229
 postcode: "60491"
 city: Homer Glen
-street: "South Bell Road"
-housenumber: 15830
+street: South Bell Road
+housenumber: "15830"
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:00; Su 9:00-18:00"
+opening_hours: Mo-Sa 8:00-21:00; Su 9:00-18:00
 website: ""

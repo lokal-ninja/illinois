@@ -1,11 +1,11 @@
 id: 165052577
-type: way
+type: node
 latitude: 41.70577
 longitude: -87.70236
 postcode: "60655"
 city: Chicago
-street: "South Sawyer Avenue"
-housenumber: 10301
-phone: "+1 773-779-2091"
+street: South Sawyer Avenue
+housenumber: "10301"
+phone: +1 773-779-2091
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/10301-s-sawyer-13314"
+website: https://www.7-eleven.com/locations/il/chicago/10301-s-sawyer-13314

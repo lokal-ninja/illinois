@@ -1,11 +1,11 @@
 id: 61730298
-type: way
+type: node
 latitude: 40.7083
 longitude: -89.27293
 postcode: "61530"
 city: Eureka
-street: "South Main Street"
-housenumber: 1200
+street: South Main Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

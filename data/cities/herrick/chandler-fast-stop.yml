@@ -1,11 +1,11 @@
 id: 444341651
-type: way
+type: node
 latitude: 39.21751
 longitude: -88.98529
 postcode: "62431"
 city: Herrick
-street: "Broadway"
-housenumber: 33
+street: Broadway
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

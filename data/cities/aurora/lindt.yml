@@ -1,11 +1,11 @@
 id: 975296684
-type: way
+type: node
 latitude: 41.80128
 longitude: -88.27249
 postcode: "60502"
 city: Aurora
-street: "Premium Outlets Boulevard"
-housenumber: 1650
-phone: "+1 630 236 0966"
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00"
-website: "https://www.premiumoutlets.com/outlet/chicago/stores/lindt-chocolate"
+street: Premium Outlets Boulevard
+housenumber: "1650"
+phone: +1 630 236 0966
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00
+website: https://www.premiumoutlets.com/outlet/chicago/stores/lindt-chocolate

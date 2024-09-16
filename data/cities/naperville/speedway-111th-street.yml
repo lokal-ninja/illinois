@@ -1,11 +1,11 @@
 id: 658317376
-type: way
+type: node
 latitude: 41.68042
 longitude: -88.2054
 postcode: "60564"
 city: Naperville
-street: "111th Street"
-housenumber: 3004
+street: 111th Street
+housenumber: "3004"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Naperville/3004-111th-Street"
+website: https://www.speedway.com/locations/IL/Naperville/3004-111th-Street

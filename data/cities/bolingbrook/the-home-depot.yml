@@ -1,11 +1,11 @@
 id: 59526826
-type: way
+type: node
 latitude: 41.69635
 longitude: -88.12583
 postcode: "60490"
 city: Bolingbrook
-street: "North Weber Road"
-housenumber: 105
-phone: "+1 630-771-1109"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/bolingbrook/il/bolingbrook/60490/1939"
+street: North Weber Road
+housenumber: "105"
+phone: +1 630-771-1109
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/bolingbrook/il/bolingbrook/60490/1939

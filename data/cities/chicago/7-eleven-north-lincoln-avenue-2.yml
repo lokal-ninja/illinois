@@ -1,11 +1,11 @@
 id: 210321669
-type: way
+type: node
 latitude: 41.92909
 longitude: -87.65477
 postcode: "60614"
 city: Chicago
-street: "North Lincoln Avenue"
-housenumber: 2600
-phone: "+1 773-883-9889"
+street: North Lincoln Avenue
+housenumber: "2600"
+phone: +1 773-883-9889
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/2600-north-lincoln-ave-24606"
+website: https://www.7-eleven.com/locations/il/chicago/2600-north-lincoln-ave-24606

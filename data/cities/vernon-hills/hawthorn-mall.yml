@@ -1,11 +1,11 @@
 id: 195680947
-type: way
+type: node
 latitude: 42.24268
 longitude: -87.94852
 postcode: "60061"
 city: Vernon Hills
-street: "Hawthorn Center Drive"
-housenumber: 122
-phone: "+1-847-362-2600; +1-847-362-2964"
+street: Hawthorn Center Drive
+housenumber: "122"
+phone: +1-847-362-2600; +1-847-362-2964
 opening_hours: ""
-website: "https://www.shophawthornmall.com/"
+website: https://www.shophawthornmall.com/

@@ -1,11 +1,11 @@
 id: 1034696702
-type: way
+type: node
 latitude: 41.76508
 longitude: -88.20671
 postcode: "60504"
 city: Aurora
-street: "East New York Street"
-housenumber: 4404
-phone: "+1 630 820 5877"
-opening_hours: "Mo-Fr 10:00-21:00, Sa 10:00-20:00, Su 11:00-18:00"
-website: "https://www.menswearhouse.com/store-locator/4620"
+street: East New York Street
+housenumber: "4404"
+phone: +1 630 820 5877
+opening_hours: Mo-Fr 10:00-21:00, Sa 10:00-20:00, Su 11:00-18:00
+website: https://www.menswearhouse.com/store-locator/4620

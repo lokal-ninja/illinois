@@ -4,8 +4,8 @@ latitude: 42.052
 longitude: -87.97423
 postcode: "60005"
 city: Arlington Heights
-street: "East Golf Road"
-housenumber: 620
+street: East Golf Road
+housenumber: "620"
 phone: ""
-opening_hours: "05:00-22:00"
+opening_hours: 05:00-22:00
 website: ""

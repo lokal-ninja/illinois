@@ -1,11 +1,11 @@
 id: 65933594
-type: way
+type: node
 latitude: 40.64567
 longitude: -89.66477
 postcode: "61607"
 city: Bartonville
-street: "West Garfield Avenue"
-housenumber: 804
+street: West Garfield Avenue
+housenumber: "804"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/il/bartonville/6899/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/il/bartonville/6899/

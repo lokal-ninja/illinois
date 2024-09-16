@@ -4,8 +4,8 @@ latitude: 41.94149
 longitude: -87.64427
 postcode: "60657"
 city: Chicago
-street: "North Broadway"
-housenumber: 3251
-phone: "+1-773-883-9119"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.unabridgedbookstore.com/"
+street: North Broadway
+housenumber: "3251"
+phone: +1-773-883-9119
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.unabridgedbookstore.com/

@@ -1,11 +1,12 @@
 id: 1198720819
-type: way
+type: node
 latitude: 42.25988
 longitude: -87.95016
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 1810
-phone: "+1 847-984-3055"
-opening_hours: "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed"
-website: "https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il"
+street: North Milwaukee Avenue
+housenumber: "1810"
+phone: +1 847-984-3055
+opening_hours: Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00;
+    Sa 08:00-17:00; Su closed
+website: https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il

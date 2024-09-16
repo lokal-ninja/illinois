@@ -1,11 +1,11 @@
 id: 658317411
-type: way
+type: node
 latitude: 41.68137
 longitude: -88.20272
 postcode: "60564"
 city: Naperville
-street: "Hassert Boulevard"
-housenumber: 2719
+street: Hassert Boulevard
+housenumber: "2719"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2719+hassert+blvd-naperville-il-60564/id=6508"
+website: https://www.walgreens.com/locator/walgreens-2719+hassert+blvd-naperville-il-60564/id=6508

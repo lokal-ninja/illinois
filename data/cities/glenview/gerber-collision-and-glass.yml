@@ -1,11 +1,11 @@
 id: 802744302
-type: way
+type: node
 latitude: 42.08902
 longitude: -87.81303
 postcode: "60025"
 city: Glenview
-street: "Lehigh Avenue"
-housenumber: 1904
+street: Lehigh Avenue
+housenumber: "1904"
 phone: ""
 opening_hours: ""
 website: ""

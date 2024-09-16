@@ -1,11 +1,11 @@
 id: 163263954
-type: way
+type: node
 latitude: 41.92328
 longitude: -87.80391
 postcode: "60707"
 city: Chicago
-street: "West Grand Avenue"
-housenumber: 7123
+street: West Grand Avenue
+housenumber: "7123"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/7123-w-grand-ave.html"
+website: https://www.autozone.com/locations/il/chicago/7123-w-grand-ave.html

@@ -1,11 +1,11 @@
 id: 322146074
-type: way
+type: node
 latitude: 41.77921
 longitude: -88.18715
 postcode: "60563"
 city: Naperville
-street: "North Aurora Road"
-housenumber: 1580
+street: North Aurora Road
+housenumber: "1580"
 phone: ""
 opening_hours: ""
-website: "https://www.acorntire.com/"
+website: https://www.acorntire.com/

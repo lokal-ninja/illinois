@@ -1,11 +1,11 @@
 id: 818071879
-type: way
+type: node
 latitude: 42.12076
 longitude: -87.74605
 postcode: "60022"
 city: Glencoe
-street: "Green Bay Road"
-housenumber: 107
+street: Green Bay Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://jclicht.com/store/glencoe/"
+website: https://jclicht.com/store/glencoe/

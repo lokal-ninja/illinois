@@ -1,11 +1,11 @@
 id: 132158832
-type: way
+type: node
 latitude: 41.86642
 longitude: -88.34277
 postcode: "60134"
 city: Geneva
-street: "Randall Road"
-housenumber: 2000
+street: Randall Road
+housenumber: "2000"
 phone: ""
 opening_hours: ""
-website: "http://local.dominicks.com/il/geneva-3146.html"
+website: http://local.dominicks.com/il/geneva-3146.html

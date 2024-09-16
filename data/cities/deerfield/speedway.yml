@@ -1,11 +1,11 @@
 id: 934233129
-type: way
+type: node
 latitude: 42.16421
 longitude: -87.92142
 postcode: "60015"
 city: Deerfield
-street: "North Milwaukee Avenue"
-housenumber: 1010
+street: North Milwaukee Avenue
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Deerfield/1010-Milwaukee-Avenue"
+website: https://www.speedway.com/locations/IL/Deerfield/1010-Milwaukee-Avenue

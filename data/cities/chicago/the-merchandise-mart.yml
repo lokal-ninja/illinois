@@ -1,11 +1,11 @@
 id: 28293211
-type: way
+type: node
 latitude: 41.88809
 longitude: -87.63539
 postcode: "60654"
 city: Chicago
-street: "Merchandise Mart Plaza"
-housenumber: 222
+street: Merchandise Mart Plaza
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

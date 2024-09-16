@@ -4,8 +4,8 @@ latitude: 39.7578
 longitude: -89.7085
 postcode: "62704"
 city: Springfield
-street: "South Veterans Parkway"
-housenumber: 3231
-phone: "+1-217-986-6200"
-opening_hours: "Mo-Th 09:00-21:00; Fr 09:00-22:00; Sa 08:00-22:00; Su 09:00-19:00"
-website: "https://www.academy.com/storelocator/illinois/springfield/store-0353"
+street: South Veterans Parkway
+housenumber: "3231"
+phone: +1-217-986-6200
+opening_hours: Mo-Th 09:00-21:00; Fr 09:00-22:00; Sa 08:00-22:00; Su 09:00-19:00
+website: https://www.academy.com/storelocator/illinois/springfield/store-0353

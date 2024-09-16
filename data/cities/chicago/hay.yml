@@ -4,8 +4,8 @@ latitude: 41.9108
 longitude: -87.64791
 postcode: "60610"
 city: Chicago
-street: "West North Avenue"
-housenumber: 755
-phone: "+1 (312) 585-9605"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://hay.dk/"
+street: West North Avenue
+housenumber: "755"
+phone: +1 (312) 585-9605
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-18:00
+website: https://hay.dk/

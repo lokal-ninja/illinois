@@ -4,8 +4,8 @@ latitude: 37.72408
 longitude: -89.21673
 postcode: "62901"
 city: Carbondale
-street: "South Illinois Avenue"
-housenumber: 404
-phone: "+1 618 457 4521"
+street: South Illinois Avenue
+housenumber: "404"
+phone: +1 618 457 4521
 opening_hours: ""
-website: "http://www.thebikesurgeon.com/"
+website: http://www.thebikesurgeon.com/

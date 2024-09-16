@@ -1,11 +1,11 @@
 id: 676037891
-type: way
+type: node
 latitude: 39.99664
 longitude: -90.39516
 postcode: "62618"
 city: Beardstown
-street: "Lincoln Avenue"
-housenumber: 100
-phone: "+1 217-323-1340"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1451/beardstown-il/whats-new"
+street: Lincoln Avenue
+housenumber: "100"
+phone: +1 217-323-1340
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1451/beardstown-il/whats-new

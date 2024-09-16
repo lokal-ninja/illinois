@@ -1,11 +1,11 @@
 id: 209655013
-type: way
+type: node
 latitude: 41.77232
 longitude: -87.68323
 postcode: "60636"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 6647
+street: South Western Avenue
+housenumber: "6647"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/12544"
+website: https://www.dollargeneral.com/store-directory/il/chicago/12544

@@ -1,11 +1,11 @@
 id: 538891688
-type: way
+type: node
 latitude: 40.48202
 longitude: -88.99361
 postcode: ""
 city: Bloomington
-street: "North Main Street"
-housenumber: 419
-phone: "+1-309-740-2012"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "https://www.bobzbay.com/"
+street: North Main Street
+housenumber: "419"
+phone: +1-309-740-2012
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
+website: https://www.bobzbay.com/

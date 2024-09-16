@@ -1,11 +1,11 @@
 id: 260985536
-type: way
+type: node
 latitude: 42.27547
 longitude: -88.97738
 postcode: "61107"
 city: Rockford
-street: "Colosseum Drive"
-housenumber: 7120
+street: Colosseum Drive
+housenumber: "7120"
 phone: ""
 opening_hours: ""
 website: ""

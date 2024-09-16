@@ -1,11 +1,11 @@
 id: 739920515
-type: way
+type: node
 latitude: 38.50296
 longitude: -89.7919
 postcode: "62258"
 city: Mascoutah
-street: "North Jefferson Street"
-housenumber: 844
+street: North Jefferson Street
+housenumber: "844"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/il/mascoutah/1107"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/il/mascoutah/1107

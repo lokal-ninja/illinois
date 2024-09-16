@@ -1,11 +1,11 @@
 id: 544379011
-type: way
+type: node
 latitude: 41.87066
 longitude: -87.93606
 postcode: "60126"
 city: Elmhurst
-street: "South York Road"
-housenumber: 944
-phone: "+1 630-834-0006"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/elmhurst/944-s-york-rd.html"
+street: South York Road
+housenumber: "944"
+phone: +1 630-834-0006
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/elmhurst/944-s-york-rd.html

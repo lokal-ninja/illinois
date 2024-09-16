@@ -1,11 +1,11 @@
 id: 94668564
-type: way
+type: node
 latitude: 42.05059
 longitude: -87.9815
 postcode: "60005"
 city: Arlington Heights
-street: "East Golf Road"
-housenumber: 3
+street: East Golf Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3+e+golf+rd-arlington+heights-il-60005/id=5594"
+website: https://www.walgreens.com/locator/walgreens-3+e+golf+rd-arlington+heights-il-60005/id=5594

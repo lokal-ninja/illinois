@@ -4,8 +4,8 @@ latitude: 41.92996
 longitude: -87.68197
 postcode: "60647"
 city: Chicago
-street: "North Elston Avenue"
-housenumber: 2627
-phone: "+1 312-260-1260"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/il/chicago/1111"
+street: North Elston Avenue
+housenumber: "2627"
+phone: +1 312-260-1260
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/il/chicago/1111

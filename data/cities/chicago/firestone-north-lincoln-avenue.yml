@@ -1,11 +1,11 @@
 id: 130662637
-type: way
+type: node
 latitude: 41.9959
 longitude: -87.71536
 postcode: "60659"
 city: Chicago
-street: "North Lincoln Avenue"
-housenumber: 6255
+street: North Lincoln Avenue
+housenumber: "6255"
 phone: ""
 opening_hours: ""
 website: ""

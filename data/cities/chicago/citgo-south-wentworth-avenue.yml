@@ -1,11 +1,11 @@
 id: 210529115
-type: way
+type: node
 latitude: 41.8161
 longitude: -87.63166
 postcode: "60609"
 city: Chicago
-street: "South Wentworth Avenue"
-housenumber: 4306
+street: South Wentworth Avenue
+housenumber: "4306"
 phone: ""
 opening_hours: ""
 website: ""

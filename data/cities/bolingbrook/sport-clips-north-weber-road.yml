@@ -1,11 +1,11 @@
 id: 998234261
-type: way
+type: node
 latitude: 41.69877
 longitude: -88.12466
 postcode: "60490"
 city: Bolingbrook
-street: "North Weber Road"
-housenumber: 139
-phone: "+1 630 771 0007"
-opening_hours: "Mo, Su off; Tu-Fr 10:00-18:00; Sa 09:00-16:00"
-website: "https://haircutmenlandingsofbolingbrookil.com/"
+street: North Weber Road
+housenumber: "139"
+phone: +1 630 771 0007
+opening_hours: Mo, Su off; Tu-Fr 10:00-18:00; Sa 09:00-16:00
+website: https://haircutmenlandingsofbolingbrookil.com/

@@ -1,11 +1,11 @@
 id: 501574329
-type: way
+type: node
 latitude: 39.60436
 longitude: -90.82263
 postcode: "62363"
 city: Pittsfield
-street: "Shetland Drive"
-housenumber: 151
-phone: "+1 217-285-9621"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/480/pittsfield-il/whats-new"
+street: Shetland Drive
+housenumber: "151"
+phone: +1 217-285-9621
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/480/pittsfield-il/whats-new

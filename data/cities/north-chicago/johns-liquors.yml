@@ -4,8 +4,8 @@ latitude: 42.33424
 longitude: -87.84375
 postcode: "60064"
 city: North Chicago
-street: "14th Street"
-housenumber: 1000
+street: 14th Street
+housenumber: "1000"
 phone: ""
-opening_hours: "Su-Th 10:00-00:00; Fr-Sa 10:00-01:00"
+opening_hours: Su-Th 10:00-00:00; Fr-Sa 10:00-01:00
 website: ""

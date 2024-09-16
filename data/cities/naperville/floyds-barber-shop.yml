@@ -1,11 +1,11 @@
 id: 150816768
-type: way
+type: node
 latitude: 41.77283
 longitude: -88.14713
 postcode: "60540"
 city: Naperville
-street: "East Jefferson Avenue"
-housenumber: 20
-phone: "+1 331 248 5247"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 09:00-18:00"
-website: "https://www.floydsbarbershop.com/naperville/"
+street: East Jefferson Avenue
+housenumber: "20"
+phone: +1 331 248 5247
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 09:00-18:00
+website: https://www.floydsbarbershop.com/naperville/

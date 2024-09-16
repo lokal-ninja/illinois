@@ -1,11 +1,11 @@
 id: 1007187997
-type: way
+type: node
 latitude: 41.72109
 longitude: -87.70881
 postcode: "60805"
 city: Evergreen Park
-street: "West 95th Street"
-housenumber: 3440
-phone: "+1 708-422-4570"
+street: West 95th Street
+housenumber: "3440"
+phone: +1 708-422-4570
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/evergreen-park/3440-west-95th-33791"
+website: https://www.7-eleven.com/locations/il/evergreen-park/3440-west-95th-33791

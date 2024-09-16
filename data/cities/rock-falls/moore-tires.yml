@@ -1,11 +1,11 @@
 id: 1087947918
-type: way
+type: node
 latitude: 41.75936
 longitude: -89.65551
 postcode: "61071"
 city: Rock Falls
-street: "East Rock Falls Road"
-housenumber: 2411
+street: East Rock Falls Road
+housenumber: "2411"
 phone: ""
 opening_hours: ""
-website: "https://www.mooretires.com/Locations/Mode/3/2411-E-Rock-Falls-Road-Rock-Falls-IL-61071/details"
+website: https://www.mooretires.com/Locations/Mode/3/2411-E-Rock-Falls-Road-Rock-Falls-IL-61071/details

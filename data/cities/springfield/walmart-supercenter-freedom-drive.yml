@@ -1,11 +1,11 @@
 id: 676143666
-type: way
+type: node
 latitude: 39.7516
 longitude: -89.71033
 postcode: "62704"
 city: Springfield
-street: "Freedom Drive"
-housenumber: 3401
-phone: "+1 217-793-3310"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1602/springfield-il/whats-new"
+street: Freedom Drive
+housenumber: "3401"
+phone: +1 217-793-3310
+opening_hours: 24/7
+website: https://www.walmart.com/store/1602/springfield-il/whats-new

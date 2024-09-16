@@ -1,11 +1,11 @@
 id: 168917850
-type: way
+type: node
 latitude: 40.75963
 longitude: -88.41173
 postcode: "61741"
 city: Forrest
-street: "North Center Street"
-housenumber: 1020
-phone: "+1-815-657-8400"
+street: North Center Street
+housenumber: "1020"
+phone: +1-815-657-8400
 opening_hours: ""
-website: "https://www.tsctruck.com/"
+website: https://www.tsctruck.com/

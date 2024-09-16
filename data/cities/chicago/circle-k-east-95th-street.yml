@@ -1,11 +1,11 @@
 id: 211065238
-type: way
+type: node
 latitude: 41.72167
 longitude: -87.58396
 postcode: "60617"
 city: Chicago
-street: "East 95th Street"
-housenumber: 1611
+street: East 95th Street
+housenumber: "1611"
 phone: ""
 opening_hours: ""
-website: "https://www.circlek.com/store-locator/us/chicago/1611-east-95th-street/m6886"
+website: https://www.circlek.com/store-locator/us/chicago/1611-east-95th-street/m6886

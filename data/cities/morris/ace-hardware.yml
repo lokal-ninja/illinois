@@ -1,11 +1,11 @@
 id: 1040391980
-type: way
+type: node
 latitude: 41.37252
 longitude: -88.42471
-postcode: "60450-1442"
+postcode: 60450-1442
 city: Morris
-street: "Bedford Road"
-housenumber: 221
-phone: "+1 815-942-6240"
-opening_hours: "Mo-Fr 08:00-20:00; Sa-Su 08:00-18:00"
+street: Bedford Road
+housenumber: "221"
+phone: +1 815-942-6240
+opening_hours: Mo-Fr 08:00-20:00; Sa-Su 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 318327036
-type: way
+type: node
 latitude: 41.55806
 longitude: -87.79347
 postcode: "60477"
 city: Tinley Park
-street: "183rd Street"
-housenumber: 7201
+street: 183rd Street
+housenumber: "7201"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Tinley-Park/7201-183rd-Street"
+website: https://www.speedway.com/locations/IL/Tinley-Park/7201-183rd-Street

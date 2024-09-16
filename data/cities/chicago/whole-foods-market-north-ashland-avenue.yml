@@ -1,11 +1,11 @@
 id: 405578088
-type: way
+type: node
 latitude: 41.93995
 longitude: -87.66849
 postcode: "60657"
 city: Chicago
-street: "North Ashland Avenue"
-housenumber: 3201
-phone: "+1 773-244-4200"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/lakeviewnew"
+street: North Ashland Avenue
+housenumber: "3201"
+phone: +1 773-244-4200
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/lakeviewnew

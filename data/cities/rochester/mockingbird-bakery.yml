@@ -4,8 +4,8 @@ latitude: 39.74885
 longitude: -89.53477
 postcode: "62563"
 city: Rochester
-street: "South John Street"
-housenumber: 129
-phone: "+1-217-498-1354"
-opening_hours: "Tu-Fr 07:00-12:00,15:00-17:00; Sa 07:00-14:00"
-website: "https://www.mockingbirdbakery.org/"
+street: South John Street
+housenumber: "129"
+phone: +1-217-498-1354
+opening_hours: Tu-Fr 07:00-12:00,15:00-17:00; Sa 07:00-14:00
+website: https://www.mockingbirdbakery.org/

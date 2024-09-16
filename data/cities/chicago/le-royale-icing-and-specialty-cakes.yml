@@ -4,8 +4,8 @@ latitude: 41.90054
 longitude: -87.6259
 postcode: "60611"
 city: Chicago
-street: "East Oak Street"
-housenumber: 65
-phone: "+1-312-285-8670"
+street: East Oak Street
+housenumber: "65"
+phone: +1-312-285-8670
 opening_hours: ""
-website: "http://chicagoweddingcakes.com/"
+website: http://chicagoweddingcakes.com/

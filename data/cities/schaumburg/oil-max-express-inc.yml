@@ -1,11 +1,11 @@
 id: 495749971
-type: way
+type: node
 latitude: 42.00334
 longitude: -88.12529
 postcode: "60193"
 city: Schaumburg
-street: "West Wise Road"
-housenumber: 1815
+street: West Wise Road
+housenumber: "1815"
 phone: ""
 opening_hours: ""
 website: ""

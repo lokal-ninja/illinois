@@ -1,11 +1,11 @@
 id: 163768284
-type: way
+type: node
 latitude: 41.84299
 longitude: -87.7244
 postcode: "60623"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 2637
+street: South Pulaski Road
+housenumber: "2637"
 phone: ""
 opening_hours: ""
-website: "https://pulaski.foodmarketlachiquita.com/"
+website: https://pulaski.foodmarketlachiquita.com/

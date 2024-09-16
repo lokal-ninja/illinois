@@ -1,11 +1,11 @@
 id: 769171338
-type: way
+type: node
 latitude: 38.89114
 longitude: -90.17411
 postcode: "62002"
 city: Alton
-street: "Ridge Street"
-housenumber: 413
+street: Ridge Street
+housenumber: "413"
 phone: ""
 opening_hours: ""
-website: "https://haciendaoftranquility.com/"
+website: https://haciendaoftranquility.com/

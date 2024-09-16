@@ -1,11 +1,11 @@
 id: 501871343
-type: way
+type: node
 latitude: 41.77696
 longitude: -87.68408
 postcode: "60636"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 6414
+street: South Western Avenue
+housenumber: "6414"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/locations/il/chicago/25195/"
+website: https://www.familydollar.com/locations/il/chicago/25195/

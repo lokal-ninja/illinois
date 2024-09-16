@@ -1,11 +1,11 @@
 id: 497211881
-type: way
+type: node
 latitude: 41.87945
 longitude: -87.80972
 postcode: "60130"
 city: Forest Park
-street: "Madison Street"
-housenumber: 7400
+street: Madison Street
+housenumber: "7400"
 phone: ""
 opening_hours: ""
 website: ""

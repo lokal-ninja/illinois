@@ -4,8 +4,8 @@ latitude: 39.81748
 longitude: -89.70863
 postcode: "62707"
 city: Springfield
-street: "West Jefferson Street"
-housenumber: 3000
-phone: "+1-217-787-4700"
-opening_hours: "Tu-Sa 10:00-16:00"
-website: "https://www.greenview.com/"
+street: West Jefferson Street
+housenumber: "3000"
+phone: +1-217-787-4700
+opening_hours: Tu-Sa 10:00-16:00
+website: https://www.greenview.com/

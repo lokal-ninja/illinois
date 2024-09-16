@@ -1,11 +1,11 @@
 id: 406897633
-type: way
+type: node
 latitude: 42.02234
 longitude: -87.94138
 postcode: "60018"
 city: Des Plaines
-street: "West Oakton Street"
-housenumber: 825
+street: West Oakton Street
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 609850248
-type: way
+type: node
 latitude: 40.49769
 longitude: -88.99496
 postcode: "61761"
 city: Normal
-street: "South Main Street"
-housenumber: 1301
-phone: "+1 309-452-9605"
-opening_hours: "24/7"
-website: "https://www.caseys.com/general-store/2934/il/normal/1301-s-main-st"
+street: South Main Street
+housenumber: "1301"
+phone: +1 309-452-9605
+opening_hours: 24/7
+website: https://www.caseys.com/general-store/2934/il/normal/1301-s-main-st

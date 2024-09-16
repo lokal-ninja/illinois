@@ -1,11 +1,11 @@
 id: 292641933
-type: way
+type: node
 latitude: 41.79078
 longitude: -88.13154
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 1007
-phone: "+1 630 357 5235"
+street: East Ogden Avenue
+housenumber: "1007"
+phone: +1 630 357 5235
 opening_hours: ""
-website: "https://www.phillips-flowers.com/"
+website: https://www.phillips-flowers.com/

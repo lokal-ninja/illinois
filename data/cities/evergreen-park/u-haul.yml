@@ -1,11 +1,11 @@
 id: 1206935165
-type: way
+type: node
 latitude: 41.73521
 longitude: -87.68979
 postcode: "60805"
 city: Evergreen Park
-street: "West 87th Street"
-housenumber: 2657
+street: West 87th Street
+housenumber: "2657"
 phone: ""
 opening_hours: ""
 website: ""

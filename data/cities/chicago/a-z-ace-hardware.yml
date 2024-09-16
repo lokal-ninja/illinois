@@ -1,11 +1,11 @@
 id: 165245126
-type: way
+type: node
 latitude: 41.85147
 longitude: -87.69513
 postcode: "60608"
 city: Chicago
-street: "West Cermak Road"
-housenumber: 2755
-phone: "+1 773-247-6789"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.acehardware.com/store-details/18411"
+street: West Cermak Road
+housenumber: "2755"
+phone: +1 773-247-6789
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.acehardware.com/store-details/18411

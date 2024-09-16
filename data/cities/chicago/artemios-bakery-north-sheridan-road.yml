@@ -4,8 +4,8 @@ latitude: 41.95295
 longitude: -87.65467
 postcode: "60613"
 city: Chicago
-street: "North Sheridan Road"
-housenumber: 3904
-phone: "+1 773-525-0445"
-opening_hours: "06:00-20:00"
+street: North Sheridan Road
+housenumber: "3904"
+phone: +1 773-525-0445
+opening_hours: 06:00-20:00
 website: ""

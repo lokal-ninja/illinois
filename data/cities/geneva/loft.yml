@@ -1,11 +1,11 @@
 id: 1209462863
-type: way
+type: node
 latitude: 41.89075
 longitude: -88.34274
 postcode: "60134"
 city: Geneva
-street: "Commons Drive"
-housenumber: 114
-phone: "+1 630-208-1291"
-opening_hours: "Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://stores.loft.com/il/geneva/114-commons-drive.html"
+street: Commons Drive
+housenumber: "114"
+phone: +1 630-208-1291
+opening_hours: Sa 10:00-20:00; Su 11:00-18:00
+website: https://stores.loft.com/il/geneva/114-commons-drive.html

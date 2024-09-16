@@ -1,11 +1,11 @@
 id: 746461543
-type: way
+type: node
 latitude: 42.19907
 longitude: -88.06137
 postcode: "60047"
 city: Lake Zurich
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 929754560
-type: way
+type: node
 latitude: 41.45563
 longitude: -90.49832
 postcode: "61265"
 city: Moline
-street: "69th Avenue Court"
-housenumber: 2704
+street: 69th Avenue Court
+housenumber: "2704"
 phone: ""
 opening_hours: ""
 website: ""

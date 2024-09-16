@@ -1,11 +1,11 @@
 id: 1025855386
-type: way
+type: node
 latitude: 41.44533
 longitude: -87.67142
 postcode: "60484"
 city: University Park
-street: "Western Avenue"
-housenumber: 24520
+street: Western Avenue
+housenumber: "24520"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/University-Park/24520-Western-Avenue"
+website: https://www.speedway.com/locations/IL/University-Park/24520-Western-Avenue

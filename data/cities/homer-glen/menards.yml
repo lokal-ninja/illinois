@@ -1,11 +1,11 @@
 id: 293311224
-type: way
+type: node
 latitude: 41.63566
 longitude: -87.93437
 postcode: "60491"
 city: Homer Glen
-street: "South Bell Road"
-housenumber: 13956
-phone: "+1 708-301-4960"
+street: South Bell Road
+housenumber: "13956"
+phone: +1 708-301-4960
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3189"
+website: https://www.menards.com/store-details/store.html?store=3189

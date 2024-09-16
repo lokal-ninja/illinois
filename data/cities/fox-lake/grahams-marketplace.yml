@@ -1,11 +1,11 @@
 id: 1173577337
-type: way
+type: node
 latitude: 42.40031
 longitude: -88.18344
 postcode: "60020"
 city: Fox Lake
 street: ""
-housenumber: 49
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

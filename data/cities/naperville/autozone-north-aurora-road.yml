@@ -1,11 +1,11 @@
 id: 258683821
-type: way
+type: node
 latitude: 41.78022
 longitude: -88.18468
 postcode: "60563"
 city: Naperville
-street: "North Aurora Road"
-housenumber: 1515
-phone: "+1 630 717 1078"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/il/naperville/1515-n-aurora-rd.html"
+street: North Aurora Road
+housenumber: "1515"
+phone: +1 630 717 1078
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/il/naperville/1515-n-aurora-rd.html

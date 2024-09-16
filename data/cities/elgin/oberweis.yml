@@ -4,8 +4,8 @@ latitude: 42.02363
 longitude: -88.33992
 postcode: "60123"
 city: Elgin
-street: "South Randall Road"
-housenumber: 400
-phone: "+1 847 697 5970"
-opening_hours: "Su-Th 10:00-22:00;Fr-Sa 10:00-23:00"
-website: "https://www.oberweis.com/ice-cream-and-dairy-stores/Elgin"
+street: South Randall Road
+housenumber: "400"
+phone: +1 847 697 5970
+opening_hours: Su-Th 10:00-22:00;Fr-Sa 10:00-23:00
+website: https://www.oberweis.com/ice-cream-and-dairy-stores/Elgin

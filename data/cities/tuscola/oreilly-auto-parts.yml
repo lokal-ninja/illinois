@@ -1,11 +1,11 @@
 id: 586383630
-type: way
+type: node
 latitude: 39.79118
 longitude: -88.27453
 postcode: "61953"
 city: Tuscola
-street: "County Road 950 North"
-housenumber: 909
+street: County Road 950 North
+housenumber: "909"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/tuscola/autoparts-4976.html"
+website: https://locations.oreillyauto.com/il/tuscola/autoparts-4976.html

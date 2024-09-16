@@ -1,11 +1,11 @@
 id: 195441395
-type: way
+type: node
 latitude: 42.05455
 longitude: -87.83206
 postcode: "60714"
 city: Niles
-street: "Golf Road"
-housenumber: 8203
-phone: "(224) 470-2060"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://myfreshfarms.com/"
+street: Golf Road
+housenumber: "8203"
+phone: (224) 470-2060
+opening_hours: Mo-Su 08:00-22:00
+website: https://myfreshfarms.com/

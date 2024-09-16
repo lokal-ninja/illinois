@@ -4,8 +4,8 @@ latitude: 41.95028
 longitude: -87.64944
 postcode: "60613"
 city: Chicago
-street: "North Halsted Street"
-housenumber: 3741
-phone: "+1 773 327 1005"
-opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-17:00"
-website: "https://www.hsbtanning.com/"
+street: North Halsted Street
+housenumber: "3741"
+phone: +1 773 327 1005
+opening_hours: Mo-Th 10:00-21:00; Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-17:00
+website: https://www.hsbtanning.com/

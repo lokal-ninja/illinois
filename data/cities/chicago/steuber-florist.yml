@@ -1,11 +1,11 @@
 id: 165045291
-type: way
+type: node
 latitude: 41.6918
 longitude: -87.68825
 postcode: "60655"
 city: Chicago
-street: "West 111th Street"
-housenumber: 2654
+street: West 111th Street
+housenumber: "2654"
 phone: ""
 opening_hours: ""
-website: "https://www.steuberflorist.com/"
+website: https://www.steuberflorist.com/

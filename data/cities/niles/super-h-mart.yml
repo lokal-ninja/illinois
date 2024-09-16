@@ -1,11 +1,11 @@
 id: 201490977
-type: way
+type: node
 latitude: 42.02241
 longitude: -87.80192
 postcode: "60714"
 city: Niles
-street: "Civic Center Drive"
-housenumber: 801
-phone: "+1 847 581 1212"
+street: Civic Center Drive
+housenumber: "801"
+phone: +1 847 581 1212
 opening_hours: ""
-website: "https://www.hmart.com/"
+website: https://www.hmart.com/

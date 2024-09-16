@@ -1,11 +1,11 @@
 id: 195687393
-type: way
+type: node
 latitude: 37.42578
 longitude: -88.34664
 postcode: "62982"
 city: Rosiclare
-street: "Main Street"
-housenumber: 415
-phone: "+1-618-285-3169"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Main Street
+housenumber: "415"
+phone: +1-618-285-3169
+opening_hours: Mo-Su 06:00-22:00
 website: ""

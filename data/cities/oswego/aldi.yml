@@ -1,11 +1,11 @@
 id: 548791911
-type: way
+type: node
 latitude: 41.70584
 longitude: -88.30089
 postcode: "60543"
 city: Oswego
-street: "Fifth Street"
-housenumber: 540
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/oswego/540-5th-st"
+street: Fifth Street
+housenumber: "540"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/oswego/540-5th-st

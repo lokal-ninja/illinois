@@ -4,8 +4,8 @@ latitude: 39.80472
 longitude: -89.66744
 postcode: "62702"
 city: Springfield
-street: "West Jefferson Street"
-housenumber: 917
-phone: "+1-217-652-2921"
-opening_hours: "Mo-Fr 05:30-17:00; Sa 06:00-19:00; Su 06:00-18:00"
-website: "https://www.haesbakeryandcoffee.com/"
+street: West Jefferson Street
+housenumber: "917"
+phone: +1-217-652-2921
+opening_hours: Mo-Fr 05:30-17:00; Sa 06:00-19:00; Su 06:00-18:00
+website: https://www.haesbakeryandcoffee.com/

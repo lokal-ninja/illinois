@@ -1,11 +1,11 @@
 id: 244908522
-type: way
+type: node
 latitude: 40.12932
 longitude: -88.25773
 postcode: "61820"
 city: Champaign
-street: "North Prospect Avenue"
-housenumber: 1308
-phone: "+1 217 4029862"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 10:00-16:00"
-website: "http://www.titlemax.biz/store/champaign-il-title-loans/"
+street: North Prospect Avenue
+housenumber: "1308"
+phone: +1 217 4029862
+opening_hours: Mo-Fr 09:00-19:00;Sa 10:00-16:00
+website: http://www.titlemax.biz/store/champaign-il-title-loans/

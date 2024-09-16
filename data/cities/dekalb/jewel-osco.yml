@@ -1,11 +1,11 @@
 id: 328509542
-type: way
+type: node
 latitude: 41.94233
 longitude: -88.73741
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 1320
-phone: "+1 815-758-5478"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/dekalb/1320-sycamore-rd.html"
+street: Sycamore Road
+housenumber: "1320"
+phone: +1 815-758-5478
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.jewelosco.com/il/dekalb/1320-sycamore-rd.html

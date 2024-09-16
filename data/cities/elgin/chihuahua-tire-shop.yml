@@ -1,11 +1,11 @@
 id: 840770490
-type: way
+type: node
 latitude: 42.04611
 longitude: -88.29355
 postcode: "60123"
 city: Elgin
-street: "North State Street"
-housenumber: 533
-phone: "+1-847-888-9091"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su off"
+street: North State Street
+housenumber: "533"
+phone: +1-847-888-9091
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su off
 website: ""

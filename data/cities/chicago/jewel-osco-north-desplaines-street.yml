@@ -1,11 +1,11 @@
 id: 149509846
-type: way
+type: node
 latitude: 41.88889
 longitude: -87.64565
 postcode: "60661"
 city: Chicago
-street: "North Desplaines Street"
-housenumber: 370
-phone: "+1 312-243-2710"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/chicago/370-n-des-plaines-st.html"
+street: North Desplaines Street
+housenumber: "370"
+phone: +1 312-243-2710
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/chicago/370-n-des-plaines-st.html

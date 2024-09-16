@@ -1,11 +1,11 @@
 id: 549835491
-type: way
+type: node
 latitude: 41.78926
 longitude: -88.32271
 postcode: "60542"
 city: North Aurora
-street: "South Lincolnway"
-housenumber: 418
+street: South Lincolnway
+housenumber: "418"
 phone: ""
 opening_hours: ""
 website: ""

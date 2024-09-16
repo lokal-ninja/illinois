@@ -1,11 +1,11 @@
 id: 275609206
-type: way
+type: node
 latitude: 41.61086
 longitude: -88.12435
 postcode: "60446"
 city: Romeoville
-street: "South Weber Road"
-housenumber: 398
-phone: "+1 833-468-7063"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/romeoville/398-south-weber-road"
+street: South Weber Road
+housenumber: "398"
+phone: +1 833-468-7063
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/romeoville/398-south-weber-road

@@ -1,11 +1,11 @@
 id: 162391058
-type: way
+type: node
 latitude: 41.91664
 longitude: -87.73244
 postcode: "60639"
 city: Chicago
-street: "West Armitage Avenue"
-housenumber: 4225
+street: West Armitage Avenue
+housenumber: "4225"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/chicago/6214/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/chicago/6214/

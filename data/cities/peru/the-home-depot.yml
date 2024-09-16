@@ -1,11 +1,11 @@
 id: 548974823
-type: way
+type: node
 latitude: 41.36103
 longitude: -89.1299
 postcode: "61354"
 city: Peru
-street: "Venture Drive"
-housenumber: 4242
-phone: "+1 815-224-2968"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/peru/il/peru/61354/1977"
+street: Venture Drive
+housenumber: "4242"
+phone: +1 815-224-2968
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/peru/il/peru/61354/1977

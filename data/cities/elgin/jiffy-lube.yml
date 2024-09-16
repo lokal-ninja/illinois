@@ -1,11 +1,11 @@
 id: 824055498
-type: way
+type: node
 latitude: 42.02192
 longitude: -88.31223
 postcode: "60123"
 city: Elgin
-street: "South McLean Boulevard"
-housenumber: 445
-phone: "+1 847 622 1500"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-17:00"
-website: "https://www.jiffylube.com/locations/il/elgin/2557"
+street: South McLean Boulevard
+housenumber: "445"
+phone: +1 847 622 1500
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:00-17:00
+website: https://www.jiffylube.com/locations/il/elgin/2557

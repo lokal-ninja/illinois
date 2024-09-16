@@ -1,11 +1,11 @@
 id: 966807241
-type: way
+type: node
 latitude: 42.44537
 longitude: -87.82571
 postcode: "60099"
 city: Zion
-street: "Sheridan Road"
-housenumber: 2750
-phone: "+1-847-746-2200"
+street: Sheridan Road
+housenumber: "2750"
+phone: +1-847-746-2200
 opening_hours: ""
-website: "https://www.zioncyclery.com/"
+website: https://www.zioncyclery.com/

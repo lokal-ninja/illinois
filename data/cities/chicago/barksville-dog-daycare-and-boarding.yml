@@ -1,11 +1,11 @@
 id: 163896164
-type: way
+type: node
 latitude: 41.93893
 longitude: -87.71051
 postcode: "60618"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 3301
-phone: "872-204-2275"
+street: West Belmont Avenue
+housenumber: "3301"
+phone: 872-204-2275
 opening_hours: ""
-website: "https://barksvillechicago.com"
+website: https://barksvillechicago.com

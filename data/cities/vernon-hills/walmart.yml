@@ -1,11 +1,11 @@
 id: 173802403
-type: way
+type: node
 latitude: 42.23901
 longitude: -87.9499
 postcode: "60061"
 city: Vernon Hills
-street: "East Townline Road"
-housenumber: 555
-phone: "+1 847-918-0555"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1489/vernon-hills-il"
+street: East Townline Road
+housenumber: "555"
+phone: +1 847-918-0555
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1489/vernon-hills-il

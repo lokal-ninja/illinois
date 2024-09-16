@@ -1,11 +1,11 @@
 id: 669902234
-type: way
+type: node
 latitude: 42.07308
 longitude: -87.80525
 postcode: "60025"
 city: Glenview
-street: "Glenview Road"
-housenumber: 1880
+street: Glenview Road
+housenumber: "1880"
 phone: ""
 opening_hours: ""
 website: ""

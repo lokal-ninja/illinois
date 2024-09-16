@@ -1,11 +1,11 @@
 id: 757727146
-type: way
+type: node
 latitude: 42.24824
 longitude: -88.97309
 postcode: "61112"
 city: Rockford
-street: "Mid Mall Drive"
-housenumber: 7358
-phone: "+1 815-332-0707"
-opening_hours: "closed"
+street: Mid Mall Drive
+housenumber: "7358"
+phone: +1 815-332-0707
+opening_hours: closed
 website: ""

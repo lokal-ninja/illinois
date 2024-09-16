@@ -1,11 +1,11 @@
 id: 615014486
-type: way
+type: node
 latitude: 40.10595
 longitude: -88.19425
 postcode: "61801"
 city: Urbana
-street: "East Washington Street"
-housenumber: 1202
-phone: "+1 217 3281212"
+street: East Washington Street
+housenumber: "1202"
+phone: +1 217 3281212
 opening_hours: ""
-website: "https://hansonsautorepair.com/"
+website: https://hansonsautorepair.com/

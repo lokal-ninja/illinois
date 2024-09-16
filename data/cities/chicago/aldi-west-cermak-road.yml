@@ -1,11 +1,11 @@
 id: 209783100
-type: way
+type: node
 latitude: 41.85132
 longitude: -87.67033
 postcode: "60608"
 city: Chicago
-street: "West Cermak Road"
-housenumber: 1739
-phone: "+1 833-462-1062"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/chicago/1739-west-cermak-rd"
+street: West Cermak Road
+housenumber: "1739"
+phone: +1 833-462-1062
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/chicago/1739-west-cermak-rd

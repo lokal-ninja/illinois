@@ -1,11 +1,11 @@
 id: 1178789450
-type: way
+type: node
 latitude: 41.72898
 longitude: -87.74169
 postcode: "60453"
 city: Oak Lawn
-street: "South Cicero Avenue"
-housenumber: 9000
+street: South Cicero Avenue
+housenumber: "9000"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/oak-lawn/9000-s-cicero-ave"
+website: https://stores.advanceautoparts.com/il/oak-lawn/9000-s-cicero-ave

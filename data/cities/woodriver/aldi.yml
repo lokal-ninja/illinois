@@ -1,11 +1,11 @@
 id: 462636212
-type: way
+type: node
 latitude: 38.8661
 longitude: -90.067
 postcode: "62095"
 city: Woodriver
-street: "Wesley Drive"
-housenumber: 399
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/woodriver/399-wesley-drive"
+street: Wesley Drive
+housenumber: "399"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/woodriver/399-wesley-drive

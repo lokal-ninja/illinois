@@ -4,8 +4,8 @@ latitude: 39.75725
 longitude: -89.7259
 postcode: "62711"
 city: Springfield
-street: "Wabash Avenue"
-housenumber: 3801
-phone: "+1-217-522-1222"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.greendodge.net/"
+street: Wabash Avenue
+housenumber: "3801"
+phone: +1-217-522-1222
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.greendodge.net/

@@ -1,11 +1,11 @@
 id: 274203199
-type: way
+type: node
 latitude: 41.86104
 longitude: -88.14101
 postcode: "60187"
 city: Wheaton
-street: "South County Farm Road"
-housenumber: 401
+street: South County Farm Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

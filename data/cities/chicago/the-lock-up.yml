@@ -1,11 +1,11 @@
 id: 153561244
-type: way
+type: node
 latitude: 41.88923
 longitude: -87.6374
 postcode: "60654"
 city: Chicago
-street: "West Kinzie Street"
-housenumber: 350
+street: West Kinzie Street
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

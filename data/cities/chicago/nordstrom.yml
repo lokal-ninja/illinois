@@ -1,11 +1,11 @@
 id: 59430164
-type: way
+type: node
 latitude: 41.89102
 longitude: -87.62549
 postcode: "60611"
 city: Chicago
-street: "East Grand Avenue"
-housenumber: 55
+street: East Grand Avenue
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.nordstrom.com/store-details/nordstrom-michigan-avenue"
+opening_hours: Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.nordstrom.com/store-details/nordstrom-michigan-avenue

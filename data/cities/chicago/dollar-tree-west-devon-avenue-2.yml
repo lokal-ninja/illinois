@@ -1,11 +1,11 @@
 id: 155917608
-type: way
+type: node
 latitude: 41.99745
 longitude: -87.70072
 postcode: "60659"
 city: Chicago
-street: "West Devon Avenue"
-housenumber: 2825
+street: West Devon Avenue
+housenumber: "2825"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/il/chicago/7993/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/il/chicago/7993/

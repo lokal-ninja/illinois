@@ -1,11 +1,11 @@
 id: 348400055
-type: way
+type: node
 latitude: 42.22747
 longitude: -88.32789
 postcode: "60014"
 city: Crystal Lake
-street: "Northwest Highway"
-housenumber: 200
+street: Northwest Highway
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.fanniemay.com/"
+website: https://www.fanniemay.com/

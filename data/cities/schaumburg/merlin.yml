@@ -1,11 +1,11 @@
 id: 239695545
-type: way
-latitude: 42.04914
-longitude: -88.09923
+type: node
+latitude: 42.04913
+longitude: -88.0992
 postcode: "60195"
 city: Schaumburg
-street: "West Higgins Road"
-housenumber: 795
+street: West Higgins Road
+housenumber: "795"
 phone: ""
 opening_hours: ""
-website: "https://www.merlins.com/schaumburg/"
+website: https://www.merlins.com/schaumburg/

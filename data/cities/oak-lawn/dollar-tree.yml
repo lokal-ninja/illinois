@@ -1,11 +1,11 @@
 id: 1211930197
-type: way
+type: node
 latitude: 41.70054
 longitude: -87.74067
 postcode: "60453"
 city: Oak Lawn
-street: "South Cicero Avenue"
-housenumber: 10550
+street: South Cicero Avenue
+housenumber: "10550"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/oak-lawn/3500/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/oak-lawn/3500/

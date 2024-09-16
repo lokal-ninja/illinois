@@ -1,11 +1,11 @@
 id: 750966656
-type: way
+type: node
 latitude: 42.20533
 longitude: -88.33548
 postcode: "60014"
 city: Crystal Lake
-street: "North Randall Road"
-housenumber: 1305
-phone: "+1-815-356-0386"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/crystal-lake-il-pharmacies/1305-randall-rd-crystal-lake-il-60014/storeid=3790"
+street: North Randall Road
+housenumber: "1305"
+phone: +1-815-356-0386
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/crystal-lake-il-pharmacies/1305-randall-rd-crystal-lake-il-60014/storeid=3790

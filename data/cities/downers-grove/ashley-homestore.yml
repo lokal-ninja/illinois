@@ -1,11 +1,11 @@
 id: 132056830
-type: way
+type: node
 latitude: 41.83434
 longitude: -88.0125
 postcode: "60515"
 city: Downers Grove
-street: "Highland Avenue"
-housenumber: 2900
-phone: "+1 630-324-0607"
+street: Highland Avenue
+housenumber: "2900"
+phone: +1 630-324-0607
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/illinois/downers-grove/9000107814/"
+website: https://stores.ashleyfurniture.com/store/us/illinois/downers-grove/9000107814/

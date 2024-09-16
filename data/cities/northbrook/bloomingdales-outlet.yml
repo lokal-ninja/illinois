@@ -1,11 +1,11 @@
 id: 442141842
-type: way
+type: node
 latitude: 42.15018
 longitude: -87.79857
 postcode: "60062"
 city: Northbrook
-street: "Skokie Boulevard"
-housenumber: 145
+street: Skokie Boulevard
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

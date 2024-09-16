@@ -1,11 +1,11 @@
 id: 1058405728
-type: way
+type: node
 latitude: 41.8655
 longitude: -87.75402
 postcode: "60804"
 city: Cicero
-street: "West Roosevelt Road"
-housenumber: 5147
+street: West Roosevelt Road
+housenumber: "5147"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1294817901
-type: way
+type: node
 latitude: 41.50707
 longitude: -87.66556
 postcode: "60411"
 city: Chicago Heights
-street: "West Lincoln Highway"
-housenumber: 547
-phone: "+1 833-462-1015"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/chicago-heights/527-w-14th-st"
+street: West Lincoln Highway
+housenumber: "547"
+phone: +1 833-462-1015
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/chicago-heights/527-w-14th-st

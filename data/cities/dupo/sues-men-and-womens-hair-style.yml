@@ -1,11 +1,11 @@
 id: 548454242
-type: way
+type: node
 latitude: 38.51996
 longitude: -90.21041
 postcode: "62239"
 city: Dupo
-street: "North Main Street"
-housenumber: 116
+street: North Main Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

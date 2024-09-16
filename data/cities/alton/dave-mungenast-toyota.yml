@@ -1,11 +1,11 @@
 id: 1015914862
-type: way
+type: node
 latitude: 38.92195
 longitude: -90.16905
 postcode: "62002"
 city: Alton
-street: "Homer M Adams Parkway"
-housenumber: 850
+street: Homer M Adams Parkway
+housenumber: "850"
 phone: ""
 opening_hours: ""
 website: ""

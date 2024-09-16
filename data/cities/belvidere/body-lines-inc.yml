@@ -1,11 +1,11 @@
 id: 722386761
-type: way
+type: node
 latitude: 42.25414
 longitude: -88.88503
 postcode: "61008"
 city: Belvidere
-street: "Imron Drive"
-housenumber: 3680
-phone: "+1 815-547-8000"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 09:00-13:00; PH closed"
+street: Imron Drive
+housenumber: "3680"
+phone: +1 815-547-8000
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-13:00; PH closed
 website: ""

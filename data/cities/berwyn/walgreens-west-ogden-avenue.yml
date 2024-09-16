@@ -1,11 +1,11 @@
 id: 424472764
-type: way
+type: node
 latitude: 41.82646
 longitude: -87.79316
 postcode: "60402"
 city: Berwyn
-street: "West Ogden Avenue"
-housenumber: 6800
+street: West Ogden Avenue
+housenumber: "6800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6800+ogden+ave-berwyn-il-60402/id=5076"
+website: https://www.walgreens.com/locator/walgreens-6800+ogden+ave-berwyn-il-60402/id=5076

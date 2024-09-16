@@ -1,11 +1,11 @@
 id: 771829199
-type: way
+type: node
 latitude: 40.9227
 longitude: -90.64842
 postcode: "61462"
 city: Monmouth
-street: "North Main Street"
-housenumber: 1004
-phone: "+1-309-734-4142"
+street: North Main Street
+housenumber: "1004"
+phone: +1-309-734-4142
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/monmouth/autoparts-1713.html"
+website: https://locations.oreillyauto.com/il/monmouth/autoparts-1713.html

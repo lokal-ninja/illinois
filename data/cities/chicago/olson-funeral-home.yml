@@ -1,11 +1,11 @@
 id: 163332090
-type: way
+type: node
 latitude: 41.99842
 longitude: -87.80887
 postcode: "60631"
 city: Chicago
-street: "North Northwest Highway"
-housenumber: 6467
+street: North Northwest Highway
+housenumber: "6467"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 518476886
-type: way
+type: node
 latitude: 37.7316
 longitude: -88.55128
 postcode: "62946"
 city: Harrisburg
-street: "West Sloan Street"
-housenumber: 628
+street: West Sloan Street
+housenumber: "628"
 phone: ""
 opening_hours: ""
 website: ""

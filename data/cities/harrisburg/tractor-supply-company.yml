@@ -1,11 +1,11 @@
 id: 846573416
-type: way
+type: node
 latitude: 37.74465
 longitude: -88.52675
 postcode: "62946"
 city: Harrisburg
-street: "North Commercial Street"
-housenumber: 601
-phone: "+1 618-252-7402"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Commercial Street
+housenumber: "601"
+phone: +1 618-252-7402
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

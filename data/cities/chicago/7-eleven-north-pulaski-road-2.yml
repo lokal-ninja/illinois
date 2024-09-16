@@ -1,11 +1,11 @@
 id: 162460849
-type: way
+type: node
 latitude: 41.96126
 longitude: -87.72769
 postcode: "60625"
 city: Chicago
-street: "North Pulaski Road"
-housenumber: 4401
-phone: "+1 773-267-1470"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.7-eleven.com/locations/il/chicago/4401-n-pulaski-36061"
+street: North Pulaski Road
+housenumber: "4401"
+phone: +1 773-267-1470
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.7-eleven.com/locations/il/chicago/4401-n-pulaski-36061

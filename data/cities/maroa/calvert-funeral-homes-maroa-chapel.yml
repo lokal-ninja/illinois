@@ -1,11 +1,11 @@
 id: 1286190680
-type: way
+type: node
 latitude: 40.03503
 longitude: -88.95595
 postcode: "61756"
 city: Maroa
-street: "South Wood Street"
-housenumber: 202
+street: South Wood Street
+housenumber: "202"
 phone: "+12177945554"
 opening_hours: ""
-website: "https://calvertmemorial.com/location/all-calvert-memorial-locations/"
+website: https://calvertmemorial.com/location/all-calvert-memorial-locations/

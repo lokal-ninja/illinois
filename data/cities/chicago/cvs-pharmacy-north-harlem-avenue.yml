@@ -1,11 +1,11 @@
 id: 163261740
-type: way
+type: node
 latitude: 41.9134
 longitude: -87.80575
 postcode: "60707"
 city: Chicago
-street: "North Harlem Avenue"
-housenumber: 1819
+street: North Harlem Avenue
+housenumber: "1819"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cvs-pharmacy-address/1819+North+Harlem+Avenue-Chicago-IL-60707/storeid=8739"
+website: https://www.cvs.com/store-locator/cvs-pharmacy-address/1819+North+Harlem+Avenue-Chicago-IL-60707/storeid=8739

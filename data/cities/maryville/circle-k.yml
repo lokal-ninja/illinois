@@ -4,8 +4,8 @@ latitude: 38.73885
 longitude: -89.95757
 postcode: "62062"
 city: Maryville
-street: "State Route 162"
-housenumber: 6559
-phone: "1-618-288-7920"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/maryville/6559-state-rte-162/4701459?address=Maryville,%20Illinois%2062062,%20United%20States&lat=38.723659&lng=-89.955935&lang=en"
+street: State Route 162
+housenumber: "6559"
+phone: 1-618-288-7920
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/maryville/6559-state-rte-162/4701459?address=Maryville,%20Illinois%2062062,%20United%20States&lat=38.723659&lng=-89.955935&lang=en

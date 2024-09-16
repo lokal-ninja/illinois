@@ -1,11 +1,11 @@
 id: 209569700
-type: way
+type: node
 latitude: 41.99074
 longitude: -87.69909
 postcode: "60659"
 city: Chicago
-street: "West Peterson Avenue"
-housenumber: 2758
+street: West Peterson Avenue
+housenumber: "2758"
 phone: ""
 opening_hours: ""
 website: ""

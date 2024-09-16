@@ -1,11 +1,11 @@
 id: 256458434
-type: way
+type: node
 latitude: 42.34135
 longitude: -89.05284
 postcode: "61115"
 city: Machesney Park
-street: "North 2nd Street"
-housenumber: 
+street: North 2nd Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/machesneypark/autoparts-1497.html"
+website: https://locations.oreillyauto.com/il/machesneypark/autoparts-1497.html

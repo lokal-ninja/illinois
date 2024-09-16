@@ -1,11 +1,11 @@
 id: 453173100
-type: way
+type: node
 latitude: 41.62773
 longitude: -87.84908
 postcode: "60462"
 city: Orland Park
-street: "John Humphrey Drive"
-housenumber: 14445
-phone: "+1 708 460 2999"
-opening_hours: "Mo,We,Fr 11:00-18:00; Tu,Th 11:00-19:00; Sa 11:00-17:00; Su 12:00-16:00"
-website: "https://orlandparkcyclery.com/"
+street: John Humphrey Drive
+housenumber: "14445"
+phone: +1 708 460 2999
+opening_hours: Mo,We,Fr 11:00-18:00; Tu,Th 11:00-19:00; Sa 11:00-17:00; Su 12:00-16:00
+website: https://orlandparkcyclery.com/

@@ -1,11 +1,11 @@
 id: 549952482
-type: way
+type: node
 latitude: 40.25909
 longitude: -89.22648
 postcode: ""
 city: Atlanta
-street: "East South Street"
-housenumber: 700
+street: East South Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

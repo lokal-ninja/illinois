@@ -1,11 +1,11 @@
 id: 210905379
-type: way
+type: node
 latitude: 41.77814
 longitude: -87.61545
 postcode: "60637"
 city: Chicago
-street: "South Doctor Martin Luther King Junior Drive"
-housenumber: 6401
+street: South Doctor Martin Luther King Junior Drive
+housenumber: "6401"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/6401-s-martin-luther-king-dr.html"
+website: https://www.autozone.com/locations/il/chicago/6401-s-martin-luther-king-dr.html

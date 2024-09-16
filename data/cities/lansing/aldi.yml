@@ -1,11 +1,11 @@
 id: 917267453
-type: way
+type: node
 latitude: 41.56521
 longitude: -87.52945
 postcode: "60438"
 city: Lansing
-street: "Ridge Road"
-housenumber: 3602
-phone: "+1 833-462-1039"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/lansing/3602-ridge-road"
+street: Ridge Road
+housenumber: "3602"
+phone: +1 833-462-1039
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/lansing/3602-ridge-road

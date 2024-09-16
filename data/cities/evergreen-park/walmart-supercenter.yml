@@ -1,11 +1,11 @@
 id: 660880698
-type: way
+type: node
 latitude: 41.72259
 longitude: -87.68681
 postcode: "60805"
 city: Evergreen Park
-street: "West 95th Street"
-housenumber: 2500
-phone: "+1 708-229-0611"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5485/evergreen-park-il/whats-new"
+street: West 95th Street
+housenumber: "2500"
+phone: +1 708-229-0611
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5485/evergreen-park-il/whats-new

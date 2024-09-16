@@ -1,11 +1,11 @@
 id: 202231992
-type: way
+type: node
 latitude: 42.31475
 longitude: -89.05826
 postcode: "61111"
 city: Loves Park
-street: "North 2nd Street"
-housenumber: 5748
+street: North 2nd Street
+housenumber: "5748"
 phone: ""
 opening_hours: ""
 website: ""

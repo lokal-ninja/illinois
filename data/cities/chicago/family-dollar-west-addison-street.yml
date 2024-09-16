@@ -1,11 +1,11 @@
 id: 163906210
-type: way
+type: node
 latitude: 41.94642
 longitude: -87.71372
 postcode: "60618"
 city: Chicago
-street: "West Addison Street"
-housenumber: 3411
+street: West Addison Street
+housenumber: "3411"
 phone: ""
 opening_hours: ""
 website: ""

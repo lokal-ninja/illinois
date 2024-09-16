@@ -1,11 +1,11 @@
 id: 321932215
-type: way
+type: node
 latitude: 41.97246
 longitude: -88.20957
 postcode: "60103"
 city: Bartlet
-street: "Illinois Route 59"
-housenumber: 950
-phone: "+1 630-289-6247"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Bartlett/IL/Bartlett/60103/1964"
+street: Illinois Route 59
+housenumber: "950"
+phone: +1 630-289-6247
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Bartlett/IL/Bartlett/60103/1964

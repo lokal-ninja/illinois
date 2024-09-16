@@ -1,11 +1,11 @@
 id: 826131900
-type: way
+type: node
 latitude: 42.25303
 longitude: -89.08768
 postcode: "61104"
 city: Rockford
-street: "Kishwaukee Street"
-housenumber: 1405
-phone: "+1-630-635-7630"
+street: Kishwaukee Street
+housenumber: "1405"
+phone: +1-630-635-7630
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/rockford/14602"
+website: https://www.dollargeneral.com/store-directory/il/rockford/14602

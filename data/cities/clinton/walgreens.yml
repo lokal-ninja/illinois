@@ -1,11 +1,11 @@
 id: 587067157
-type: way
+type: node
 latitude: 40.14774
 longitude: -88.96509
 postcode: "61727"
 city: Clinton
-street: "West Van Buren Street"
-housenumber: 424
+street: West Van Buren Street
+housenumber: "424"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-424+w+van+buren+st-clinton-il-61727/id=10800"
+website: https://www.walgreens.com/locator/walgreens-424+w+van+buren+st-clinton-il-61727/id=10800

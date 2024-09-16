@@ -1,11 +1,11 @@
 id: 1019581845
-type: way
+type: node
 latitude: 41.83427
 longitude: -87.74457
 postcode: "60804"
 city: Cicero
-street: "South Cicero Avenue"
-housenumber: 3200
+street: South Cicero Avenue
+housenumber: "3200"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Cicero/3200-S-Cicero-Ave"
+website: https://www.speedway.com/locations/IL/Cicero/3200-S-Cicero-Ave

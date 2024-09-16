@@ -4,8 +4,8 @@ latitude: 42.03048
 longitude: -87.67813
 postcode: "60202"
 city: Evanston
-street: "Chicago Avenue"
-housenumber: 635
+street: Chicago Avenue
+housenumber: "635"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:30; Su 10:00-17:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:30; Su 10:00-17:00
 website: ""

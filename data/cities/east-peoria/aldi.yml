@@ -1,11 +1,11 @@
 id: 797526664
-type: way
+type: node
 latitude: 40.67403
 longitude: -89.58486
 postcode: "61611"
 city: East Peoria
-street: "Clock Tower Drive"
-housenumber: 251
-phone: "+1 833-468-7060"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/east-peoria/251-clock-tower-drive"
+street: Clock Tower Drive
+housenumber: "251"
+phone: +1 833-468-7060
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/east-peoria/251-clock-tower-drive

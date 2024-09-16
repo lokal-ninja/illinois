@@ -1,11 +1,11 @@
 id: 197977915
-type: way
+type: node
 latitude: 41.85872
 longitude: -88.00409
 postcode: "60148"
 city: Lombard
-street: "East Roosevelt Road"
-housenumber: 511
+street: East Roosevelt Road
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

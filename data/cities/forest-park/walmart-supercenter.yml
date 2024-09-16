@@ -1,11 +1,11 @@
 id: 185734529
-type: way
+type: node
 latitude: 41.86215
 longitude: -87.81864
 postcode: "60130"
 city: Forest Park
-street: "Des Plaines Avenue"
-housenumber: 1300
-phone: "+1 708-771-2270"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2204/forest-park-il/whats-new"
+street: Des Plaines Avenue
+housenumber: "1300"
+phone: +1 708-771-2270
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2204/forest-park-il/whats-new

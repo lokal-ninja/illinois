@@ -1,11 +1,11 @@
 id: 113818996
-type: way
+type: node
 latitude: 39.48181
 longitude: -88.32971
 postcode: "61938"
 city: Mattoon
-street: "Fort Worth Way"
-housenumber: 1301
-phone: "+1 217-235-0700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/mattoon/il/mattoon/61938/1967"
+street: Fort Worth Way
+housenumber: "1301"
+phone: +1 217-235-0700
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/mattoon/il/mattoon/61938/1967

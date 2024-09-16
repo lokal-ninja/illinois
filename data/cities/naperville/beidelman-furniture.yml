@@ -1,11 +1,11 @@
 id: 201451364
-type: way
+type: node
 latitude: 41.77195
 longitude: -88.1483
 postcode: "60540"
 city: Naperville
-street: "South Washington Street"
-housenumber: 239
-phone: "+1 630 355 5770"
-opening_hours: "Mo, Fr 11:00-19:00; Tu, We, Sa 11:00-18:00; Th 11:00-20:00; Su 12:00-16:00"
-website: "https://www.beidelmanfurniture.com/"
+street: South Washington Street
+housenumber: "239"
+phone: +1 630 355 5770
+opening_hours: Mo, Fr 11:00-19:00; Tu, We, Sa 11:00-18:00; Th 11:00-20:00; Su 12:00-16:00
+website: https://www.beidelmanfurniture.com/

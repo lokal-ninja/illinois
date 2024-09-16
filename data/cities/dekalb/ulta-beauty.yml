@@ -1,11 +1,11 @@
 id: 984134988
-type: way
+type: node
 latitude: 41.94746
 longitude: -88.72438
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2064
-phone: "+1 815-748-0990"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/dekalb-il-613"
+street: Sycamore Road
+housenumber: "2064"
+phone: +1 815-748-0990
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/dekalb-il-613

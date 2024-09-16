@@ -1,11 +1,11 @@
 id: 414887929
-type: way
+type: node
 latitude: 42.26657
 longitude: -87.95134
 postcode: "60048"
 city: Libertyville
-street: "South Milwaukee Avenue"
-housenumber: 1121
-phone: "(847) 932-6754"
-opening_hours: "Mo 09:00-19:00; Tu-Th 10:00-19:00; Fr-Sa 09:00-20:00; Su off"
+street: South Milwaukee Avenue
+housenumber: "1121"
+phone: (847) 932-6754
+opening_hours: Mo 09:00-19:00; Tu-Th 10:00-19:00; Fr-Sa 09:00-20:00; Su off
 website: ""

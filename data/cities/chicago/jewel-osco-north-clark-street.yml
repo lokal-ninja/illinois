@@ -1,11 +1,11 @@
 id: 122670070
-type: way
+type: node
 latitude: 41.98296
 longitude: -87.66963
 postcode: "60640"
 city: Chicago
-street: "North Clark Street"
-housenumber: 5516
-phone: "+1 773-728-7730"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/chicago/5516-n-clark-st.html"
+street: North Clark Street
+housenumber: "5516"
+phone: +1 773-728-7730
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/chicago/5516-n-clark-st.html

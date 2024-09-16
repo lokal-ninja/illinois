@@ -1,11 +1,11 @@
 id: 918540839
-type: way
+type: node
 latitude: 41.67566
 longitude: -87.74003
 postcode: "60803"
 city: Alsip
-street: "Cicero Avenue"
-housenumber: 11920
+street: Cicero Avenue
+housenumber: "11920"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/alsip/autoparts-4879.html"
+website: https://locations.oreillyauto.com/il/alsip/autoparts-4879.html

@@ -1,11 +1,11 @@
 id: 1275422054
-type: way
+type: node
 latitude: 42.01581
 longitude: -87.83871
 postcode: "60068"
 city: Park Ridge
-street: "Busse Highway"
-housenumber: 481
-phone: "+1 847-696-0824"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/park-ridge/481-busse-hwy.html"
+street: Busse Highway
+housenumber: "481"
+phone: +1 847-696-0824
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/park-ridge/481-busse-hwy.html

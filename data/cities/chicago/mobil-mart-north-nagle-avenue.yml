@@ -1,11 +1,11 @@
 id: 163223883
-type: way
+type: node
 latitude: 41.98557
 longitude: -87.78797
 postcode: "60631"
 city: Chicago
-street: "North Nagle Avenue"
-housenumber: 5726
+street: North Nagle Avenue
+housenumber: "5726"
 phone: ""
 opening_hours: ""
 website: ""

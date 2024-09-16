@@ -1,11 +1,11 @@
 id: 163676850
-type: way
+type: node
 latitude: 41.8091
 longitude: -87.72344
 postcode: "60632"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 4625
+street: South Pulaski Road
+housenumber: "4625"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/chicago/4625-s-pulaski-rd"
+website: https://stores.advanceautoparts.com/il/chicago/4625-s-pulaski-rd

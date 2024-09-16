@@ -1,11 +1,11 @@
 id: 209466529
-type: way
+type: node
 latitude: 41.95245
 longitude: -87.68889
 postcode: "60618"
 city: Chicago
-street: "North Western Avenue"
-housenumber: 3914
+street: North Western Avenue
+housenumber: "3914"
 phone: ""
 opening_hours: ""
-website: "https://www.build.com/showroom/branch/chicago-il-showroom-1124"
+website: https://www.build.com/showroom/branch/chicago-il-showroom-1124

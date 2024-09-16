@@ -1,11 +1,11 @@
 id: 766312526
-type: way
+type: node
 latitude: 42.30478
 longitude: -89.3603
 postcode: "61063"
 city: Pecatonica
-street: "West 11th Street"
-housenumber: 1205
+street: West 11th Street
+housenumber: "1205"
 phone: ""
 opening_hours: ""
-website: "https://topwayfoods.com/"
+website: https://topwayfoods.com/

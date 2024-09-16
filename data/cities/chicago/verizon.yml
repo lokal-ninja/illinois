@@ -4,8 +4,8 @@ latitude: 41.88308
 longitude: -87.63553
 postcode: "60606"
 city: Chicago
-street: "West Washington Street"
-housenumber: 301
+street: West Washington Street
+housenumber: "301"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00"
+opening_hours: Mo-Fr 08:00-19:00
 website: ""

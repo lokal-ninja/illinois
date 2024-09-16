@@ -1,11 +1,11 @@
 id: 1209462862
-type: way
+type: node
 latitude: 41.89109
 longitude: -88.34258
 postcode: "60134"
 city: Geneva
-street: "Commons Drive"
-housenumber: 112
+street: Commons Drive
+housenumber: "112"
 phone: ""
-opening_hours: "Mo off; Tu off; We-Sa 10:00-16:00; Su off"
-website: "https://www.tweepartees.com"
+opening_hours: Mo off; Tu off; We-Sa 10:00-16:00; Su off
+website: https://www.tweepartees.com

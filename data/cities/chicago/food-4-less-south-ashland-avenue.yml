@@ -1,11 +1,11 @@
 id: 209656270
-type: way
+type: node
 latitude: 41.7658
 longitude: -87.66495
 postcode: "60636"
 city: Chicago
-street: "South Ashland Avenue"
-housenumber: 7030
+street: South Ashland Avenue
+housenumber: "7030"
 phone: ""
 opening_hours: ""
-website: "https://www.food4less.com/stores/details/708/00552"
+website: https://www.food4less.com/stores/details/708/00552

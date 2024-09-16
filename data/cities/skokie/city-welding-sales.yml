@@ -1,11 +1,11 @@
 id: 210851099
-type: way
+type: node
 latitude: 42.01395
 longitude: -87.70985
 postcode: "60076"
 city: Skokie
-street: "North Kedzie Avenue"
-housenumber: 7310
+street: North Kedzie Avenue
+housenumber: "7310"
 phone: ""
 opening_hours: ""
-website: "https://citywelding.com/"
+website: https://citywelding.com/

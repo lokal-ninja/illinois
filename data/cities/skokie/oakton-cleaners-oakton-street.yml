@@ -1,11 +1,11 @@
 id: 1030817836
-type: way
+type: node
 latitude: 42.0266
 longitude: -87.73147
 postcode: "60076"
 city: Skokie
-street: "Oakton Street"
-housenumber: 4100
+street: Oakton Street
+housenumber: "4100"
 phone: ""
 opening_hours: ""
 website: ""

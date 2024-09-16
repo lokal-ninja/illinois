@@ -1,11 +1,11 @@
 id: 668593110
-type: way
+type: node
 latitude: 41.9972
 longitude: -87.765
 postcode: "60646"
 city: Chicago
-street: "West Devon Avenue"
-housenumber: 5429
+street: West Devon Avenue
+housenumber: "5429"
 phone: ""
 opening_hours: ""
 website: ""

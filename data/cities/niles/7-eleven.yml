@@ -1,11 +1,11 @@
 id: 239508794
-type: way
+type: node
 latitude: 42.02637
 longitude: -87.813
 postcode: "60714"
 city: Niles
-street: "Oakton Street"
-housenumber: 7450
-phone: "+1 847-966-3510"
+street: Oakton Street
+housenumber: "7450"
+phone: +1 847-966-3510
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/niles/7450-w-oakton-st-13359"
+website: https://www.7-eleven.com/locations/il/niles/7450-w-oakton-st-13359

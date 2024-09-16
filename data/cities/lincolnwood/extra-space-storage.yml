@@ -1,11 +1,11 @@
 id: 130927285
-type: way
+type: node
 latitude: 41.9982
 longitude: -87.72471
 postcode: "60712"
 city: Lincolnwood
-street: "West Devon Avenue"
-housenumber: 3850
+street: West Devon Avenue
+housenumber: "3850"
 phone: ""
 opening_hours: ""
 website: ""

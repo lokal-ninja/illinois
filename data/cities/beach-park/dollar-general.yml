@@ -1,11 +1,11 @@
 id: 333694502
-type: way
+type: node
 latitude: 42.42728
 longitude: -87.87592
 postcode: "60087"
 city: Beach Park
-street: "North Green Bay Road"
-housenumber: 38921
+street: North Green Bay Road
+housenumber: "38921"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/beach-park/17013"
+website: https://www.dollargeneral.com/store-directory/il/beach-park/17013

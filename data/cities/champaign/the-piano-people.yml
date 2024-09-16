@@ -1,11 +1,11 @@
 id: 929062479
-type: way
+type: node
 latitude: 40.11213
 longitude: -88.28322
 postcode: "61821"
 city: Champaign
-street: "South Country Fair Drive"
-housenumber: 503
-phone: "+1 217 3597601"
+street: South Country Fair Drive
+housenumber: "503"
+phone: +1 217 3597601
 opening_hours: ""
-website: "http://pianopeoplemattoon.com/"
+website: http://pianopeoplemattoon.com/

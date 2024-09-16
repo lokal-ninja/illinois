@@ -4,8 +4,8 @@ latitude: 39.67453
 longitude: -89.70427
 postcode: "62629"
 city: Chatham
-street: "North Main Street"
-housenumber: 100
-phone: "+1-217-483-6911"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "http://disctobacco.com/"
+street: North Main Street
+housenumber: "100"
+phone: +1-217-483-6911
+opening_hours: Mo-Fr 07:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+website: http://disctobacco.com/

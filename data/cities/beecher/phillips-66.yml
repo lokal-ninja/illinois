@@ -1,11 +1,11 @@
 id: 645814733
-type: way
+type: node
 latitude: 41.34845
 longitude: -87.62077
 postcode: "60401"
 city: Beecher
-street: "Dixie Highway"
-housenumber: 901
-phone: "+1-708-946-1500"
+street: Dixie Highway
+housenumber: "901"
+phone: +1-708-946-1500
 opening_hours: ""
 website: ""

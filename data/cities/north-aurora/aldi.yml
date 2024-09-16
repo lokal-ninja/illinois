@@ -1,11 +1,11 @@
 id: 557453657
-type: way
+type: node
 latitude: 41.80901
 longitude: -88.35213
 postcode: "60542"
 city: North Aurora
-street: "Miller Drive"
-housenumber: 199
-phone: "+1 833-440-1040"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/n.-aurora/199-miller-drive"
+street: Miller Drive
+housenumber: "199"
+phone: +1 833-440-1040
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/n.-aurora/199-miller-drive

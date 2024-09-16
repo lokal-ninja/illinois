@@ -1,11 +1,11 @@
 id: 785352113
-type: way
+type: node
 latitude: 42.01326
 longitude: -88.14778
 postcode: "60107"
 city: Streamwood
-street: "South Barrington Road"
-housenumber: 960
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/streamwood/960-s-barrington-road"
+street: South Barrington Road
+housenumber: "960"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/streamwood/960-s-barrington-road

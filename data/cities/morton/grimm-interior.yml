@@ -1,11 +1,11 @@
 id: 238621574
-type: way
+type: node
 latitude: 40.60946
 longitude: -89.46346
 postcode: "61550"
 city: Morton
-street: "West Washington Street"
-housenumber: 111
-phone: "+1-309-266-5250"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "http://www.grimminteriors.com/"
+street: West Washington Street
+housenumber: "111"
+phone: +1-309-266-5250
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: http://www.grimminteriors.com/

@@ -1,11 +1,11 @@
 id: 162633095
-type: way
+type: node
 latitude: 41.93866
 longitude: -87.76734
 postcode: "60634"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 5616
+street: West Belmont Avenue
+housenumber: "5616"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/chicago/644/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/chicago/644/

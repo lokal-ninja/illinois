@@ -4,8 +4,8 @@ latitude: 41.88199
 longitude: -87.62496
 postcode: "60603"
 city: Chicago
-street: "East Madison Street"
-housenumber: 77
+street: East Madison Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.grahamcrackers.com/"
+website: https://www.grahamcrackers.com/

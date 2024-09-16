@@ -1,11 +1,11 @@
 id: 1034696705
-type: way
+type: node
 latitude: 41.76792
 longitude: -88.20408
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 256
-phone: "+1 630 355 8542"
+street: South Illinois Route 59
+housenumber: "256"
+phone: +1 630 355 8542
 opening_hours: ""
-website: "https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=41.767939&long=-88.20403"
+website: https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=41.767939&long=-88.20403

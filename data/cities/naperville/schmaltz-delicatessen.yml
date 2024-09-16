@@ -1,11 +1,11 @@
 id: 993474295
-type: way
+type: node
 latitude: 41.79757
 longitude: -88.1179
 postcode: "60563"
 city: Naperville
-street: "Naper Boulevard"
-housenumber: 1512
-phone: "+1 630 245 7595"
-opening_hours: "Mo-Fr 11:00-19:00; Sa, Su 08:00-14:00"
-website: "https://schmaltzdeli.com/"
+street: Naper Boulevard
+housenumber: "1512"
+phone: +1 630 245 7595
+opening_hours: Mo-Fr 11:00-19:00; Sa, Su 08:00-14:00
+website: https://schmaltzdeli.com/

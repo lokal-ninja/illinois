@@ -1,11 +1,11 @@
 id: 210391232
-type: way
+type: node
 latitude: 41.97697
 longitude: -87.6597
 postcode: "60640"
 city: Chicago
-street: "North Broadway"
-housenumber: 5227
+street: North Broadway
+housenumber: "5227"
 phone: ""
 opening_hours: ""
-website: "https://stores.burlington.com/il/chicago/1481/"
+website: https://stores.burlington.com/il/chicago/1481/

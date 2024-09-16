@@ -4,8 +4,8 @@ latitude: 42.13055
 longitude: -87.82782
 postcode: "60062"
 city: Northbrook
-street: "Cherry Lane"
-housenumber: 1957
+street: Cherry Lane
+housenumber: "1957"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/northbrook/4921/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/northbrook/4921/

@@ -1,11 +1,11 @@
 id: 135049093
-type: way
+type: node
 latitude: 42.05501
 longitude: -87.9955
 postcode: "60005"
 city: Arlington Heights
-street: "West Algonquin Road"
-housenumber: 990
+street: West Algonquin Road
+housenumber: "990"
 phone: ""
 opening_hours: ""
-website: "http://stores.lowes.com/lowes/cgi/site?site=2529"
+website: http://stores.lowes.com/lowes/cgi/site?site=2529

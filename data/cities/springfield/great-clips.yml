@@ -4,8 +4,8 @@ latitude: 39.7678
 longitude: -89.70885
 postcode: "62704"
 city: Springfield
-street: "South Veterans Parkway"
-housenumber: 2769
-phone: "+1-217-787-8717"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://salons.greatclips.com/us/il/springfield/2769-s-veterans-pkwy"
+street: South Veterans Parkway
+housenumber: "2769"
+phone: +1-217-787-8717
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://salons.greatclips.com/us/il/springfield/2769-s-veterans-pkwy

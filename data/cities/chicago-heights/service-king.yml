@@ -1,11 +1,11 @@
 id: 1167119327
-type: way
+type: node
 latitude: 41.53665
 longitude: -87.63472
 postcode: "60411"
 city: Chicago Heights
-street: "North Halsted Street"
-housenumber: 311
+street: North Halsted Street
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

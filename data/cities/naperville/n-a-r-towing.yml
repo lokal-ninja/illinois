@@ -1,11 +1,11 @@
 id: 887421109
-type: way
+type: node
 latitude: 41.77963
 longitude: -88.19968
 postcode: "60563"
 city: Naperville
-street: "North Aurora Road"
-housenumber: 1748
-phone: "+1 630 978 7100"
+street: North Aurora Road
+housenumber: "1748"
+phone: +1 630 978 7100
 opening_hours: ""
-website: "https://www.nartowing.com/"
+website: https://www.nartowing.com/

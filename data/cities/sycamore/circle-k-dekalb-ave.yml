@@ -1,11 +1,11 @@
 id: 1000392771
-type: way
+type: node
 latitude: 41.96582
 longitude: -88.72011
 postcode: "60178"
 city: Sycamore
-street: "DeKalb Avenue"
-housenumber: 2001
-phone: "+1 815-748-4854"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/sycamore/2001-dekalb-ave/4701397"
+street: DeKalb Avenue
+housenumber: "2001"
+phone: +1 815-748-4854
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/sycamore/2001-dekalb-ave/4701397

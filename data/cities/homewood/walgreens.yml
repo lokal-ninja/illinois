@@ -1,11 +1,11 @@
 id: 1025870777
-type: way
+type: node
 latitude: 41.55817
 longitude: -87.63741
 postcode: "60430"
 city: Homewood
-street: "183rd Street"
-housenumber: 820
+street: 183rd Street
+housenumber: "820"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-820+183rd+st-homewood-il-60430/id=3179"
+website: https://www.walgreens.com/locator/walgreens-820+183rd+st-homewood-il-60430/id=3179

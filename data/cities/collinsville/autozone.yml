@@ -1,11 +1,11 @@
 id: 551144508
-type: way
+type: node
 latitude: 38.68647
 longitude: -89.97456
 postcode: "62234"
 city: Collinsville
-street: "Vandalia Street"
-housenumber: 1400
-phone: "1-618-345-7791"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-2100"
-website: "https://www.autozone.com/locations/il/collinsville/1400-vandalia-rd.html"
+street: Vandalia Street
+housenumber: "1400"
+phone: 1-618-345-7791
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-2100
+website: https://www.autozone.com/locations/il/collinsville/1400-vandalia-rd.html

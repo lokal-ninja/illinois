@@ -1,11 +1,11 @@
 id: 227843601
-type: way
+type: node
 latitude: 41.76281
 longitude: -87.74381
 postcode: "60638"
 city: Bedford Park
-street: "South Cicero Avenue"
-housenumber: 7100
-phone: "+1 708-563-9050"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/bedford-park/841"
+street: South Cicero Avenue
+housenumber: "7100"
+phone: +1 708-563-9050
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/bedford-park/841

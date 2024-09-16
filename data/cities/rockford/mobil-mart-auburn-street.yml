@@ -1,11 +1,11 @@
 id: 815147959
-type: way
+type: node
 latitude: 42.28794
 longitude: -89.12835
 postcode: "61101"
 city: Rockford
-street: "Auburn Street"
-housenumber: 4432
-phone: "+1-815-962-3755"
+street: Auburn Street
+housenumber: "4432"
+phone: +1-815-962-3755
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200309669"
+website: https://www.exxon.com/en/find-station/200309669

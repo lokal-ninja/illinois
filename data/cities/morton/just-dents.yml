@@ -1,11 +1,11 @@
 id: 248770136
-type: way
+type: node
 latitude: 40.61808
 longitude: -89.45289
 postcode: "61550"
 city: Morton
-street: "North Main Street"
-housenumber: 832
-phone: "+1-309-266-6677"
+street: North Main Street
+housenumber: "832"
+phone: +1-309-266-6677
 opening_hours: ""
-website: "http://justdents.com/"
+website: http://justdents.com/

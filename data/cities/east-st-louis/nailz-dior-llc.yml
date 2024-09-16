@@ -4,8 +4,8 @@ latitude: 38.56124
 longitude: -90.16265
 postcode: "62206"
 city: East St Louis
-street: "Doris Ave"
-housenumber: 1615
-phone: "+1-618-619-0255"
-opening_hours: "Tu,Th,Fr 09:00-20:00; Sa 09:00-22:30; Su 09:00-16:00"
-website: "https://getdiord.com"
+street: Doris Ave
+housenumber: "1615"
+phone: +1-618-619-0255
+opening_hours: Tu,Th,Fr 09:00-20:00; Sa 09:00-22:30; Su 09:00-16:00
+website: https://getdiord.com

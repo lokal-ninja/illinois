@@ -1,11 +1,11 @@
 id: 853598016
-type: way
+type: node
 latitude: 42.326
 longitude: -88.16523
 postcode: "60073"
 city: Volo
-street: "North US Highway 12"
-housenumber: 31776
+street: North US Highway 12
+housenumber: "31776"
 phone: ""
 opening_hours: ""
 website: ""

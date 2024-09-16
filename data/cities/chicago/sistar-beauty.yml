@@ -1,11 +1,11 @@
 id: 210490580
-type: way
+type: node
 latitude: 41.73263
 longitude: -87.62637
 postcode: "60620"
 city: Chicago
-street: "South Lafayette Avenue"
-housenumber: 8900
+street: South Lafayette Avenue
+housenumber: "8900"
 phone: ""
 opening_hours: ""
 website: ""

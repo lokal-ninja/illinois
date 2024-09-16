@@ -4,8 +4,8 @@ latitude: 37.41484
 longitude: -88.89588
 postcode: "62995"
 city: Vienna
-street: "North 4th Street"
-housenumber: 112
-phone: "+1-618-658-7110"
-opening_hours: "Fr 09:00-15:00, Sa 09:00-12:00, Su-We off; PH off"
+street: North 4th Street
+housenumber: "112"
+phone: +1-618-658-7110
+opening_hours: Fr 09:00-15:00, Sa 09:00-12:00, Su-We off; PH off
 website: ""

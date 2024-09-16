@@ -1,11 +1,11 @@
 id: 163262869
-type: way
+type: node
 latitude: 41.92173
 longitude: -87.79932
 postcode: "60707"
 city: Chicago
-street: "North Newland Avenue"
-housenumber: 2320
-phone: "+1-773-649-5132"
+street: North Newland Avenue
+housenumber: "2320"
+phone: +1-773-649-5132
 opening_hours: ""
-website: "http://samedayflowerdeliverychicago.com/"
+website: http://samedayflowerdeliverychicago.com/

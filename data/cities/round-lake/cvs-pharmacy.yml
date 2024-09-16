@@ -1,11 +1,11 @@
 id: 798907996
-type: way
+type: node
 latitude: 42.36296
 longitude: -88.11279
 postcode: "60073"
 city: Round Lake
-street: "Long Lake Rd"
-housenumber: 1229
-phone: "+1-847-740-6795"
+street: Long Lake Rd
+housenumber: "1229"
+phone: +1-847-740-6795
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/round-lake-il-pharmacies/1229-w-il-route-134-round-lake-il-60073/storeid=7170"
+website: https://www.cvs.com/store-locator/round-lake-il-pharmacies/1229-w-il-route-134-round-lake-il-60073/storeid=7170

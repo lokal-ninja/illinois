@@ -4,8 +4,8 @@ latitude: 42.06345
 longitude: -87.93839
 postcode: "60056"
 city: Mount Prospect
-street: "West Prospect Avenue"
-housenumber: 101
+street: West Prospect Avenue
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
 website: ""

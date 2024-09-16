@@ -4,8 +4,8 @@ latitude: 41.95437
 longitude: -87.65356
 postcode: "60613"
 city: Chicago
-street: "West Irving Park Road"
-housenumber: 935
-phone: "+1-773-707-4030"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00"
-website: "https://www.spaavenue.net/"
+street: West Irving Park Road
+housenumber: "935"
+phone: +1-773-707-4030
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00
+website: https://www.spaavenue.net/

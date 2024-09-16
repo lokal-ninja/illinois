@@ -1,11 +1,11 @@
 id: 654362932
-type: way
+type: node
 latitude: 41.21927
 longitude: -89.92686
 postcode: "61443"
 city: Kewanee
-street: "Tenney Street"
-housenumber: 805
-phone: "+1 833-468-7017"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/kewanee/805-tenney-street"
+street: Tenney Street
+housenumber: "805"
+phone: +1 833-468-7017
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/kewanee/805-tenney-street

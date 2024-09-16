@@ -1,11 +1,11 @@
 id: 640352088
-type: way
+type: node
 latitude: 42.05941
 longitude: -88.05179
 postcode: "60173"
 city: Schaumburg
-street: "Wiley Road"
-housenumber: 1117
+street: Wiley Road
+housenumber: "1117"
 phone: ""
 opening_hours: ""
-website: "https://www.gonnella.com/"
+website: https://www.gonnella.com/

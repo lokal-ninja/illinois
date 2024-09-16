@@ -1,11 +1,11 @@
 id: 1210838361
-type: way
+type: node
 latitude: 41.93037
 longitude: -88.76879
 postcode: "60115"
 city: DeKalb
-street: "West Lincoln Highway"
-housenumber: 822
+street: West Lincoln Highway
+housenumber: "822"
 phone: ""
 opening_hours: ""
 website: ""

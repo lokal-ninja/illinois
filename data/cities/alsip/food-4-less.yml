@@ -1,11 +1,11 @@
 id: 584710370
-type: way
+type: node
 latitude: 41.67277
 longitude: -87.72178
 postcode: "60803"
 city: Alsip
-street: "South Pulaski Road"
-housenumber: 12150
+street: South Pulaski Road
+housenumber: "12150"
 phone: ""
 opening_hours: ""
 website: ""

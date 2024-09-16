@@ -1,11 +1,11 @@
 id: 1035422901
-type: way
+type: node
 latitude: 41.70614
 longitude: -88.20494
 postcode: "60564"
 city: Naperville
-street: "IL Route 59"
-housenumber: 3224
-phone: "+1-630-637-9699"
+street: IL Route 59
+housenumber: "3224"
+phone: +1-630-637-9699
 opening_hours: ""
 website: ""

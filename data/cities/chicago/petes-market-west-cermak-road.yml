@@ -1,11 +1,11 @@
 id: 165243326
-type: way
+type: node
 latitude: 41.85298
 longitude: -87.68991
 postcode: "60608"
 city: Chicago
-street: "West Cermak Road"
-housenumber: 2526
+street: West Cermak Road
+housenumber: "2526"
 phone: ""
 opening_hours: ""
-website: "https://www.petesfresh.com/stores/pfm-06-cermak-rockwell"
+website: https://www.petesfresh.com/stores/pfm-06-cermak-rockwell

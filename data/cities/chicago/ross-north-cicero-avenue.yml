@@ -4,8 +4,8 @@ latitude: 41.95285
 longitude: -87.74707
 postcode: "60641"
 city: Chicago
-street: "North Cicero Avenue"
-housenumber: 3927
-phone: "+1 773-685-6928"
-opening_hours: "Mo-Th 10:30-19:30; Fr-Sa 10:30-21:00; Su 10:30-19:30"
+street: North Cicero Avenue
+housenumber: "3927"
+phone: +1 773-685-6928
+opening_hours: Mo-Th 10:30-19:30; Fr-Sa 10:30-21:00; Su 10:30-19:30
 website: ""

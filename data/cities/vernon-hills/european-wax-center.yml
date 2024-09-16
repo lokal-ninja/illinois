@@ -1,11 +1,11 @@
 id: 687473908
-type: way
+type: node
 latitude: 42.24308
 longitude: -87.94271
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 901
+street: North Milwaukee Avenue
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html"
+website: https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html

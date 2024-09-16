@@ -4,8 +4,8 @@ latitude: 41.75181
 longitude: -88.20536
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 1120
-phone: "+1 630 548 1600"
-opening_hours: "Mo-Sa 10:00-19:00, Su 11:00-18:00"
-website: "https://www.pennymustard.com/naperville.inc"
+street: South Illinois Route 59
+housenumber: "1120"
+phone: +1 630 548 1600
+opening_hours: Mo-Sa 10:00-19:00, Su 11:00-18:00
+website: https://www.pennymustard.com/naperville.inc

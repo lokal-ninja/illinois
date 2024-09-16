@@ -1,11 +1,11 @@
 id: 315081829
-type: way
+type: node
 latitude: 41.65691
 longitude: -88.0022
 postcode: "60439"
 city: Lemont
-street: "127th Street"
-housenumber: 15667
-phone: "+1 630 2439384"
+street: 127th Street
+housenumber: "15667"
+phone: +1 630 2439384
 opening_hours: ""
-website: "https://www.jiffylube.com/"
+website: https://www.jiffylube.com/

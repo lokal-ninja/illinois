@@ -1,11 +1,11 @@
 id: 209570576
-type: way
+type: node
 latitude: 41.99788
 longitude: -87.70186
 postcode: "60659"
 city: Chicago
-street: "West Devon Avenue"
-housenumber: 2856
-phone: "+1-773-761-3174"
+street: West Devon Avenue
+housenumber: "2856"
+phone: +1-773-761-3174
 opening_hours: ""
-website: "https://levinsonsbakery.com/"
+website: https://levinsonsbakery.com/

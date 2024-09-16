@@ -1,11 +1,11 @@
 id: 163905388
-type: way
+type: node
 latitude: 41.95377
 longitude: -87.70763
 postcode: "60618"
 city: Chicago
-street: "West Irving Park Road"
-housenumber: 3153
+street: West Irving Park Road
+housenumber: "3153"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3153+w+irving+park+rd-chicago-il-60618/id=5057"
+website: https://www.walgreens.com/locator/walgreens-3153+w+irving+park+rd-chicago-il-60618/id=5057

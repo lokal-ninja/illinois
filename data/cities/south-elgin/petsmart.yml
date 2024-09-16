@@ -1,11 +1,11 @@
 id: 718631017
-type: way
+type: node
 latitude: 41.98402
 longitude: -88.34362
 postcode: "60177"
 city: South Elgin
-street: "Randall Road"
-housenumber: 428
-phone: "+1 847-488-1732"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/south-elgin-store1371.html"
+street: Randall Road
+housenumber: "428"
+phone: +1 847-488-1732
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/south-elgin-store1371.html

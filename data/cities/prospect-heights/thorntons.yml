@@ -1,11 +1,11 @@
 id: 825335839
-type: way
+type: node
 latitude: 42.10313
 longitude: -87.96747
 postcode: "60070"
 city: Prospect Heights
-street: "North Rand Road"
-housenumber: 1600
-phone: "+1 847 253 5407"
+street: North Rand Road
+housenumber: "1600"
+phone: +1 847 253 5407
 opening_hours: ""
 website: ""

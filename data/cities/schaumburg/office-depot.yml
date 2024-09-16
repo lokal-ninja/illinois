@@ -4,8 +4,8 @@ latitude: 42.0505
 longitude: -88.07798
 postcode: "60173"
 city: Schaumburg
-street: "East Golf Road"
-housenumber: 40
-phone: "+1 847-598-4850"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/il/schaumburg/office-depot-3360"
+street: East Golf Road
+housenumber: "40"
+phone: +1 847-598-4850
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/il/schaumburg/office-depot-3360

@@ -1,11 +1,11 @@
 id: 1054093900
-type: way
+type: node
 latitude: 40.48944
 longitude: -88.95454
 postcode: "61701"
 city: Bloomington
-street: "IAA Drive"
-housenumber: 504
+street: IAA Drive
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

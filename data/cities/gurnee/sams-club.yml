@@ -1,11 +1,11 @@
 id: 219542987
-type: way
+type: node
 latitude: 42.38638
 longitude: -87.96702
 postcode: "60031"
 city: Gurnee
-street: "Grand Avenue"
-housenumber: 6570
-phone: "+1 847-855-1130"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/gurnee-il-sams-club/8184"
+street: Grand Avenue
+housenumber: "6570"
+phone: +1 847-855-1130
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/gurnee-il-sams-club/8184

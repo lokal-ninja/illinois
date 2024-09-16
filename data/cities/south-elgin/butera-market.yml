@@ -1,11 +1,11 @@
 id: 824055557
-type: way
+type: node
 latitude: 41.99569
 longitude: -88.3142
 postcode: "60177"
 city: South Elgin
-street: "West Spring Street"
-housenumber: 1175
+street: West Spring Street
+housenumber: "1175"
 phone: ""
 opening_hours: ""
 website: ""

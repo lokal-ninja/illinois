@@ -1,11 +1,11 @@
 id: 162853695
-type: way
+type: node
 latitude: 41.77741
 longitude: -87.77414
 postcode: "60638"
 city: Chicago
-street: "West 63rd Street"
-housenumber: 6101
+street: West 63rd Street
+housenumber: "6101"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-chicago-il-10224881/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-chicago-il-10224881/

@@ -1,11 +1,11 @@
 id: 318474738
-type: way
+type: node
 latitude: 42.23678
 longitude: -87.93978
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 569
+street: North Milwaukee Avenue
+housenumber: "569"
 phone: ""
 opening_hours: ""
 website: ""

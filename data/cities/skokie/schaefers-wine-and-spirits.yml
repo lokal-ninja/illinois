@@ -1,11 +1,11 @@
 id: 400922283
-type: way
+type: node
 latitude: 42.06175
 longitude: -87.73066
 postcode: "60076"
 city: Skokie
-street: "Gross Point Road"
-housenumber: 9965
+street: Gross Point Road
+housenumber: "9965"
 phone: ""
 opening_hours: ""
-website: "https://schaefers.com/"
+website: https://schaefers.com/

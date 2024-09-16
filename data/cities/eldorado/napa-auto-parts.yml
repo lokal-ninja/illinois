@@ -1,11 +1,11 @@
 id: 518548446
-type: way
+type: node
 latitude: 37.81056
 longitude: -88.44099
 postcode: "62930"
 city: Eldorado
-street: "State Street"
-housenumber: 816
-phone: "+1 618 273 2195"
+street: State Street
+housenumber: "816"
+phone: +1 618 273 2195
 opening_hours: ""
 website: ""

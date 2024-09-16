@@ -1,11 +1,11 @@
 id: 188992148
-type: way
+type: node
 latitude: 38.53031
 longitude: -89.14845
-postcode: "62801-5308"
+postcode: 62801-5308
 city: Centralia
-street: "West Broadway"
-housenumber: 904
-phone: "+1 618-532-0062"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-17:00"
+street: West Broadway
+housenumber: "904"
+phone: +1 618-532-0062
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 163630471
-type: way
+type: node
 latitude: 42.08694
 longitude: -87.93141
 postcode: "60056"
 city: Mount Prospect
-street: "East Euclid Avenue"
-housenumber: 333
-phone: "+1 847-394-9390"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/mount-prospect/333-e-euclid-ave.html"
+street: East Euclid Avenue
+housenumber: "333"
+phone: +1 847-394-9390
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/mount-prospect/333-e-euclid-ave.html

@@ -1,11 +1,11 @@
 id: 603449873
-type: way
+type: node
 latitude: 42.04626
 longitude: -88.25773
 postcode: "60120"
 city: Elgin
-street: "Summit Street"
-housenumber: 865
+street: Summit Street
+housenumber: "865"
 phone: ""
 opening_hours: ""
 website: ""

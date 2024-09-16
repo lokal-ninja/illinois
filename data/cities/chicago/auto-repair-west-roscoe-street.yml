@@ -1,11 +1,11 @@
 id: 210328539
-type: way
+type: node
 latitude: 41.94391
 longitude: -87.65319
 postcode: "60657"
 city: Chicago
-street: "West Roscoe Street"
-housenumber: 930
+street: West Roscoe Street
+housenumber: "930"
 phone: ""
 opening_hours: ""
 website: ""

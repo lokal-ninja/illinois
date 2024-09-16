@@ -1,11 +1,11 @@
 id: 1290832959
-type: way
+type: node
 latitude: 41.12146
 longitude: -88.82731
 postcode: "61364"
 city: Streator
-street: "East Main Street"
-housenumber: 702
-phone: "+1-815-672-3227"
-opening_hours: "Mo-Fr 08:00-12:00; 13:00-17:00"
-website: "https://donahueautorepairinc.com/"
+street: East Main Street
+housenumber: "702"
+phone: +1-815-672-3227
+opening_hours: Mo-Fr 08:00-12:00; 13:00-17:00
+website: https://donahueautorepairinc.com/

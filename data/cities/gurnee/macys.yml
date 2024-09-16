@@ -1,11 +1,11 @@
 id: 1133927546
-type: way
+type: node
 latitude: 42.387
 longitude: -87.95701
 postcode: ""
 city: Gurnee
-street: "Grand Avenue"
-housenumber: 6124
+street: Grand Avenue
+housenumber: "6124"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/il/gurnee/gurnee-mills_290.html"
+website: https://www.macys.com/stores/il/gurnee/gurnee-mills_290.html

@@ -1,11 +1,11 @@
 id: 232267098
-type: way
+type: node
 latitude: 41.8275
 longitude: -87.81817
 postcode: "60546"
 city: Riverside
-street: "East Quincy Street"
-housenumber: 20
+street: East Quincy Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

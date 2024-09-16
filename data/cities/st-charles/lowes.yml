@@ -1,11 +1,11 @@
 id: 444827281
-type: way
+type: node
 latitude: 41.89932
 longitude: -88.34428
 postcode: "60174"
 city: St. Charles
-street: "South Randall Road"
-housenumber: 955
-phone: "+1 630-338-4000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/il-saint-charles/1738"
+street: South Randall Road
+housenumber: "955"
+phone: +1 630-338-4000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/il-saint-charles/1738

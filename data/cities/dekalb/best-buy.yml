@@ -1,11 +1,11 @@
 id: 328658723
-type: way
+type: node
 latitude: 41.94835
 longitude: -88.72332
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2074
-phone: "+1 815-758-0490"
-opening_hours: "Mo-Sa 10:00-20:00, Su 10:00-19:00"
-website: "https://stores.bestbuy.com/il/dekalb/2074-sycamore-rd-893.html?ref=NS&loc=ns100"
+street: Sycamore Road
+housenumber: "2074"
+phone: +1 815-758-0490
+opening_hours: Mo-Sa 10:00-20:00, Su 10:00-19:00
+website: https://stores.bestbuy.com/il/dekalb/2074-sycamore-rd-893.html?ref=NS&loc=ns100

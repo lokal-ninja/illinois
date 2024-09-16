@@ -1,11 +1,11 @@
 id: 1031118792
-type: way
+type: node
 latitude: 38.95475
 longitude: -90.18087
 postcode: "62035"
 city: Godfrey
-street: "Humbert Road"
-housenumber: 6015
+street: Humbert Road
+housenumber: "6015"
 phone: ""
 opening_hours: ""
 website: ""

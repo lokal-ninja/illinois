@@ -1,11 +1,11 @@
 id: 1135280830
-type: way
+type: node
 latitude: 41.62864
 longitude: -87.73841
 postcode: "60445"
 city: Midlothian
-street: "South Cicero Avenue"
-housenumber: 14500
+street: South Cicero Avenue
+housenumber: "14500"
 phone: ""
 opening_hours: ""
 website: ""

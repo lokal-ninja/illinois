@@ -1,11 +1,11 @@
 id: 1272610564
-type: way
+type: node
 latitude: 39.95445
 longitude: -90.20994
 postcode: "62691"
 city: Virginia
-street: "North Morgan Street"
-housenumber: 352
-phone: "217-452-3555"
+street: North Morgan Street
+housenumber: "352"
+phone: 217-452-3555
 opening_hours: ""
-website: "https://www.conoco.com/station/CON-FAST-FUEL-CONOCO-0000901265/?utm_source=G&utm_medium=local&utm_campaign=google-local&utm_source=G&utm_medium=local&utm_campaign=google-local"
+website: https://www.conoco.com/station/CON-FAST-FUEL-CONOCO-0000901265/?utm_source=G&utm_medium=local&utm_campaign=google-local&utm_source=G&utm_medium=local&utm_campaign=google-local

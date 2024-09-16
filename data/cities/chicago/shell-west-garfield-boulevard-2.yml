@@ -1,11 +1,11 @@
 id: 210162045
-type: way
+type: node
 latitude: 41.79349
 longitude: -87.64571
 postcode: "60621"
 city: Chicago
-street: "West Garfield Boulevard"
-housenumber: 801
+street: West Garfield Boulevard
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

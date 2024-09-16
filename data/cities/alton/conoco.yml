@@ -1,11 +1,11 @@
 id: 767816923
-type: way
+type: node
 latitude: 38.90655
 longitude: -90.17097
 postcode: "62002"
 city: Alton
-street: "College Avenue"
-housenumber: 911
-phone: "+1-618-462-1973"
+street: College Avenue
+housenumber: "911"
+phone: +1-618-462-1973
 opening_hours: ""
 website: ""

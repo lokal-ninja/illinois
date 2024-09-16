@@ -1,11 +1,11 @@
 id: 209939435
-type: way
+type: node
 latitude: 41.96898
 longitude: -87.66885
 postcode: "60640"
 city: Chicago
-street: "West Lawrence Avenue"
-housenumber: 1530
-phone: "+1 773-230-4996"
+street: West Lawrence Avenue
+housenumber: "1530"
+phone: +1 773-230-4996
 opening_hours: ""
 website: ""

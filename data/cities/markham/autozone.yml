@@ -1,11 +1,11 @@
 id: 1252603922
-type: way
+type: node
 latitude: 41.59848
 longitude: -87.69515
 postcode: "60428"
 city: Markham
-street: "Kedzie Avenue"
-housenumber: 16018
+street: Kedzie Avenue
+housenumber: "16018"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/markham/16018-kedzie-ave.html"
+website: https://www.autozone.com/locations/il/markham/16018-kedzie-ave.html

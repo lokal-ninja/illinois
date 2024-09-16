@@ -1,11 +1,11 @@
 id: 477178237
-type: way
+type: node
 latitude: 41.87957
 longitude: -87.78503
 postcode: "60302"
 city: Oak Park
-street: "Madison Street"
-housenumber: 401
+street: Madison Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

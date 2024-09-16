@@ -4,8 +4,8 @@ latitude: 41.9478
 longitude: -87.64741
 postcode: "60613"
 city: Chicago
-street: "North Broadway"
-housenumber: 3617
-phone: "+1-773-754-7877"
-opening_hours: "Mo 11:00-17:00; Tu-Sa 11:00-19:00; Su 12:00-17:00"
+street: North Broadway
+housenumber: "3617"
+phone: +1-773-754-7877
+opening_hours: Mo 11:00-17:00; Tu-Sa 11:00-19:00; Su 12:00-17:00
 website: ""

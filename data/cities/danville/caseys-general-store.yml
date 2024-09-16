@@ -1,11 +1,11 @@
 id: 405725860
-type: way
+type: node
 latitude: 40.13243
 longitude: -87.58952
 postcode: "61832"
 city: Danville
-street: "East Main Street"
-housenumber: 
+street: East Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

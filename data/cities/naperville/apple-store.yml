@@ -1,11 +1,11 @@
 id: 1303789078
-type: way
+type: node
 latitude: 41.77291
 longitude: -88.15031
 postcode: "60540"
 city: Naperville
-street: "West Jefferson Avenue"
-housenumber: 120
-phone: "+1 630 536 5400"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.apple.com/retail/mainplace/"
+street: West Jefferson Avenue
+housenumber: "120"
+phone: +1 630 536 5400
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.apple.com/retail/mainplace/

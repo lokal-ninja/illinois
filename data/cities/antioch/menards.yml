@@ -1,11 +1,11 @@
 id: 334855249
-type: way
+type: node
 latitude: 42.46806
 longitude: -88.06763
 postcode: "60002"
 city: Antioch
-street: "East Il Route 173"
-housenumber: 369
+street: East Il Route 173
+housenumber: "369"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3211"
+website: https://www.menards.com/store-details/store.html?store=3211

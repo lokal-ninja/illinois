@@ -1,11 +1,11 @@
 id: 162508511
-type: way
+type: node
 latitude: 41.79427
 longitude: -87.77071
 postcode: "60638"
 city: Chicago
-street: "South Archer Avenue"
-housenumber: 6107
-phone: "+1 773-735-0043"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/chicago/6107-s-archer-ave.html"
+street: South Archer Avenue
+housenumber: "6107"
+phone: +1 773-735-0043
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/chicago/6107-s-archer-ave.html

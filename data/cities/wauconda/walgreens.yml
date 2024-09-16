@@ -1,11 +1,11 @@
 id: 971071999
-type: way
+type: node
 latitude: 42.258
 longitude: -88.15518
 postcode: "60084"
 city: Wauconda
-street: "West Liberty Street"
-housenumber: 602
-phone: "+1-847-487-9383"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-602+w+liberty+st-wauconda-il-60084/id=4277"
+street: West Liberty Street
+housenumber: "602"
+phone: +1-847-487-9383
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-602+w+liberty+st-wauconda-il-60084/id=4277

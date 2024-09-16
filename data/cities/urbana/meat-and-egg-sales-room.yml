@@ -4,8 +4,8 @@ latitude: 40.09917
 longitude: -88.22307
 postcode: "61801"
 city: Urbana
-street: "Maryland Drive"
-housenumber: 1503
-phone: "+1-217-333-3404"
-opening_hours: "Tu 13:00-17:30, Th 13:00-17:30, Fr 08:00-13:00"
-website: "https://ansc.illinois.edu/meat-lab-sales-room"
+street: Maryland Drive
+housenumber: "1503"
+phone: +1-217-333-3404
+opening_hours: Tu 13:00-17:30, Th 13:00-17:30, Fr 08:00-13:00
+website: https://ansc.illinois.edu/meat-lab-sales-room

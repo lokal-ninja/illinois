@@ -1,11 +1,11 @@
 id: 407794067
-type: way
+type: node
 latitude: 42.34658
 longitude: -88.28314
 postcode: "60050"
 city: McHenry
-street: "West Elm Street"
-housenumber: 4313
+street: West Elm Street
+housenumber: "4313"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/mchenry/4313-elm-st.html"
+website: https://www.autozone.com/locations/il/mchenry/4313-elm-st.html

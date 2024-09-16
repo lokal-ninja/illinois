@@ -1,11 +1,11 @@
 id: 1205526101
-type: way
+type: node
 latitude: 41.79758
 longitude: -88.36181
 postcode: "60542"
 city: North Aurora
-street: "Orchard Gateway Boulevard"
-housenumber: 1630
-phone: "+1 630-907-0329"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+street: Orchard Gateway Boulevard
+housenumber: "1630"
+phone: +1 630-907-0329
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

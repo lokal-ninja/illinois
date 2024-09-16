@@ -1,11 +1,11 @@
 id: 602717659
-type: way
+type: node
 latitude: 42.0309
 longitude: -88.27568
 postcode: "60120"
 city: Elgin
-street: "East National Street"
-housenumber: 215
+street: East National Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

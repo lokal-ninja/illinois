@@ -1,11 +1,11 @@
 id: 342095880
-type: way
+type: node
 latitude: 42.16705
 longitude: -87.84826
 postcode: "60015"
 city: Deerfield
-street: "Waukegan Road"
-housenumber: 780
-phone: "+1 847-945-0611"
-opening_hours: "24/7"
+street: Waukegan Road
+housenumber: "780"
+phone: +1 847-945-0611
+opening_hours: 24/7
 website: ""

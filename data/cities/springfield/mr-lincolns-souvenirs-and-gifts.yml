@@ -4,8 +4,8 @@ latitude: 39.7959
 longitude: -89.6469
 postcode: "62703"
 city: Springfield
-street: "South 7th Street"
-housenumber: 603
-phone: "+1-217-525-2060"
-opening_hours: "Mo-Su 10:00-17:00"
+street: South 7th Street
+housenumber: "603"
+phone: +1-217-525-2060
+opening_hours: Mo-Su 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 235912295
-type: way
+type: node
 latitude: 41.72189
 longitude: -87.72493
 postcode: "60453"
 city: Oak Lawn
-street: "West 95th Street"
-housenumber: 4060
-phone: "+1 708-423-3126"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Oak-Lawn/IL/Oak-Lawn/60453/1955"
+street: West 95th Street
+housenumber: "4060"
+phone: +1 708-423-3126
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Oak-Lawn/IL/Oak-Lawn/60453/1955

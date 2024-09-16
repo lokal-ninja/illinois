@@ -4,8 +4,8 @@ latitude: 40.11212
 longitude: -88.23895
 postcode: ""
 city: Champaign
-street: "South First Street"
-housenumber: 503
+street: South First Street
+housenumber: "503"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00;Sa 10:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00;Sa 10:00-17:00
 website: ""

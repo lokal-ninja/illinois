@@ -1,11 +1,11 @@
 id: 247558302
-type: way
+type: node
 latitude: 40.70954
 longitude: -89.46118
 postcode: "61571"
 city: Washington
-street: "Freedom Parkway"
-housenumber: 1975
+street: Freedom Parkway
+housenumber: "1975"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3237"
+website: https://www.menards.com/store-details/store.html?store=3237

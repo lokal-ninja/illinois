@@ -1,11 +1,11 @@
 id: 1016755787
-type: way
+type: node
 latitude: 41.94502
 longitude: -88.73267
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 1718
-phone: "+1 815-756-4320"
-opening_hours: "Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/dekalb/il/703009"
+street: Sycamore Road
+housenumber: "1718"
+phone: +1 815-756-4320
+opening_hours: Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/dekalb/il/703009

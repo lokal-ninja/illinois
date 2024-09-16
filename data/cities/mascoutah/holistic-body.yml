@@ -1,11 +1,11 @@
 id: 741100796
-type: way
+type: node
 latitude: 38.49036
 longitude: -89.79953
 postcode: "62258"
 city: Mascoutah
-street: "West Main Street"
-housenumber: 47
+street: West Main Street
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

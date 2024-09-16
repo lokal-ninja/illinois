@@ -1,11 +1,11 @@
 id: 1305827994
-type: way
+type: node
 latitude: 41.60133
 longitude: -87.66882
 postcode: "60428"
 city: Markham
-street: "Dixie Highway"
-housenumber: 15862
+street: Dixie Highway
+housenumber: "15862"
 phone: ""
 opening_hours: ""
 website: ""

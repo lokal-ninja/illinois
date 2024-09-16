@@ -1,11 +1,11 @@
 id: 219384424
-type: way
+type: node
 latitude: 41.70494
 longitude: -87.65628
 postcode: "60643"
 city: Chicago
-street: "West 105th Street"
-housenumber: 1344
+street: West 105th Street
+housenumber: "1344"
 phone: ""
 opening_hours: ""
-website: "https://www.metrostorage.com/locations/il/chicago/metro-self-storage-chicago-w-105th/"
+website: https://www.metrostorage.com/locations/il/chicago/metro-self-storage-chicago-w-105th/

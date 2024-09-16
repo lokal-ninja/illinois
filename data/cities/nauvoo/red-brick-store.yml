@@ -1,11 +1,11 @@
 id: 240578321
-type: way
+type: node
 latitude: 40.54077
 longitude: -91.39324
 postcode: "62354"
 city: Nauvoo
-street: "Water Street"
-housenumber: 610
+street: Water Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "http://www.redbrickstore.com/"
+website: http://www.redbrickstore.com/

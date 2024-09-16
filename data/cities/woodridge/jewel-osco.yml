@@ -1,11 +1,11 @@
 id: 117989897
-type: way
+type: node
 latitude: 41.74898
 longitude: -88.03856
 postcode: "60517"
 city: Woodridge
-street: "75th Street"
-housenumber: 2317
-phone: "+1 630-985-9380"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/woodridge/2317-75th-st.html"
+street: 75th Street
+housenumber: "2317"
+phone: +1 630-985-9380
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/woodridge/2317-75th-st.html

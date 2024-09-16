@@ -1,11 +1,11 @@
 id: 1092220596
-type: way
+type: node
 latitude: 37.84041
 longitude: -88.60923
 postcode: "62935"
 city: Galatia
-street: "East Main Street"
-housenumber: 202
-phone: "+1-618-294-2638"
+street: East Main Street
+housenumber: "202"
+phone: +1-618-294-2638
 opening_hours: ""
 website: ""

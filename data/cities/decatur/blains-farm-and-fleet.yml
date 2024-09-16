@@ -1,11 +1,11 @@
 id: 664445371
-type: way
+type: node
 latitude: 39.82265
 longitude: -88.97446
 postcode: "62521"
 city: Decatur
-street: "West South Side Drive"
-housenumber: 1191
-phone: "+1-217-423-3720"
+street: West South Side Drive
+housenumber: "1191"
+phone: +1-217-423-3720
 opening_hours: ""
-website: "https://www.farmandfleet.com/stores/il/decatur/"
+website: https://www.farmandfleet.com/stores/il/decatur/

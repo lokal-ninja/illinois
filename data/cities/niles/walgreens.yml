@@ -1,11 +1,11 @@
 id: 189261732
-type: way
+type: node
 latitude: 42.0268
 longitude: -87.8136
 postcode: "60714"
 city: Niles
-street: "North Milwaukee Avenue"
-housenumber: 8001
+street: North Milwaukee Avenue
+housenumber: "8001"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8001+n+milwaukee+ave-niles-il-60714/id=5542"
+website: https://www.walgreens.com/locator/walgreens-8001+n+milwaukee+ave-niles-il-60714/id=5542

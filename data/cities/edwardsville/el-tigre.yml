@@ -1,11 +1,11 @@
 id: 752694880
-type: way
+type: node
 latitude: 38.81135
 longitude: -89.95514
 postcode: "62025"
 city: Edwardsville
-street: "East Vandalia Street"
-housenumber: 108
-phone: "+1-618-307-5954"
-opening_hours: "Mo-Su 11:00-21:00"
-website: "https://eltigreillinois.com/"
+street: East Vandalia Street
+housenumber: "108"
+phone: +1-618-307-5954
+opening_hours: Mo-Su 11:00-21:00
+website: https://eltigreillinois.com/

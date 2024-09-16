@@ -1,11 +1,11 @@
 id: 209453782
-type: way
+type: node
 latitude: 41.93027
 longitude: -87.68454
 postcode: "60647"
 city: Chicago
-street: "West Logan Boulevard"
+street: West Logan Boulevard
 housenumber: 2257-2291
-phone: "+1 773-342-1300"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/chicago-store0428.html"
+phone: +1 773-342-1300
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/chicago-store0428.html

@@ -4,8 +4,8 @@ latitude: 41.70692
 longitude: -88.3008
 postcode: "60543"
 city: Oswego
-street: "5th Street"
-housenumber: 305
-phone: "+1 630-554-1272"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/store-locator/store/?storeID=1640"
+street: 5th Street
+housenumber: "305"
+phone: +1 630-554-1272
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/store-locator/store/?storeID=1640

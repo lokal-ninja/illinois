@@ -1,11 +1,11 @@
 id: 296969648
-type: way
+type: node
 latitude: 41.76216
 longitude: -88.19659
 postcode: "60540"
 city: Naperville
-street: "Fort Hill Drive"
-housenumber: 715
-phone: "+1 630-778-6710"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.menards.com/main/storeDetails.html?store=3505"
+street: Fort Hill Drive
+housenumber: "715"
+phone: +1 630-778-6710
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.menards.com/main/storeDetails.html?store=3505

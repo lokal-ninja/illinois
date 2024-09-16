@@ -1,11 +1,11 @@
 id: 544659140
-type: way
+type: node
 latitude: 42.24204
 longitude: -88.004
 postcode: "60060"
 city: Mundelein
-street: "Diamond Lake Road"
-housenumber: 1711
+street: Diamond Lake Road
+housenumber: "1711"
 phone: ""
 opening_hours: ""
 website: ""

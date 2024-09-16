@@ -1,11 +1,11 @@
 id: 1295833384
-type: way
+type: node
 latitude: 41.60047
 longitude: -87.68918
 postcode: "60428"
 city: Markham
-street: "West 159th Street"
-housenumber: 2935
+street: West 159th Street
+housenumber: "2935"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/markham/8401/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/markham/8401/

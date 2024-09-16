@@ -1,11 +1,11 @@
 id: 690933053
-type: way
+type: node
 latitude: 41.70265
 longitude: -87.5395
 postcode: "60617"
 city: Chicago
-street: "East 106th Street"
-housenumber: 3435
-phone: "+1-773-221-8676"
+street: East 106th Street
+housenumber: "3435"
+phone: +1-773-221-8676
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/3435-e-106th-st.html"
+website: https://www.autozone.com/locations/il/chicago/3435-e-106th-st.html

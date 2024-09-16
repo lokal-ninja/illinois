@@ -1,11 +1,11 @@
 id: 686968028
-type: way
+type: node
 latitude: 42.25878
 longitude: -87.95059
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 1800
-phone: "+1 855-464-7061"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/vernon-hills/1800-n-milwaukee-avenue"
+street: North Milwaukee Avenue
+housenumber: "1800"
+phone: +1 855-464-7061
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/vernon-hills/1800-n-milwaukee-avenue

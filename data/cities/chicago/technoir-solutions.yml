@@ -4,8 +4,8 @@ latitude: 41.87962
 longitude: -87.63657
 postcode: "60606"
 city: Chicago
-street: "West Adams Street"
-housenumber: 318
-phone: "+1-312-761-9800"
-opening_hours: "Mo-Fr 08:00-16:00"
+street: West Adams Street
+housenumber: "318"
+phone: +1-312-761-9800
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

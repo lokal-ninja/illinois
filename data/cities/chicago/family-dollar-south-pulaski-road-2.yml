@@ -1,11 +1,11 @@
 id: 163572123
-type: way
+type: node
 latitude: 41.77385
 longitude: -87.72302
 postcode: "60629"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 6540
+street: South Pulaski Road
+housenumber: "6540"
 phone: ""
 opening_hours: ""
-website: "https://locations.familydollar.com/il/chicago/30874/"
+website: https://locations.familydollar.com/il/chicago/30874/

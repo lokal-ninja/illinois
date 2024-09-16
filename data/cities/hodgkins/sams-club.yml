@@ -1,11 +1,11 @@
 id: 673161066
-type: way
+type: node
 latitude: 41.7776
 longitude: -87.86451
 postcode: "60525"
 city: Hodgkins
-street: "Joliet Road"
-housenumber: 9500
-phone: "+1 708-387-7030"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/hodgkins-il-sams-club/6384"
+street: Joliet Road
+housenumber: "9500"
+phone: +1 708-387-7030
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/hodgkins-il-sams-club/6384

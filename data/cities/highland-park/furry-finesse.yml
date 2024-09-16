@@ -1,11 +1,11 @@
 id: 1116334816
-type: way
+type: node
 latitude: 42.16574
 longitude: -87.78709
 postcode: "60035"
 city: Highland Park
-street: "Broadview Avenue"
-housenumber: 737
+street: Broadview Avenue
+housenumber: "737"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 408999620
-type: way
+type: node
 latitude: 41.932
 longitude: -87.80674
 postcode: "60707"
 city: Elmwood Park
-street: "North Harlem Avenue"
-housenumber: 2828
+street: North Harlem Avenue
+housenumber: "2828"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2828+n+harlem+ave-elmwood+park-il-60707/id=3833"
+website: https://www.walgreens.com/locator/walgreens-2828+n+harlem+ave-elmwood+park-il-60707/id=3833

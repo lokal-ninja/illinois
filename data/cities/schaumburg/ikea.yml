@@ -1,11 +1,11 @@
 id: 32684803
-type: way
+type: node
 latitude: 42.05645
 longitude: -88.03715
 postcode: "60173"
 city: Schaumburg
-street: "East McConnor Parkway"
-housenumber: 1800
+street: East McConnor Parkway
+housenumber: "1800"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
 website: ""

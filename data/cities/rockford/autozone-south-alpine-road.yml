@@ -1,11 +1,11 @@
 id: 1135277393
-type: way
+type: node
 latitude: 42.26277
 longitude: -89.02987
 postcode: "61108"
 city: Rockford
-street: "South Alpine Road"
-housenumber: 
+street: South Alpine Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/rockford/201-s-alpine-rd.html"
+website: https://www.autozone.com/locations/il/rockford/201-s-alpine-rd.html

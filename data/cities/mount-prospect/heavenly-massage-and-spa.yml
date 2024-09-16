@@ -1,11 +1,11 @@
 id: 1221219768
-type: way
+type: node
 latitude: 42.0797
 longitude: -87.93402
 postcode: "60056"
 city: Mount Prospect
-street: "East Rand Road"
-housenumber: 110
+street: East Rand Road
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 163251329
-type: way
+type: node
 latitude: 41.79221
 longitude: -87.79455
 postcode: "60638"
 city: Chicago
-street: "West Archer Avenue"
-housenumber: 6908
-phone: "+1 773-586-1209"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00; Su 08:30-14:30"
-website: "https://www.acehardware.com/store-details/10055"
+street: West Archer Avenue
+housenumber: "6908"
+phone: +1 773-586-1209
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00; Su 08:30-14:30
+website: https://www.acehardware.com/store-details/10055

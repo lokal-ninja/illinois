@@ -1,11 +1,11 @@
 id: 254649076
-type: way
+type: node
 latitude: 42.00678
 longitude: -87.88792
 postcode: "60018"
 city: Rosemont
-street: "Lunt Street"
-housenumber: 10420
+street: Lunt Street
+housenumber: "10420"
 phone: ""
 opening_hours: ""
 website: ""

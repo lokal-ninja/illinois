@@ -1,11 +1,11 @@
 id: 604102942
-type: way
+type: node
 latitude: 41.57011
 longitude: -87.63441
 postcode: "60430"
 city: Homewood
-street: "Halsted Street"
-housenumber: 17545
+street: Halsted Street
+housenumber: "17545"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/main/storeDetails.html?store"
+website: https://www.menards.com/main/storeDetails.html?store

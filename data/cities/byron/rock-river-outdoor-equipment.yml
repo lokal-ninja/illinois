@@ -1,11 +1,11 @@
 id: 1211553297
-type: way
+type: node
 latitude: 42.12589
 longitude: -89.25496
 postcode: "61010"
 city: Byron
-street: "East Blackhawk Drive"
-housenumber: 121
+street: East Blackhawk Drive
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://www.rockriveroutdoorequipment.com/"
+website: https://www.rockriveroutdoorequipment.com/

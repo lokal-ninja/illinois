@@ -1,11 +1,11 @@
 id: 220411032
-type: way
+type: node
 latitude: 42.04185
 longitude: -87.70364
 postcode: "60201"
 city: Evanston
-street: "Greenwood Street"
-housenumber: 2120
+street: Greenwood Street
+housenumber: "2120"
 phone: ""
 opening_hours: ""
 website: ""

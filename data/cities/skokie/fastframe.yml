@@ -1,11 +1,11 @@
 id: 686718332
-type: way
+type: node
 latitude: 42.01082
 longitude: -87.76659
 postcode: "60077"
 city: Skokie
-street: "West Touhy Avenue"
-housenumber: 5517
+street: West Touhy Avenue
+housenumber: "5517"
 phone: ""
 opening_hours: ""
 website: ""

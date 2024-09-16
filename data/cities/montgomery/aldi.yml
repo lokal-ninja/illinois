@@ -1,11 +1,11 @@
 id: 657370099
-type: way
+type: node
 latitude: 41.71915
 longitude: -88.37828
 postcode: "60538"
 city: Montgomery
-street: "Mayfield Drive"
-housenumber: 2050
-phone: "+1 833-440-1019"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/montgomery/2050-mayfield-dr"
+street: Mayfield Drive
+housenumber: "2050"
+phone: +1 833-440-1019
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/montgomery/2050-mayfield-dr

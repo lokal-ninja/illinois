@@ -4,8 +4,8 @@ latitude: 42.11549
 longitude: -87.98241
 postcode: "60004"
 city: Arlington Heights
-street: "West Rand Road"
-housenumber: 30
-phone: "+1 847-577-7878"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00"
-website: "https://stores.burlington.com/il/arlington-heights/19"
+street: West Rand Road
+housenumber: "30"
+phone: +1 847-577-7878
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00
+website: https://stores.burlington.com/il/arlington-heights/19

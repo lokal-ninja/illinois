@@ -1,11 +1,11 @@
 id: 1102263882
-type: way
+type: node
 latitude: 41.77929
 longitude: -88.18622
 postcode: "60563"
 city: Naperville
-street: "North Aurora Road"
-housenumber: 1552
+street: North Aurora Road
+housenumber: "1552"
 phone: ""
 opening_hours: ""
 website: ""

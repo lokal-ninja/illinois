@@ -1,11 +1,11 @@
 id: 1303789072
-type: way
+type: node
 latitude: 41.77309
 longitude: -88.15016
 postcode: "60540"
 city: Naperville
-street: "West Jefferson Avenue"
-housenumber: 115
+street: West Jefferson Avenue
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 203711960
-type: way
+type: node
 latitude: 42.02515
 longitude: -87.79011
 postcode: "60053"
 city: Morton Grove
-street: "Oakton Street"
-housenumber: 6505
+street: Oakton Street
+housenumber: "6505"
 phone: ""
 opening_hours: ""
 website: ""

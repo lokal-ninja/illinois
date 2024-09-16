@@ -4,8 +4,8 @@ latitude: 41.94926
 longitude: -87.64939
 postcode: "60613"
 city: Chicago
-street: "North Halsted Street"
-housenumber: 3701
-phone: "+1-773-661-9240"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-17:00"
-website: "https://themobilegeneration.com/locations/chicago-wrigleyville/"
+street: North Halsted Street
+housenumber: "3701"
+phone: +1-773-661-9240
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-17:00
+website: https://themobilegeneration.com/locations/chicago-wrigleyville/

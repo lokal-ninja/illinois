@@ -1,11 +1,11 @@
 id: 1197763521
-type: way
+type: node
 latitude: 41.76364
 longitude: -88.36773
 postcode: "60506"
 city: Aurora
-street: "West Galena Boulevard"
-housenumber: 2112
-phone: "+1 630-897-2322"
-opening_hours: "Mo-Fr 09:00-05:00"
-website: "https://www.kirhoferssports.com/contact/"
+street: West Galena Boulevard
+housenumber: "2112"
+phone: +1 630-897-2322
+opening_hours: Mo-Fr 09:00-05:00
+website: https://www.kirhoferssports.com/contact/

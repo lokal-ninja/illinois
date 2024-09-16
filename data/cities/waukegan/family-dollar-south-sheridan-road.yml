@@ -1,11 +1,11 @@
 id: 1272664114
-type: way
+type: node
 latitude: 42.3491
 longitude: -87.83163
 postcode: "60085"
 city: Waukegan
-street: "South Sheridan Road"
-housenumber: 610
+street: South Sheridan Road
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

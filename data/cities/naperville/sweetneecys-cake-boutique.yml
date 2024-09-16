@@ -1,11 +1,11 @@
 id: 1028828060
-type: way
+type: node
 latitude: 41.70415
 longitude: -88.20478
 postcode: "60564"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 3344
-phone: "+1 331 401 5807"
+street: South Illinois Route 59
+housenumber: "3344"
+phone: +1 331 401 5807
 opening_hours: ""
-website: "https://www.sweetneecys.com/"
+website: https://www.sweetneecys.com/

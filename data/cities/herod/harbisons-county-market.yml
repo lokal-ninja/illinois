@@ -1,11 +1,11 @@
 id: 1134673133
-type: way
+type: node
 latitude: 37.56446
 longitude: -88.40953
 postcode: "62947"
 city: Herod
-street: "IL 34"
-housenumber: 
-phone: "+1-618-264-2091"
-opening_hours: "Mo-Su 05:30-20:00"
+street: IL 34
+housenumber: ""
+phone: +1-618-264-2091
+opening_hours: Mo-Su 05:30-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 568830080
-type: way
+type: node
 latitude: 38.81183
 longitude: -89.95607
 postcode: "62025"
 city: Edwardsville
-street: "North Main Street"
-housenumber: 118
+street: North Main Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

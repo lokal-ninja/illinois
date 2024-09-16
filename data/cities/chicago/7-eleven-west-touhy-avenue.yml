@@ -1,11 +1,11 @@
 id: 209590983
-type: way
+type: node
 latitude: 42.01166
 longitude: -87.69936
 postcode: "60645"
 city: Chicago
-street: "West Touhy Avenue"
-housenumber: 2741
-phone: "+1 773-338-2646"
+street: West Touhy Avenue
+housenumber: "2741"
+phone: +1 773-338-2646
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/2741-touhy-27100"
+website: https://www.7-eleven.com/locations/il/chicago/2741-touhy-27100

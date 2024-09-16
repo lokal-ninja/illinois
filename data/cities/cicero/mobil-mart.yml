@@ -1,11 +1,11 @@
 id: 560541964
-type: way
+type: node
 latitude: 41.86385
 longitude: -87.74525
 postcode: "60804"
 city: Cicero
-street: "South Cicero Avenue"
-housenumber: 1306
+street: South Cicero Avenue
+housenumber: "1306"
 phone: ""
 opening_hours: ""
 website: ""

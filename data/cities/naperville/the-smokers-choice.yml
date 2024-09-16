@@ -1,11 +1,11 @@
 id: 1073354553
-type: way
+type: node
 latitude: 41.78753
 longitude: -88.13544
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 803
-phone: "+1 630 857 3273"
+street: East Ogden Avenue
+housenumber: "803"
+phone: +1 630 857 3273
 opening_hours: ""
-website: "https://www.thesmokerschoice.com/"
+website: https://www.thesmokerschoice.com/

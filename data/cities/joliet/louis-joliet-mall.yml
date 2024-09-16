@@ -1,11 +1,11 @@
 id: 41411470
-type: way
+type: node
 latitude: 41.57754
 longitude: -88.1675
 postcode: "60431"
 city: Joliet
-street: "Mall Loop Drive"
-housenumber: 3340
+street: Mall Loop Drive
+housenumber: "3340"
 phone: ""
 opening_hours: ""
-website: "https://www.shoppinglouisjolietmall.com/"
+website: https://www.shoppinglouisjolietmall.com/

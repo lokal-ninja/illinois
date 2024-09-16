@@ -1,11 +1,11 @@
 id: 498568856
-type: way
+type: node
 latitude: 41.81318
 longitude: -89.65353
 postcode: "61081"
 city: Sterling
-street: "East Lincolnway"
-housenumber: 3614
-phone: "+1 815-626-5631"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-16:00"
-website: "https://stores.ashleyfurniture.com/store/us/illinois/sterling/7710000160/"
+street: East Lincolnway
+housenumber: "3614"
+phone: +1 815-626-5631
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-16:00
+website: https://stores.ashleyfurniture.com/store/us/illinois/sterling/7710000160/

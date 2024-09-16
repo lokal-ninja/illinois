@@ -1,11 +1,11 @@
 id: 624650729
-type: way
+type: node
 latitude: 41.84048
 longitude: -87.80313
 postcode: "60402"
 city: Berwyn
-street: "South Harlem Avenue"
-housenumber: 2801
+street: South Harlem Avenue
+housenumber: "2801"
 phone: ""
 opening_hours: ""
 website: ""

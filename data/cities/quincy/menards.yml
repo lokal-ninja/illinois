@@ -1,11 +1,11 @@
 id: 188241537
-type: way
+type: node
 latitude: 39.9417
 longitude: -91.32688
 postcode: "62305"
 city: Quincy
-street: "North 54th Street"
-housenumber: 936
+street: North 54th Street
+housenumber: "936"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3262"
+website: https://www.menards.com/store-details/store.html?store=3262

@@ -1,11 +1,11 @@
 id: 1031134325
-type: way
+type: node
 latitude: 38.92424
 longitude: -90.20104
 postcode: "62035"
 city: Godfrey
-street: "West Delmar Avenue"
-housenumber: 1020
+street: West Delmar Avenue
+housenumber: "1020"
 phone: ""
 opening_hours: ""
-website: "https://www.strangelovely.com/"
+website: https://www.strangelovely.com/

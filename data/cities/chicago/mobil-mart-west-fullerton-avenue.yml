@@ -1,11 +1,11 @@
 id: 162391347
-type: way
+type: node
 latitude: 41.92391
 longitude: -87.73699
 postcode: "60639"
 city: Chicago
-street: "West Fullerton Avenue"
-housenumber: 4413
+street: West Fullerton Avenue
+housenumber: "4413"
 phone: ""
 opening_hours: ""
 website: ""

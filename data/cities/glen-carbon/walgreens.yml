@@ -1,11 +1,11 @@
 id: 544925073
-type: way
+type: node
 latitude: 38.77389
 longitude: -89.95629
 postcode: "63034"
 city: Glen Carbon
-street: "Cottonwood Road"
-housenumber: 2
+street: Cottonwood Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2+cottonwood+rd-glen+carbon-il-62034/id=5665"
+website: https://www.walgreens.com/locator/walgreens-2+cottonwood+rd-glen+carbon-il-62034/id=5665

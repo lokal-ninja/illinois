@@ -1,11 +1,11 @@
 id: 210680309
-type: way
+type: node
 latitude: 41.89673
 longitude: -87.63468
 postcode: "60610"
 city: Chicago
-street: "North Wells Street"
-housenumber: 808
+street: North Wells Street
+housenumber: "808"
 phone: ""
 opening_hours: ""
 website: ""

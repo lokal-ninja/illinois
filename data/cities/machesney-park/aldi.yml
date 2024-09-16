@@ -1,11 +1,11 @@
 id: 244973014
-type: way
+type: node
 latitude: 42.36502
 longitude: -89.02374
 postcode: "61115"
 city: Machesney Park
-street: "West Lane Road"
-housenumber: 1545
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/machesney-park/1545-w-lane-road"
+street: West Lane Road
+housenumber: "1545"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/machesney-park/1545-w-lane-road

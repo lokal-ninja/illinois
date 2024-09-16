@@ -1,11 +1,11 @@
 id: 517809325
-type: way
+type: node
 latitude: 38.6623
 longitude: -90.02555
 postcode: "62234"
 city: Collinsville
-street: "Collinsville road"
-housenumber: 9525
-phone: "+1 618 344 0105"
-opening_hours: "07:00-21:00"
-website: "https://www.ruralking.com/collinsville-il"
+street: Collinsville road
+housenumber: "9525"
+phone: +1 618 344 0105
+opening_hours: 07:00-21:00
+website: https://www.ruralking.com/collinsville-il

@@ -1,11 +1,11 @@
 id: 209713550
-type: way
+type: node
 latitude: 41.82738
 longitude: -87.68281
 postcode: "60609"
 city: Chicago
-street: "South Archer Avenue"
-housenumber: 3644
-phone: "+1 773-523-6923"
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 07:00-22:00"
-website: "https://local.jewelosco.com/il/chicago/3644-s-archer-ave.html"
+street: South Archer Avenue
+housenumber: "3644"
+phone: +1 773-523-6923
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 07:00-22:00
+website: https://local.jewelosco.com/il/chicago/3644-s-archer-ave.html

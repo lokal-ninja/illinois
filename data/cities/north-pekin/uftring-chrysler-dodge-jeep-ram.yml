@@ -4,8 +4,9 @@ latitude: 40.62286
 longitude: -89.62157
 postcode: "61554"
 city: North Pekin
-street: "Radio City Drive"
-housenumber: 140
-phone: "+1-309-216-6070"
-opening_hours: "Mo 08:00-20:00; Tu 08:00-18:00; We 08:00-20:00; Th 08:00-18:00; Fr 08:00-20:00; Sa 08:00-17:00"
-website: "https://www.uftringchryslerdodgejeep.net/"
+street: Radio City Drive
+housenumber: "140"
+phone: +1-309-216-6070
+opening_hours: Mo 08:00-20:00; Tu 08:00-18:00; We 08:00-20:00; Th 08:00-18:00; Fr
+    08:00-20:00; Sa 08:00-17:00
+website: https://www.uftringchryslerdodgejeep.net/

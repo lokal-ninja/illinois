@@ -1,11 +1,11 @@
 id: 1312124015
-type: way
+type: node
 latitude: 41.77049
 longitude: -88.20494
 postcode: "60540"
 city: Naperville
-street: "West Jefferson Avenue"
-housenumber: 1995
+street: West Jefferson Avenue
+housenumber: "1995"
 phone: ""
 opening_hours: ""
-website: "https://www.phenixchicagoland.com/"
+website: https://www.phenixchicagoland.com/

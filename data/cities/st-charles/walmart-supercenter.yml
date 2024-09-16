@@ -1,11 +1,11 @@
 id: 175353236
-type: way
+type: node
 latitude: 41.92308
 longitude: -88.26041
 postcode: "60174"
 city: St. Charles
-street: "Smith Road"
-housenumber: 150
-phone: "+1 630-513-9559"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1898/saint-charles-il/whats-new"
+street: Smith Road
+housenumber: "150"
+phone: +1 630-513-9559
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1898/saint-charles-il/whats-new

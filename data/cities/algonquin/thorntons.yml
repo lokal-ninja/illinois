@@ -1,11 +1,11 @@
 id: 666157470
-type: way
+type: node
 latitude: 42.15432
 longitude: -88.26485
 postcode: ""
 city: Algonquin
-street: "East Algonquin Road"
-housenumber: 2095
+street: East Algonquin Road
+housenumber: "2095"
 phone: ""
 opening_hours: ""
 website: ""

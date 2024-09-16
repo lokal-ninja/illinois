@@ -1,11 +1,11 @@
 id: 1197568996
-type: way
+type: node
 latitude: 41.5696
 longitude: -87.69516
 postcode: "60429"
 city: Hazel Crest
-street: "Kedzie Avenue"
-housenumber: 17600
+street: Kedzie Avenue
+housenumber: "17600"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/hazelcrest/autoparts-4409.html"
+website: https://locations.oreillyauto.com/il/hazelcrest/autoparts-4409.html

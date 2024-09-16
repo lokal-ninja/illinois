@@ -1,11 +1,11 @@
 id: 210391030
-type: way
+type: node
 latitude: 41.97409
 longitude: -87.65563
 postcode: "60640"
 city: Chicago
-street: "North Sheridan Road"
-housenumber: 5026
+street: North Sheridan Road
+housenumber: "5026"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 238913761
-type: way
+type: node
 latitude: 40.61039
 longitude: -89.46238
 postcode: "61550"
 city: Morton
-street: "South Main Street"
-housenumber: 109
-phone: "+1 309-266-6089"
+street: South Main Street
+housenumber: "109"
+phone: +1 309-266-6089
 opening_hours: ""
 website: ""

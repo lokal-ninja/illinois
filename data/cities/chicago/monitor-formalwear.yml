@@ -4,8 +4,8 @@ latitude: 41.96541
 longitude: -87.66643
 postcode: "60640"
 city: Chicago
-street: "West Wilson Avenue"
-housenumber: 1422
-phone: "+1-773-561-0573"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-18:00|| by appointment"
-website: "http://www.monitor-formalwear.com/"
+street: West Wilson Avenue
+housenumber: "1422"
+phone: +1-773-561-0573
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-18:00|| "by appointment"
+website: http://www.monitor-formalwear.com/

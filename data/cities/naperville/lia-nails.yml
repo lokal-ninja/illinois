@@ -1,11 +1,11 @@
 id: 984928197
-type: way
+type: node
 latitude: 41.77976
 longitude: -88.2047
 postcode: "60563"
 city: Naperville
-street: "North Illinois Route 59"
-housenumber: 504
-phone: "+1 331 702 2179"
+street: North Illinois Route 59
+housenumber: "504"
+phone: +1 331 702 2179
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1245336394
-type: way
+type: node
 latitude: 42.47088
 longitude: -88.09204
 postcode: "60003"
 city: Antioch
-street: "Illinois Route 173"
-housenumber: 283
+street: Illinois Route 173
+housenumber: "283"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-283+w+il+route+173-antioch-il-60002/id=15261"
+website: https://www.walgreens.com/locator/walgreens-283+w+il+route+173-antioch-il-60002/id=15261

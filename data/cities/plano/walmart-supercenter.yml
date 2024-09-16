@@ -1,11 +1,11 @@
 id: 673676126
-type: way
+type: node
 latitude: 41.65225
 longitude: -88.56392
 postcode: "60545"
 city: Plano
-street: "West Route 34"
-housenumber: 6800
-phone: "+1 630-552-1580"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1003/plano-il/whats-new"
+street: West Route 34
+housenumber: "6800"
+phone: +1 630-552-1580
+opening_hours: 24/7
+website: https://www.walmart.com/store/1003/plano-il/whats-new

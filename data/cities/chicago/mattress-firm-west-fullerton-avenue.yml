@@ -1,11 +1,11 @@
 id: 163047117
-type: way
+type: node
 latitude: 41.92326
 longitude: -87.78507
 postcode: "60639"
 city: Chicago
-street: "West Fullerton Avenue"
-housenumber: 6353
-phone: "+1 773-637-3490"
+street: West Fullerton Avenue
+housenumber: "6353"
+phone: +1 773-637-3490
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/il/chicago/119005/"
+website: https://www.mattressfirm.com/en-us/stores/il/chicago/119005/

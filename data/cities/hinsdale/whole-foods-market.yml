@@ -1,11 +1,11 @@
 id: 622476793
-type: way
+type: node
 latitude: 41.81752
 longitude: -87.91723
 postcode: "60521"
 city: Hinsdale
-street: "East Ogden Avenue"
-housenumber: 500
-phone: "+1 630-986-8500"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/hinsdale"
+street: East Ogden Avenue
+housenumber: "500"
+phone: +1 630-986-8500
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/hinsdale

@@ -1,11 +1,11 @@
 id: 548215529
-type: way
+type: node
 latitude: 41.75136
 longitude: -87.9747
 postcode: "60561"
 city: Darien
-street: "South Cass Avenue"
-housenumber: 7502
+street: South Cass Avenue
+housenumber: "7502"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Darien/7502-South-Cass-Avenue"
+website: https://www.speedway.com/locations/IL/Darien/7502-South-Cass-Avenue

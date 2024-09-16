@@ -1,11 +1,11 @@
 id: 1029177497
-type: way
+type: node
 latitude: 41.66144
 longitude: -87.71982
 postcode: "60803"
 city: Alsip
-street: "South Pulaski Road"
-housenumber: 12700
+street: South Pulaski Road
+housenumber: "12700"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Alsip/12700-South-Pulaski-Road"
+website: https://www.speedway.com/locations/IL/Alsip/12700-South-Pulaski-Road

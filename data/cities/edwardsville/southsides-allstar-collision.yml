@@ -1,11 +1,11 @@
 id: 922782088
-type: way
+type: node
 latitude: 38.79339
 longitude: -89.95186
 postcode: "62025"
 city: Edwardsville
-street: "Troy Road"
-housenumber: 1709
-phone: "+1-618-656-1991"
+street: Troy Road
+housenumber: "1709"
+phone: +1-618-656-1991
 opening_hours: ""
-website: "https://southsideallstarcc.com/appointment/index.html"
+website: https://southsideallstarcc.com/appointment/index.html

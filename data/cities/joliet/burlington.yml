@@ -1,11 +1,11 @@
 id: 44073905
-type: way
+type: node
 latitude: 41.54732
 longitude: -88.12523
-postcode: "60435-3765"
+postcode: 60435-3765
 city: Joliet
-street: "North Larkin Avenue"
-housenumber: 1300
-phone: "+1 815-741-4912"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00"
-website: "https://stores.burlington.com/il/joliet/541"
+street: North Larkin Avenue
+housenumber: "1300"
+phone: +1 815-741-4912
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00
+website: https://stores.burlington.com/il/joliet/541

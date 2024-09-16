@@ -1,11 +1,11 @@
 id: 553888239
-type: way
+type: node
 latitude: 38.92106
 longitude: -90.16605
 postcode: "62002"
 city: Alton
-street: "Homer M Adams Parkway"
-housenumber: 1710
-phone: "+1 618-465-5803"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/alton-il/il/alton/62002/6920"
+street: Homer M Adams Parkway
+housenumber: "1710"
+phone: +1 618-465-5803
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/alton-il/il/alton/62002/6920

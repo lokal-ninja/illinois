@@ -1,11 +1,11 @@
 id: 162452620
-type: way
+type: node
 latitude: 41.9552
 longitude: -87.74552
 postcode: "60641"
 city: Chicago
-street: "West Irving Park Road"
-housenumber: 4660
-phone: "+1 773-202-0211"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/chicago/4660-w-irving-park-rd.html"
+street: West Irving Park Road
+housenumber: "4660"
+phone: +1 773-202-0211
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/chicago/4660-w-irving-park-rd.html

@@ -1,11 +1,11 @@
 id: 360970658
-type: way
+type: node
 latitude: 42.46421
 longitude: -87.86613
 postcode: "60099"
 city: Zion
-street: "Kenosha Road"
-housenumber: 1701
+street: Kenosha Road
+housenumber: "1701"
 phone: ""
 opening_hours: ""
 website: ""

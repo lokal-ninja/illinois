@@ -4,8 +4,8 @@ latitude: 41.8854
 longitude: -87.61897
 postcode: "60601"
 city: Chicago
-street: "East Benton Place"
-housenumber: 333
+street: East Benton Place
+housenumber: "333"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

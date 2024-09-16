@@ -1,11 +1,11 @@
 id: 730838544
-type: way
+type: node
 latitude: 41.98367
 longitude: -88.34423
 postcode: "60177"
 city: South Elgin
-street: "Randall Road"
-housenumber: 436
-phone: "+1 847-450-0004"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/il/south-elgin/1383"
+street: Randall Road
+housenumber: "436"
+phone: +1 847-450-0004
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/il/south-elgin/1383

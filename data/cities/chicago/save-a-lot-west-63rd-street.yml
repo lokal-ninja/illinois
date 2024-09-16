@@ -1,11 +1,11 @@
 id: 162222324
-type: way
+type: node
 latitude: 41.77809
 longitude: -87.73422
 postcode: "60629"
 city: Chicago
-street: "West 63rd Street"
-housenumber: 4439
+street: West 63rd Street
+housenumber: "4439"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/chicago-60629-61316/"
+website: https://savealot.com/grocery-stores/chicago-60629-61316/

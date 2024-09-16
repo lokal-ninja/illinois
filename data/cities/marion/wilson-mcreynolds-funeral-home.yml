@@ -1,11 +1,11 @@
 id: 1002803408
-type: way
+type: node
 latitude: 37.73783
 longitude: -88.93359
 postcode: "62959"
 city: Marion
-street: "N Court Street"
-housenumber: 900
+street: N Court Street
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

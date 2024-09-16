@@ -1,11 +1,11 @@
 id: 428305086
-type: way
+type: node
 latitude: 42.05086
 longitude: -87.92067
 postcode: "60016"
 city: Des Plaines
-street: "East Golf Road"
-housenumber: 10
+street: East Golf Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.marianos.com/stores/details/531/00541"
+website: https://www.marianos.com/stores/details/531/00541

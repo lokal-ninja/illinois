@@ -1,11 +1,11 @@
 id: 1028927028
-type: way
+type: node
 latitude: 41.76872
 longitude: -87.8203
 postcode: "60501"
 city: Bedford Park
-street: "South Archer Road"
-housenumber: 6800
+street: South Archer Road
+housenumber: "6800"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Bedford-Park/6800-S-Archer-Rd"
+website: https://www.speedway.com/locations/IL/Bedford-Park/6800-S-Archer-Rd

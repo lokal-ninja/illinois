@@ -1,11 +1,11 @@
 id: 641237114
-type: way
+type: node
 latitude: 39.83078
 longitude: -88.95469
 postcode: "62521"
 city: Decatur
-street: "South Main Street"
-housenumber: 1004
+street: South Main Street
+housenumber: "1004"
 phone: ""
 opening_hours: ""
 website: ""

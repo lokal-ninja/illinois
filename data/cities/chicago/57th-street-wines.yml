@@ -4,8 +4,8 @@ latitude: 41.79162
 longitude: -87.5897
 postcode: "60637"
 city: Chicago
-street: "East 57th Street"
-housenumber: 1448
+street: East 57th Street
+housenumber: "1448"
 phone: "+17739664883"
-opening_hours: "Su,Mo,Tu,We 12:00-20:00; Th,Fr,Sa 12:00-22:00"
+opening_hours: Su,Mo,Tu,We 12:00-20:00; Th,Fr,Sa 12:00-22:00
 website: ""

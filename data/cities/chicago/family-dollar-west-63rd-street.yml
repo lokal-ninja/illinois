@@ -1,11 +1,11 @@
 id: 162499462
-type: way
+type: node
 latitude: 41.77759
 longitude: -87.76484
 postcode: "60638"
 city: Chicago
-street: "West 63rd Street"
-housenumber: 5711
+street: West 63rd Street
+housenumber: "5711"
 phone: ""
 opening_hours: ""
-website: "https://familydollar.com/"
+website: https://familydollar.com/

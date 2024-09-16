@@ -4,8 +4,8 @@ latitude: 39.83258
 longitude: -89.63091
 postcode: "62702"
 city: Springfield
-street: "East Sangamon Avenue"
-housenumber: 1889
-phone: "+1-217-525-9686"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=39.832536&long=-89.63079"
+street: East Sangamon Avenue
+housenumber: "1889"
+phone: +1-217-525-9686
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=39.832536&long=-89.63079

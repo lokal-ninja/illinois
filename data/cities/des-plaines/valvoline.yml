@@ -1,11 +1,11 @@
 id: 431528857
-type: way
+type: node
 latitude: 42.02879
 longitude: -87.8948
 postcode: "60018"
 city: Des Plaines
-street: "Lee Street"
-housenumber: 1340
+street: Lee Street
+housenumber: "1340"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/il/desplaines/oil-change-gr0038.html"
+website: https://store.vioc.com/il/desplaines/oil-change-gr0038.html

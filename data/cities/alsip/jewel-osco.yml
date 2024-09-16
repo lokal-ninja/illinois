@@ -1,11 +1,11 @@
 id: 429419361
-type: way
+type: node
 latitude: 41.67453
 longitude: -87.7182
 postcode: "60803"
 city: Alsip
-street: "South Pulaski Road"
-housenumber: 12001
-phone: "+1 708-371-3460"
-opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 06:00-23:00"
-website: "https://local.jewelosco.com/il/alsip/12001-s-pulaski-rd.html"
+street: South Pulaski Road
+housenumber: "12001"
+phone: +1 708-371-3460
+opening_hours: Mo-Fr 06:00-23:00; Sa-Su 06:00-23:00
+website: https://local.jewelosco.com/il/alsip/12001-s-pulaski-rd.html

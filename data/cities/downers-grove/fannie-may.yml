@@ -1,11 +1,11 @@
 id: 251862294
-type: way
+type: node
 latitude: 41.80621
 longitude: -88.0389
 postcode: "60515"
 city: Downers Grove
-street: "Ogden Avenue"
-housenumber: 2205
+street: Ogden Avenue
+housenumber: "2205"
 phone: ""
 opening_hours: ""
 website: ""

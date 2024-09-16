@@ -1,11 +1,11 @@
 id: 1102263888
-type: way
+type: node
 latitude: 41.71605
 longitude: -88.2054
 postcode: "60564"
 city: Naperville
-street: "Forgue Drive"
-housenumber: 2695
+street: Forgue Drive
+housenumber: "2695"
 phone: ""
 opening_hours: ""
-website: "https://asnailsspa.com/"
+website: https://asnailsspa.com/

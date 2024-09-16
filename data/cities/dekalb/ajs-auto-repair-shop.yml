@@ -1,11 +1,11 @@
 id: 806044637
-type: way
+type: node
 latitude: 41.92052
 longitude: -88.75399
 postcode: "60115"
 city: Dekalb
-street: "South 4th Street"
-housenumber: 849
-phone: "+1 815-997-9461"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-15:00; Su off"
-website: "https://ajs-auto-repair-shop.square.site/"
+street: South 4th Street
+housenumber: "849"
+phone: +1 815-997-9461
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-15:00; Su off
+website: https://ajs-auto-repair-shop.square.site/

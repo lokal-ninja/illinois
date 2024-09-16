@@ -1,11 +1,11 @@
 id: 1039490613
-type: way
+type: node
 latitude: 41.71683
 longitude: -88.20565
 postcode: "60564"
 city: Naperville
-street: "Forgue Drive"
-housenumber: 2643
-phone: "+1 630 596 1176"
-opening_hours: "Mo-Fr 07:00-19:00; Sa, Su 07:00-18:00"
-website: "https://local.firestonecompleteautocare.com/illinois/naperville/2643-forgue-dr/"
+street: Forgue Drive
+housenumber: "2643"
+phone: +1 630 596 1176
+opening_hours: Mo-Fr 07:00-19:00; Sa, Su 07:00-18:00
+website: https://local.firestonecompleteautocare.com/illinois/naperville/2643-forgue-dr/

@@ -1,11 +1,11 @@
 id: 163884960
-type: way
+type: node
 latitude: 41.91046
 longitude: -87.70641
 postcode: "60651"
 city: Chicago
-street: "West North Avenue"
-housenumber: 3140
+street: West North Avenue
+housenumber: "3140"
 phone: ""
 opening_hours: ""
 website: ""

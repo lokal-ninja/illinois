@@ -1,11 +1,11 @@
 id: 162518061
-type: way
+type: node
 latitude: 41.87974
 longitude: -87.76405
 postcode: "60644"
 city: Chicago
-street: "West Madison Street"
-housenumber: 5467
-phone: "+1-773-261-3055"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: West Madison Street
+housenumber: "5467"
+phone: +1-773-261-3055
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

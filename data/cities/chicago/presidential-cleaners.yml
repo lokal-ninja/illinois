@@ -1,11 +1,11 @@
 id: 334696255
-type: way
+type: node
 latitude: 42.01229
 longitude: -87.70882
 postcode: "60645"
 city: Chicago
-street: "West Touhy Avenue"
-housenumber: 3148
+street: West Touhy Avenue
+housenumber: "3148"
 phone: ""
 opening_hours: ""
 website: ""

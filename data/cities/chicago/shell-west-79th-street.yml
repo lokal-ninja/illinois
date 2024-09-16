@@ -1,11 +1,11 @@
 id: 918514075
-type: way
+type: node
 latitude: 41.75003
 longitude: -87.66385
 postcode: "60620"
 city: Chicago
-street: "West 79th Street"
-housenumber: 1601
+street: West 79th Street
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 847397037
-type: way
+type: node
 latitude: 37.76512
 longitude: -88.51215
 postcode: "62946"
 city: Harrisburg
-street: "United States Highway 45"
-housenumber: 2252
-phone: "+1-618-252-0914"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.cccomputerstore.com/"
+street: United States Highway 45
+housenumber: "2252"
+phone: +1-618-252-0914
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.cccomputerstore.com/

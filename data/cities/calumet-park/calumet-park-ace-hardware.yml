@@ -1,11 +1,11 @@
 id: 1243311077
-type: way
+type: node
 latitude: 41.66339
 longitude: -87.6557
 postcode: "60827"
 city: Calumet Park
-street: "West 127th Street"
-housenumber: 1340
-phone: "+1 708-388-3656"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-17:00"
+street: West 127th Street
+housenumber: "1340"
+phone: +1 708-388-3656
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-17:00
 website: ""

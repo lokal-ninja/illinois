@@ -1,11 +1,11 @@
 id: 1234336936
-type: way
+type: node
 latitude: 41.95231
 longitude: -89.06506
 postcode: "61068"
 city: Rochelle
-street: "Powers Road"
-housenumber: 
+street: Powers Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

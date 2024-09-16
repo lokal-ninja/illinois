@@ -1,11 +1,11 @@
 id: 769456401
-type: way
+type: node
 latitude: 38.89057
 longitude: -90.1859
 postcode: "62002"
 city: Alton
-street: "Market Street"
-housenumber: 210
+street: Market Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

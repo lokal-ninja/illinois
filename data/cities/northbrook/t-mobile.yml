@@ -1,11 +1,11 @@
 id: 1095812158
-type: way
+type: node
 latitude: 42.14992
 longitude: -87.79946
 postcode: "60062"
 city: Northbrook
-street: "Skokie Boulevard"
-housenumber: 141
-phone: "+1(847) 616-8791"
+street: Skokie Boulevard
+housenumber: "141"
+phone: +1(847) 616-8791
 opening_hours: ""
 website: ""

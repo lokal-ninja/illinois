@@ -1,11 +1,11 @@
 id: 210873979
-type: way
+type: node
 latitude: 41.77481
 longitude: -87.60523
 postcode: "60637"
 city: Chicago
-street: "South Cottage Grove Avenue"
-housenumber: 6621
-phone: "+1-844-462-1066"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/chicago/6621-s-cottage-grove-ave"
+street: South Cottage Grove Avenue
+housenumber: "6621"
+phone: +1-844-462-1066
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/chicago/6621-s-cottage-grove-ave

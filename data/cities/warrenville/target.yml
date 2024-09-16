@@ -1,11 +1,11 @@
 id: 343601938
-type: way
+type: node
 latitude: 41.80143
 longitude: -88.17002
 postcode: "60555"
 city: Warrenville
-street: "West Diehl Road"
-housenumber: 28201
-phone: "+1 630-657-5555"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/warrenville/1903"
+street: West Diehl Road
+housenumber: "28201"
+phone: +1 630-657-5555
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/warrenville/1903

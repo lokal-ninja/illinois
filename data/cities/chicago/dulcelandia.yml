@@ -1,11 +1,11 @@
 id: 163769217
-type: way
+type: node
 latitude: 41.84405
 longitude: -87.70716
 postcode: "60623"
 city: Chicago
-street: "West 26th Street"
-housenumber: 3253
+street: West 26th Street
+housenumber: "3253"
 phone: ""
 opening_hours: ""
-website: "http://www.dulcelandia.com/spanish/index.php?option=com_location&Itemid=3"
+website: http://www.dulcelandia.com/spanish/index.php?option=com_location&Itemid=3

@@ -1,11 +1,11 @@
 id: 143220883
-type: way
+type: node
 latitude: 42.04698
 longitude: -87.94008
 postcode: "60016"
 city: Des Plaines
-street: "West Golf Road"
-housenumber: 783
+street: West Golf Road
+housenumber: "783"
 phone: ""
 opening_hours: ""
 website: ""

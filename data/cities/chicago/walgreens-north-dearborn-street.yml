@@ -1,11 +1,11 @@
 id: 210679336
-type: way
+type: node
 latitude: 41.90401
 longitude: -87.6306
 postcode: "60610"
 city: Chicago
-street: "North Dearborn Street"
-housenumber: 1200
+street: North Dearborn Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1200+n+dearborn+st-chicago-il-60610/id=1375"
+website: https://www.walgreens.com/locator/walgreens-1200+n+dearborn+st-chicago-il-60610/id=1375

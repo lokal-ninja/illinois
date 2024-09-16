@@ -1,11 +1,11 @@
 id: 668607870
-type: way
+type: node
 latitude: 42.04052
 longitude: -87.80894
 postcode: "60714"
 city: Niles
-street: "West Dempster Street"
-housenumber: 7237
+street: West Dempster Street
+housenumber: "7237"
 phone: ""
 opening_hours: ""
 website: ""

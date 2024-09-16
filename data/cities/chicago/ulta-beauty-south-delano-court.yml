@@ -4,8 +4,8 @@ latitude: 41.86894
 longitude: -87.63238
 postcode: "60605"
 city: Chicago
-street: "South Delano Court"
-housenumber: 1107
-phone: "+1 312-583-0554"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/chicago-il-423"
+street: South Delano Court
+housenumber: "1107"
+phone: +1 312-583-0554
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/chicago-il-423

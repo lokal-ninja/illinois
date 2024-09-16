@@ -1,11 +1,11 @@
 id: 1025871559
-type: way
+type: node
 latitude: 41.57205
 longitude: -87.69485
 postcode: "60429"
 city: Hazel Crest
-street: "South Kedzie Avenue"
-housenumber: 17460
+street: South Kedzie Avenue
+housenumber: "17460"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

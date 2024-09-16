@@ -1,11 +1,11 @@
 id: 1217908288
-type: way
+type: node
 latitude: 41.90107
 longitude: -87.8641
 postcode: "60160"
 city: Melrose Park
-street: "25th Avenue"
-housenumber: 1515
-phone: "+1-708-343-6161"
+street: 25th Avenue
+housenumber: "1515"
+phone: +1-708-343-6161
 opening_hours: ""
 website: ""

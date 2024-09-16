@@ -1,11 +1,11 @@
 id: 588270062
-type: way
+type: node
 latitude: 42.15354
 longitude: -88.43058
 postcode: "60142"
 city: Huntley
-street: "Kreutzer Road"
-housenumber: 11905
+street: Kreutzer Road
+housenumber: "11905"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/huntley/11905-kreutzer-rd.html"
+website: https://www.autozone.com/locations/il/huntley/11905-kreutzer-rd.html

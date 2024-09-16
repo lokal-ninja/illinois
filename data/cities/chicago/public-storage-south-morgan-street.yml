@@ -1,11 +1,11 @@
 id: 204073632
-type: way
+type: node
 latitude: 41.87651
 longitude: -87.65175
 postcode: ""
 city: Chicago
-street: "South Morgan Street"
-housenumber: 401
+street: South Morgan Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

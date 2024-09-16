@@ -1,11 +1,11 @@
 id: 842456322
-type: way
+type: node
 latitude: 40.49301
 longitude: -88.98139
 postcode: ""
 city: Bloomington
-street: "East Emerson Street"
-housenumber: 803
-phone: "+1-309-827-9734;+1-309-829-9735"
+street: East Emerson Street
+housenumber: "803"
+phone: +1-309-827-9734;+1-309-829-9735
 opening_hours: ""
 website: ""

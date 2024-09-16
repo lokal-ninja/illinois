@@ -1,11 +1,11 @@
 id: 561095522
-type: way
+type: node
 latitude: 41.80843
 longitude: -89.9639
 postcode: "61270"
 city: Morrison
-street: "North Madison Street"
-housenumber: 200
+street: North Madison Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

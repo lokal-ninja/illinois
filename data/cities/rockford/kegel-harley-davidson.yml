@@ -1,11 +1,11 @@
 id: 250199244
-type: way
+type: node
 latitude: 42.23918
 longitude: -88.97762
 postcode: "61112"
 city: Rockford
-street: "South Perryville Road"
-housenumber: 7125
-phone: "+1 815-332-7125"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-15:00; PH closed"
-website: "http://www.kegelmotorcycles.com"
+street: South Perryville Road
+housenumber: "7125"
+phone: +1 815-332-7125
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-15:00; PH closed
+website: http://www.kegelmotorcycles.com

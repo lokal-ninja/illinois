@@ -1,11 +1,11 @@
 id: 229330501
-type: way
+type: node
 latitude: 41.52309
 longitude: -88.12207
 postcode: "60435"
 city: Joliet
-street: "West Jefferson Street"
-housenumber: 1621
+street: West Jefferson Street
+housenumber: "1621"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Joliet/1621-West-Jefferson-Street"
+website: https://www.speedway.com/locations/IL/Joliet/1621-West-Jefferson-Street

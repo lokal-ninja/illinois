@@ -1,11 +1,11 @@
 id: 409578173
-type: way
+type: node
 latitude: 41.50167
 longitude: -87.88929
 postcode: "60448"
 city: Mokena
-street: "Wolf Road"
-housenumber: 21430
-phone: "+1 815-464-4979"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/mokena-store1656.html"
+street: Wolf Road
+housenumber: "21430"
+phone: +1 815-464-4979
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/mokena-store1656.html

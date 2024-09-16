@@ -1,11 +1,11 @@
 id: 163772515
-type: way
+type: node
 latitude: 41.84414
 longitude: -87.70554
 postcode: "60623"
 city: Chicago
-street: "West 26th Street"
-housenumber: 3201
+street: West 26th Street
+housenumber: "3201"
 phone: ""
 opening_hours: ""
 website: ""

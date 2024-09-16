@@ -1,11 +1,11 @@
 id: 1163740973
-type: way
+type: node
 latitude: 41.70667
 longitude: -87.70186
 postcode: "60805"
 city: Evergreen Park
-street: "South Kedzie Avenue"
-housenumber: 10258
+street: South Kedzie Avenue
+housenumber: "10258"
 phone: ""
 opening_hours: ""
 website: ""

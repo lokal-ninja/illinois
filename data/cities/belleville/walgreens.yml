@@ -1,11 +1,11 @@
 id: 1207894995
-type: way
+type: node
 latitude: 38.51652
 longitude: -89.95861
 postcode: "62221"
 city: Belleville
-street: "Carlyle Avenue"
-housenumber: 515
+street: Carlyle Avenue
+housenumber: "515"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-515+carlyle+ave-belleville-il-62221/id=4865"
+website: https://www.walgreens.com/locator/walgreens-515+carlyle+ave-belleville-il-62221/id=4865

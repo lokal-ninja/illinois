@@ -1,11 +1,11 @@
 id: 556863477
-type: way
+type: node
 latitude: 41.84398
 longitude: -87.80704
 postcode: "60546"
 city: North Riverside
-street: "South Harlem Avenue"
-housenumber: 2500
-phone: "+1 708-853-1017"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/north-riverside-il-north-riverside-il-1153.html"
+street: South Harlem Avenue
+housenumber: "2500"
+phone: +1 708-853-1017
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/north-riverside-il-north-riverside-il-1153.html

@@ -1,11 +1,11 @@
 id: 210031818
-type: way
+type: node
 latitude: 41.69843
 longitude: -87.64315
 postcode: "60628"
 city: Chicago
-street: "South Halsted Street"
-housenumber: 10700
+street: South Halsted Street
+housenumber: "10700"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/chicago-60628-61312/"
+website: https://savealot.com/grocery-stores/chicago-60628-61312/

@@ -1,11 +1,11 @@
 id: 229736542
-type: way
+type: node
 latitude: 42.06845
 longitude: -87.77116
 postcode: "60025"
 city: Glenview
-street: "Harms Road"
-housenumber: 451
+street: Harms Road
+housenumber: "451"
 phone: ""
 opening_hours: ""
 website: ""

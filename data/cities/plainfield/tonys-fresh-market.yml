@@ -1,11 +1,11 @@
 id: 52049270
-type: way
+type: node
 latitude: 41.56251
 longitude: -88.19872
 postcode: "60586"
 city: Plainfield
-street: "South Route 59"
-housenumber: 2300
+street: South Route 59
+housenumber: "2300"
 phone: ""
 opening_hours: ""
-website: "https://www.tonysfreshmarket.com/stores/plainfield"
+website: https://www.tonysfreshmarket.com/stores/plainfield

@@ -1,11 +1,11 @@
 id: 210381764
-type: way
+type: node
 latitude: 41.95804
 longitude: -87.65324
 postcode: "60613"
 city: Chicago
-street: "North Broadway"
-housenumber: 4150
-phone: "+1 773-281-3823"
+street: North Broadway
+housenumber: "4150"
+phone: +1 773-281-3823
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/4150-n-broadway-36793"
+website: https://www.7-eleven.com/locations/il/chicago/4150-n-broadway-36793

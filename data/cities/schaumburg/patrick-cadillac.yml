@@ -1,11 +1,11 @@
 id: 252700064
-type: way
+type: node
 latitude: 42.03901
 longitude: -88.03966
 postcode: "60173"
 city: Schaumburg
-street: "Mall Drive"
-housenumber: 526
+street: Mall Drive
+housenumber: "526"
 phone: ""
 opening_hours: ""
-website: "https://www.patrickcadillac.com/"
+website: https://www.patrickcadillac.com/

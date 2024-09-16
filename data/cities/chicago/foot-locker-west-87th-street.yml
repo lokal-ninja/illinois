@@ -4,8 +4,8 @@ latitude: 41.7377
 longitude: -87.62711
 postcode: "60620"
 city: Chicago
-street: "West 87th Street"
-housenumber: 112
+street: West 87th Street
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://stores.footlocker.com/il/chicago/112-w-87th-street-8180.html"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: https://stores.footlocker.com/il/chicago/112-w-87th-street-8180.html

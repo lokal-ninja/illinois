@@ -1,11 +1,11 @@
 id: 993474305
-type: way
+type: node
 latitude: 41.79739
 longitude: -88.11884
 postcode: "60563"
 city: Naperville
-street: "Naper Boulevard"
-housenumber: 1516
-phone: "+1 618 900 0936"
-opening_hours: "Mo-Th 09:00-21:00; Fr, Sa 09:00-22:00; Su 10:00-18:00"
-website: "https://zenleafdispensaries.com/locations/naperville/"
+street: Naper Boulevard
+housenumber: "1516"
+phone: +1 618 900 0936
+opening_hours: Mo-Th 09:00-21:00; Fr, Sa 09:00-22:00; Su 10:00-18:00
+website: https://zenleafdispensaries.com/locations/naperville/

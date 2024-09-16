@@ -1,11 +1,11 @@
 id: 253651286
-type: way
+type: node
 latitude: 37.72833
 longitude: -89.20801
 postcode: "62901"
 city: Carbondale
-street: "East Main Street"
-housenumber: 600
+street: East Main Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

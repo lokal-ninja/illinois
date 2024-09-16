@@ -1,11 +1,11 @@
 id: 312151464
-type: way
+type: node
 latitude: 41.76655
 longitude: -88.18772
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1585
-phone: "+1 630 324 0423"
+street: West Ogden Avenue
+housenumber: "1585"
+phone: +1 630 324 0423
 opening_hours: ""
-website: "https://www.woodycars.com/"
+website: https://www.woodycars.com/

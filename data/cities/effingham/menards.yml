@@ -1,11 +1,11 @@
 id: 214798397
-type: way
+type: node
 latitude: 39.14206
 longitude: -88.55859
 postcode: "62401"
 city: Effingham
-street: "Avenue Of Mid America"
-housenumber: 1100
+street: Avenue Of Mid America
+housenumber: "1100"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3176"
+website: https://www.menards.com/store-details/store.html?store=3176

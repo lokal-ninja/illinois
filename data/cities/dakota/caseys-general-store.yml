@@ -1,11 +1,11 @@
 id: 766455803
-type: way
+type: node
 latitude: 42.38928
 longitude: -89.52044
 postcode: "61018"
 city: Dakota
-street: "South East Street"
-housenumber: 111
-phone: "+1-815-449-9239"
+street: South East Street
+housenumber: "111"
+phone: +1-815-449-9239
 opening_hours: ""
 website: ""

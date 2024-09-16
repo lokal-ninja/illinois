@@ -1,11 +1,11 @@
 id: 114055117
-type: way
+type: node
 latitude: 38.90357
 longitude: -90.05894
 postcode: "62010"
 city: Bethalto
-street: "Airport Plaza"
-housenumber: 72
-phone: "+1-618-377-0235"
+street: Airport Plaza
+housenumber: "72"
+phone: +1-618-377-0235
 opening_hours: ""
-website: "https://locations.schnucks.com/il-bethalto-178"
+website: https://locations.schnucks.com/il-bethalto-178

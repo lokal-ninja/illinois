@@ -1,11 +1,11 @@
 id: 1255707492
-type: way
+type: node
 latitude: 41.69446
 longitude: -88.32133
 postcode: "60543"
 city: Oswego
-street: "Route 34"
-housenumber: 3090
+street: Route 34
+housenumber: "3090"
 phone: ""
 opening_hours: ""
 website: ""

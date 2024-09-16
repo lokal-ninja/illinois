@@ -1,11 +1,11 @@
 id: 404265694
-type: way
+type: node
 latitude: 41.8433
 longitude: -87.70486
 postcode: "60623"
 city: Chicago
-street: "South Kedzie Avenue"
-housenumber: 2625
+street: South Kedzie Avenue
+housenumber: "2625"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/2625-s-kedzie-ave.html"
+website: https://www.autozone.com/locations/il/chicago/2625-s-kedzie-ave.html

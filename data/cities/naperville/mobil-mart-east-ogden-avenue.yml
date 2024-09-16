@@ -1,11 +1,11 @@
 id: 132500618
-type: way
+type: node
 latitude: 41.78526
 longitude: -88.14692
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 20
+street: East Ogden Avenue
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

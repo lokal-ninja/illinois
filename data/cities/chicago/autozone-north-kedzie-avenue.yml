@@ -1,11 +1,11 @@
 id: 163946348
-type: way
+type: node
 latitude: 41.95883
 longitude: -87.70876
 postcode: "60618"
 city: Chicago
-street: "North Kedzie Avenue"
-housenumber: 4246
+street: North Kedzie Avenue
+housenumber: "4246"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/4246-n-kedzie-ave.html"
+website: https://www.autozone.com/locations/il/chicago/4246-n-kedzie-ave.html

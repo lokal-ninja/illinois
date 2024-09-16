@@ -1,11 +1,11 @@
 id: 1034696700
-type: way
+type: node
 latitude: 41.76028
 longitude: -88.20667
 postcode: "60504"
 city: Aurora
-street: "Fox Valley Center Drive"
-housenumber: 4430
-phone: "+1 630 499 9000"
-opening_hours: "Mo, We, Th 12:00-20:00; Tu, Su off; Fr 12:00-18:00; Sa 10:00-17:00"
-website: "https://www.formallymodern.com/pages/aurora-fox-valley"
+street: Fox Valley Center Drive
+housenumber: "4430"
+phone: +1 630 499 9000
+opening_hours: Mo, We, Th 12:00-20:00; Tu, Su off; Fr 12:00-18:00; Sa 10:00-17:00
+website: https://www.formallymodern.com/pages/aurora-fox-valley

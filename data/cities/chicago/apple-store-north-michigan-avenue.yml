@@ -1,11 +1,11 @@
 id: 685480593
-type: way
+type: node
 latitude: 41.88933
 longitude: -87.62334
 postcode: "60611"
 city: Chicago
-street: "North Michigan Avenue"
-housenumber: 401
+street: North Michigan Avenue
+housenumber: "401"
 phone: ""
 opening_hours: ""
-website: "https://www.apple.com/retail/michiganavenue/"
+website: https://www.apple.com/retail/michiganavenue/

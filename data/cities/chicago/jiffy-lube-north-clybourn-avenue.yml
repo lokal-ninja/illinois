@@ -1,11 +1,11 @@
 id: 209882820
-type: way
+type: node
 latitude: 41.92481
 longitude: -87.66932
 postcode: "60614"
 city: Chicago
-street: "North Clybourn Avenue"
-housenumber: 2366
+street: North Clybourn Avenue
+housenumber: "2366"
 phone: ""
 opening_hours: ""
-website: "https://www.jiffylube.com/locations/il/chicago/592"
+website: https://www.jiffylube.com/locations/il/chicago/592

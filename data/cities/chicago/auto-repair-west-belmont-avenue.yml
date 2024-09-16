@@ -1,11 +1,11 @@
 id: 209453591
-type: way
+type: node
 latitude: 41.93896
 longitude: -87.69699
 postcode: "60618"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 2739
+street: West Belmont Avenue
+housenumber: "2739"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1117306974
-type: way
+type: node
 latitude: 42.15085
 longitude: -88.33487
 postcode: "60102"
 city: Algonquin
-street: "Randall Road"
-housenumber: 1531
+street: Randall Road
+housenumber: "1531"
 phone: ""
 opening_hours: ""
 website: ""

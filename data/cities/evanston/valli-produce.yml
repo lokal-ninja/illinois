@@ -4,8 +4,8 @@ latitude: 42.0387
 longitude: -87.7001
 postcode: "60202"
 city: Evanston
-street: "Dempster Street"
-housenumber: 1910
+street: Dempster Street
+housenumber: "1910"
 phone: ""
 opening_hours: ""
-website: "http://www.valliproduce.com/stores/evanston"
+website: http://www.valliproduce.com/stores/evanston

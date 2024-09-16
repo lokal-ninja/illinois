@@ -1,11 +1,11 @@
 id: 236365973
-type: way
+type: node
 latitude: 40.63062
 longitude: -89.46267
 postcode: "61550"
 city: Morton
-street: "East Courtland Street"
-housenumber: 155
-phone: "+1 309-263-7898"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5157/morton-il/whats-new"
+street: East Courtland Street
+housenumber: "155"
+phone: +1 309-263-7898
+opening_hours: 24/7
+website: https://www.walmart.com/store/5157/morton-il/whats-new

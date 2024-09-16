@@ -1,11 +1,11 @@
 id: 244980699
-type: way
+type: node
 latitude: 41.69712
 longitude: -87.59826
 postcode: "60628"
 city: Chicago
-street: "South Doty Avenue"
-housenumber: 10900
-phone: "+1 773-344-9016"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/5965/chicago-il/"
+street: South Doty Avenue
+housenumber: "10900"
+phone: +1 773-344-9016
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/5965/chicago-il/

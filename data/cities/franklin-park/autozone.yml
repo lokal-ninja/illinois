@@ -1,11 +1,11 @@
 id: 405042620
-type: way
+type: node
 latitude: 41.93412
 longitude: -87.88563
 postcode: "60131"
 city: Franklin Park
-street: "North Mannheim Road"
-housenumber: 3040
+street: North Mannheim Road
+housenumber: "3040"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/franklin-park/3040-mannheim-rd.html"
+website: https://www.autozone.com/locations/il/franklin-park/3040-mannheim-rd.html

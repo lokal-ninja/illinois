@@ -1,11 +1,11 @@
 id: 518460133
-type: way
+type: node
 latitude: 40.88654
 longitude: -88.63776
 postcode: ""
 city: Pontiac
-street: "North Ladd Street"
-housenumber: 826
+street: North Ladd Street
+housenumber: "826"
 phone: ""
-opening_hours: "We-Th 11:30-20:00; Sa 11:30-22:00; Su 12:00-17:00"
+opening_hours: We-Th 11:30-20:00; Sa 11:30-22:00; Su 12:00-17:00
 website: ""

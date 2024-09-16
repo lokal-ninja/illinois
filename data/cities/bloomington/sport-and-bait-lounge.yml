@@ -1,11 +1,11 @@
 id: 857646708
-type: way
+type: node
 latitude: 40.48091
 longitude: -89.00672
 postcode: "61701"
 city: Bloomington
-street: "North Morris Avenue"
-housenumber: 301
+street: North Morris Avenue
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

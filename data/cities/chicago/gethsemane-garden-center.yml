@@ -1,11 +1,11 @@
 id: 1238645446
-type: way
+type: node
 latitude: 41.98638
 longitude: -87.66932
 postcode: "60660"
 city: Chicago
-street: "North Clark Street"
-housenumber: 5739
-phone: "+1-773-878-5915"
+street: North Clark Street
+housenumber: "5739"
+phone: +1-773-878-5915
 opening_hours: ""
-website: "https://www.gethsemanegardens.com/"
+website: https://www.gethsemanegardens.com/

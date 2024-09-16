@@ -1,11 +1,11 @@
 id: 1061542503
-type: way
+type: node
 latitude: 42.27727
 longitude: -88.86213
 postcode: "61008"
 city: Belvidere
-street: "Beloit Road"
-housenumber: 
+street: Beloit Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

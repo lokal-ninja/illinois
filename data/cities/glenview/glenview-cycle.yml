@@ -4,8 +4,8 @@ latitude: 42.07316
 longitude: -87.80536
 postcode: "60025"
 city: Glenview
-street: "Harlem Avenue"
-housenumber: 1011
-phone: "+1-847-998-5900"
-opening_hours: "Mo-Tu,Th-Fr 11:00-17:00; Sa 10:00-17:00; Su 11:00-16:00"
-website: "http://glenviewcycle.com/"
+street: Harlem Avenue
+housenumber: "1011"
+phone: +1-847-998-5900
+opening_hours: Mo-Tu,Th-Fr 11:00-17:00; Sa 10:00-17:00; Su 11:00-16:00
+website: http://glenviewcycle.com/

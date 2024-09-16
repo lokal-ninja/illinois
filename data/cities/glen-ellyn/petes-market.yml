@@ -1,11 +1,11 @@
 id: 131834141
-type: way
+type: node
 latitude: 41.86116
 longitude: -88.05024
 postcode: "60137"
 city: Glen Ellyn
-street: "Roosevelt Road"
-housenumber: 880
+street: Roosevelt Road
+housenumber: "880"
 phone: ""
 opening_hours: ""
-website: "http://local.dominicks.com/il/glen-ellyn-2145.html"
+website: http://local.dominicks.com/il/glen-ellyn-2145.html

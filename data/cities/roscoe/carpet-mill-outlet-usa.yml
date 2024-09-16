@@ -1,11 +1,11 @@
 id: 723283382
-type: way
+type: node
 latitude: 42.43458
 longitude: -89.02623
 postcode: "61073"
 city: Roscoe
-street: "Checkerberry Drive"
-housenumber: 11980
-phone: "+1 815-623-9535"
+street: Checkerberry Drive
+housenumber: "11980"
+phone: +1 815-623-9535
 opening_hours: ""
-website: "https://www.carpetmilloutletusa.com/"
+website: https://www.carpetmilloutletusa.com/

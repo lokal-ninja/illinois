@@ -1,11 +1,11 @@
 id: 516478397
-type: way
+type: node
 latitude: 42.34518
 longitude: -88.27429
 postcode: "60050"
 city: McHenry
-street: "West Elm Street"
-housenumber: 3900
+street: West Elm Street
+housenumber: "3900"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mchenry-il-pharmacies/3900-w-elm-st-mchenry-il-60050/storeid=10470"
+website: https://www.cvs.com/store-locator/mchenry-il-pharmacies/3900-w-elm-st-mchenry-il-60050/storeid=10470

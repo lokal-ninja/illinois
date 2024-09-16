@@ -1,11 +1,11 @@
 id: 210405729
-type: way
+type: node
 latitude: 41.66362
 longitude: -87.64126
 postcode: "60628"
 city: Chicago
-street: "South Halsted Street"
-housenumber: 12635
+street: South Halsted Street
+housenumber: "12635"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/11821"
+website: https://www.dollargeneral.com/store-directory/il/chicago/11821

@@ -1,11 +1,11 @@
 id: 743768447
-type: way
+type: node
 latitude: 42.12444
 longitude: -88.33476
 postcode: "60110"
 city: Carpentersville
-street: "Huntley Road"
-housenumber: 
+street: Huntley Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 209868904
-type: way
+type: node
 latitude: 41.91894
 longitude: -87.67018
 postcode: "60614"
 city: Chicago
-street: "North Elston Avenue"
-housenumber: 2100
-phone: "+1 773-486-0142"
+street: North Elston Avenue
+housenumber: "2100"
+phone: +1 773-486-0142
 opening_hours: ""
-website: "https://stores.bestbuy.com/il/chicago/2100-n-elston-ave-814.html"
+website: https://stores.bestbuy.com/il/chicago/2100-n-elston-ave-814.html

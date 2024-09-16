@@ -4,8 +4,8 @@ latitude: 41.81747
 longitude: -87.72555
 postcode: "60632"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 4146
-phone: "+1 773-650-4899"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/chicago-il-1287"
+street: South Pulaski Road
+housenumber: "4146"
+phone: +1 773-650-4899
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/chicago-il-1287

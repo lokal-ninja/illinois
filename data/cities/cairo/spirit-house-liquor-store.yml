@@ -1,11 +1,11 @@
 id: 427249630
-type: way
+type: node
 latitude: 37.00846
 longitude: -89.17901
 postcode: "62914"
 city: Cairo
-street: "Sycamore Street"
-housenumber: 2401
+street: Sycamore Street
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

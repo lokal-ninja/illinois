@@ -1,11 +1,11 @@
 id: 518591417
-type: way
+type: node
 latitude: 41.62992
 longitude: -87.92604
 postcode: "60491"
 city: Homer Glen
-street: "South Greystone Drive"
-housenumber: 14245
-phone: "+1 833-468-7065"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/homer-glen/14245-south-greystone-drive"
+street: South Greystone Drive
+housenumber: "14245"
+phone: +1 833-468-7065
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/homer-glen/14245-south-greystone-drive

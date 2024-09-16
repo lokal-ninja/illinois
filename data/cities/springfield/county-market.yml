@@ -4,8 +4,8 @@ latitude: 39.80669
 longitude: -89.65218
 postcode: "62702"
 city: Springfield
-street: "East Carpenter Street"
-housenumber: 210
-phone: "+1-217-528-3145"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.mycountymarket.com/"
+street: East Carpenter Street
+housenumber: "210"
+phone: +1-217-528-3145
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.mycountymarket.com/

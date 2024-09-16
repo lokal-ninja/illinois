@@ -1,11 +1,11 @@
 id: 984801687
-type: way
+type: node
 latitude: 41.78671
 longitude: -88.14679
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 121
-phone: "+1 630 355 3778"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-16:00; Su 10:00-15:00"
-website: "https://locations.theupsstore.com/il/naperville/115-e-ogden-ave"
+street: East Ogden Avenue
+housenumber: "121"
+phone: +1 630 355 3778
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-16:00; Su 10:00-15:00
+website: https://locations.theupsstore.com/il/naperville/115-e-ogden-ave

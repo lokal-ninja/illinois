@@ -1,11 +1,11 @@
 id: 42292672
-type: way
+type: node
 latitude: 42.01425
 longitude: -87.88876
 postcode: "60018"
 city: Des Plaines
-street: "Mannheim Road"
-housenumber: 2074
+street: Mannheim Road
+housenumber: "2074"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206476675
-type: way
+type: node
 latitude: 42.04122
 longitude: -87.75542
 postcode: "60077"
 city: Skokie
-street: "West Dempster Street"
-housenumber: 5100
+street: West Dempster Street
+housenumber: "5100"
 phone: ""
 opening_hours: ""
-website: "https://www.binnys.com/location/Skokie"
+website: https://www.binnys.com/location/Skokie

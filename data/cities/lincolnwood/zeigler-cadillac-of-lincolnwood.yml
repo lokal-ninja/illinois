@@ -1,11 +1,11 @@
 id: 203674663
-type: way
+type: node
 latitude: 42.01495
 longitude: -87.74736
 postcode: "60712"
 city: Lincolnwood
-street: "North Cicero Avenue"
-housenumber: 7373
+street: North Cicero Avenue
+housenumber: "7373"
 phone: ""
 opening_hours: ""
 website: ""

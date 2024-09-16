@@ -2,10 +2,10 @@ id: 4937195425
 type: node
 latitude: 39.28069
 longitude: -89.88053
-postcode: "62626-1504"
+postcode: 62626-1504
 city: Carlinville
-street: "East 1st North Street"
-housenumber: 111
-phone: "+1 217-854-2564"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:30-17:00"
+street: East 1st North Street
+housenumber: "111"
+phone: +1 217-854-2564
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:30-17:00
 website: ""

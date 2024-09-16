@@ -1,11 +1,11 @@
 id: 1231435673
-type: way
+type: node
 latitude: 41.71941
 longitude: -87.776
 postcode: "60453"
 city: Oak Lawn
-street: "West 95th Street"
-housenumber: 6227
+street: West 95th Street
+housenumber: "6227"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.90416
 longitude: -87.63179
 postcode: "60610"
 city: Chicago
-street: "West Division Street"
-housenumber: 104
-phone: "+1 312-397-1130"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/chicago/102-w-division-st.html"
+street: West Division Street
+housenumber: "104"
+phone: +1 312-397-1130
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.jewelosco.com/il/chicago/102-w-division-st.html

@@ -1,11 +1,11 @@
 id: 64503938
-type: way
+type: node
 latitude: 40.68542
 longitude: -89.60275
 postcode: "61605"
 city: Peoria
-street: "SW Jefferson Avenue"
-housenumber: 1017
-phone: "+1-800-472-4643"
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.grainger.com/branch/Peoria-Branch-584"
+street: SW Jefferson Avenue
+housenumber: "1017"
+phone: +1-800-472-4643
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.grainger.com/branch/Peoria-Branch-584

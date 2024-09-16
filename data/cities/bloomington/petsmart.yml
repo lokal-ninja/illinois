@@ -1,11 +1,11 @@
 id: 790202066
-type: way
+type: node
 latitude: 40.49104
 longitude: -88.95705
 postcode: "61701"
 city: Bloomington
-street: "East Empire Street"
-housenumber: 1606
-phone: "+1 309-585-3961"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/bloomington-store3057.html"
+street: East Empire Street
+housenumber: "1606"
+phone: +1 309-585-3961
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/bloomington-store3057.html

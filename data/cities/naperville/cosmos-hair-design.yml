@@ -1,11 +1,11 @@
 id: 1073354548
-type: way
+type: node
 latitude: 41.78556
 longitude: -88.13825
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 610
-phone: "+1-630-355-0435"
+street: East Ogden Avenue
+housenumber: "610"
+phone: +1-630-355-0435
 opening_hours: ""
-website: "http://cosmoshairdesign.net"
+website: http://cosmoshairdesign.net

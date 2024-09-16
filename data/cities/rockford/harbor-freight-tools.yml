@@ -1,11 +1,11 @@
 id: 262059277
-type: way
+type: node
 latitude: 42.26781
 longitude: -88.99219
 postcode: "61108"
 city: Rockford
-street: "East State Street"
-housenumber: 6370
-phone: "+1 779-475-4850"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/6370-e-state-street-rockford-61108?number=893"
+street: East State Street
+housenumber: "6370"
+phone: +1 779-475-4850
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/6370-e-state-street-rockford-61108?number=893

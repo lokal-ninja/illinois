@@ -1,11 +1,11 @@
 id: 1295341871
-type: way
+type: node
 latitude: 41.65477
 longitude: -87.74039
 postcode: "60418"
 city: Crestwood
-street: "Cal Sag Road"
-housenumber: 4820
-phone: "+1 833-462-1048"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/crestwood/4820-cal-sag-rd"
+street: Cal Sag Road
+housenumber: "4820"
+phone: +1 833-462-1048
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/crestwood/4820-cal-sag-rd

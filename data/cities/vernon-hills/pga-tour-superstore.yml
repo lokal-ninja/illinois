@@ -1,11 +1,11 @@
 id: 313512169
-type: way
+type: node
 latitude: 42.24283
 longitude: -87.95553
 postcode: "60061"
 city: Vernon Hills
-street: "Center Drive"
-housenumber: 295
+street: Center Drive
+housenumber: "295"
 phone: ""
 opening_hours: ""
-website: "https://www.pgatoursuperstore.com/stores/detail?StoreID=1213"
+website: https://www.pgatoursuperstore.com/stores/detail?StoreID=1213

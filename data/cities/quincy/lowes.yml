@@ -1,11 +1,11 @@
 id: 643238380
-type: way
+type: node
 latitude: 39.93238
 longitude: -91.32159
 postcode: "62305"
 city: Quincy
-street: "Broadway Street"
-housenumber: 6030
-phone: "+1 217-228-4250"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/il-quincy/1680"
+street: Broadway Street
+housenumber: "6030"
+phone: +1 217-228-4250
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/il-quincy/1680

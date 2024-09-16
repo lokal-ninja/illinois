@@ -1,11 +1,11 @@
 id: 64506960
-type: way
+type: node
 latitude: 40.69056
 longitude: -89.60816
 postcode: "61605"
 city: Peoria
-street: "North MacArthur Highway"
-housenumber: 201
+street: North MacArthur Highway
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.twparkschapel.com/"
+website: https://www.twparkschapel.com/

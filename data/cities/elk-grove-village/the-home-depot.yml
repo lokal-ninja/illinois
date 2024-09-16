@@ -1,11 +1,11 @@
 id: 139959152
-type: way
+type: node
 latitude: 42.00843
 longitude: -88.0484
 postcode: "60007"
 city: Elk Grove Village
-street: "North Meacham Road"
-housenumber: 600
-phone: "+1 847-352-3325"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/elk-grove-village/il/elk-grove-village/60007/6701"
+street: North Meacham Road
+housenumber: "600"
+phone: +1 847-352-3325
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/elk-grove-village/il/elk-grove-village/60007/6701

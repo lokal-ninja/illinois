@@ -1,11 +1,11 @@
 id: 643238381
-type: way
+type: node
 latitude: 39.93241
 longitude: -91.31911
 postcode: "62305"
 city: Quincy
-street: "Broadway Street"
-housenumber: 6100
-phone: "+1 217-224-4962"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/quincy-990.shtml"
+street: Broadway Street
+housenumber: "6100"
+phone: +1 217-224-4962
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/quincy-990.shtml

@@ -1,11 +1,11 @@
 id: 998617264
-type: way
+type: node
 latitude: 41.97704
 longitude: -87.66877
 postcode: "60640"
 city: Chicago
-street: "North Clark Street"
-housenumber: 5226
+street: North Clark Street
+housenumber: "5226"
 phone: ""
 opening_hours: ""
 website: ""

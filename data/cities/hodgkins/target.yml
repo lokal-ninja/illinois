@@ -1,11 +1,11 @@
 id: 554941106
-type: way
+type: node
 latitude: 41.78157
 longitude: -87.85912
 postcode: "60525"
 city: Hodgkins
-street: "Joliet Road"
-housenumber: 9250
-phone: "+1 708-387-2350"
-opening_hours: "Mo-Sa 08:00-23:00; Su 08:00-22:00"
-website: "https://www.target.com/sl/hodgkins/843"
+street: Joliet Road
+housenumber: "9250"
+phone: +1 708-387-2350
+opening_hours: Mo-Sa 08:00-23:00; Su 08:00-22:00
+website: https://www.target.com/sl/hodgkins/843

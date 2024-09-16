@@ -1,11 +1,11 @@
 id: 770782379
-type: way
+type: node
 latitude: 41.68097
 longitude: -88.06863
 postcode: "60440"
 city: Bolingbrook
-street: "South Bolingbrook Drive"
-housenumber: 555
+street: South Bolingbrook Drive
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Bolingbrook/555-South-Bolingbrook-Dr"
+website: https://www.speedway.com/locations/IL/Bolingbrook/555-South-Bolingbrook-Dr

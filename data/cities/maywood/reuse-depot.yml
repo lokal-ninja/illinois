@@ -1,11 +1,11 @@
 id: 449028867
-type: way
+type: node
 latitude: 41.87804
 longitude: -87.8314
 postcode: "60153"
 city: Maywood
-street: "Madison Street"
-housenumber: 50
+street: Madison Street
+housenumber: "50"
 phone: "+17082230502"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://reusedepot.org/"
+opening_hours: Mo-Su 10:00-18:00
+website: https://reusedepot.org/

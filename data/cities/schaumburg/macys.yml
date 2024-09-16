@@ -4,8 +4,8 @@ latitude: 42.0473
 longitude: -88.03622
 postcode: "60173"
 city: Schaumburg
-street: "Woodfield Mall"
-housenumber: 1
+street: Woodfield Mall
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/il/schaumburg/woodfield-mall_259.html"
+website: https://www.macys.com/stores/il/schaumburg/woodfield-mall_259.html

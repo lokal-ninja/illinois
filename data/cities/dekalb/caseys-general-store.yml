@@ -1,11 +1,11 @@
 id: 255793978
-type: way
+type: node
 latitude: 41.94571
 longitude: -88.77368
 postcode: "60115"
 city: Dekalb
-street: "North Annie Glidden Road"
-housenumber: 1001
+street: North Annie Glidden Road
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 628065238
-type: way
+type: node
 latitude: 41.79953
 longitude: -88.37138
 postcode: "60542"
 city: North Aurora
-street: "Hansen Boulevard"
-housenumber: 209
+street: Hansen Boulevard
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

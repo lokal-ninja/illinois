@@ -1,11 +1,11 @@
 id: 229971751
-type: way
+type: node
 latitude: 41.99699
 longitude: -87.83397
 postcode: "60068"
 city: Park Ridge
-street: "Devon Avenue"
-housenumber: 800
+street: Devon Avenue
+housenumber: "800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-800+devon+ave-park+ridge-il-60068/id=15907"
+website: https://www.walgreens.com/locator/walgreens-800+devon+ave-park+ridge-il-60068/id=15907

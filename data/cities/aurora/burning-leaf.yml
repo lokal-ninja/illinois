@@ -1,11 +1,11 @@
 id: 190678397
-type: way
+type: node
 latitude: 41.75734
 longitude: -88.2065
 postcode: "60504"
 city: Aurora
-street: "Fox Valley Center Drive"
-housenumber: 4423
-phone: "+1 630 585 5002"
+street: Fox Valley Center Drive
+housenumber: "4423"
+phone: +1 630 585 5002
 opening_hours: ""
-website: "https://www.facebook.com/burningleafcigars/"
+website: https://www.facebook.com/burningleafcigars/

@@ -1,11 +1,11 @@
 id: 262070054
-type: way
+type: node
 latitude: 42.26548
 longitude: -89.00346
 postcode: "61108"
 city: Rockford
-street: "East State Street"
-housenumber: 
+street: East State Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

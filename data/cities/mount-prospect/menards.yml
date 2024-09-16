@@ -1,11 +1,11 @@
 id: 164462549
-type: way
+type: node
 latitude: 42.07113
 longitude: -87.9253
 postcode: "60056"
 city: Mount Prospect
-street: "East Rand Road"
-housenumber: 740
+street: East Rand Road
+housenumber: "740"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3131"
+website: https://www.menards.com/store-details/store.html?store=3131

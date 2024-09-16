@@ -1,11 +1,11 @@
 id: 1178187733
-type: way
+type: node
 latitude: 41.88011
 longitude: -87.63706
 postcode: "60606"
 city: Chicago
-street: "South Lower Wacker Drive"
-housenumber: 150
+street: South Lower Wacker Drive
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

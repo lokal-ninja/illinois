@@ -1,11 +1,11 @@
 id: 917151683
-type: way
+type: node
 latitude: 41.77525
 longitude: -87.97553
 postcode: "60559"
 city: Westmont
-street: "West 63rd Street"
-housenumber: 30
+street: West 63rd Street
+housenumber: "30"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

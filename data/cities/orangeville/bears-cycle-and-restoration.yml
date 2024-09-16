@@ -1,11 +1,11 @@
 id: 1296182916
-type: way
+type: node
 latitude: 42.47443
 longitude: -89.64229
 postcode: "61060"
 city: Orangeville
-street: "Sunset Drive"
-housenumber: 212
+street: Sunset Drive
+housenumber: "212"
 phone: "+16082149803"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://bearscycleshop.com/"
+opening_hours: Mo-Sa 09:00-17:00
+website: https://bearscycleshop.com/

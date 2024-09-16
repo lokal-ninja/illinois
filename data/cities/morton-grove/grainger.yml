@@ -1,11 +1,11 @@
 id: 203536050
-type: way
+type: node
 latitude: 42.02757
 longitude: -87.78494
 postcode: "60053"
 city: Morton Grove
-street: "River Drive"
-housenumber: 8045
+street: River Drive
+housenumber: "8045"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.grainger.com/branch/Morton-Grove-Branch-146"
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.grainger.com/branch/Morton-Grove-Branch-146

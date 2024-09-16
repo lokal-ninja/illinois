@@ -1,11 +1,11 @@
 id: 771783628
-type: way
+type: node
 latitude: 39.60619
 longitude: -90.80255
 postcode: "62363"
 city: Pittsfield
-street: "East Washington Street"
-housenumber: 321
-phone: "+1-217-285-1986"
+street: East Washington Street
+housenumber: "321"
+phone: +1-217-285-1986
 opening_hours: ""
-website: "https://www.caseys.com/general-store/il-pittsfield/321-e-washington-st/3310"
+website: https://www.caseys.com/general-store/il-pittsfield/321-e-washington-st/3310

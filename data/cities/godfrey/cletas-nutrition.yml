@@ -1,11 +1,11 @@
 id: 1031057304
-type: way
+type: node
 latitude: 38.92672
 longitude: -90.19164
 postcode: "62035"
 city: Godfrey
-street: "Godfrey Road"
-housenumber: 3004
+street: Godfrey Road
+housenumber: "3004"
 phone: ""
 opening_hours: ""
-website: "https://cletashealth.com/"
+website: https://cletashealth.com/

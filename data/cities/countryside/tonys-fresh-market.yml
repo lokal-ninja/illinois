@@ -1,11 +1,11 @@
 id: 131828804
-type: way
+type: node
 latitude: 41.7683
 longitude: -87.88896
 postcode: "60525"
 city: Countryside
-street: "Joliet Road"
-housenumber: 6704
+street: Joliet Road
+housenumber: "6704"
 phone: ""
 opening_hours: ""
-website: "https://www.tonysfreshmarket.com/stores/countryside"
+website: https://www.tonysfreshmarket.com/stores/countryside

@@ -4,8 +4,8 @@ latitude: 41.96514
 longitude: -87.75816
 postcode: "60630"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 4641
-phone: "+1-773-930-4076"
-opening_hours: "Mo-Th,Sa 12:00-18:00; Fr off; Su 10:00-14:00"
-website: "https://www.cosmicbikes.com/"
+street: North Milwaukee Avenue
+housenumber: "4641"
+phone: +1-773-930-4076
+opening_hours: Mo-Th,Sa 12:00-18:00; Fr off; Su 10:00-14:00
+website: https://www.cosmicbikes.com/

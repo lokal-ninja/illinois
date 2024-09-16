@@ -1,11 +1,11 @@
 id: 210034394
-type: way
+type: node
 latitude: 41.70648
 longitude: -87.64353
 postcode: "60643"
 city: Chicago
-street: "West 103rd Street"
-housenumber: 811
+street: West 103rd Street
+housenumber: "811"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

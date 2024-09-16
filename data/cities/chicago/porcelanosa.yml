@@ -4,8 +4,8 @@ latitude: 41.91068
 longitude: -87.65371
 postcode: "60642"
 city: Chicago
-street: "West North Avenue"
-housenumber: 1001
-phone: "+1-872-245-0120"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.porcelanosa-usa.com/"
+street: West North Avenue
+housenumber: "1001"
+phone: +1-872-245-0120
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.porcelanosa-usa.com/

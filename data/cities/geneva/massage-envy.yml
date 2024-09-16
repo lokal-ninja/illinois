@@ -1,11 +1,11 @@
 id: 1209462864
-type: way
+type: node
 latitude: 41.89075
 longitude: -88.34286
 postcode: "60134"
 city: Geneva
-street: "Commons Drive"
-housenumber: 116
-phone: "+1 630-208-0100"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://locations.massageenvy.com/illinois/geneva/116-commons-drive.html"
+street: Commons Drive
+housenumber: "116"
+phone: +1 630-208-0100
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://locations.massageenvy.com/illinois/geneva/116-commons-drive.html

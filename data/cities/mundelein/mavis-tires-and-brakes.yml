@@ -1,11 +1,11 @@
 id: 958374990
-type: way
+type: node
 latitude: 42.28567
 longitude: -88.04831
 postcode: "60060"
 city: Mundelein
-street: "West State Route 60"
-housenumber: 3242
+street: West State Route 60
+housenumber: "3242"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 440051754
-type: way
+type: node
 latitude: 41.74938
 longitude: -88.20251
 postcode: "60540"
 city: Naperville
-street: "West 75th Street"
-housenumber: 2763
-phone: "+1 630-548-1476"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://stores.dickssportinggoods.com/il/naperville/643/"
+street: West 75th Street
+housenumber: "2763"
+phone: +1 630-548-1476
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://stores.dickssportinggoods.com/il/naperville/643/

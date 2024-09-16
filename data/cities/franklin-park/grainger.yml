@@ -1,11 +1,11 @@
 id: 406779334
-type: way
+type: node
 latitude: 41.93792
 longitude: -87.88581
 postcode: "60131"
 city: Franklin Park
-street: "North Mannheim Road"
-housenumber: 3240
+street: North Mannheim Road
+housenumber: "3240"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.grainger.com/branch/Franklin-Park-Branch-156"
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.grainger.com/branch/Franklin-Park-Branch-156

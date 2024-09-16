@@ -1,11 +1,11 @@
 id: 312151462
-type: way
+type: node
 latitude: 41.76562
 longitude: -88.18809
 postcode: "60540"
 city: Naperville
-street: "Aurora Avenue"
-housenumber: 1661
-phone: "+1 630 297 4275"
+street: Aurora Avenue
+housenumber: "1661"
+phone: +1 630 297 4275
 opening_hours: ""
-website: "https://www.geraldkianaperville.com/"
+website: https://www.geraldkianaperville.com/

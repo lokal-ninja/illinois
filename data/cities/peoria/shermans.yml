@@ -1,11 +1,11 @@
 id: 63907446
-type: way
+type: node
 latitude: 40.74721
 longitude: -89.61109
 postcode: "61614"
 city: Peoria
-street: "West Glen Avenue"
-housenumber: 1215
+street: West Glen Avenue
+housenumber: "1215"
 phone: ""
 opening_hours: ""
 website: ""

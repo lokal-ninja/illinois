@@ -1,11 +1,11 @@
 id: 1015914885
-type: way
+type: node
 latitude: 38.92198
 longitude: -90.17236
 postcode: "62002"
 city: Alton
-street: "East Delmar Avenue"
-housenumber: 225
+street: East Delmar Avenue
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

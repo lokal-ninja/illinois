@@ -1,11 +1,11 @@
 id: 545930255
-type: way
+type: node
 latitude: 38.90021
 longitude: -90.05584
-postcode: "62010-1772"
+postcode: 62010-1772
 city: Bethalto
-street: "Airway Court"
-housenumber: 1
-phone: "+1 618-259-5252"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 08:00-18:00"
+street: Airway Court
+housenumber: "1"
+phone: +1 618-259-5252
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 08:00-18:00
 website: ""

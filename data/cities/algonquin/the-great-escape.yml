@@ -1,11 +1,11 @@
 id: 525849890
-type: way
+type: node
 latitude: 42.13546
 longitude: -88.33363
 postcode: "60102"
 city: Algonquin
-street: "South Randall Road"
-housenumber: 2421
-phone: "+1 847 851 8911"
+street: South Randall Road
+housenumber: "2421"
+phone: +1 847 851 8911
 opening_hours: ""
 website: ""

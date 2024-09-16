@@ -1,11 +1,11 @@
 id: 162434931
-type: way
+type: node
 latitude: 41.93436
 longitude: -87.74709
 postcode: "60641"
 city: Chicago
-street: "North Cicero Avenue"
-housenumber: 2940
+street: North Cicero Avenue
+housenumber: "2940"
 phone: ""
 opening_hours: ""
 website: ""

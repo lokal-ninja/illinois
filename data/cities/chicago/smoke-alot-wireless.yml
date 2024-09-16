@@ -4,8 +4,8 @@ latitude: 41.95368
 longitude: -87.74807
 postcode: "60641"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 4012
-phone: "+1 773 853 0048"
-opening_hours: "Mo-Su 10:00-22:00"
+street: North Milwaukee Avenue
+housenumber: "4012"
+phone: +1 773 853 0048
+opening_hours: Mo-Su 10:00-22:00
 website: ""

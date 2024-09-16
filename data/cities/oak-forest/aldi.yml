@@ -4,8 +4,8 @@ latitude: 41.58667
 longitude: -87.71974
 postcode: "60452"
 city: Oak Forest
-street: "167th Street"
-housenumber: 4250
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/oak-forest/4250-167th-st"
+street: 167th Street
+housenumber: "4250"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/oak-forest/4250-167th-st

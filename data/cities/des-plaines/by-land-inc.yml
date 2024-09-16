@@ -4,8 +4,8 @@ latitude: 42.03991
 longitude: -87.89567
 postcode: "60016"
 city: Des Plaines
-street: "1st Avenue"
-housenumber: 727
-phone: "+1 847-768-1371"
-opening_hours: "24/7"
-website: "https://www.bylandinc.com/"
+street: 1st Avenue
+housenumber: "727"
+phone: +1 847-768-1371
+opening_hours: 24/7
+website: https://www.bylandinc.com/

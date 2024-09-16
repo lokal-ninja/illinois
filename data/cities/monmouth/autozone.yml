@@ -1,11 +1,11 @@
 id: 771829198
-type: way
+type: node
 latitude: 40.92239
 longitude: -90.64755
 postcode: "61462"
 city: Monmouth
-street: "North Main Street"
-housenumber: 1007
-phone: "+1-309-734-0202"
+street: North Main Street
+housenumber: "1007"
+phone: +1-309-734-0202
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/monmouth/1007-n-main-st.html"
+website: https://www.autozone.com/locations/il/monmouth/1007-n-main-st.html

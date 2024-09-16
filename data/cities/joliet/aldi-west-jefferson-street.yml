@@ -1,11 +1,11 @@
 id: 777330993
-type: way
+type: node
 latitude: 41.52317
 longitude: -88.14697
 postcode: "60435"
 city: Joliet
-street: "West Jefferson Street"
-housenumber: 2601
-phone: "+1 833-468-7040"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/joliet/2601-w-jefferson-st"
+street: West Jefferson Street
+housenumber: "2601"
+phone: +1 833-468-7040
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/joliet/2601-w-jefferson-st

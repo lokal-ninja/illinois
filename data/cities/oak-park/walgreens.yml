@@ -1,11 +1,11 @@
 id: 450942351
-type: way
+type: node
 latitude: 41.87965
 longitude: -87.79488
 postcode: "60302"
 city: Oak Park
-street: "Madison Street"
-housenumber: 811
+street: Madison Street
+housenumber: "811"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-811+madison+st-oak+park-il-60302/id=11760"
+website: https://www.walgreens.com/locator/walgreens-811+madison+st-oak+park-il-60302/id=11760

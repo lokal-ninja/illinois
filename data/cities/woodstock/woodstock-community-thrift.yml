@@ -1,11 +1,11 @@
 id: 296110190
-type: way
+type: node
 latitude: 42.3081
 longitude: -88.43181
 postcode: "60098"
 city: Woodstock
-street: "South Eastwood Drive"
-housenumber: 780
-phone: "+1-815-334-0288"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-17:00"
+street: South Eastwood Drive
+housenumber: "780"
+phone: +1-815-334-0288
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-17:00
 website: ""

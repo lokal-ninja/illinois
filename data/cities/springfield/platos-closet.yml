@@ -4,8 +4,8 @@ latitude: 39.79525
 longitude: -89.69604
 postcode: "62704"
 city: Springfield
-street: "West Monroe Street"
-housenumber: 2333
-phone: "+1-217-698-8605"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.platoscloset.com/locations/springfield-il"
+street: West Monroe Street
+housenumber: "2333"
+phone: +1-217-698-8605
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.platoscloset.com/locations/springfield-il

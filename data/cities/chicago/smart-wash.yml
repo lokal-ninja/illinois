@@ -1,11 +1,11 @@
 id: 163522783
-type: way
+type: node
 latitude: 41.74173
 longitude: -87.72215
 postcode: "60652"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 8300
+street: South Pulaski Road
+housenumber: "8300"
 phone: ""
 opening_hours: ""
 website: ""

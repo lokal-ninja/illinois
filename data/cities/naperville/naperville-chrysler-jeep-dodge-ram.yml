@@ -1,11 +1,11 @@
 id: 544625784
-type: way
+type: node
 latitude: 41.76889
 longitude: -88.18693
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1665
+street: West Ogden Avenue
+housenumber: "1665"
 phone: ""
 opening_hours: ""
 website: ""

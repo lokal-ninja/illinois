@@ -4,8 +4,8 @@ latitude: 41.83686
 longitude: -87.66389
 postcode: "60608"
 city: Chicago
-street: "South Ashland Avenue"
-housenumber: 3145
-phone: "+1 773-523-8888"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/store-details/16228"
+street: South Ashland Avenue
+housenumber: "3145"
+phone: +1 773-523-8888
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.acehardware.com/store-details/16228

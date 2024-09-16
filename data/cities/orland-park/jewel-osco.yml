@@ -1,11 +1,11 @@
 id: 247301243
-type: way
+type: node
 latitude: 41.60408
 longitude: -87.84718
 postcode: "60462"
 city: Orland Park
-street: "West 159th Street"
-housenumber: 9350
-phone: "+1 708-403-6920"
-opening_hours: "24/7"
-website: "https://local.jewelosco.com/il/orland-park/9350-w-159th-st.html"
+street: West 159th Street
+housenumber: "9350"
+phone: +1 708-403-6920
+opening_hours: 24/7
+website: https://local.jewelosco.com/il/orland-park/9350-w-159th-st.html

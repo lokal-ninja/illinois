@@ -1,11 +1,11 @@
 id: 250880750
-type: way
+type: node
 latitude: 40.09645
 longitude: -88.2936
 postcode: "61821"
 city: Champaign
-street: "West Kirby Avenue"
-housenumber: 2821
+street: West Kirby Avenue
+housenumber: "2821"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://www.petsuppliesplus.com/CHAMPAIGN185/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://www.petsuppliesplus.com/CHAMPAIGN185/

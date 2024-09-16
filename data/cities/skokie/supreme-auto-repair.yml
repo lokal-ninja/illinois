@@ -1,11 +1,11 @@
 id: 414595519
-type: way
+type: node
 latitude: 42.04126
 longitude: -87.71765
 postcode: "60076"
 city: Skokie
-street: "Dempster Street"
-housenumber: 3550
+street: Dempster Street
+housenumber: "3550"
 phone: "+18472130573"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-14:00"
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-14:00
 website: ""

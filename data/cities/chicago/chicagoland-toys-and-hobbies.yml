@@ -1,11 +1,11 @@
 id: 163331058
-type: way
+type: node
 latitude: 41.99064
 longitude: -87.79587
 postcode: "60631"
 city: Chicago
-street: "North Northwest Highway"
-housenumber: 6017
+street: North Northwest Highway
+housenumber: "6017"
 phone: ""
 opening_hours: ""
-website: "https://chicagoland-hobby.shoplightspeed.com/"
+website: https://chicagoland-hobby.shoplightspeed.com/

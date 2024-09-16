@@ -1,11 +1,11 @@
 id: 1118966285
-type: way
+type: node
 latitude: 41.84606
 longitude: -87.75724
 postcode: "60804"
 city: Cicero
-street: "West 25th Street"
-housenumber: 
+street: West 25th Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

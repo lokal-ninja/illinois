@@ -1,11 +1,11 @@
 id: 598383155
-type: way
+type: node
 latitude: 39.98473
 longitude: -90.7605
 postcode: "62353"
 city: Mount Sterling
-street: "East Main Street"
-housenumber: 217
+street: East Main Street
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

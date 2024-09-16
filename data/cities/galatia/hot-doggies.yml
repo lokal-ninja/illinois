@@ -1,11 +1,11 @@
 id: 1070182626
-type: way
+type: node
 latitude: 37.84301
 longitude: -88.60616
 postcode: "62935"
 city: Galatia
-street: "East Walker Avenue"
-housenumber: 409
-phone: "+1-618-268-4400"
+street: East Walker Avenue
+housenumber: "409"
+phone: +1-618-268-4400
 opening_hours: ""
 website: ""

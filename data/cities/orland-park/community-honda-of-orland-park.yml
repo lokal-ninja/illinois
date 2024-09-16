@@ -1,11 +1,11 @@
 id: 1190525271
-type: way
+type: node
 latitude: 41.6028
 longitude: -87.82278
 postcode: "60462"
 city: Orland Park
-street: "West 159th Street"
-housenumber: 8340
+street: West 159th Street
+housenumber: "8340"
 phone: ""
 opening_hours: ""
-website: "https://www.communityhonda.com"
+website: https://www.communityhonda.com

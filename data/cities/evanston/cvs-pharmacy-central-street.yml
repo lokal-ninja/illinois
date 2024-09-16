@@ -1,11 +1,11 @@
 id: 400922302
-type: way
+type: node
 latitude: 42.06513
 longitude: -87.72725
 postcode: "60201"
 city: Evanston
-street: "Central Street"
-housenumber: 3333
+street: Central Street
+housenumber: "3333"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/evanston-il-pharmacies/3333-central-street-evanston-il-60201/storeid=8760"
+website: https://www.cvs.com/store-locator/evanston-il-pharmacies/3333-central-street-evanston-il-60201/storeid=8760

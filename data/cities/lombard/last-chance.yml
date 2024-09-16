@@ -1,11 +1,11 @@
 id: 1121098238
-type: way
+type: node
 latitude: 41.83895
 longitude: -88.00889
 postcode: "60148"
 city: Lombard
-street: "Yorktown Shopping Center Rd"
-housenumber: 100
-phone: "+1 630 599 2011"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.nordstromrack.com/us/il/lombard/100-yorktown-shopping-center"
+street: Yorktown Shopping Center Rd
+housenumber: "100"
+phone: +1 630 599 2011
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.nordstromrack.com/us/il/lombard/100-yorktown-shopping-center

@@ -1,11 +1,11 @@
 id: 551526259
-type: way
+type: node
 latitude: 38.73192
 longitude: -89.90072
 postcode: "62294"
 city: Troy
-street: "Edwardsville Road"
-housenumber: 608
-phone: "+1 618-667-9961"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00"
+street: Edwardsville Road
+housenumber: "608"
+phone: +1 618-667-9961
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00
 website: ""

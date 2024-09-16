@@ -1,11 +1,11 @@
 id: 767813405
-type: way
+type: node
 latitude: 38.87808
 longitude: -90.10629
 postcode: "62024"
 city: East Alton
-street: "East St Louis Avenue"
-housenumber: 165
-phone: "+1-618-251-8255"
+street: East St Louis Avenue
+housenumber: "165"
+phone: +1-618-251-8255
 opening_hours: ""
-website: "www.modifiedautosound.com/"
+website: www.modifiedautosound.com/

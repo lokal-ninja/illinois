@@ -4,8 +4,8 @@ latitude: 42.33898
 longitude: -87.88844
 postcode: "60085"
 city: Waukegan
-street: "South Northpoint Boulevard"
-housenumber: 1121
-phone: "+1-800-463-3339"
-opening_hours: "Mo-Fr 08:00-20:30; Sa 09:00-17:00; Su closed"
-website: "https://local.fedex.com/il/waukegan/FEPA/"
+street: South Northpoint Boulevard
+housenumber: "1121"
+phone: +1-800-463-3339
+opening_hours: Mo-Fr 08:00-20:30; Sa 09:00-17:00; Su closed
+website: https://local.fedex.com/il/waukegan/FEPA/

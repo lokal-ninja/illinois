@@ -1,11 +1,12 @@
 id: 448042720
-type: way
+type: node
 latitude: 42.28973
 longitude: -88.43162
 postcode: "60098"
 city: Woodstock
-street: "South Eastwood Drive"
-housenumber: 2235
-phone: "+1 815 3373511"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-17:00; Su 11:00-16:00; PH off"
-website: "https://www.woodstock-ktm.com/"
+street: South Eastwood Drive
+housenumber: "2235"
+phone: +1 815 3373511
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-17:00; Su 11:00-16:00;
+    PH off
+website: https://www.woodstock-ktm.com/

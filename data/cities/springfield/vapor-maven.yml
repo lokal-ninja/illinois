@@ -4,8 +4,8 @@ latitude: 39.76727
 longitude: -89.64937
 postcode: "62703"
 city: Springfield
-street: "South 5th Street"
-housenumber: 2670
+street: South 5th Street
+housenumber: "2670"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://vapormaven.com/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://vapormaven.com/

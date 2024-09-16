@@ -1,11 +1,11 @@
 id: 631563931
-type: way
+type: node
 latitude: 40.87063
 longitude: -88.86106
 postcode: "61740"
 city: Flanagan
-street: "E Falcon Highway"
-housenumber: 101
+street: E Falcon Highway
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

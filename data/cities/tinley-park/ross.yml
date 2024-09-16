@@ -1,11 +1,11 @@
 id: 551422858
-type: way
+type: node
 latitude: 41.5484
 longitude: -87.79456
 postcode: "60487"
 city: Tinley Park
-street: "191st Street"
-housenumber: 7290
-phone: "+1 815-464-1282"
-opening_hours: "Mo-Th 09:30-21:30; Fr-Sa 09:00-21:30; Su 10:00-21:00"
+street: 191st Street
+housenumber: "7290"
+phone: +1 815-464-1282
+opening_hours: Mo-Th 09:30-21:30; Fr-Sa 09:00-21:30; Su 10:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 331958749
-type: way
+type: node
 latitude: 42.23653
 longitude: -87.9933
 postcode: "60060"
 city: Mundelein
-street: "East US Highway 45"
-housenumber: 700
+street: East US Highway 45
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

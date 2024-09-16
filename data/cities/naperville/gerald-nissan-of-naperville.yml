@@ -1,11 +1,11 @@
 id: 312151465
-type: way
+type: node
 latitude: 41.76733
 longitude: -88.18787
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1575
-phone: "+1-877-576-9291"
+street: West Ogden Avenue
+housenumber: "1575"
+phone: +1-877-576-9291
 opening_hours: ""
-website: "https://www.geraldnissannaperville.com/"
+website: https://www.geraldnissannaperville.com/

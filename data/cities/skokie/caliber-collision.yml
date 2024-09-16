@@ -1,11 +1,11 @@
 id: 203683260
-type: way
+type: node
 latitude: 42.01945
 longitude: -87.77657
 postcode: "60077"
 city: Skokie
-street: "Howard Street"
-housenumber: 5950
+street: Howard Street
+housenumber: "5950"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 590558144
-type: way
+type: node
 latitude: 41.60277
 longitude: -87.79488
 postcode: "60462"
 city: Orland Park
-street: "West 159th Street"
-housenumber: 7202
-phone: "+1 708 429 7220"
-opening_hours: "Su-Th 10:00-22:00; Fr-Sa 10:00-23:00"
-website: "https://www.oberweis.com/ice-cream-and-dairy-stores/Orland%20Park"
+street: West 159th Street
+housenumber: "7202"
+phone: +1 708 429 7220
+opening_hours: Su-Th 10:00-22:00; Fr-Sa 10:00-23:00
+website: https://www.oberweis.com/ice-cream-and-dairy-stores/Orland%20Park

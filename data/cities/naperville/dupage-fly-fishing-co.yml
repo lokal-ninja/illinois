@@ -1,11 +1,12 @@
 id: 993474299
-type: way
+type: node
 latitude: 41.7974
 longitude: -88.11788
 postcode: "60563"
 city: Naperville
-street: "Naper Boulevard"
-housenumber: 1512
-phone: "+1 630 857 3468"
-opening_hours: "Mo by appointment only; Tu, We 10:00-18:00; Th, Fr 10:00-19:00; Sa, Su 10:00-17:00"
-website: "https://www.dupagefly.com/"
+street: Naper Boulevard
+housenumber: "1512"
+phone: +1 630 857 3468
+opening_hours: Mo "by appointment only"; Tu, We 10:00-18:00; Th, Fr 10:00-19:00; Sa,
+    Su 10:00-17:00
+website: https://www.dupagefly.com/

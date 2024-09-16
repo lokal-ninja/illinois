@@ -1,11 +1,11 @@
 id: 852221125
-type: way
+type: node
 latitude: 41.76816
 longitude: -88.20674
 postcode: "60504"
 city: Aurora
-street: "North Illinois Route 59"
-housenumber: 818
+street: North Illinois Route 59
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

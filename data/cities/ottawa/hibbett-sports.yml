@@ -1,11 +1,11 @@
 id: 871723278
-type: way
+type: node
 latitude: 41.37057
 longitude: -88.83518
 postcode: "61350"
 city: Ottawa
-street: "Columbus Street"
-housenumber: 2740
+street: Columbus Street
+housenumber: "2740"
 phone: ""
 opening_hours: ""
-website: "https://www.hibbett.com/storedetails/IL/Ottawa/1101"
+website: https://www.hibbett.com/storedetails/IL/Ottawa/1101

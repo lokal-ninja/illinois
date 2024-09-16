@@ -1,11 +1,11 @@
 id: 255978152
-type: way
+type: node
 latitude: 41.76463
 longitude: -88.19738
 postcode: "60540"
 city: Naperville
-street: "Fort Hill Drive"
-housenumber: 539
+street: Fort Hill Drive
+housenumber: "539"
 phone: ""
 opening_hours: ""
-website: "https://www.amazinggoodwill.com/"
+website: https://www.amazinggoodwill.com/

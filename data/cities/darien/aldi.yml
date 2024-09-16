@@ -1,11 +1,11 @@
 id: 547783941
-type: way
+type: node
 latitude: 41.7505
 longitude: -88.00192
 postcode: "60561"
 city: Darien
-street: "75th Street"
-housenumber: 2251
-phone: "+1 833-440-1080"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/darien/2251-75th-st"
+street: 75th Street
+housenumber: "2251"
+phone: +1 833-440-1080
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/darien/2251-75th-st

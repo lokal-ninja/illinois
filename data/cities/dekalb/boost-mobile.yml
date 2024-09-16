@@ -1,11 +1,11 @@
 id: 1218659241
-type: way
+type: node
 latitude: 41.94552
 longitude: -88.73327
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 1738
-phone: "+1 815-517-1137"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.boostmobile.com/locations/bd/boost-mobile-il-dekalb-1738-sycamore-road-60115/"
+street: Sycamore Road
+housenumber: "1738"
+phone: +1 815-517-1137
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.boostmobile.com/locations/bd/boost-mobile-il-dekalb-1738-sycamore-road-60115/

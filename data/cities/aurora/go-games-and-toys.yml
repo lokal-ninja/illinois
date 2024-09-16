@@ -1,11 +1,11 @@
 id: 977469362
-type: way
+type: node
 latitude: 41.80026
 longitude: -88.27353
 postcode: "60502"
 city: Aurora
-street: "Premium Outlets Boulevard"
-housenumber: 1650
-phone: "+1 331 212 4561"
+street: Premium Outlets Boulevard
+housenumber: "1650"
+phone: +1 331 212 4561
 opening_hours: ""
 website: ""

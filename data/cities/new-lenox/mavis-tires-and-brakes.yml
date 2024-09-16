@@ -1,11 +1,11 @@
 id: 995791070
-type: way
+type: node
 latitude: 41.50833
 longitude: -87.91822
 postcode: "60451"
 city: New Lenox
-street: "Lincoln Highway"
-housenumber: 2460
-phone: "+1 815-242-7438"
+street: Lincoln Highway
+housenumber: "2460"
+phone: +1 815-242-7438
 opening_hours: ""
-website: "https://www.mavistire.com/locations/new-lenox-il.asp"
+website: https://www.mavistire.com/locations/new-lenox-il.asp

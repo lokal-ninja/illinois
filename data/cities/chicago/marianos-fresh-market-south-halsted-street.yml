@@ -1,11 +1,11 @@
 id: 220950832
-type: way
+type: node
 latitude: 41.88128
 longitude: -87.64748
 postcode: "60607"
 city: Chicago
-street: "South Halsted Street"
-housenumber: 40
+street: South Halsted Street
+housenumber: "40"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

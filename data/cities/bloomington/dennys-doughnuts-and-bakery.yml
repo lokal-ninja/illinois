@@ -1,11 +1,11 @@
 id: 1312064077
-type: way
+type: node
 latitude: 40.46927
 longitude: -88.99366
 postcode: ""
 city: Bloomington
-street: "South Main Street"
-housenumber: 1107
+street: South Main Street
+housenumber: "1107"
 phone: ""
-opening_hours: "Mo-Sa 06:00-16:00; Su 06:00-14:00"
+opening_hours: Mo-Sa 06:00-16:00; Su 06:00-14:00
 website: ""

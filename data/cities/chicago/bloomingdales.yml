@@ -1,11 +1,11 @@
 id: 1283045519
-type: way
+type: node
 latitude: 41.89989
 longitude: -87.62512
 postcode: "60611"
 city: Chicago
-street: "North Michigan Avenue"
-housenumber: 900
+street: North Michigan Avenue
+housenumber: "900"
 phone: ""
 opening_hours: ""
-website: "https://locations.bloomingdales.com/north-michigan-avenue"
+website: https://locations.bloomingdales.com/north-michigan-avenue

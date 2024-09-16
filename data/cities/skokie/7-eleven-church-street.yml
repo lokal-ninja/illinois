@@ -1,11 +1,11 @@
 id: 424242770
-type: way
+type: node
 latitude: 42.04774
 longitude: -87.71496
 postcode: "60203"
 city: Skokie
-street: "Church Street"
-housenumber: 3441
-phone: "+1 847-679-0788"
+street: Church Street
+housenumber: "3441"
+phone: +1 847-679-0788
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/evanston/3441-w-church-st-16979"
+website: https://www.7-eleven.com/locations/il/evanston/3441-w-church-st-16979

@@ -1,11 +1,11 @@
 id: 949950681
-type: way
+type: node
 latitude: 40.75398
 longitude: -89.56149
 postcode: "61616"
 city: Peoria Heights
-street: "North Galena Road"
-housenumber: 5406
+street: North Galena Road
+housenumber: "5406"
 phone: ""
 opening_hours: ""
-website: "https://nationalmarinesales.com/"
+website: https://nationalmarinesales.com/

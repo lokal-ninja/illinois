@@ -1,11 +1,11 @@
 id: 217502243
-type: way
+type: node
 latitude: 42.49111
 longitude: -88.99961
 postcode: "61080"
 city: South Beloit
-street: "Gardner Street"
-housenumber: 6070
-phone: "+1 815-264-4311"
-opening_hours: "24/7"
-website: "https://www.roadrangerusa.com/"
+street: Gardner Street
+housenumber: "6070"
+phone: +1 815-264-4311
+opening_hours: 24/7
+website: https://www.roadrangerusa.com/

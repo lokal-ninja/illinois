@@ -4,8 +4,8 @@ latitude: 41.89095
 longitude: -87.65426
 postcode: "60642"
 city: Chicago
-street: "West Grand Avenue"
-housenumber: 1053
-phone: "+1-312-733-9780"
-opening_hours: "Mo 09:00-20:00; Tu-Th 10:00-20:00; Fr-Sa 09:00-20:00; Su off"
-website: "https://www.tesla.com/findus/location/service/chicagograndave"
+street: West Grand Avenue
+housenumber: "1053"
+phone: +1-312-733-9780
+opening_hours: Mo 09:00-20:00; Tu-Th 10:00-20:00; Fr-Sa 09:00-20:00; Su off
+website: https://www.tesla.com/findus/location/service/chicagograndave

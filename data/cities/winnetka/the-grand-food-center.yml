@@ -1,11 +1,11 @@
 id: 597589604
-type: way
+type: node
 latitude: 42.10817
 longitude: -87.7362
 postcode: "60093"
 city: Winnetka
-street: "Green Bay Road"
-housenumber: 606
+street: Green Bay Road
+housenumber: "606"
 phone: ""
 opening_hours: ""
-website: "https://grandfoodcenter.com/"
+website: https://grandfoodcenter.com/

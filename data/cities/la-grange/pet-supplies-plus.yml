@@ -1,11 +1,11 @@
 id: 348042820
-type: way
+type: node
 latitude: 41.81683
 longitude: -87.86953
-postcode: "60525-2047"
+postcode: 60525-2047
 city: La Grange
-street: "North La Grange Road"
-housenumber: 15
-phone: "+1-708-603-2139"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://www.petsuppliesplus.com/store/il/la-grange/4457-la-grange/4457"
+street: North La Grange Road
+housenumber: "15"
+phone: +1-708-603-2139
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://www.petsuppliesplus.com/store/il/la-grange/4457-la-grange/4457

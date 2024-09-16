@@ -1,11 +1,11 @@
 id: 413215345
-type: way
+type: node
 latitude: 42.15369
 longitude: -88.33394
 postcode: "60102"
 city: Algonquin
-street: "North County Line Road"
-housenumber: 2391
-phone: "+1-847-458-0545"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-18:00"
-website: "https://stores.joann.com/il/algonquin/2465/"
+street: North County Line Road
+housenumber: "2391"
+phone: +1-847-458-0545
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-18:00
+website: https://stores.joann.com/il/algonquin/2465/

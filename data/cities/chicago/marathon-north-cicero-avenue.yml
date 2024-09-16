@@ -1,11 +1,11 @@
 id: 162805269
-type: way
+type: node
 latitude: 41.97558
 longitude: -87.74838
 postcode: "60630"
 city: Chicago
-street: "North Cicero Avenue"
-housenumber: 5200
+street: North Cicero Avenue
+housenumber: "5200"
 phone: ""
 opening_hours: ""
 website: ""

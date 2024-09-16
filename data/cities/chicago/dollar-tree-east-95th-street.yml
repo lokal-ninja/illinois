@@ -1,11 +1,11 @@
 id: 211276758
-type: way
+type: node
 latitude: 41.72211
 longitude: -87.575
 postcode: "60617"
 city: Chicago
-street: "East 95th Street"
-housenumber: 2011
-phone: "773-437-1381"
+street: East 95th Street
+housenumber: "2011"
+phone: 773-437-1381
 opening_hours: ""
-website: "https://www.dollartree.com/locations/IL/chicago/9127/"
+website: https://www.dollartree.com/locations/IL/chicago/9127/

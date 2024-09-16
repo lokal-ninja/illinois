@@ -1,11 +1,11 @@
 id: 319700403
-type: way
+type: node
 latitude: 41.81313
 longitude: -89.64945
 postcode: "61081"
 city: Sterling
-street: "East Lincolnway"
-housenumber: 3913
-phone: "+1-815-625-9028"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 09:00-18:00"
-website: "https://www.farmandfleet.com/stores/il/sterling/"
+street: East Lincolnway
+housenumber: "3913"
+phone: +1-815-625-9028
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 09:00-18:00
+website: https://www.farmandfleet.com/stores/il/sterling/

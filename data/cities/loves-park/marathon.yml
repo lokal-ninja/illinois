@@ -1,11 +1,11 @@
 id: 767525932
-type: way
+type: node
 latitude: 42.31648
 longitude: -89.05709
 postcode: "61111"
 city: Loves Park
-street: "North 2nd Street"
-housenumber: 5905
-phone: "+1-815-955-3162"
+street: North 2nd Street
+housenumber: "5905"
+phone: +1-815-955-3162
 opening_hours: ""
-website: "https://www.marathonbrand.com/"
+website: https://www.marathonbrand.com/

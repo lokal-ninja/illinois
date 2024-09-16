@@ -1,11 +1,11 @@
 id: 148935732
-type: way
+type: node
 latitude: 41.8015
 longitude: -87.58844
 postcode: "60615"
 city: Chicago
-street: "South Lake Park Avenue"
-housenumber: 5130
+street: South Lake Park Avenue
+housenumber: "5130"
 phone: ""
 opening_hours: ""
 website: ""

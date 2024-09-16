@@ -1,11 +1,11 @@
 id: 1272616198
-type: way
+type: node
 latitude: 41.58963
 longitude: -87.56158
 postcode: "60409"
 city: Calumet City
-street: "Torrence Avenue"
-housenumber: 1550
-phone: "+1 708-730-9100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/calumet-city/il/calumet-city/60409/1909"
+street: Torrence Avenue
+housenumber: "1550"
+phone: +1 708-730-9100
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/calumet-city/il/calumet-city/60409/1909

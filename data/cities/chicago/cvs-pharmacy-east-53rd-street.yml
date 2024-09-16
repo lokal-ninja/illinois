@@ -1,11 +1,11 @@
 id: 144008984
-type: way
+type: node
 latitude: 41.79999
 longitude: -87.59486
 postcode: "60615"
 city: Chicago
-street: "East 53rd Street"
-housenumber: 1228
+street: East 53rd Street
+housenumber: "1228"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cvs-pharmacy-address/1228+East+53rd+Street-Chicago-IL-60637/storeid=5836/"
+website: https://www.cvs.com/store-locator/cvs-pharmacy-address/1228+East+53rd+Street-Chicago-IL-60637/storeid=5836/

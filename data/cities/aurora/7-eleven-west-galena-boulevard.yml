@@ -1,11 +1,11 @@
 id: 824074126
-type: way
+type: node
 latitude: 41.76418
 longitude: -88.36811
 postcode: "60506"
 city: Aurora
-street: "West Galena Boulevard"
-housenumber: 2130
-phone: "+1 630-844-1711"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/il/aurora/2130-w-galena-blvd-32334"
+street: West Galena Boulevard
+housenumber: "2130"
+phone: +1 630-844-1711
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/il/aurora/2130-w-galena-blvd-32334

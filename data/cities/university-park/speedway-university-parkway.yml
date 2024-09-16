@@ -1,11 +1,11 @@
 id: 1025857166
-type: way
+type: node
 latitude: 41.45588
 longitude: -87.72593
 postcode: "60484"
 city: University Park
-street: "University Parkway"
-housenumber: 2001
-phone: "+1 708 534 0651"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/store/7610"
+street: University Parkway
+housenumber: "2001"
+phone: +1 708 534 0651
+opening_hours: 24/7
+website: https://www.speedway.com/locations/store/7610

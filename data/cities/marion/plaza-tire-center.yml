@@ -1,11 +1,11 @@
 id: 427323811
-type: way
+type: node
 latitude: 37.74043
 longitude: -88.93957
 postcode: "62959"
 city: Marion
-street: "Enterprise Way"
-housenumber: 1207
+street: Enterprise Way
+housenumber: "1207"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1224666426
-type: way
+type: node
 latitude: 41.60091
 longitude: -87.78912
 postcode: "60477"
 city: Tinley Park
-street: "159th Street"
-housenumber: 6851
+street: 159th Street
+housenumber: "6851"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3086"
+website: https://www.menards.com/store-details/store.html?store=3086

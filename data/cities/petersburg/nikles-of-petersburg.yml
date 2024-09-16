@@ -1,11 +1,11 @@
 id: 1052112678
-type: way
+type: node
 latitude: 40.00923
 longitude: -89.84823
 postcode: "62675"
 city: Petersburg
-street: "South 6th Street"
-housenumber: 300
+street: South 6th Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

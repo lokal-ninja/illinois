@@ -1,11 +1,11 @@
 id: 1013386951
-type: way
+type: node
 latitude: 41.80849
 longitude: -89.9655
 postcode: "61270"
 city: Morrison
-street: "East Market Street"
-housenumber: 201
+street: East Market Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 210329577
-type: way
+type: node
 latitude: 41.94475
 longitude: -87.6544
 postcode: "60657"
 city: Chicago
-street: "North Clark Street"
-housenumber: 3455
+street: North Clark Street
+housenumber: "3455"
 phone: ""
 opening_hours: ""
 website: ""

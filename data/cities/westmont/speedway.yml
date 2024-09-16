@@ -1,11 +1,11 @@
 id: 1028823490
-type: way
+type: node
 latitude: 41.77515
 longitude: -87.97402
 postcode: "60559"
 city: Westmont
-street: "South Cass Avenue"
-housenumber: 6241
+street: South Cass Avenue
+housenumber: "6241"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Westmont/6241-South-Cass-Avenue"
+website: https://www.speedway.com/locations/IL/Westmont/6241-South-Cass-Avenue

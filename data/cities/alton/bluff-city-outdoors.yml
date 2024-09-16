@@ -1,11 +1,11 @@
 id: 1030911921
-type: way
+type: node
 latitude: 38.88703
 longitude: -90.14246
 postcode: "62002"
 city: Alton
-street: "East Broadway"
-housenumber: 2813
+street: East Broadway
+housenumber: "2813"
 phone: ""
 opening_hours: ""
 website: ""

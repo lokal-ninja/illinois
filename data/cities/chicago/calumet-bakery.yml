@@ -1,11 +1,11 @@
 id: 211271465
-type: way
+type: node
 latitude: 41.70288
 longitude: -87.5627
 postcode: "60617"
 city: Chicago
-street: "East 106th Street"
-housenumber: 2510
-phone: "+1-773-721-3747"
+street: East 106th Street
+housenumber: "2510"
+phone: +1-773-721-3747
 opening_hours: ""
-website: "https://calumetbakery.com/"
+website: https://calumetbakery.com/

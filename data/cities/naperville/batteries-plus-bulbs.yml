@@ -1,11 +1,11 @@
 id: 984801693
-type: way
+type: node
 latitude: 41.78669
 longitude: -88.14604
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 121
-phone: "+1 630 355 6822"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-17:00"
-website: "https://www.batteriesplus.com/store-locator/il/naperville/batteries-plus-281"
+street: East Ogden Avenue
+housenumber: "121"
+phone: +1 630 355 6822
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-17:00
+website: https://www.batteriesplus.com/store-locator/il/naperville/batteries-plus-281

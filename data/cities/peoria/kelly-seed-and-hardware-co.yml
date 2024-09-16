@@ -1,11 +1,11 @@
 id: 64494144
-type: way
+type: node
 latitude: 40.69186
 longitude: -89.58722
 postcode: "61602"
 city: Peoria
-street: "Hamilton Boulevard"
-housenumber: 202
-phone: "+1-309-674-0368"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-15:00"
-website: "https://kellyseedco.com/"
+street: Hamilton Boulevard
+housenumber: "202"
+phone: +1-309-674-0368
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-15:00
+website: https://kellyseedco.com/

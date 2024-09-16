@@ -1,11 +1,11 @@
 id: 162433707
-type: way
+type: node
 latitude: 41.92437
 longitude: -87.74694
 postcode: "60639"
 city: Chicago
-street: "West Fullerton Avenue"
-housenumber: 4800
+street: West Fullerton Avenue
+housenumber: "4800"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/chicago/4475/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/chicago/4475/

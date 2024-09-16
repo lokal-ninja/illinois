@@ -1,11 +1,11 @@
 id: 1006557705
-type: way
+type: node
 latitude: 38.77507
 longitude: -89.95724
 postcode: "62034"
 city: Glen Carbon
-street: "South State Route 159"
-housenumber: 3903
-phone: "+1-618-391-0072"
+street: South State Route 159
+housenumber: "3903"
+phone: +1-618-391-0072
 opening_hours: ""
-website: "https://www.midas.com/store/il/glen-carbon/3903-s-state-route-159-62034?shopnum=2214"
+website: https://www.midas.com/store/il/glen-carbon/3903-s-state-route-159-62034?shopnum=2214

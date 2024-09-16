@@ -1,11 +1,11 @@
 id: 201985976
-type: way
+type: node
 latitude: 42.31581
 longitude: -89.05827
 postcode: "61111"
 city: Loves Park
-street: "North 2nd Street"
-housenumber: 5818
-phone: "+1-815-708-0981"
+street: North 2nd Street
+housenumber: "5818"
+phone: +1-815-708-0981
 opening_hours: ""
-website: "https://www.rickhertermotors.com/"
+website: https://www.rickhertermotors.com/

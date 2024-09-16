@@ -1,11 +1,11 @@
 id: 1307543821
-type: way
+type: node
 latitude: 42.02669
 longitude: -87.72392
 postcode: "60076"
 city: Skokie
-street: "Oakton Street"
-housenumber: 3800
+street: Oakton Street
+housenumber: "3800"
 phone: ""
 opening_hours: ""
-website: "https://map.bp.com/en-US/US/gas-station/skokie/bp/40417380488006007600100000000000"
+website: https://map.bp.com/en-US/US/gas-station/skokie/bp/40417380488006007600100000000000

@@ -1,11 +1,11 @@
 id: 552133363
-type: way
+type: node
 latitude: 41.80635
 longitude: -89.95559
 postcode: "61270"
 city: Morrison
-street: "East Lincoln Way"
-housenumber: 611
+street: East Lincoln Way
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

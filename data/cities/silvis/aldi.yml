@@ -1,11 +1,11 @@
 id: 545184850
-type: way
+type: node
 latitude: 41.4978
 longitude: -90.40493
 postcode: "61282"
 city: Silvis
-street: "18th Street"
-housenumber: 1210
-phone: "+1 833-468-1084"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/silvis/1210-18th-street"
+street: 18th Street
+housenumber: "1210"
+phone: +1 833-468-1084
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/silvis/1210-18th-street

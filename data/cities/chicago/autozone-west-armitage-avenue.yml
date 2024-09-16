@@ -1,11 +1,11 @@
 id: 285244695
-type: way
+type: node
 latitude: 41.91743
 longitude: -87.71238
 postcode: "60647"
 city: Chicago
-street: "West Armitage Avenue"
-housenumber: 3408
+street: West Armitage Avenue
+housenumber: "3408"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/3408-w-armitage-ave.html"
+website: https://www.autozone.com/locations/il/chicago/3408-w-armitage-ave.html

@@ -1,11 +1,11 @@
 id: 546424234
-type: way
+type: node
 latitude: 40.10933
 longitude: -88.24428
 postcode: "61821"
 city: Champaign
-street: "South Neil Street"
-housenumber: 614
-phone: "+1 217 3524801"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://starcrestcleaners.com/"
+street: South Neil Street
+housenumber: "614"
+phone: +1 217 3524801
+opening_hours: Mo-Su 07:00-23:00
+website: https://starcrestcleaners.com/

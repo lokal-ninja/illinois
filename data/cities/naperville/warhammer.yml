@@ -1,11 +1,11 @@
 id: 1028828047
-type: way
+type: node
 latitude: 41.68143
 longitude: -88.20543
 postcode: "60564"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 4931
-phone: "+1 630 305 3180"
+street: South Illinois Route 59
+housenumber: "4931"
+phone: +1 630 305 3180
 opening_hours: ""
-website: "https://www.games-workshop.com/en-US/Warhammer-Naperville"
+website: https://www.games-workshop.com/en-US/Warhammer-Naperville

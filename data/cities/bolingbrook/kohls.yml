@@ -1,11 +1,11 @@
 id: 69645720
-type: way
+type: node
 latitude: 41.70522
 longitude: -88.11926
 postcode: "60440"
 city: Bolingbrook
-street: "West Boughton Road"
-housenumber: 1138
-phone: "+1 630-759-9883"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/bolingbrook-19.shtml"
+street: West Boughton Road
+housenumber: "1138"
+phone: +1 630-759-9883
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/bolingbrook-19.shtml

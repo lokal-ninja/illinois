@@ -1,11 +1,11 @@
 id: 210694861
-type: way
+type: node
 latitude: 41.68474
 longitude: -87.61523
 postcode: "60628"
 city: Chicago
-street: "East 115th Street"
-housenumber: 303
+street: East 115th Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

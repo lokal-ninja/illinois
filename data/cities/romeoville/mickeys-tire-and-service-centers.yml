@@ -1,11 +1,11 @@
 id: 315995396
-type: way
+type: node
 latitude: 41.65439
 longitude: -88.0833
 postcode: "60446"
 city: Romeoville
-street: "Normantown Road"
-housenumber: 49
-phone: "+1 815 8860300"
+street: Normantown Road
+housenumber: "49"
+phone: +1 815 8860300
 opening_hours: ""
-website: "http://www.mickeysgoodyear.com"
+website: http://www.mickeysgoodyear.com

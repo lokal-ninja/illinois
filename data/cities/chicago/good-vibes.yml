@@ -4,8 +4,8 @@ latitude: 41.84617
 longitude: -87.70414
 postcode: "60623"
 city: Chicago
-street: "West 25th Street"
-housenumber: 3125
-phone: "+1-773-407-3256"
-opening_hours: "Mo-Su 11:00-20:00"
+street: West 25th Street
+housenumber: "3125"
+phone: +1-773-407-3256
+opening_hours: Mo-Su 11:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 245340100
-type: way
+type: node
 latitude: 40.11208
 longitude: -88.23838
 postcode: "61820"
 city: Champaign
-street: "East Springfield Avenue"
-housenumber: 
-phone: "+1 217 3982922"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.amkogrocery.com/"
+street: East Springfield Avenue
+housenumber: ""
+phone: +1 217 3982922
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.amkogrocery.com/

@@ -1,11 +1,11 @@
 id: 210534266
-type: way
+type: node
 latitude: 41.83431
 longitude: -87.64119
 postcode: "60616"
 city: Chicago
-street: "South Wallace Street"
-housenumber: 3301
+street: South Wallace Street
+housenumber: "3301"
 phone: ""
 opening_hours: ""
-website: "https://stores.truevalue.com/il/chicago/1591/"
+website: https://stores.truevalue.com/il/chicago/1591/

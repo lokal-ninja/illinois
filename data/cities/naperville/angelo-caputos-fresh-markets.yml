@@ -1,11 +1,11 @@
 id: 658294816
-type: way
+type: node
 latitude: 41.6812
 longitude: -88.20851
 postcode: "60564"
 city: Naperville
-street: "111th Street"
-housenumber: 3115
-phone: "+1 630 579 3300"
-opening_hours: "Mo-Su 06:00-21:30"
-website: "https://www.shopcaputos.com/shop/storeInfo/CaputosNaperville"
+street: 111th Street
+housenumber: "3115"
+phone: +1 630 579 3300
+opening_hours: Mo-Su 06:00-21:30
+website: https://www.shopcaputos.com/shop/storeInfo/CaputosNaperville

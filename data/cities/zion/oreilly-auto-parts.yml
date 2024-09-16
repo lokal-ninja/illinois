@@ -1,11 +1,11 @@
 id: 966635047
-type: way
+type: node
 latitude: 42.45862
 longitude: -87.82474
 postcode: "60099"
 city: Zion
-street: "Sheridan Road"
-housenumber: 2003
+street: Sheridan Road
+housenumber: "2003"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/zion/autoparts-4791.html"
+website: https://locations.oreillyauto.com/il/zion/autoparts-4791.html

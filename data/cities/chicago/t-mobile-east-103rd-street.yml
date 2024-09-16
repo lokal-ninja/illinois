@@ -1,11 +1,11 @@
 id: 210700969
-type: way
+type: node
 latitude: 41.7074
 longitude: -87.61604
 postcode: "60628"
 city: Chicago
-street: "East 103rd Street"
-housenumber: 300
+street: East 103rd Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

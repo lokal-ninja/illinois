@@ -1,11 +1,11 @@
 id: 909609561
-type: way
+type: node
 latitude: 41.74913
 longitude: -87.80131
 postcode: "60455"
 city: Bridgeview
-street: "Harlem Avenue"
-housenumber: 7802
-phone: "+1 833-462-1013"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-20:00"
-website: "https://stores.aldi.us/il/bridgeview/7802-s-harlem-ave"
+street: Harlem Avenue
+housenumber: "7802"
+phone: +1 833-462-1013
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-20:00
+website: https://stores.aldi.us/il/bridgeview/7802-s-harlem-ave

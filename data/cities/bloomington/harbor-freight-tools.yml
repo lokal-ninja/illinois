@@ -1,11 +1,11 @@
 id: 1241458297
-type: way
+type: node
 latitude: 40.48913
 longitude: -88.96141
 postcode: "61701"
 city: Bloomington
-street: "East Empire Street"
-housenumber: 1344
-phone: "+1 309-661-0221"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1344-e-empire-street-bloomington-61701?number=813"
+street: East Empire Street
+housenumber: "1344"
+phone: +1 309-661-0221
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1344-e-empire-street-bloomington-61701?number=813

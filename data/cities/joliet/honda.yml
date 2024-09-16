@@ -1,11 +1,11 @@
 id: 430113543
-type: way
+type: node
 latitude: 41.58209
 longitude: -88.16343
 postcode: "60431"
 city: Joliet
-street: "Norman Avenue"
-housenumber: 3225
+street: Norman Avenue
+housenumber: "3225"
 phone: ""
 opening_hours: ""
 website: ""

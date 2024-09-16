@@ -1,11 +1,11 @@
 id: 1155323308
-type: way
+type: node
 latitude: 41.85768
 longitude: -87.79394
 postcode: "60402"
 city: Berwyn
-street: "Oak Park Avenue"
-housenumber: 1600
+street: Oak Park Avenue
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

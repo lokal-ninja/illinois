@@ -1,11 +1,11 @@
 id: 467582920
-type: way
+type: node
 latitude: 41.91183
 longitude: -88.34098
 postcode: "60175"
 city: St. Charles
-street: "West Main Street"
-housenumber: 2225
-phone: "+1-630-338-0877"
+street: West Main Street
+housenumber: "2225"
+phone: +1-630-338-0877
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 967108923
-type: way
+type: node
 latitude: 41.9372
 longitude: -89.06772
 postcode: "61068"
 city: Rochelle
-street: "North Seventh Street"
-housenumber: 1251
-phone: "+1 833-440-1039"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/rochelle/1251-n-seventh-st"
+street: North Seventh Street
+housenumber: "1251"
+phone: +1 833-440-1039
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/rochelle/1251-n-seventh-st

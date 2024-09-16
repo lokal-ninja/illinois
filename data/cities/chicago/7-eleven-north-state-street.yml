@@ -4,8 +4,8 @@ latitude: 41.88993
 longitude: -87.62815
 postcode: "60654"
 city: Chicago
-street: "North State Street"
-housenumber: 418
-phone: "+1 312-467-9483"
-opening_hours: "Su-Th 07:00-24:00, Fr,Sa 07:00-02:00"
-website: "https://www.7-eleven.com/locations/il/chicago/418-north-state-street-33363"
+street: North State Street
+housenumber: "418"
+phone: +1 312-467-9483
+opening_hours: Su-Th 07:00-24:00, Fr,Sa 07:00-02:00
+website: https://www.7-eleven.com/locations/il/chicago/418-north-state-street-33363

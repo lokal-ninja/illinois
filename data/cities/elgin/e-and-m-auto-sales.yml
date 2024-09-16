@@ -1,11 +1,11 @@
 id: 604025770
-type: way
+type: node
 latitude: 42.03527
 longitude: -88.25719
 postcode: "60120"
 city: Elgin
-street: "East Chicago Street"
-housenumber: 888
+street: East Chicago Street
+housenumber: "888"
 phone: ""
 opening_hours: ""
 website: ""

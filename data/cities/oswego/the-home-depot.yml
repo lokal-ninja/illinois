@@ -1,11 +1,11 @@
 id: 50278856
-type: way
+type: node
 latitude: 41.69455
 longitude: -88.32097
 postcode: "60543"
 city: Oswego
-street: "Route 34"
-housenumber: 3080
-phone: "+1 630-554-7092"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Oswego/IL/Oswego/60543/1975"
+street: Route 34
+housenumber: "3080"
+phone: +1 630-554-7092
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Oswego/IL/Oswego/60543/1975

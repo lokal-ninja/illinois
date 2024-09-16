@@ -1,11 +1,11 @@
 id: 279671624
-type: way
+type: node
 latitude: 41.78465
 longitude: -87.80057
 postcode: "60638"
 city: Chicago
-street: "South Harlem Avenue"
-housenumber: 5901
+street: South Harlem Avenue
+housenumber: "5901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1205356838
-type: way
+type: node
 latitude: 42.04072
 longitude: -87.75528
 postcode: "60077"
 city: Skokie
-street: "West Dempster Street"
-housenumber: 5115
+street: West Dempster Street
+housenumber: "5115"
 phone: ""
 opening_hours: ""
-website: "https://www.carx.com/chicago/5115-w-dempster-st/"
+website: https://www.carx.com/chicago/5115-w-dempster-st/

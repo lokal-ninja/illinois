@@ -1,11 +1,11 @@
 id: 1266881379
-type: way
+type: node
 latitude: 41.47024
 longitude: -90.52773
 postcode: "61265"
 city: Moline
-street: "41st Avenue Drive"
-housenumber: 711
-phone: "+1 309-517-7391"
+street: 41st Avenue Drive
+housenumber: "711"
+phone: +1 309-517-7391
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/il/moline/682001/"
+website: https://www.mattressfirm.com/en-us/stores/il/moline/682001/

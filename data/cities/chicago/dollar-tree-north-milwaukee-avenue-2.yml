@@ -1,11 +1,11 @@
 id: 162447446
-type: way
+type: node
 latitude: 41.94228
 longitude: -87.72888
 postcode: "60641"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 3363
+street: North Milwaukee Avenue
+housenumber: "3363"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-21:00"
-website: "https://www.dollartree.com/locations/il/chicago/6621/"
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-21:00
+website: https://www.dollartree.com/locations/il/chicago/6621/

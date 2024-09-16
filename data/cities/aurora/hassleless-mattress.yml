@@ -1,11 +1,11 @@
 id: 1102222773
-type: way
+type: node
 latitude: 41.77556
 longitude: -88.2064
 postcode: "60504"
 city: Aurora
-street: "North Illinois Route 59"
-housenumber: 1076
-phone: "+1 888 777 6434"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.hassleless.com/locations/naperville-mattress-showroom/"
+street: North Illinois Route 59
+housenumber: "1076"
+phone: +1 888 777 6434
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.hassleless.com/locations/naperville-mattress-showroom/

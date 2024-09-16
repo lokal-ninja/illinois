@@ -1,11 +1,11 @@
 id: 284332683
-type: way
+type: node
 latitude: 40.11659
 longitude: -88.22084
 postcode: "61801"
 city: Urbana
-street: "University Avenue"
-housenumber: 1002
-phone: "+1 217 3846006"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "http://www.tricolorlock.com/"
+street: University Avenue
+housenumber: "1002"
+phone: +1 217 3846006
+opening_hours: Mo-Fr 08:00-17:30
+website: http://www.tricolorlock.com/

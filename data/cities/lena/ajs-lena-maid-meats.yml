@@ -1,11 +1,11 @@
 id: 953572886
-type: way
+type: node
 latitude: 42.38129
 longitude: -89.82896
 postcode: "61048"
 city: Lena
-street: "West Main Street"
-housenumber: 500
+street: West Main Street
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-14:00"
-website: "https://ajslenamaidmeats.net/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-14:00
+website: https://ajslenamaidmeats.net/

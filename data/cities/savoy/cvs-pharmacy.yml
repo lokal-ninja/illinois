@@ -1,11 +1,11 @@
 id: 207257551
-type: way
+type: node
 latitude: 40.06835
 longitude: -88.25016
 postcode: ""
 city: Savoy
-street: "North Dunlap Street"
-housenumber: 1111
+street: North Dunlap Street
+housenumber: "1111"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

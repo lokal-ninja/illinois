@@ -4,8 +4,8 @@ latitude: 41.8581
 longitude: -87.65369
 postcode: "60608"
 city: Chicago
-street: "West 18th Street"
-housenumber: 1102
+street: West 18th Street
+housenumber: "1102"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00"
-website: "https://www.pilsencommunitybooks.com"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00
+website: https://www.pilsencommunitybooks.com

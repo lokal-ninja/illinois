@@ -1,11 +1,11 @@
 id: 1256625867
-type: way
+type: node
 latitude: 42.10766
 longitude: -87.97736
 postcode: "60004"
 city: Arlington Heights
-street: "East Palatine Road"
-housenumber: 401
-phone: "+1 847-577-1283"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/il/arlington-heights/266/"
+street: East Palatine Road
+housenumber: "401"
+phone: +1 847-577-1283
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/il/arlington-heights/266/

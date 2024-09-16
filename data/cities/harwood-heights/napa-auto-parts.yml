@@ -1,11 +1,11 @@
 id: 217375824
-type: way
+type: node
 latitude: 41.9673
 longitude: -87.80375
 postcode: "60706"
 city: Harwood Heights
-street: "Ronald Street"
-housenumber: 4755
+street: Ronald Street
+housenumber: "4755"
 phone: ""
 opening_hours: ""
 website: ""

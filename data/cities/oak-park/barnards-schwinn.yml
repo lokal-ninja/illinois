@@ -1,11 +1,11 @@
 id: 477360174
-type: way
+type: node
 latitude: 41.90881
 longitude: -87.77874
 postcode: "60302"
 city: Oak Park
-street: "West North Avenue"
-housenumber: 6109
-phone: "+1 708 524 2825"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://barnardsschwinn.com/"
+street: West North Avenue
+housenumber: "6109"
+phone: +1 708 524 2825
+opening_hours: Mo-Sa 10:00-17:00
+website: https://barnardsschwinn.com/

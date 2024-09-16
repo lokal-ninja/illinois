@@ -1,11 +1,11 @@
 id: 1126747207
-type: way
+type: node
 latitude: 41.82369
 longitude: -87.80187
 postcode: "60402"
 city: Berwyn
-street: "West Ogden Avenue"
-housenumber: 7148
+street: West Ogden Avenue
+housenumber: "7148"
 phone: ""
 opening_hours: ""
 website: ""

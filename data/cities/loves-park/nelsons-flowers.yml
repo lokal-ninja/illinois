@@ -1,11 +1,11 @@
 id: 202232118
-type: way
+type: node
 latitude: 42.31416
 longitude: -89.05839
 postcode: "61111"
 city: Loves Park
-street: "River Park Road"
-housenumber: 430
+street: River Park Road
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 566222666
-type: way
+type: node
 latitude: 41.77278
 longitude: -88.03619
 postcode: "60516"
 city: Downers Grove
-street: "Belmont Road"
-housenumber: 6235
+street: Belmont Road
+housenumber: "6235"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/downers-grove/6235-belmont-rd.html"
+website: https://www.autozone.com/locations/il/downers-grove/6235-belmont-rd.html

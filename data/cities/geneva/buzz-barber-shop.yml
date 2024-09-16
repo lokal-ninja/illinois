@@ -1,11 +1,11 @@
 id: 718203737
-type: way
+type: node
 latitude: 41.88776
 longitude: -88.30544
 postcode: "60134"
 city: Geneva
-street: "W State Street"
-housenumber: 107
+street: W State Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

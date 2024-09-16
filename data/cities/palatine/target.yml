@@ -1,11 +1,11 @@
 id: 120549467
-type: way
+type: node
 latitude: 42.13752
 longitude: -88.02761
-postcode: "60074-2817"
+postcode: 60074-2817
 city: Palatine
-street: "East Dundee Road"
-housenumber: 679
-phone: "+1 847-202-5120"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/palatine/753"
+street: East Dundee Road
+housenumber: "679"
+phone: +1 847-202-5120
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/palatine/753

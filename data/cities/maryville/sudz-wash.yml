@@ -1,11 +1,11 @@
 id: 1274305775
-type: way
+type: node
 latitude: 38.72624
 longitude: -89.95697
 postcode: "62062"
 city: Maryville
-street: "West Perry Street"
-housenumber: 112
+street: West Perry Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

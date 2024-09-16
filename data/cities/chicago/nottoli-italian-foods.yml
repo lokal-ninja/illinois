@@ -1,11 +1,11 @@
 id: 163320007
-type: way
+type: node
 latitude: 41.97265
 longitude: -87.8069
 postcode: "60656"
 city: Chicago
-street: "North Harlem Avenue"
-housenumber: 5025
+street: North Harlem Avenue
+housenumber: "5025"
 phone: ""
 opening_hours: ""
-website: "http://nottoliitalianfoods.com/"
+website: http://nottoliitalianfoods.com/

@@ -1,11 +1,11 @@
 id: 673515774
-type: way
+type: node
 latitude: 41.93622
 longitude: -88.10499
 postcode: "60108"
 city: Bloomingdale
-street: "West Army Trail Road"
-housenumber: 328
-phone: "+1 630-351-0823"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/il/bloomingdale/267/"
+street: West Army Trail Road
+housenumber: "328"
+phone: +1 630-351-0823
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/il/bloomingdale/267/

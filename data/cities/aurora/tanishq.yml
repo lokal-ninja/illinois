@@ -1,11 +1,11 @@
 id: 123523224
-type: way
+type: node
 latitude: 41.76246
 longitude: -88.21112
 postcode: "60504"
 city: Aurora
-street: "East New York Street"
-housenumber: 4300
-phone: "+1 630 430 8286"
+street: East New York Street
+housenumber: "4300"
+phone: +1 630 430 8286
 opening_hours: ""
-website: "https://www.tanishq.com/storeDetails?storeId=XCG"
+website: https://www.tanishq.com/storeDetails?storeId=XCG

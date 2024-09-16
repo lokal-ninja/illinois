@@ -4,8 +4,8 @@ latitude: 39.78666
 longitude: -89.66661
 postcode: "62704"
 city: Springfield
-street: "South Grand Avenue West"
-housenumber: 830
-phone: "+1-217-528-5785"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su 12:00-16:00"
-website: "https://thewardrobespringfield.com/"
+street: South Grand Avenue West
+housenumber: "830"
+phone: +1-217-528-5785
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su 12:00-16:00
+website: https://thewardrobespringfield.com/

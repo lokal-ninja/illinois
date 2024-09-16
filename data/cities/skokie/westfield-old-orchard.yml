@@ -1,11 +1,11 @@
 id: 23609368
-type: way
+type: node
 latitude: 42.06238
 longitude: -87.75132
 postcode: "60077"
 city: Skokie
-street: "Old Orchard Center"
-housenumber: 4905
+street: Old Orchard Center
+housenumber: "4905"
 phone: ""
 opening_hours: ""
-website: "https://www.westfield.com/united-states/oldorchard"
+website: https://www.westfield.com/united-states/oldorchard

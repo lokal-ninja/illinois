@@ -1,11 +1,11 @@
 id: 209619049
-type: way
+type: node
 latitude: 41.72266
 longitude: -87.6639
 postcode: "60620"
 city: Chicago
-street: "South Ashland Avenue"
-housenumber: 9400
-phone: "+1 773-238-2393"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.jewelosco.com/il/chicago/9400-s-ashland-ave.html"
+street: South Ashland Avenue
+housenumber: "9400"
+phone: +1 773-238-2393
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.jewelosco.com/il/chicago/9400-s-ashland-ave.html

@@ -4,8 +4,8 @@ latitude: 42.10834
 longitude: -87.80259
 postcode: "60062"
 city: Northbrook
-street: "Willow Road"
-housenumber: 936
-phone: "+1 847-486-9925"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/northbrook-il-1360"
+street: Willow Road
+housenumber: "936"
+phone: +1 847-486-9925
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/northbrook-il-1360

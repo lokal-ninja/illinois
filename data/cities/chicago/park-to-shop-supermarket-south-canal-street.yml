@@ -1,11 +1,11 @@
 id: 210537370
-type: way
+type: node
 latitude: 41.85675
 longitude: -87.63875
 postcode: "60616"
 city: Chicago
-street: "South Canal Street"
-housenumber: 1835
+street: South Canal Street
+housenumber: "1835"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://ptsmall.world/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://ptsmall.world/

@@ -1,11 +1,11 @@
 id: 42118874
-type: way
+type: node
 latitude: 41.53914
 longitude: -88.19749
 postcode: "60404"
 city: Shorewood
-street: "Brook Forest Avenue"
-housenumber: 992
+street: Brook Forest Avenue
+housenumber: "992"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/il/shorewood/992-brook-forest-avenue"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/il/shorewood/992-brook-forest-avenue

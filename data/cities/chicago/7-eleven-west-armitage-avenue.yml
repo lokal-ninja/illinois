@@ -1,11 +1,11 @@
 id: 210318656
-type: way
+type: node
 latitude: 41.91781
 longitude: -87.65324
 postcode: "60614"
 city: Chicago
-street: "West Armitage Avenue"
-housenumber: 957
-phone: "+1 773-348-7612"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/il/chicago/957-w-armitage-avenue-26265"
+street: West Armitage Avenue
+housenumber: "957"
+phone: +1 773-348-7612
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/il/chicago/957-w-armitage-avenue-26265

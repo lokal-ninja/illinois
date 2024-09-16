@@ -4,8 +4,8 @@ latitude: 42.04792
 longitude: -87.96316
 postcode: "60056"
 city: Mount Prospect
-street: "West Golf Road"
-housenumber: 1753
-phone: "+1 847-439-4755"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: West Golf Road
+housenumber: "1753"
+phone: +1 847-439-4755
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

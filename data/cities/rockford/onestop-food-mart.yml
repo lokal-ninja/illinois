@@ -1,11 +1,11 @@
 id: 810648210
-type: way
+type: node
 latitude: 42.28835
 longitude: -89.097
 postcode: "61101"
 city: Rockford
-street: "Auburn Street"
-housenumber: 2506
-phone: "+1-815-962-5994"
+street: Auburn Street
+housenumber: "2506"
+phone: +1-815-962-5994
 opening_hours: ""
 website: ""

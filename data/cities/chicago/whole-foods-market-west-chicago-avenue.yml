@@ -4,8 +4,8 @@ latitude: 41.89647
 longitude: -87.62856
 postcode: "60654"
 city: Chicago
-street: "West Chicago Avenue"
-housenumber: 3
-phone: "+1 312-932-9600"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/onechicago"
+street: West Chicago Avenue
+housenumber: "3"
+phone: +1 312-932-9600
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/onechicago

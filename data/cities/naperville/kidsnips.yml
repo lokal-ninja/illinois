@@ -1,11 +1,11 @@
 id: 1046996648
-type: way
+type: node
 latitude: 41.71236
 longitude: -88.20745
 postcode: "60564"
 city: Naperville
-street: "Showplace Drive"
-housenumber: 2835
-phone: "+1 630 848 0008"
+street: Showplace Drive
+housenumber: "2835"
+phone: +1 630 848 0008
 opening_hours: ""
-website: "https://kidsnips.com/locations/kidsnips-naperville/"
+website: https://kidsnips.com/locations/kidsnips-naperville/

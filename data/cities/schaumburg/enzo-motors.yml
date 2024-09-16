@@ -1,11 +1,11 @@
 id: 115878406
-type: way
+type: node
 latitude: 42.00119
 longitude: -88.10446
 postcode: "60193"
 city: Schaumburg
-street: "Lunt Avenue"
-housenumber: 975
+street: Lunt Avenue
+housenumber: "975"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 489427291
-type: way
+type: node
 latitude: 42.00465
 longitude: -88.12057
 postcode: "60193"
 city: Schaumburg
-street: "Westover Lane"
-housenumber: 1125
+street: Westover Lane
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

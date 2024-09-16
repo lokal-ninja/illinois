@@ -1,11 +1,11 @@
 id: 350012341
-type: way
+type: node
 latitude: 42.37289
 longitude: -87.92277
-postcode: "60031-2618"
+postcode: 60031-2618
 city: Gurnee
-street: "Grand Avenue"
-housenumber: 4806
-phone: "+1 847-336-0101"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 08:00-18:00"
+street: Grand Avenue
+housenumber: "4806"
+phone: +1 847-336-0101
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 08:00-18:00
 website: ""

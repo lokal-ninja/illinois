@@ -1,11 +1,11 @@
 id: 975492431
-type: way
+type: node
 latitude: 41.75973
 longitude: -88.20221
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 530
-phone: "+1 630 692 1749"
-opening_hours: "Mo-Fr 10:30-21:00; Sa 09:00-19:30; Su 10:30-19:30"
-website: "https://www.davidsbridal.com/DBIAjaxStoreLocatorDirectionsView?stLocId=70"
+street: South Illinois Route 59
+housenumber: "530"
+phone: +1 630 692 1749
+opening_hours: Mo-Fr 10:30-21:00; Sa 09:00-19:30; Su 10:30-19:30
+website: https://www.davidsbridal.com/DBIAjaxStoreLocatorDirectionsView?stLocId=70

@@ -1,11 +1,11 @@
 id: 209711389
-type: way
+type: node
 latitude: 41.83063
 longitude: -87.67093
 postcode: "60609"
 city: Chicago
-street: "West 35th Street"
-housenumber: 1810
+street: West 35th Street
+housenumber: "1810"
 phone: ""
 opening_hours: ""
 website: ""

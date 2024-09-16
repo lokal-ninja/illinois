@@ -4,8 +4,8 @@ latitude: 40.11273
 longitude: -88.20945
 postcode: "61801"
 city: Urbana
-street: "West Main Street"
-housenumber: 123
+street: West Main Street
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Th 10:00-18:00; Fr-Sa 10:00-20:00; Su 12:00-17:00"
-website: "https://seeyoucdandvinyl.com/"
+opening_hours: Mo-Th 10:00-18:00; Fr-Sa 10:00-20:00; Su 12:00-17:00
+website: https://seeyoucdandvinyl.com/

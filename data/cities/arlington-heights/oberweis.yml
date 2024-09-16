@@ -1,11 +1,11 @@
 id: 919604732
-type: way
+type: node
 latitude: 42.13873
 longitude: -87.98223
 postcode: "60004"
 city: Arlington Heights
-street: "West Dundee Road"
-housenumber: 9
-phone: "+1 847 368 9060"
-opening_hours: "Su-Th 10:00-22:00, Fr-Sa 10:00-23:00"
-website: "https://www.oberweis.com/ice-cream-and-dairy-stores/Arlington%20Heights%20(Dundee%20Rd)"
+street: West Dundee Road
+housenumber: "9"
+phone: +1 847 368 9060
+opening_hours: Su-Th 10:00-22:00, Fr-Sa 10:00-23:00
+website: https://www.oberweis.com/ice-cream-and-dairy-stores/Arlington%20Heights%20(Dundee%20Rd)

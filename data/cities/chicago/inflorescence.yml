@@ -4,8 +4,8 @@ latitude: 41.89951
 longitude: -87.68671
 postcode: "60622"
 city: Chicago
-street: "North Western Avenue"
-housenumber: 1001
+street: North Western Avenue
+housenumber: "1001"
 phone: ""
-opening_hours: "By appointment"
-website: "https://www.inflorescencechicago.com/"
+opening_hours: '"By appointment"'
+website: https://www.inflorescencechicago.com/

@@ -1,11 +1,11 @@
 id: 1014186236
-type: way
+type: node
 latitude: 42.12472
 longitude: -89.26438
 postcode: "61010"
 city: Byron
-street: "West Blackhawk Drive"
-housenumber: 700
+street: West Blackhawk Drive
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

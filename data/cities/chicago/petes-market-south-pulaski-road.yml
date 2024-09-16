@@ -1,11 +1,11 @@
 id: 163675898
-type: way
+type: node
 latitude: 41.81381
 longitude: -87.72285
 postcode: "60632"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 4343
+street: South Pulaski Road
+housenumber: "4343"
 phone: ""
 opening_hours: ""
-website: "https://www.petesfresh.com/stores/43rd-street"
+website: https://www.petesfresh.com/stores/43rd-street

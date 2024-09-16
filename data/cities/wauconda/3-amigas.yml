@@ -1,11 +1,11 @@
 id: 981075736
-type: way
+type: node
 latitude: 42.2564
 longitude: -88.14779
 postcode: "60084"
 city: Wauconda
-street: "West Liberty Street"
-housenumber: 450
+street: West Liberty Street
+housenumber: "450"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 793834886
-type: way
+type: node
 latitude: 39.11092
 longitude: -90.32139
 postcode: "62052"
 city: Jerseyville
-street: "South State Street"
-housenumber: 902
+street: South State Street
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

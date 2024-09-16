@@ -1,11 +1,11 @@
 id: 210862983
-type: way
+type: node
 latitude: 41.75817
 longitude: -87.61352
 postcode: "60619"
 city: Chicago
-street: "East 75th Street"
-housenumber: 441
-phone: "+1-773-994-6666"
+street: East 75th Street
+housenumber: "441"
+phone: +1-773-994-6666
 opening_hours: ""
 website: ""

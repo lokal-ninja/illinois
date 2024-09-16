@@ -1,11 +1,11 @@
 id: 213941753
-type: way
+type: node
 latitude: 42.04078
 longitude: -87.68075
 postcode: "60202"
 city: Evanston
-street: "Chicago Avenue"
-housenumber: 1240
+street: Chicago Avenue
+housenumber: "1240"
 phone: ""
 opening_hours: ""
-website: "https://www.nahigiancleaning.com/"
+website: https://www.nahigiancleaning.com/

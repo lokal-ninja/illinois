@@ -1,11 +1,11 @@
 id: 447591997
-type: way
+type: node
 latitude: 41.80854
 longitude: -87.9016
 postcode: "60558"
 city: Western Springs
-street: "Burlington Avenue"
-housenumber: 929
-phone: "+1 708 784 0200"
-opening_hours: "Su-Th 09:00-22:00, Fr-Sa 09:00-23:00"
-website: "https://www.oberweis.com/ice-cream-and-dairy-stores/Western%20Springs"
+street: Burlington Avenue
+housenumber: "929"
+phone: +1 708 784 0200
+opening_hours: Su-Th 09:00-22:00, Fr-Sa 09:00-23:00
+website: https://www.oberweis.com/ice-cream-and-dairy-stores/Western%20Springs

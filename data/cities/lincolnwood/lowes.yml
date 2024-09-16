@@ -1,11 +1,11 @@
 id: 130705608
-type: way
+type: node
 latitude: 42.01092
 longitude: -87.71932
 postcode: "60712"
 city: Lincolnwood
-street: "West Touhy Avenue"
-housenumber: 3601
-phone: "+1 847-972-4041"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/il-lincolnwood/1748"
+street: West Touhy Avenue
+housenumber: "3601"
+phone: +1 847-972-4041
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/il-lincolnwood/1748

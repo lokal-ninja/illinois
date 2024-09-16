@@ -1,11 +1,11 @@
 id: 976188878
-type: way
+type: node
 latitude: 41.84546
 longitude: -87.80413
 postcode: "60546"
 city: North Riverside
-street: "South Harlem Avenue"
-housenumber: 2512
+street: South Harlem Avenue
+housenumber: "2512"
 phone: ""
 opening_hours: ""
 website: ""

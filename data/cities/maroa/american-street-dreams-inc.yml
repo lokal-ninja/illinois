@@ -1,11 +1,11 @@
 id: 1286190674
-type: way
+type: node
 latitude: 40.03737
 longitude: -88.95609
 postcode: "61756"
 city: Maroa
-street: "North Wood Street"
-housenumber: 120
+street: North Wood Street
+housenumber: "120"
 phone: "+12177942731"
 opening_hours: ""
 website: ""

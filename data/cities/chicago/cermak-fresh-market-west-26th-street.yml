@@ -1,11 +1,11 @@
 id: 163769234
-type: way
+type: node
 latitude: 41.84388
 longitude: -87.70854
 postcode: "60623"
 city: Chicago
-street: "West 26th Street"
-housenumber: 3311
+street: West 26th Street
+housenumber: "3311"
 phone: ""
 opening_hours: ""
-website: "https://www.cermakfreshmarket.com/cermak-9-3311-w-26th-st-chicago"
+website: https://www.cermakfreshmarket.com/cermak-9-3311-w-26th-st-chicago

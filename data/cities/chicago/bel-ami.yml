@@ -1,11 +1,11 @@
 id: 209486231
-type: way
+type: node
 latitude: 41.98168
 longitude: -87.69347
 postcode: "60625"
 city: Chicago
-street: "North Lincoln Avenue"
-housenumber: 5230
-phone: "+1-773-878-2808"
+street: North Lincoln Avenue
+housenumber: "5230"
+phone: +1-773-878-2808
 opening_hours: ""
 website: ""

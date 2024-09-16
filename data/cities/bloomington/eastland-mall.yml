@@ -1,11 +1,11 @@
 id: 479817183
-type: way
+type: node
 latitude: 40.48496
 longitude: -88.9565
 postcode: "61701"
 city: Bloomington
-street: "East Empire Street"
-housenumber: 1615
+street: East Empire Street
+housenumber: "1615"
 phone: ""
 opening_hours: ""
 website: ""

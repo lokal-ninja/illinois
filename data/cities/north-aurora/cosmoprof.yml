@@ -1,11 +1,11 @@
 id: 1205526092
-type: way
+type: node
 latitude: 41.79592
 longitude: -88.36682
 postcode: "60542"
 city: North Aurora
-street: "Town Center Drive"
-housenumber: 1858
+street: Town Center Drive
+housenumber: "1858"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 210132422
-type: way
+type: node
 latitude: 41.77908
 longitude: -87.64534
 postcode: "60621"
 city: Chicago
-street: "South Halsted Street"
-housenumber: 6312
+street: South Halsted Street
+housenumber: "6312"
 phone: ""
 opening_hours: ""
-website: "https://stores.rainbowshops.com/il/chicago/456/"
+website: https://stores.rainbowshops.com/il/chicago/456/

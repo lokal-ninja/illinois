@@ -1,11 +1,11 @@
 id: 1311464434
-type: way
+type: node
 latitude: 41.73451
 longitude: -87.72344
 postcode: "60456"
 city: Hometown
-street: "Southwest Highway"
-housenumber: 4000
+street: Southwest Highway
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

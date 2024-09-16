@@ -4,8 +4,8 @@ latitude: 41.92439
 longitude: -87.7896
 postcode: "60707"
 city: Chicago
-street: "West Fullerton Avenue"
-housenumber: 6560
-phone: "+1 773-622-7515"
-opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 09:00-22:00; Su 10:00-21:00"
+street: West Fullerton Avenue
+housenumber: "6560"
+phone: +1 773-622-7515
+opening_hours: Mo-Th 10:00-22:00; Fr-Sa 09:00-22:00; Su 10:00-21:00
 website: ""

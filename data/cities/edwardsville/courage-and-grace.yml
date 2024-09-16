@@ -1,11 +1,11 @@
 id: 752696919
-type: way
+type: node
 latitude: 38.8113
 longitude: -89.95537
 postcode: "62025"
 city: Edwardsville
-street: "East Vandalia Street"
-housenumber: 102
+street: East Vandalia Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://courageandgracedesigns.com/"
+website: https://courageandgracedesigns.com/

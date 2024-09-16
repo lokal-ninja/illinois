@@ -1,11 +1,11 @@
 id: 162434169
-type: way
+type: node
 latitude: 41.92853
 longitude: -87.72858
 postcode: "60639"
 city: Chicago
-street: "West Wrightwood Avenue"
-housenumber: 4030
-phone: "+1 833-440-1030"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/chicago/4030-west-wrightwood"
+street: West Wrightwood Avenue
+housenumber: "4030"
+phone: +1 833-440-1030
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/chicago/4030-west-wrightwood

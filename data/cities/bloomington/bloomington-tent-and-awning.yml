@@ -1,11 +1,11 @@
 id: 952264018
-type: way
+type: node
 latitude: 40.48245
 longitude: -88.99153
 postcode: "61701"
 city: Bloomington
-street: "East Market Street"
-housenumber: 226
-phone: "+1-309-828-3411"
-opening_hours: "Mo-Fr 09:00-16:30"
-website: "https://bloomingtontent-awning.com/"
+street: East Market Street
+housenumber: "226"
+phone: +1-309-828-3411
+opening_hours: Mo-Fr 09:00-16:30
+website: https://bloomingtontent-awning.com/

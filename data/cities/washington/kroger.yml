@@ -4,8 +4,8 @@ latitude: 40.70642
 longitude: -89.44692
 postcode: "61571"
 city: Washington
-street: "Cherry Tree Shopping Center"
-housenumber: 20
-phone: "+1 309-444-8585"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/il/washington/cherry-tree-shopping-center/021/00657"
+street: Cherry Tree Shopping Center
+housenumber: "20"
+phone: +1 309-444-8585
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/il/washington/cherry-tree-shopping-center/021/00657

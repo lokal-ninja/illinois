@@ -1,11 +1,11 @@
 id: 845152217
-type: way
+type: node
 latitude: 37.61939
 longitude: -88.83778
 postcode: "62922"
 city: Creal Springs
-street: "West Blue Avenue"
-housenumber: 109
-phone: "+1 618 889 8478"
-opening_hours: "Tu-Fr 10:00-17:00"
+street: West Blue Avenue
+housenumber: "109"
+phone: +1 618 889 8478
+opening_hours: Tu-Fr 10:00-17:00
 website: ""

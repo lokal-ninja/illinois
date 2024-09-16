@@ -1,11 +1,11 @@
 id: 443492097
-type: way
+type: node
 latitude: 38.80854
 longitude: -89.96361
 postcode: "62025"
 city: Edwardsville
-street: "West Schwarz Street"
-housenumber: 629
+street: West Schwarz Street
+housenumber: "629"
 phone: ""
 opening_hours: ""
 website: ""

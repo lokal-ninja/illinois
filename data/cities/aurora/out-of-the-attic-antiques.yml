@@ -1,11 +1,11 @@
 id: 998241813
-type: way
+type: node
 latitude: 41.76034
 longitude: -88.2187
 postcode: "60504"
 city: Aurora
-street: "Fox Valley Center Drive"
-housenumber: 4054
+street: Fox Valley Center Drive
+housenumber: "4054"
 phone: ""
 opening_hours: ""
 website: ""

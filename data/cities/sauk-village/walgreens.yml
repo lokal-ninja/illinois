@@ -1,11 +1,11 @@
 id: 1243475854
-type: way
+type: node
 latitude: 41.49194
 longitude: -87.55856
 postcode: "60411"
 city: Sauk Village
-street: "East Sauk Trail"
-housenumber: 2601
+street: East Sauk Trail
+housenumber: "2601"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2601+e+sauk+trl-sauk+village-il-60411/id=5128"
+website: https://www.walgreens.com/locator/walgreens-2601+e+sauk+trl-sauk+village-il-60411/id=5128

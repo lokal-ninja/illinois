@@ -4,8 +4,8 @@ latitude: 39.68652
 longitude: -89.70729
 postcode: "62629"
 city: Chatham
-street: "Plummer Boulevard"
-housenumber: 75
-phone: "+1-217-220-9431"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://llgi.org"
+street: Plummer Boulevard
+housenumber: "75"
+phone: +1-217-220-9431
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://llgi.org

@@ -1,11 +1,11 @@
 id: 765833330
-type: way
+type: node
 latitude: 39.84551
 longitude: -88.96452
 postcode: "62522"
 city: Decatur
-street: "West Eldorado Street"
-housenumber: 651
+street: West Eldorado Street
+housenumber: "651"
 phone: ""
 opening_hours: ""
 website: ""

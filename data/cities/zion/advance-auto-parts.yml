@@ -1,11 +1,11 @@
 id: 967369642
-type: way
+type: node
 latitude: 42.4575
 longitude: -87.82579
 postcode: "60099"
 city: Zion
-street: "Sheridan Road"
-housenumber: 2024
+street: Sheridan Road
+housenumber: "2024"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/zion/2024-sheridan-rd"
+website: https://stores.advanceautoparts.com/il/zion/2024-sheridan-rd

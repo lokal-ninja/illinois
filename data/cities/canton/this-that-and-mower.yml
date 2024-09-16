@@ -4,8 +4,8 @@ latitude: 40.55845
 longitude: -90.04464
 postcode: "61520"
 city: Canton
-street: "West Locust Street"
-housenumber: 401
+street: West Locust Street
+housenumber: "401"
 phone: "+13163478619"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:30"
-website: "https://www.thisthatnmower.business"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:30
+website: https://www.thisthatnmower.business

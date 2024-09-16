@@ -1,11 +1,11 @@
 id: 232386625
-type: way
+type: node
 latitude: 42.30823
 longitude: -88.97838
 postcode: "61114"
 city: Rockford
-street: "North Perryville Road"
-housenumber: 3251
-phone: "+1 815-637-6819"
-opening_hours: "05:00-23:00"
-website: "https://www.exxon.com/en/find-station/200314964"
+street: North Perryville Road
+housenumber: "3251"
+phone: +1 815-637-6819
+opening_hours: 05:00-23:00
+website: https://www.exxon.com/en/find-station/200314964

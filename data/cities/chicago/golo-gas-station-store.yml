@@ -1,11 +1,11 @@
 id: 163777110
-type: way
+type: node
 latitude: 41.86586
 longitude: -87.71924
 postcode: "60623"
 city: Chicago
-street: "West Roosevelt Road"
-housenumber: 3731
+street: West Roosevelt Road
+housenumber: "3731"
 phone: ""
 opening_hours: ""
 website: ""

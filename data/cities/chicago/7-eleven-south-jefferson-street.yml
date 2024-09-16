@@ -1,11 +1,11 @@
 id: 1011917001
-type: way
+type: node
 latitude: 41.86849
 longitude: -87.64149
 postcode: "60607"
 city: Chicago
-street: "South Jefferson Street"
-housenumber: 1121
-phone: "+1 708-490-8399"
+street: South Jefferson Street
+housenumber: "1121"
+phone: +1 708-490-8399
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/560-w-greenshaw-street-38585"
+website: https://www.7-eleven.com/locations/il/chicago/560-w-greenshaw-street-38585

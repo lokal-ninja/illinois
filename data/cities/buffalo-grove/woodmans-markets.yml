@@ -1,11 +1,11 @@
 id: 906369890
-type: way
+type: node
 latitude: 42.16965
 longitude: -87.92548
 postcode: "60089"
 city: Buffalo Grove
-street: "Deerfield Parkway"
-housenumber: 1550
+street: Deerfield Parkway
+housenumber: "1550"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

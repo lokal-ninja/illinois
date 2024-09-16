@@ -1,11 +1,11 @@
 id: 162508217
-type: way
+type: node
 latitude: 41.79306
 longitude: -87.75964
 postcode: "60638"
 city: Chicago
-street: "West 55th Street"
-housenumber: 5448
+street: West 55th Street
+housenumber: "5448"
 phone: ""
 opening_hours: ""
 website: ""

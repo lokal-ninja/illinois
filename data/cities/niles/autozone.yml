@@ -1,11 +1,11 @@
 id: 366203474
-type: way
+type: node
 latitude: 42.05423
 longitude: -87.83593
 postcode: "60714"
 city: Niles
-street: "Golf Road"
-housenumber: 
+street: Golf Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/niles/8361-golf-rd.html"
+website: https://www.autozone.com/locations/il/niles/8361-golf-rd.html

@@ -1,11 +1,11 @@
 id: 194717226
-type: way
+type: node
 latitude: 42.04269
 longitude: -87.84193
 postcode: "60714"
 city: Niles
-street: "North Greenwood Avenue"
-housenumber: 8900
+street: North Greenwood Avenue
+housenumber: "8900"
 phone: ""
 opening_hours: ""
-website: "https://tonysfreshmarket.com/store/niles"
+website: https://tonysfreshmarket.com/store/niles

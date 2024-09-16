@@ -1,11 +1,11 @@
 id: 427323856
-type: way
+type: node
 latitude: 37.74088
 longitude: -88.91617
 postcode: "62959"
 city: Marion
-street: "East Deyoung Street"
-housenumber: 900
-phone: "+1-618-998-9010"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.pmrepairllc.com/"
+street: East Deyoung Street
+housenumber: "900"
+phone: +1-618-998-9010
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.pmrepairllc.com/

@@ -4,8 +4,9 @@ latitude: 42.11466
 longitude: -88.04892
 postcode: "60067"
 city: Palatine
-street: "North Smith Street"
-housenumber: 220
-phone: "+1 847 361 2547"
-opening_hours: "Tu 12:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 10:00-18:00; Sa 09:00-17:00"
+street: North Smith Street
+housenumber: "220"
+phone: +1 847 361 2547
+opening_hours: Tu 12:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr 10:00-18:00; Sa
+    09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 138183450
-type: way
+type: node
 latitude: 40.10854
 longitude: -88.22904
 postcode: "61820"
 city: Champaign
-street: "South Wright Street"
-housenumber: 809
+street: South Wright Street
+housenumber: "809"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00"
-website: "https://bookstore.illinois.edu/"
+opening_hours: Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00
+website: https://bookstore.illinois.edu/

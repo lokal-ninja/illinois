@@ -1,11 +1,11 @@
 id: 658317372
-type: way
+type: node
 latitude: 41.67878
 longitude: -88.20737
 postcode: "60564"
 city: Naperville
-street: "Ace Lane"
-housenumber: 5035
-phone: "+1 630-428-8147"
-opening_hours: "Mo-Sa 07:30-19:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/store-details/16856"
+street: Ace Lane
+housenumber: "5035"
+phone: +1 630-428-8147
+opening_hours: Mo-Sa 07:30-19:00; Su 09:00-18:00
+website: https://www.acehardware.com/store-details/16856

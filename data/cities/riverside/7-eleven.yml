@@ -1,11 +1,11 @@
 id: 1294568625
-type: way
+type: node
 latitude: 41.84284
 longitude: -87.80415
 postcode: "60546"
 city: Riverside
-street: "South Harlem Avenue"
-housenumber: 2600
+street: South Harlem Avenue
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

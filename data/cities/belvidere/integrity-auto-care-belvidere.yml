@@ -1,11 +1,11 @@
 id: 722386772
-type: way
+type: node
 latitude: 42.25423
 longitude: -88.88413
 postcode: "61008"
 city: Belvidere
-street: "Imron Drive"
-housenumber: 6987
-phone: "+1 815-566-8357"
-opening_hours: "Mo-Fr 07:30-17:00; PH closed"
-website: "https://www.autorepairbelvidere.com/"
+street: Imron Drive
+housenumber: "6987"
+phone: +1 815-566-8357
+opening_hours: Mo-Fr 07:30-17:00; PH closed
+website: https://www.autorepairbelvidere.com/

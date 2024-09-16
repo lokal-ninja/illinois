@@ -1,11 +1,11 @@
 id: 1073240741
-type: way
+type: node
 latitude: 41.7649
 longitude: -87.68274
 postcode: "60636"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 7051
+street: South Western Avenue
+housenumber: "7051"
 phone: ""
 opening_hours: ""
-website: "https://therouxstore.com/"
+website: https://therouxstore.com/

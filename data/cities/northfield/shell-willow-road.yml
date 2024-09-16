@@ -1,11 +1,11 @@
 id: 1305287413
-type: way
+type: node
 latitude: 42.10199
 longitude: -87.77316
 postcode: "60093"
 city: Northfield
-street: "Willow Road"
-housenumber: 1855
+street: Willow Road
+housenumber: "1855"
 phone: ""
 opening_hours: ""
 website: ""

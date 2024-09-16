@@ -1,11 +1,11 @@
 id: 1290833996
-type: way
+type: node
 latitude: 41.12263
 longitude: -88.82694
 postcode: "61364"
 city: Streator
-street: "East Hickory Street"
-housenumber: 708
-phone: "+1-815-672-0200"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: East Hickory Street
+housenumber: "708"
+phone: +1-815-672-0200
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

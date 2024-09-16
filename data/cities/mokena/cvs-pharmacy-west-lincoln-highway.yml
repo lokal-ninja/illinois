@@ -1,11 +1,11 @@
 id: 1024958053
-type: way
+type: node
 latitude: 41.50436
 longitude: -87.89012
 postcode: "60448"
 city: Mokena
-street: "West Lincoln Highway"
-housenumber: 11200
+street: West Lincoln Highway
+housenumber: "11200"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mokena-il-pharmacies/11200-lincoln-hwy-mokena-il-60448/storeid=5822"
+website: https://www.cvs.com/store-locator/mokena-il-pharmacies/11200-lincoln-hwy-mokena-il-60448/storeid=5822

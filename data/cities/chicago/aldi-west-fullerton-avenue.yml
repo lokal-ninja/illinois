@@ -1,11 +1,11 @@
 id: 163089155
-type: way
+type: node
 latitude: 41.92569
 longitude: -87.78869
 postcode: "60707"
 city: Chicago
-street: "West Fullerton Avenue"
-housenumber: 6520
-phone: "+1 833-440-1034"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/chicago/6520-w-fullerton-ave"
+street: West Fullerton Avenue
+housenumber: "6520"
+phone: +1 833-440-1034
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/chicago/6520-w-fullerton-ave

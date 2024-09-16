@@ -1,11 +1,11 @@
 id: 834403955
-type: way
+type: node
 latitude: 37.71727
 longitude: -89.2042
 postcode: "62901"
 city: Carbondale
-street: "East Grand Avenue"
-housenumber: 875
+street: East Grand Avenue
+housenumber: "875"
 phone: ""
 opening_hours: ""
 website: ""

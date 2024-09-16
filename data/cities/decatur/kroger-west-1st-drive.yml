@@ -1,11 +1,11 @@
 id: 682692990
-type: way
+type: node
 latitude: 39.82168
 longitude: -88.95827
 postcode: "62521"
 city: Decatur
-street: "West 1st Drive"
-housenumber: 255
-phone: "+1 217-428-1778"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/il/decatur/south-shores/021/00924"
+street: West 1st Drive
+housenumber: "255"
+phone: +1 217-428-1778
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/il/decatur/south-shores/021/00924

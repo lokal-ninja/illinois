@@ -1,11 +1,11 @@
 id: 243503217
-type: way
+type: node
 latitude: 38.59221
 longitude: -89.91086
 postcode: "62269"
 city: O'Fallon
-street: "South Lincoln Avenue"
-housenumber: 2
+street: South Lincoln Avenue
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

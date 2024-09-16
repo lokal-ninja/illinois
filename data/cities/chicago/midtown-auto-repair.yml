@@ -1,11 +1,11 @@
 id: 209868910
-type: way
+type: node
 latitude: 41.92049
 longitude: -87.66373
 postcode: "60614"
 city: Chicago
-street: "West Shakespeare Avenue"
-housenumber: 1403
+street: West Shakespeare Avenue
+housenumber: "1403"
 phone: ""
 opening_hours: ""
-website: "https://www.midtownautorepair.com/"
+website: https://www.midtownautorepair.com/

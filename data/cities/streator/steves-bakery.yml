@@ -4,8 +4,8 @@ latitude: 41.12077
 longitude: -88.83266
 postcode: "61364"
 city: Streator
-street: "East Main Street"
-housenumber: 301
-phone: "+1-815-673-2827"
+street: East Main Street
+housenumber: "301"
+phone: +1-815-673-2827
 opening_hours: ""
-website: "https://stevesbakery.org/"
+website: https://stevesbakery.org/

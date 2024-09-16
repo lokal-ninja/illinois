@@ -1,11 +1,11 @@
 id: 162245623
-type: way
+type: node
 latitude: 41.74304
 longitude: -87.74063
 postcode: "60652"
 city: Chicago
-street: "South Cicero Avenue"
-housenumber: 8227
+street: South Cicero Avenue
+housenumber: "8227"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/8231-s-cicero-ave.html"
+website: https://www.autozone.com/locations/il/chicago/8231-s-cicero-ave.html

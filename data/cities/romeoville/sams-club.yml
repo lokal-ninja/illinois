@@ -1,11 +1,11 @@
 id: 275609204
-type: way
+type: node
 latitude: 41.60599
 longitude: -88.1274
 postcode: "60446"
 city: Romeoville
-street: "Weber Road"
-housenumber: 460
+street: Weber Road
+housenumber: "460"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1023817701
-type: way
+type: node
 latitude: 42.27541
 longitude: -88.96724
 postcode: "61107"
 city: Rockford
-street: "North Bell School Road"
-housenumber: 
+street: North Bell School Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

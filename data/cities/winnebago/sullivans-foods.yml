@@ -1,11 +1,11 @@
 id: 451403702
-type: way
+type: node
 latitude: 42.27711
 longitude: -89.24011
 postcode: "61088"
 city: Winnebago
-street: "North Elida Street"
-housenumber: 703
+street: North Elida Street
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

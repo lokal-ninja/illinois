@@ -1,11 +1,11 @@
 id: 1002503043
-type: way
+type: node
 latitude: 42.02419
 longitude: -87.89554
 postcode: "60018"
 city: Des Plaines
-street: "East Oakton Street"
-housenumber: 1108
+street: East Oakton Street
+housenumber: "1108"
 phone: ""
 opening_hours: ""
-website: "https://www.carx.com/chicago/1108-e-oakton-st/"
+website: https://www.carx.com/chicago/1108-e-oakton-st/

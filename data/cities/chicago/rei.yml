@@ -4,8 +4,8 @@ latitude: 41.90678
 longitude: -87.65126
 postcode: "60642"
 city: Chicago
-street: "West Eastman Street"
-housenumber: 905
-phone: "+1-312-951-6020"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.rei.com/stores/lincoln-park"
+street: West Eastman Street
+housenumber: "905"
+phone: +1-312-951-6020
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.rei.com/stores/lincoln-park

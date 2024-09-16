@@ -1,11 +1,11 @@
 id: 984135026
-type: way
+type: node
 latitude: 41.95446
 longitude: -88.72015
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2530
-phone: "+1 815-748-7687"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.homegoods.com/store-details/DeKalb-IL-60115/1158"
+street: Sycamore Road
+housenumber: "2530"
+phone: +1 815-748-7687
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.homegoods.com/store-details/DeKalb-IL-60115/1158

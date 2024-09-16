@@ -1,11 +1,11 @@
 id: 1156717867
-type: way
+type: node
 latitude: 42.11457
 longitude: -87.82881
 postcode: "60062"
 city: Northbrook
-street: "Shermer Road"
-housenumber: 2121
+street: Shermer Road
+housenumber: "2121"
 phone: ""
 opening_hours: ""
 website: ""

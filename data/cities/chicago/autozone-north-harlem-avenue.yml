@@ -1,11 +1,11 @@
 id: 163324671
-type: way
+type: node
 latitude: 41.9797
 longitude: -87.80684
 postcode: "60656"
 city: Chicago
-street: "North Harlem Avenue"
-housenumber: 5415
+street: North Harlem Avenue
+housenumber: "5415"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/5415-n-harlem-ave.html"
+website: https://www.autozone.com/locations/il/chicago/5415-n-harlem-ave.html

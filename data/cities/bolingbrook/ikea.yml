@@ -1,11 +1,11 @@
 id: 163147628
-type: way
+type: node
 latitude: 41.7285
 longitude: -88.03884
 postcode: "60440"
 city: Bolingbrook
-street: "East Boughton Road"
-housenumber: 750
+street: East Boughton Road
+housenumber: "750"
 phone: ""
 opening_hours: ""
-website: "https://www.ikea.com/us/en/store/bolingbrook"
+website: https://www.ikea.com/us/en/store/bolingbrook

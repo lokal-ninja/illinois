@@ -1,11 +1,11 @@
 id: 64627674
-type: way
+type: node
 latitude: 41.89829
 longitude: -87.62391
 postcode: "60611"
 city: Chicago
-street: "North Michigan Avenue"
-housenumber: 845
+street: North Michigan Avenue
+housenumber: "845"
 phone: ""
 opening_hours: ""
-website: "https://www.shopwatertower.com/"
+website: https://www.shopwatertower.com/

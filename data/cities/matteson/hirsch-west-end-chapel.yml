@@ -1,11 +1,11 @@
 id: 482799977
-type: way
+type: node
 latitude: 41.50574
 longitude: -87.70094
 postcode: "60443"
 city: Matteson
-street: "Lincoln Highway"
-housenumber: 3501
+street: Lincoln Highway
+housenumber: "3501"
 phone: ""
 opening_hours: ""
 website: ""

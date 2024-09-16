@@ -1,11 +1,11 @@
 id: 549225808
-type: way
+type: node
 latitude: 40.48118
 longitude: -88.99432
 postcode: ""
 city: Bloomington
-street: "West Monroe Street"
-housenumber: 106
+street: West Monroe Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

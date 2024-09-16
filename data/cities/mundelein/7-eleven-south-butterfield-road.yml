@@ -1,11 +1,11 @@
 id: 1307550372
-type: way
+type: node
 latitude: 42.25489
 longitude: -87.97983
-postcode: "60060-9457"
+postcode: 60060-9457
 city: Mundelein
-street: "South Butterfield Road"
-housenumber: 600
+street: South Butterfield Road
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

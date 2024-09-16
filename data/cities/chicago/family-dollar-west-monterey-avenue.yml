@@ -1,11 +1,11 @@
 id: 776658662
-type: way
+type: node
 latitude: 41.68955
 longitude: -87.66346
 postcode: "60643"
 city: Chicago
-street: "West Monterey Avenue"
-housenumber: 1633
+street: West Monterey Avenue
+housenumber: "1633"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/locations/il/chicago/32124/"
+website: https://www.familydollar.com/locations/il/chicago/32124/

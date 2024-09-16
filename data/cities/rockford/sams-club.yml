@@ -1,11 +1,11 @@
 id: 262265645
-type: way
+type: node
 latitude: 42.26659
 longitude: -88.97553
 postcode: "61108"
 city: Rockford
-street: "Walton Street"
-housenumber: 7150
-phone: "+1 815-394-1212"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/rockford-il-sams-club/8297"
+street: Walton Street
+housenumber: "7150"
+phone: +1 815-394-1212
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/rockford-il-sams-club/8297

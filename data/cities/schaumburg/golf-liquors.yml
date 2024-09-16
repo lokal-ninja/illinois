@@ -1,11 +1,11 @@
 id: 242545708
-type: way
+type: node
 latitude: 42.04933
 longitude: -88.09268
 postcode: "60195"
 city: Schaumburg
-street: "West Golf Road"
-housenumber: 
+street: West Golf Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

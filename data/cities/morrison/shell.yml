@@ -1,11 +1,11 @@
 id: 771378951
-type: way
+type: node
 latitude: 41.81482
 longitude: -89.97929
 postcode: "61270"
 city: Morrison
-street: "West Lincoln Way"
-housenumber: 651
-phone: "+1-815-772-7728"
+street: West Lincoln Way
+housenumber: "651"
+phone: +1-815-772-7728
 opening_hours: ""
-website: "https://find.shell.com/us/fuel/10011147-lincoln-road"
+website: https://find.shell.com/us/fuel/10011147-lincoln-road

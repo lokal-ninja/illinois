@@ -1,11 +1,11 @@
 id: 332359617
-type: way
+type: node
 latitude: 42.15955
 longitude: -87.91746
 postcode: "60089"
 city: Buffalo Grove
-street: "North Milwaukee Avenue"
-housenumber: 20445
+street: North Milwaukee Avenue
+housenumber: "20445"
 phone: ""
 opening_hours: ""
 website: ""

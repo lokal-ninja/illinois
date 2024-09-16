@@ -1,11 +1,11 @@
 id: 246485416
-type: way
+type: node
 latitude: 41.89142
 longitude: -87.66674
 postcode: "60622"
 city: Chicago
-street: "North Ashland Avenue"
-housenumber: 505
+street: North Ashland Avenue
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

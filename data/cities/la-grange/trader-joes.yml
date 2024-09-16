@@ -1,11 +1,11 @@
 id: 98917703
-type: way
+type: node
 latitude: 41.81726
 longitude: -87.86954
 postcode: "60525"
 city: La Grange
-street: "North La Grange Road"
-housenumber: 35
-phone: "+1 708-579-0838"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/il/la-grange/685/"
+street: North La Grange Road
+housenumber: "35"
+phone: +1 708-579-0838
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/il/la-grange/685/

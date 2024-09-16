@@ -1,11 +1,11 @@
 id: 697611988
-type: way
+type: node
 latitude: 38.34357
 longitude: -89.3818
 postcode: "62263"
 city: Nashville
-street: "East Saint Louis Street"
-housenumber: 206
+street: East Saint Louis Street
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

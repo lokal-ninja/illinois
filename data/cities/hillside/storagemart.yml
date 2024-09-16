@@ -1,11 +1,11 @@
 id: 570405917
-type: way
+type: node
 latitude: 41.8735
 longitude: -87.91595
 postcode: "60162"
 city: Hillside
-street: "Darmstadt Road"
-housenumber: 5979
+street: Darmstadt Road
+housenumber: "5979"
 phone: ""
 opening_hours: ""
 website: ""

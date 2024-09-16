@@ -1,11 +1,11 @@
 id: 225051832
-type: way
+type: node
 latitude: 41.82051
 longitude: -87.80449
 postcode: "60534"
 city: Lyons
-street: "39th Street"
-housenumber: 7235
-phone: "+1 833-462-1086"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/lyons/7235-39th-street"
+street: 39th Street
+housenumber: "7235"
+phone: +1 833-462-1086
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/lyons/7235-39th-street

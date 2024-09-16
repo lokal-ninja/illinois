@@ -1,11 +1,11 @@
 id: 200457897
-type: way
+type: node
 latitude: 39.72411
 longitude: -90.24149
-postcode: "62650-3151"
+postcode: 62650-3151
 city: Jacksonville
-street: "West Morton Avenue"
-housenumber: 900
-phone: "+1 217-245-9563"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: West Morton Avenue
+housenumber: "900"
+phone: +1 217-245-9563
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

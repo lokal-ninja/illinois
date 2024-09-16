@@ -1,11 +1,11 @@
 id: 190535958
-type: way
+type: node
 latitude: 41.74738
 longitude: -87.73977
 postcode: "60652"
 city: Chicago
-street: "South Cicero Avenue"
-housenumber: 7971
-phone: "+1 773-306-7100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/il-chicago/2304"
+street: South Cicero Avenue
+housenumber: "7971"
+phone: +1 773-306-7100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/il-chicago/2304

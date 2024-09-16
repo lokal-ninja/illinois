@@ -1,11 +1,11 @@
 id: 1029178112
-type: way
+type: node
 latitude: 41.66172
 longitude: -87.75428
 postcode: "60803"
 city: Alsip
-street: "West 127th Street"
-housenumber: 5320
+street: West 127th Street
+housenumber: "5320"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Alsip/5320-West-127th-Street"
+website: https://www.speedway.com/locations/IL/Alsip/5320-West-127th-Street

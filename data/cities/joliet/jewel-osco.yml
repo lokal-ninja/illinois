@@ -1,11 +1,11 @@
 id: 190804309
-type: way
+type: node
 latitude: 41.55043
 longitude: -88.12764
 postcode: "60435"
 city: Joliet
-street: "Theodore Street"
-housenumber: 1537
-phone: "+1 815-725-4407"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/joliet/1537-n-larkin.html"
+street: Theodore Street
+housenumber: "1537"
+phone: +1 815-725-4407
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/joliet/1537-n-larkin.html

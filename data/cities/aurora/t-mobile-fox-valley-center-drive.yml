@@ -1,11 +1,11 @@
 id: 1034696697
-type: way
+type: node
 latitude: 41.76006
 longitude: -88.20669
 postcode: "60504"
 city: Aurora
-street: "Fox Valley Center Drive"
-housenumber: 4430
-phone: "+1 630 978 3286"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-19:00, Su 11:00-18:00"
-website: "https://www.t-mobile.com/store-locator/il/aurora/rt-59-fox-valley-center"
+street: Fox Valley Center Drive
+housenumber: "4430"
+phone: +1 630 978 3286
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-19:00, Su 11:00-18:00
+website: https://www.t-mobile.com/store-locator/il/aurora/rt-59-fox-valley-center

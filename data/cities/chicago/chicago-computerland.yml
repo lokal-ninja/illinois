@@ -4,8 +4,8 @@ latitude: 41.9299
 longitude: -87.6491
 postcode: "60614"
 city: Chicago
-street: "North Halsted Street"
-housenumber: 2628
-phone: "+1-773-281-4600"
+street: North Halsted Street
+housenumber: "2628"
+phone: +1-773-281-4600
 opening_hours: ""
-website: "https://chicagocomputerland.com/"
+website: https://chicagocomputerland.com/

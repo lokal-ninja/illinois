@@ -4,8 +4,8 @@ latitude: 41.96831
 longitude: -87.7038
 postcode: "60625"
 city: Chicago
-street: "West Lawrence Avenue"
-housenumber: 3005
-phone: "+1-773-576-5132"
+street: West Lawrence Avenue
+housenumber: "3005"
+phone: +1-773-576-5132
 opening_hours: ""
-website: "http://brucoffeeworks.com/"
+website: http://brucoffeeworks.com/

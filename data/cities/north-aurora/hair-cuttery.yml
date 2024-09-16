@@ -1,11 +1,11 @@
 id: 1205526094
-type: way
+type: node
 latitude: 41.79592
 longitude: -88.36667
 postcode: "60542"
 city: North Aurora
-street: "Town Center Drive"
-housenumber: 1854
-phone: "+1 630-907-2733"
-opening_hours: "Mo-Tu 09:00-17:00; We-Th 09:00-19:00; Fr 09:00-17:00; Sa-Su 09:00-18:00"
-website: "https://locations.haircuttery.com/il/north-aurora/1854-towne-centre-drive"
+street: Town Center Drive
+housenumber: "1854"
+phone: +1 630-907-2733
+opening_hours: Mo-Tu 09:00-17:00; We-Th 09:00-19:00; Fr 09:00-17:00; Sa-Su 09:00-18:00
+website: https://locations.haircuttery.com/il/north-aurora/1854-towne-centre-drive

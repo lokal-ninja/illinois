@@ -1,11 +1,12 @@
 id: 371533013
-type: way
+type: node
 latitude: 42.1564
 longitude: -87.95946
 postcode: "60089"
 city: Buffalo Grove
-street: "McHenry Road"
-housenumber: 197
+street: McHenry Road
+housenumber: "197"
 phone: "+12246762466"
-opening_hours: "Mo-Tu 10:00-19:30; We 11:00-18:00; Th-Fr 10:00-19:30; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.americanmattress.com/"
+opening_hours: Mo-Tu 10:00-19:30; We 11:00-18:00; Th-Fr 10:00-19:30; Sa 10:00-19:00;
+    Su 11:00-18:00
+website: https://www.americanmattress.com/

@@ -1,11 +1,11 @@
 id: 422883775
-type: way
+type: node
 latitude: 42.04126
 longitude: -87.79465
 postcode: "60053"
 city: Morton Grove
-street: "West Dempster Street"
-housenumber: 6730
+street: West Dempster Street
+housenumber: "6730"
 phone: ""
 opening_hours: ""
-website: "https://www.gunzos.com/"
+website: https://www.gunzos.com/

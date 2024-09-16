@@ -4,8 +4,8 @@ latitude: 39.76501
 longitude: -89.65031
 postcode: "62703"
 city: Springfield
-street: "South 6th Street"
-housenumber: 2777
-phone: "+1-217-744-2290"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.mycountymarket.com/"
+street: South 6th Street
+housenumber: "2777"
+phone: +1-217-744-2290
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.mycountymarket.com/

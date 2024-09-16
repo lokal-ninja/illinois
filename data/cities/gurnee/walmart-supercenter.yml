@@ -1,11 +1,11 @@
 id: 219543035
-type: way
+type: node
 latitude: 42.38762
 longitude: -87.9659
 postcode: "60031"
 city: Gurnee
-street: "Grand Avenue"
-housenumber: 6590
-phone: "+1 847-855-1230"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1668/gurnee-il/whats-new"
+street: Grand Avenue
+housenumber: "6590"
+phone: +1 847-855-1230
+opening_hours: 24/7
+website: https://www.walmart.com/store/1668/gurnee-il/whats-new

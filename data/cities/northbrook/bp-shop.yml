@@ -1,11 +1,11 @@
 id: 801691577
-type: way
+type: node
 latitude: 42.10631
 longitude: -87.82883
 postcode: "60062"
 city: Northbrook
-street: "Willow Road"
-housenumber: 1998
+street: Willow Road
+housenumber: "1998"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.gototrio.com/Contact-Us/Locations/Northbook-TRIO"
+opening_hours: 24/7
+website: https://www.gototrio.com/Contact-Us/Locations/Northbook-TRIO

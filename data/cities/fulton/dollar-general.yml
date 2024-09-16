@@ -1,11 +1,11 @@
 id: 385946294
-type: way
+type: node
 latitude: 41.86519
 longitude: -90.14869
 postcode: "61252"
 city: Fulton
-street: "17th Street"
-housenumber: 1200
-phone: "+1-331-684-7179"
+street: 17th Street
+housenumber: "1200"
+phone: +1-331-684-7179
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/fulton/1452"
+website: https://www.dollargeneral.com/store-directory/il/fulton/1452

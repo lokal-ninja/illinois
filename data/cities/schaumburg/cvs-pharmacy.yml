@@ -1,11 +1,11 @@
 id: 648275994
-type: way
+type: node
 latitude: 42.04694
 longitude: -88.12477
 postcode: "60194"
 city: Schaumburg
-street: "West Golf Road"
-housenumber: 1801
+street: West Golf Road
+housenumber: "1801"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/schaumburg-il-pharmacies/1801-w-golf-road-schaumburg-il-60194/storeid=8734"
+website: https://www.cvs.com/store-locator/schaumburg-il-pharmacies/1801-w-golf-road-schaumburg-il-60194/storeid=8734

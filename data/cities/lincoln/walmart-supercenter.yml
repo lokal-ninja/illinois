@@ -1,11 +1,11 @@
 id: 549959653
-type: way
+type: node
 latitude: 40.15401
 longitude: -89.39908
 postcode: "62656"
 city: Lincoln
-street: "Malerich Drive"
-housenumber: 825
-phone: "+1-217-735-2314"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/199/lincoln-il/whats-new"
+street: Malerich Drive
+housenumber: "825"
+phone: +1-217-735-2314
+opening_hours: 24/7
+website: https://www.walmart.com/store/199/lincoln-il/whats-new

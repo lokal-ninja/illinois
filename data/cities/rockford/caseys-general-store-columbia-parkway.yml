@@ -1,11 +1,11 @@
 id: 801782000
-type: way
+type: node
 latitude: 42.24002
 longitude: -89.00055
 postcode: ""
 city: Rockford
-street: "Columbia Parkway"
-housenumber: 5965
+street: Columbia Parkway
+housenumber: "5965"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

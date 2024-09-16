@@ -1,11 +1,11 @@
 id: 1027575270
-type: way
+type: node
 latitude: 42.06252
 longitude: -88.31499
 postcode: "60123"
 city: Elgin
-street: "North McLean Boulevard"
-housenumber: 1195
+street: North McLean Boulevard
+housenumber: "1195"
 phone: ""
 opening_hours: ""
 website: ""

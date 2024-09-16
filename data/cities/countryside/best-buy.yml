@@ -1,11 +1,11 @@
 id: 1055483210
-type: way
+type: node
 latitude: 41.78463
 longitude: -87.8723
 postcode: "60525"
 city: Countryside
-street: "Countryside Plaza"
-housenumber: 11
-phone: "+1 708-352-5777"
+street: Countryside Plaza
+housenumber: "11"
+phone: +1 708-352-5777
 opening_hours: ""
-website: "https://stores.bestbuy.com/il/countryside/11-countryside-plz-324.html"
+website: https://stores.bestbuy.com/il/countryside/11-countryside-plz-324.html

@@ -4,8 +4,8 @@ latitude: 41.90373
 longitude: -87.63111
 postcode: "60610"
 city: Chicago
-street: "North Clark Street"
-housenumber: 1165
+street: North Clark Street
+housenumber: "1165"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/chicago-il-pharmacies/1165-n-clark-chicago-il-60610/storeid=8698"
+website: https://www.cvs.com/store-locator/chicago-il-pharmacies/1165-n-clark-chicago-il-60610/storeid=8698

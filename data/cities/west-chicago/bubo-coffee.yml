@@ -1,11 +1,11 @@
 id: 850669567
-type: way
+type: node
 latitude: 41.91934
 longitude: -88.2095
 postcode: "60185"
 city: West Chicago
-street: "Franciscan Way"
-housenumber: 2013
+street: Franciscan Way
+housenumber: "2013"
 phone: ""
-opening_hours: "Mo-Fr 07:00-14:00; Sa 08:00-14:00"
-website: "https://www.bubo.coffee/"
+opening_hours: Mo-Fr 07:00-14:00; Sa 08:00-14:00
+website: https://www.bubo.coffee/

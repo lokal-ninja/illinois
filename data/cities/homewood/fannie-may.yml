@@ -1,11 +1,11 @@
 id: 930851986
-type: way
+type: node
 latitude: 41.5625
 longitude: -87.63578
 postcode: "60430"
 city: Homewood
-street: "Halsted Street"
-housenumber: 18101
+street: Halsted Street
+housenumber: "18101"
 phone: ""
 opening_hours: ""
-website: "https://locations.fanniemay.com/il/homewood/"
+website: https://locations.fanniemay.com/il/homewood/

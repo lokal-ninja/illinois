@@ -1,11 +1,11 @@
 id: 1026584444
-type: way
+type: node
 latitude: 42.33659
 longitude: -88.02502
 postcode: "60030"
 city: Grayslake
-street: "East Belvidere Road"
-housenumber: 917
-phone: "+1 847 543 4137"
-opening_hours: "24/7"
+street: East Belvidere Road
+housenumber: "917"
+phone: +1 847 543 4137
+opening_hours: 24/7
 website: ""

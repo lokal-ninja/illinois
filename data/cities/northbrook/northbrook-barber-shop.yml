@@ -1,11 +1,11 @@
 id: 906018710
-type: way
+type: node
 latitude: 42.12486
 longitude: -87.82887
 postcode: "60062"
 city: Northbrook
-street: "Shermer Road"
-housenumber: 1519
-phone: "+1-847-272-3880"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-17:00"
-website: "https://www.northbrookbarbershop.com/"
+street: Shermer Road
+housenumber: "1519"
+phone: +1-847-272-3880
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-17:00
+website: https://www.northbrookbarbershop.com/

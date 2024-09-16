@@ -1,11 +1,11 @@
 id: 1029183818
-type: way
+type: node
 latitude: 41.71787
 longitude: -87.81597
 postcode: "60457"
 city: Hickory Hills
-street: "West 95th Street"
-housenumber: 7993
+street: West 95th Street
+housenumber: "7993"
 phone: ""
 opening_hours: ""
 website: ""

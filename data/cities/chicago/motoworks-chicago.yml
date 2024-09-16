@@ -4,8 +4,8 @@ latitude: 41.85541
 longitude: -87.68537
 postcode: "60608"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 1901
-phone: "+1 312 7384269"
-opening_hours: "Tu-Fr 10:00-17:00; Sa 09:00-17:00; Su,Mo,PH off"
-website: "https://www.motoworkschicago.com/"
+street: South Western Avenue
+housenumber: "1901"
+phone: +1 312 7384269
+opening_hours: Tu-Fr 10:00-17:00; Sa 09:00-17:00; Su,Mo,PH off
+website: https://www.motoworkschicago.com/

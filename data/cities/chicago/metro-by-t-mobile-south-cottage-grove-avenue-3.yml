@@ -1,11 +1,11 @@
 id: 210845672
-type: way
+type: node
 latitude: 41.73708
 longitude: -87.60465
 postcode: "60619"
 city: Chicago
-street: "South Cottage Grove Avenue"
-housenumber: 8649
+street: South Cottage Grove Avenue
+housenumber: "8649"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-chicago-il-10294830/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-chicago-il-10294830/

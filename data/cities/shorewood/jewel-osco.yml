@@ -1,11 +1,11 @@
 id: 136044804
-type: way
+type: node
 latitude: 41.52218
 longitude: -88.20189
 postcode: "60404"
 city: Shorewood
-street: "Brookforest Avenue"
-housenumber: 199
-phone: "+1 815-730-3944"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/shorewood/199-brookforest-ave.html"
+street: Brookforest Avenue
+housenumber: "199"
+phone: +1 815-730-3944
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/shorewood/199-brookforest-ave.html

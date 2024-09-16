@@ -1,11 +1,11 @@
 id: 244989341
-type: way
+type: node
 latitude: 42.368
 longitude: -89.0246
 postcode: "61115"
 city: Machesney Park
-street: "West Lane Road"
-housenumber: 1548
+street: West Lane Road
+housenumber: "1548"
 phone: ""
 opening_hours: ""
 website: ""

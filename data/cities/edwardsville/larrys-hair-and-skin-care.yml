@@ -1,11 +1,11 @@
 id: 449292393
-type: way
+type: node
 latitude: 38.813
 longitude: -89.94777
 postcode: "62025"
 city: Edwardsville
-street: "East Vandalia Street"
-housenumber: 517
-phone: "+1-618-656-4950"
+street: East Vandalia Street
+housenumber: "517"
+phone: +1-618-656-4950
 opening_hours: ""
 website: ""

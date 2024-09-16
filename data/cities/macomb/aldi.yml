@@ -1,11 +1,11 @@
 id: 558035451
-type: way
+type: node
 latitude: 40.45958
 longitude: -90.64929
 postcode: "61455"
 city: Macomb
-street: "East Jackson Street"
-housenumber: 1540
-phone: "+1 833-468-7003"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/macomb/1540-east-jackson-street"
+street: East Jackson Street
+housenumber: "1540"
+phone: +1 833-468-7003
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/macomb/1540-east-jackson-street

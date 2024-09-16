@@ -1,11 +1,11 @@
 id: 383575229
-type: way
+type: node
 latitude: 42.05543
 longitude: -87.83026
 postcode: "60714"
 city: Niles
-street: "Golf Road"
-housenumber: 8170
+street: Golf Road
+housenumber: "8170"
 phone: ""
 opening_hours: ""
-website: "https://www.theliquorbarn.com/"
+website: https://www.theliquorbarn.com/

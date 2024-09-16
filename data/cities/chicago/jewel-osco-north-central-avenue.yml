@@ -1,11 +1,11 @@
 id: 162703752
-type: way
+type: node
 latitude: 41.96657
 longitude: -87.76688
 postcode: "60630"
 city: Chicago
-street: "North Central Avenue"
-housenumber: 4729
-phone: "+1 773-777-1142"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.jewelosco.com/il/chicago/4729-n-central-ave.html"
+street: North Central Avenue
+housenumber: "4729"
+phone: +1 773-777-1142
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.jewelosco.com/il/chicago/4729-n-central-ave.html

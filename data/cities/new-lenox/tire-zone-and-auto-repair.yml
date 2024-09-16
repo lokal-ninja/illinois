@@ -1,11 +1,11 @@
 id: 995777700
-type: way
+type: node
 latitude: 41.51333
 longitude: -87.96613
 postcode: "60451"
 city: New Lenox
-street: "North Cedar Road"
-housenumber: 204
-phone: "+1 708-722-9974"
+street: North Cedar Road
+housenumber: "204"
+phone: +1 708-722-9974
 opening_hours: ""
-website: "https://tirezoneandautorep.wixsite.com/tirezone"
+website: https://tirezoneandautorep.wixsite.com/tirezone

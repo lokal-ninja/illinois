@@ -1,11 +1,11 @@
 id: 210315362
-type: way
+type: node
 latitude: 41.91049
 longitude: -87.6491
 postcode: "60642"
 city: Chicago
-street: "North Clybourn Avenue"
-housenumber: 1590
+street: North Clybourn Avenue
+housenumber: "1590"
 phone: ""
 opening_hours: ""
 website: ""

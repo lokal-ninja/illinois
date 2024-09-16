@@ -1,11 +1,11 @@
 id: 131831308
-type: way
+type: node
 latitude: 42.02454
 longitude: -88.08381
 postcode: "60193"
 city: Schaumburg
-street: "South Roselle Road"
-housenumber: 200
+street: South Roselle Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.tonysfreshmarket.com/stores/schaumburg"
+website: https://www.tonysfreshmarket.com/stores/schaumburg

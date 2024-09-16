@@ -1,11 +1,11 @@
 id: 547279383
-type: way
+type: node
 latitude: 38.54209
 longitude: -90.02511
 postcode: "62223"
 city: Belleville
-street: "West Main Street"
-housenumber: 4609
+street: West Main Street
+housenumber: "4609"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/belleville-il-pharmacies/4609-w-main-st-belleville-il-62226/storeid=6830"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/belleville-il-pharmacies/4609-w-main-st-belleville-il-62226/storeid=6830

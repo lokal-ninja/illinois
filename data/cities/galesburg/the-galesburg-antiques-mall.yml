@@ -1,11 +1,11 @@
 id: 188391362
-type: way
+type: node
 latitude: 40.94585
 longitude: -90.36863
 postcode: "61401"
 city: Galesburg
-street: "South Prairie Street"
-housenumber: 140
-phone: "+1-309-342-8571"
+street: South Prairie Street
+housenumber: "140"
+phone: +1-309-342-8571
 opening_hours: ""
-website: "http://galesburgantiquesmall.com/"
+website: http://galesburgantiquesmall.com/

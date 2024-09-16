@@ -1,11 +1,11 @@
 id: 163668415
-type: way
+type: node
 latitude: 41.80852
 longitude: -87.7238
 postcode: "60632"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 4640
-phone: "+1 773-475-3855"
-opening_hours: "10:00-20:00"
-website: "https://www.lowes.com/store/IL-Chicago/3572"
+street: South Pulaski Road
+housenumber: "4640"
+phone: +1 773-475-3855
+opening_hours: 10:00-20:00
+website: https://www.lowes.com/store/IL-Chicago/3572

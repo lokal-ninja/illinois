@@ -1,11 +1,11 @@
 id: 163947375
-type: way
+type: node
 latitude: 41.96155
 longitude: -87.70814
 postcode: "60625"
 city: Chicago
-street: "North Kedzie Avenue"
-housenumber: 4411
+street: North Kedzie Avenue
+housenumber: "4411"
 phone: ""
 opening_hours: ""
 website: ""

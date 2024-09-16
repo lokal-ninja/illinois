@@ -1,11 +1,11 @@
 id: 275606017
-type: way
+type: node
 latitude: 41.85712
 longitude: -88.33896
 postcode: "60510"
 city: Batavia
-street: "South Randall Road"
-housenumber: 300
+street: South Randall Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3121"
+website: https://www.menards.com/store-details/store.html?store=3121

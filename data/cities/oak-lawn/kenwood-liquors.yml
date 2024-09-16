@@ -1,11 +1,11 @@
 id: 874465851
-type: way
+type: node
 latitude: 41.69691
 longitude: -87.74057
 postcode: "60453"
 city: Oak Lawn
-street: "South Cicero Avenue"
-housenumber: 10750
-phone: "+1-708-424-3580"
+street: South Cicero Avenue
+housenumber: "10750"
+phone: +1-708-424-3580
 opening_hours: ""
-website: "https://www.kenwoodliquors.biz/locations/"
+website: https://www.kenwoodliquors.biz/locations/

@@ -1,11 +1,11 @@
 id: 1207859314
-type: way
+type: node
 latitude: 37.59508
 longitude: -89.32151
 postcode: "62905"
 city: Alto Pass
-street: "IL 127"
-housenumber: 9680
+street: IL 127
+housenumber: "9680"
 phone: ""
 opening_hours: ""
 website: ""

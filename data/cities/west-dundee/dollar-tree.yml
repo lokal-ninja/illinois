@@ -4,8 +4,8 @@ latitude: 42.09892
 longitude: -88.28991
 postcode: "60118"
 city: West Dundee
-street: "West Main Street"
-housenumber: 830
+street: West Main Street
+housenumber: "830"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/west-dundee/2008/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/west-dundee/2008/

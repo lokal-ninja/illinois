@@ -1,11 +1,11 @@
 id: 224416252
-type: way
+type: node
 latitude: 41.78761
 longitude: -87.94936
 postcode: "60514"
 city: Clarendon Hills
-street: "Holmes Avenue"
-housenumber: 303
-phone: "+1 630-654-3455"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/clarendon-hills/303-holmes-ave.html"
+street: Holmes Avenue
+housenumber: "303"
+phone: +1 630-654-3455
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/clarendon-hills/303-holmes-ave.html

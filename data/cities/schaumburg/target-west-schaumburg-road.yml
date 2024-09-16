@@ -1,11 +1,11 @@
 id: 648632255
-type: way
+type: node
 latitude: 42.02324
 longitude: -88.14723
 postcode: "60194"
 city: Schaumburg
-street: "West Schaumburg Road"
-housenumber: 2621
-phone: "+1 847-798-0192"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/west-schaumburg/835"
+street: West Schaumburg Road
+housenumber: "2621"
+phone: +1 847-798-0192
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/west-schaumburg/835

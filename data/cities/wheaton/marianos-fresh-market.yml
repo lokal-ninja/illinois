@@ -1,11 +1,11 @@
 id: 304251084
-type: way
+type: node
 latitude: 41.85907
 longitude: -88.10285
 postcode: "60187"
 city: Wheaton
-street: "South Main Street"
-housenumber: 625
+street: South Main Street
+housenumber: "625"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

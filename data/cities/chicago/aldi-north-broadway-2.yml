@@ -1,11 +1,11 @@
 id: 33972029
-type: way
+type: node
 latitude: 41.96393
 longitude: -87.65675
 postcode: "60640"
 city: Chicago
-street: "North Broadway"
-housenumber: 4500
-phone: "+1 833-440-1003"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/chicago/4500-n-broadway"
+street: North Broadway
+housenumber: "4500"
+phone: +1 833-440-1003
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/chicago/4500-n-broadway

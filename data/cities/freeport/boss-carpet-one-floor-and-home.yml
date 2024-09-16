@@ -1,11 +1,11 @@
 id: 776252043
-type: way
+type: node
 latitude: 42.28019
 longitude: -89.61085
 postcode: "61032"
 city: Freeport
-street: "East South Street"
-housenumber: 461
+street: East South Street
+housenumber: "461"
 phone: "+18155990303"
 opening_hours: ""
-website: "https://www.bosscarpetone.com/"
+website: https://www.bosscarpetone.com/

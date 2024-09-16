@@ -1,11 +1,11 @@
 id: 24860748
-type: way
+type: node
 latitude: 42.01564
 longitude: -87.78155
 postcode: "60714"
 city: Niles
-street: "North Melvina Avenue"
-housenumber: 7311
-phone: "+1 847-972-3003"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/niles-il-383.html"
+street: North Melvina Avenue
+housenumber: "7311"
+phone: +1 847-972-3003
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/niles-il-383.html

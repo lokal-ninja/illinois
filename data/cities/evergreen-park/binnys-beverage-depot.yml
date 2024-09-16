@@ -1,11 +1,11 @@
 id: 1007187995
-type: way
+type: node
 latitude: 41.7205
 longitude: -87.70897
 postcode: "60805"
 city: Evergreen Park
-street: "West 95th Street"
-housenumber: 3447
+street: West 95th Street
+housenumber: "3447"
 phone: ""
 opening_hours: ""
 website: ""

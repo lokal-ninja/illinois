@@ -1,11 +1,11 @@
 id: 1126747208
-type: way
+type: node
 latitude: 41.82337
 longitude: -87.80249
 postcode: "60402"
 city: Berwyn
-street: "South Harlem Avenue"
-housenumber: 3743
+street: South Harlem Avenue
+housenumber: "3743"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/berwyn/autoparts-3405.html"
+website: https://locations.oreillyauto.com/il/berwyn/autoparts-3405.html

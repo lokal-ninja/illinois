@@ -1,11 +1,11 @@
 id: 155478192
-type: way
+type: node
 latitude: 41.74176
 longitude: -88.20484
 postcode: "60564"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 1440
-phone: "+1 630-445-6226"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/il-naperville/1711"
+street: South Illinois Route 59
+housenumber: "1440"
+phone: +1 630-445-6226
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/il-naperville/1711

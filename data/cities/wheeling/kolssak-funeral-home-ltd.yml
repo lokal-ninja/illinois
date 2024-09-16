@@ -1,11 +1,11 @@
 id: 1222805076
-type: way
+type: node
 latitude: 42.13711
 longitude: -87.90522
 postcode: "60090"
 city: Wheeling
-street: "South Milwaukee Avenue"
-housenumber: 189
-phone: "+1-847-537-6600"
-opening_hours: "24/7"
-website: "https://www.funerals.pro/"
+street: South Milwaukee Avenue
+housenumber: "189"
+phone: +1-847-537-6600
+opening_hours: 24/7
+website: https://www.funerals.pro/

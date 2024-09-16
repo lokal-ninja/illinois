@@ -1,11 +1,11 @@
 id: 767957076
-type: way
+type: node
 latitude: 41.86238
 longitude: -90.14574
 postcode: "61252"
 city: Fulton
-street: "16th Avenue"
-housenumber: 1801
-phone: "+1-815-208-7701"
+street: 16th Avenue
+housenumber: "1801"
+phone: +1-815-208-7701
 opening_hours: ""
-website: "https://www.thedispensaryfulton.com/"
+website: https://www.thedispensaryfulton.com/

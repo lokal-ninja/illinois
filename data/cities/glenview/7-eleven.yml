@@ -1,11 +1,11 @@
 id: 195445186
-type: way
+type: node
 latitude: 42.06556
 longitude: -87.84776
 postcode: "60025"
 city: Glenview
-street: "Central Road"
-housenumber: 3703
-phone: "+1 847-724-7470"
+street: Central Road
+housenumber: "3703"
+phone: +1 847-724-7470
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/glenview/3703-central-rd-17016"
+website: https://www.7-eleven.com/locations/il/glenview/3703-central-rd-17016

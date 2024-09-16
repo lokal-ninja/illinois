@@ -1,11 +1,11 @@
 id: 162391827
-type: way
+type: node
 latitude: 41.91328
 longitude: -87.74553
 postcode: "60639"
 city: Chicago
-street: "West Grand Avenue"
-housenumber: 4755
+street: West Grand Avenue
+housenumber: "4755"
 phone: ""
 opening_hours: ""
 website: ""

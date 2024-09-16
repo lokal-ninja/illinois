@@ -1,11 +1,11 @@
 id: 1287747229
-type: way
+type: node
 latitude: 41.63601
 longitude: -88.20514
 postcode: "60544"
 city: Plainfield
-street: "South Route 59"
-housenumber: 13550
-phone: "+1 833-468-7021"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/plainfield/13550-south-route-59"
+street: South Route 59
+housenumber: "13550"
+phone: +1 833-468-7021
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/plainfield/13550-south-route-59

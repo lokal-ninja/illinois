@@ -4,8 +4,8 @@ latitude: 39.79504
 longitude: -89.69625
 postcode: "62704"
 city: Springfield
-street: "West Monroe Street"
-housenumber: 2343
-phone: "+1-217-726-8888"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-19:00"
+street: West Monroe Street
+housenumber: "2343"
+phone: +1-217-726-8888
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-19:00
 website: ""

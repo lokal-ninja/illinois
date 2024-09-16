@@ -4,8 +4,8 @@ latitude: 42.0623
 longitude: -88.31615
 postcode: "60123"
 city: Elgin
-street: "North McLean Boulevard"
-housenumber: 1190
-phone: "+1 847 695 2845"
-opening_hours: "24/7"
+street: North McLean Boulevard
+housenumber: "1190"
+phone: +1 847 695 2845
+opening_hours: 24/7
 website: ""

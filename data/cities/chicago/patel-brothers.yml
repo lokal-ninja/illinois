@@ -1,11 +1,11 @@
 id: 209570174
-type: way
+type: node
 latitude: 41.99773
 longitude: -87.69538
 postcode: "60659"
 city: Chicago
-street: "West Devon Avenue"
-housenumber: 2610
+street: West Devon Avenue
+housenumber: "2610"
 phone: ""
 opening_hours: ""
-website: "https://www.patelbros.com/specials/2610-w-devon-avenue-chicago"
+website: https://www.patelbros.com/specials/2610-w-devon-avenue-chicago

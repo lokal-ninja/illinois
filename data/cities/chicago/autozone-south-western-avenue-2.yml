@@ -1,11 +1,11 @@
 id: 209675900
-type: way
+type: node
 latitude: 41.77594
 longitude: -87.68396
 postcode: "60636"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 6450
+street: South Western Avenue
+housenumber: "6450"
 phone: ""
 opening_hours: ""
 website: ""

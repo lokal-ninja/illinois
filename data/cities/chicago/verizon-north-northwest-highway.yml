@@ -1,11 +1,11 @@
 id: 768986899
-type: way
+type: node
 latitude: 41.99678
 longitude: -87.80669
 postcode: "60631"
 city: Chicago
-street: "North Northwest Highway"
-housenumber: 6340
+street: North Northwest Highway
+housenumber: "6340"
 phone: ""
 opening_hours: ""
-website: "https://stores.cellularsales.com/us/il/chicago/6340-n-northwest-hwy"
+website: https://stores.cellularsales.com/us/il/chicago/6340-n-northwest-hwy

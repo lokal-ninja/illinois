@@ -1,11 +1,11 @@
 id: 1303797181
-type: way
+type: node
 latitude: 41.77159
 longitude: -88.14892
 postcode: "60540"
 city: Naperville
-street: "Jackson Avenue"
-housenumber: 14
-phone: "+1 630 335 7775"
+street: Jackson Avenue
+housenumber: "14"
+phone: +1 630 335 7775
 opening_hours: ""
-website: "https://lenarosebeauty.com/"
+website: https://lenarosebeauty.com/

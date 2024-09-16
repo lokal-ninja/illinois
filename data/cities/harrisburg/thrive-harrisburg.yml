@@ -1,11 +1,11 @@
 id: 785496240
-type: way
+type: node
 latitude: 37.74972
 longitude: -88.53089
 postcode: "62946"
 city: Harrisburg
-street: "Veterans Drive"
-housenumber: 105
-phone: "+1-618-715-0882"
+street: Veterans Drive
+housenumber: "105"
+phone: +1-618-715-0882
 opening_hours: ""
-website: "https://thriveil.com/"
+website: https://thriveil.com/

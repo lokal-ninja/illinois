@@ -4,8 +4,8 @@ latitude: 42.02616
 longitude: -88.0819
 postcode: "60193"
 city: Schaumburg
-street: "Roselle Road"
-housenumber: 30
-phone: "+1 847 534 0544"
-opening_hours: "Su-Th 10:00-22:00;Fr-Sa 10:00-23:00"
-website: "https://www.oberweis.com/ice-cream-and-dairy-stores/Schaumburg"
+street: Roselle Road
+housenumber: "30"
+phone: +1 847 534 0544
+opening_hours: Su-Th 10:00-22:00;Fr-Sa 10:00-23:00
+website: https://www.oberweis.com/ice-cream-and-dairy-stores/Schaumburg

@@ -1,11 +1,11 @@
 id: 917267451
-type: way
+type: node
 latitude: 41.56427
 longitude: -87.5323
 postcode: "60438"
 city: Lansing
-street: "Ridge Road"
-housenumber: 3445
-phone: "+1 708-474-5940"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00"
+street: Ridge Road
+housenumber: "3445"
+phone: +1 708-474-5940
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00
 website: ""

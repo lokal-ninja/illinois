@@ -1,11 +1,11 @@
 id: 554337870
-type: way
+type: node
 latitude: 38.75093
 longitude: -89.68431
 postcode: "62249"
 city: Highland
-street: "Sportsman Road"
-housenumber: 12531
-phone: "+1 618 654 5360"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:30; Su 09:00-17:00"
-website: "https://www.ruralkingsupply.com/"
+street: Sportsman Road
+housenumber: "12531"
+phone: +1 618 654 5360
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-17:30; Su 09:00-17:00
+website: https://www.ruralkingsupply.com/

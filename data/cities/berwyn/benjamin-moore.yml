@@ -1,11 +1,11 @@
 id: 1021703057
-type: way
+type: node
 latitude: 41.85059
 longitude: -87.77936
 postcode: "60402"
 city: Berwyn
-street: "West Cermak Road"
-housenumber: 6217
+street: West Cermak Road
+housenumber: "6217"
 phone: ""
 opening_hours: ""
-website: "https://jclicht.com/store/berwyn/"
+website: https://jclicht.com/store/berwyn/

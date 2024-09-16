@@ -1,11 +1,11 @@
 id: 163221759
-type: way
+type: node
 latitude: 41.98029
 longitude: -87.7722
 postcode: "60630"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 5442
+street: North Milwaukee Avenue
+housenumber: "5442"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 362124534
-type: way
+type: node
 latitude: 41.90225
 longitude: -87.71689
 postcode: "60651"
 city: Chicago
-street: "West Grand Avenue"
-housenumber: 3601
+street: West Grand Avenue
+housenumber: "3601"
 phone: ""
 opening_hours: ""
 website: ""

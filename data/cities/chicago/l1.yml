@@ -4,8 +4,8 @@ latitude: 41.79427
 longitude: -87.61833
 postcode: "60637"
 city: Chicago
-street: "East Garfield Boulevard"
-housenumber: 301
+street: East Garfield Boulevard
+housenumber: "301"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://www.shopl1.org"
+opening_hours: Tu-Sa 11:00-19:00
+website: https://www.shopl1.org

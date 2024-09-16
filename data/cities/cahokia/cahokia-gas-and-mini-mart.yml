@@ -1,11 +1,11 @@
 id: 553856153
-type: way
+type: node
 latitude: 38.56615
 longitude: -90.19156
 postcode: "62206"
 city: Cahokia
-street: "Water Street"
-housenumber: 599
+street: Water Street
+housenumber: "599"
 phone: ""
 opening_hours: ""
 website: ""

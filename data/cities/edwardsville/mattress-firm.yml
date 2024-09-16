@@ -1,11 +1,11 @@
 id: 545135046
-type: way
+type: node
 latitude: 38.78318
 longitude: -89.95081
 postcode: "62025"
 city: Edwardsville
-street: "Troy Road"
-housenumber: 2460
-phone: "+1 618-659-1730"
+street: Troy Road
+housenumber: "2460"
+phone: +1 618-659-1730
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/il/edwardsville/018045/"
+website: https://www.mattressfirm.com/en-us/stores/il/edwardsville/018045/

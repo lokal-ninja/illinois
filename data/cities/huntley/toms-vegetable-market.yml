@@ -1,11 +1,11 @@
 id: 295700785
-type: way
+type: node
 latitude: 42.17645
 longitude: -88.3959
 postcode: "60142"
 city: Huntley
-street: "Algonquin Road"
-housenumber: 10214
-phone: "+1-847-669-3421"
-opening_hours: "Mo-Sa 08:30-18:00; Su 08:30-17:00; Dec 01-Mar 23 off"
-website: "https://www.tomsfarmmarket.com/"
+street: Algonquin Road
+housenumber: "10214"
+phone: +1-847-669-3421
+opening_hours: Mo-Sa 08:30-18:00; Su 08:30-17:00; Dec 01-Mar 23 off
+website: https://www.tomsfarmmarket.com/

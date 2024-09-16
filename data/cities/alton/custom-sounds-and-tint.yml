@@ -1,11 +1,11 @@
 id: 767813399
-type: way
+type: node
 latitude: 38.89072
 longitude: -90.13201
 postcode: "62002"
 city: Alton
-street: "Milton Road"
-housenumber: 912
-phone: "+1-618-477-8178"
+street: Milton Road
+housenumber: "912"
+phone: +1-618-477-8178
 opening_hours: ""
-website: "https://www.customsounds.com/"
+website: https://www.customsounds.com/

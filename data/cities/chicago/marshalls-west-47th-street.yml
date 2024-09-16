@@ -1,11 +1,11 @@
 id: 210164449
-type: way
+type: node
 latitude: 41.80967
 longitude: -87.66107
 postcode: "60609"
 city: Chicago
-street: "West 47th Street"
-housenumber: 1422
+street: West 47th Street
+housenumber: "1422"
 phone: ""
 opening_hours: ""
 website: ""

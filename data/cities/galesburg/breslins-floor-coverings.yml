@@ -1,11 +1,11 @@
 id: 860330785
-type: way
+type: node
 latitude: 40.94807
 longitude: -90.36452
 postcode: "61401"
 city: Galesburg
-street: "North Seminary Street"
-housenumber: 63
-phone: "+1-309-342-9197"
+street: North Seminary Street
+housenumber: "63"
+phone: +1-309-342-9197
 opening_hours: ""
-website: "https://www.breslins.com/"
+website: https://www.breslins.com/

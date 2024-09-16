@@ -4,8 +4,8 @@ latitude: 39.79508
 longitude: -89.64552
 postcode: "62703"
 city: Springfield
-street: "East Cook Street"
-housenumber: 737
-phone: "+1-217-503-4129"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.routehistory.net/"
+street: East Cook Street
+housenumber: "737"
+phone: +1-217-503-4129
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.routehistory.net/

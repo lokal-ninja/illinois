@@ -1,11 +1,11 @@
 id: 114824291
-type: way
+type: node
 latitude: 41.88439
 longitude: -87.6277
 postcode: "60602"
 city: Chicago
-street: "North State Street"
+street: North State Street
 housenumber: 101-137
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.macys.com/stores/il/chicago/state-street_215.html"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.macys.com/stores/il/chicago/state-street_215.html

@@ -1,11 +1,11 @@
 id: 79378087
-type: way
+type: node
 latitude: 41.76188
 longitude: -88.2083
 postcode: "60504"
 city: Aurora
-street: "Fox Valley Center Drive"
-housenumber: 4340
-phone: "+1 630-820-1011"
-opening_hours: "Mo-Sa 10:00-22:00; Su 10:00-21:00"
-website: "https://www.kohls.com/stores/il/aurora-67.shtml"
+street: Fox Valley Center Drive
+housenumber: "4340"
+phone: +1 630-820-1011
+opening_hours: Mo-Sa 10:00-22:00; Su 10:00-21:00
+website: https://www.kohls.com/stores/il/aurora-67.shtml

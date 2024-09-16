@@ -1,11 +1,11 @@
 id: 278417500
-type: way
+type: node
 latitude: 42.02763
 longitude: -88.14726
 postcode: "60194"
 city: Schaumburg
-street: "Barrington Road"
-housenumber: 100
-phone: "+1 847-798-8700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Schaumburg/IL/Schaumburg/60194/1904"
+street: Barrington Road
+housenumber: "100"
+phone: +1 847-798-8700
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Schaumburg/IL/Schaumburg/60194/1904

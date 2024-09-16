@@ -1,11 +1,11 @@
 id: 1161553302
-type: way
+type: node
 latitude: 42.01561
 longitude: -87.80421
 postcode: "60714"
 city: Niles
-street: "North Milwaukee Avenue"
-housenumber: 7369
+street: North Milwaukee Avenue
+housenumber: "7369"
 phone: ""
 opening_hours: ""
 website: ""

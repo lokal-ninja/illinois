@@ -1,11 +1,11 @@
 id: 589107985
-type: way
+type: node
 latitude: 40.4602
 longitude: -88.9917
 postcode: "61701"
 city: Bloomington
-street: "R T Dunn Street"
-housenumber: 1724
+street: R T Dunn Street
+housenumber: "1724"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed"
-website: "https://locations.aarons.com/us/il/bloomington/1724-r.t.-dunn-dr."
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed
+website: https://locations.aarons.com/us/il/bloomington/1724-r.t.-dunn-dr.

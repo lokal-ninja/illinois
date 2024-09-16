@@ -1,11 +1,11 @@
 id: 244962030
-type: way
+type: node
 latitude: 42.2992
 longitude: -89.05674
 postcode: "61111"
 city: Rockford
-street: "North 2nd Street"
-housenumber: 4734
+street: North 2nd Street
+housenumber: "4734"
 phone: ""
 opening_hours: ""
 website: ""

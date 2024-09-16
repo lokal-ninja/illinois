@@ -1,11 +1,11 @@
 id: 206174928
-type: way
+type: node
 latitude: 42.319
 longitude: -89.03405
 postcode: "61111"
 city: Loves Park
-street: "East Riverside Boulevard"
-housenumber: 1510
-phone: "+1 815-940-8000"
+street: East Riverside Boulevard
+housenumber: "1510"
+phone: +1 815-940-8000
 opening_hours: ""
 website: ""

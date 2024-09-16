@@ -1,11 +1,11 @@
 id: 148910688
-type: way
+type: node
 latitude: 41.88003
 longitude: -87.64717
 postcode: "60661"
 city: Chicago
-street: "South Halsted Street"
-housenumber: 111
+street: South Halsted Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-111+s+halsted+st-chicago-il-60661/id=4978"
+website: https://www.walgreens.com/locator/walgreens-111+s+halsted+st-chicago-il-60661/id=4978

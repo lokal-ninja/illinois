@@ -1,11 +1,11 @@
 id: 1035422870
-type: way
+type: node
 latitude: 41.6819
 longitude: -88.208
 postcode: "60564"
 city: Naperville
-street: "111th Street"
-housenumber: 3111
+street: 111th Street
+housenumber: "3111"
 phone: ""
 opening_hours: ""
 website: ""

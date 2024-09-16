@@ -1,11 +1,11 @@
 id: 127674244
-type: way
+type: node
 latitude: 39.72042
 longitude: -90.27188
 postcode: "62650"
 city: Jacksonville
-street: "West Morton Avenue"
-housenumber: 1941
-phone: "+1 217-245-5146"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/200/jacksonville-il/whats-new"
+street: West Morton Avenue
+housenumber: "1941"
+phone: +1 217-245-5146
+opening_hours: 24/7
+website: https://www.walmart.com/store/200/jacksonville-il/whats-new

@@ -1,11 +1,11 @@
 id: 770066847
-type: way
+type: node
 latitude: 38.96995
 longitude: -90.43063
 postcode: "62037"
 city: Grafton
-street: "East Main Street"
-housenumber: 316
+street: East Main Street
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

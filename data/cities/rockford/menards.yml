@@ -1,11 +1,11 @@
 id: 250217894
-type: way
+type: node
 latitude: 42.24592
 longitude: -88.98148
 postcode: "61112"
 city: Rockford
-street: "South Perryville Road"
-housenumber: 2001
-phone: "+1 815-226-1736"
-opening_hours: "Tu-Sa 06:00-22:00; Su 07:00-20:00; Mo 06:00-20:00"
-website: "https://www.menards.com/store-details/store.html?store=3042"
+street: South Perryville Road
+housenumber: "2001"
+phone: +1 815-226-1736
+opening_hours: Tu-Sa 06:00-22:00; Su 07:00-20:00; Mo 06:00-20:00
+website: https://www.menards.com/store-details/store.html?store=3042

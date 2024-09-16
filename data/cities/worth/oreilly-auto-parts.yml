@@ -1,11 +1,11 @@
 id: 1164754320
-type: way
+type: node
 latitude: 41.69107
 longitude: -87.78644
 postcode: "60482"
 city: Worth
-street: "West 111th Street"
-housenumber: 6710
+street: West 111th Street
+housenumber: "6710"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/worth/autoparts-2473.html"
+website: https://locations.oreillyauto.com/il/worth/autoparts-2473.html

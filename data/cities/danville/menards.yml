@@ -1,11 +1,11 @@
 id: 1090600384
-type: way
+type: node
 latitude: 40.20373
 longitude: -87.62316
 postcode: "61834"
 city: Danville
-street: "East West Newell Road"
-housenumber: 36
+street: East West Newell Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3160"
+website: https://www.menards.com/store-details/store.html?store=3160

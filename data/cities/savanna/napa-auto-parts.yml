@@ -1,11 +1,11 @@
 id: 603566183
-type: way
+type: node
 latitude: 42.09546
 longitude: -90.15714
 postcode: ""
 city: Savanna
-street: "Main Street"
-housenumber: 501
+street: Main Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

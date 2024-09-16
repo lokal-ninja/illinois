@@ -1,11 +1,11 @@
 id: 693993619
-type: way
+type: node
 latitude: 41.11636
 longitude: -87.86759
 postcode: "60901"
 city: Kankakee
-street: "South Washington Avenue"
-housenumber: 446
-phone: "+1 815-935-2040"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.jewelosco.com/il/kankakee/446-s-washington-ave.html"
+street: South Washington Avenue
+housenumber: "446"
+phone: +1 815-935-2040
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.jewelosco.com/il/kankakee/446-s-washington-ave.html

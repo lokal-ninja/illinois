@@ -1,11 +1,11 @@
 id: 209958916
-type: way
+type: node
 latitude: 42.01896
 longitude: -87.66836
 postcode: "60626"
 city: Chicago
-street: "North Rogers Avenue"
-housenumber: 7575
+street: North Rogers Avenue
+housenumber: "7575"
 phone: ""
 opening_hours: ""
 website: ""

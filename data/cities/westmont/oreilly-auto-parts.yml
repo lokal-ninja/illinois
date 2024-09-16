@@ -1,11 +1,11 @@
 id: 32667858
-type: way
+type: node
 latitude: 41.81036
 longitude: -87.98361
 postcode: "60559"
 city: Westmont
-street: "West Ogden Avenue"
-housenumber: 230
+street: West Ogden Avenue
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/westmont/autoparts-4357.html"
+website: https://locations.oreillyauto.com/il/westmont/autoparts-4357.html

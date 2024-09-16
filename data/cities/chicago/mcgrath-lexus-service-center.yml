@@ -1,11 +1,11 @@
 id: 210306945
-type: way
+type: node
 latitude: 41.90314
 longitude: -87.65534
 postcode: "60642"
 city: Chicago
-street: "West Division Street"
-housenumber: 1111
+street: West Division Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

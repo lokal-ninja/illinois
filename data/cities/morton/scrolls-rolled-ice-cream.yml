@@ -1,11 +1,11 @@
 id: 959029464
-type: way
+type: node
 latitude: 40.60797
 longitude: -89.46312
 postcode: "61550"
 city: Morton
-street: "South First Avenue"
-housenumber: 321
-phone: "+1-309-291-5065"
+street: South First Avenue
+housenumber: "321"
+phone: +1-309-291-5065
 opening_hours: ""
-website: "https://sucresweetsandsocials.com/"
+website: https://sucresweetsandsocials.com/

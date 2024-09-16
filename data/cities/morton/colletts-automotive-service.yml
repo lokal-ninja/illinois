@@ -1,11 +1,11 @@
 id: 248770140
-type: way
+type: node
 latitude: 40.61792
 longitude: -89.45343
 postcode: "61550"
 city: Morton
-street: "North Main Street"
-housenumber: 822
-phone: "+1-309-263-7932"
+street: North Main Street
+housenumber: "822"
+phone: +1-309-263-7932
 opening_hours: ""
-website: "http://collettsauto.net/"
+website: http://collettsauto.net/

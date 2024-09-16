@@ -1,11 +1,11 @@
 id: 476167762
-type: way
+type: node
 latitude: 38.69057
 longitude: -89.97122
 postcode: "62234"
 city: Collinsville
-street: "Vandalia Street"
-housenumber: 1716
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/collinsville/1716-vandalia-street"
+street: Vandalia Street
+housenumber: "1716"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/collinsville/1716-vandalia-street

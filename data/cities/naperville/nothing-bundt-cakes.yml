@@ -1,11 +1,11 @@
 id: 1034696686
-type: way
+type: node
 latitude: 41.71181
 longitude: -88.20675
 postcode: "60564"
 city: Naperville
-street: "Showplace Drive"
-housenumber: 2860
-phone: "+1-630-857-3030"
+street: Showplace Drive
+housenumber: "2860"
+phone: +1-630-857-3030
 opening_hours: ""
-website: "https://www.nothingbundtcakes.com/bakery/IL/naperville"
+website: https://www.nothingbundtcakes.com/bakery/IL/naperville

@@ -1,11 +1,11 @@
 id: 845186074
-type: way
+type: node
 latitude: 42.04777
 longitude: -87.9609
 postcode: "60056"
 city: Mount Prospect
-street: "South Busse Road"
-housenumber: 1002
+street: South Busse Road
+housenumber: "1002"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mount-prospect-il-pharmacies/1002-s-busse-rd-mount-prospect-il-60056/storeid=3110"
+website: https://www.cvs.com/store-locator/mount-prospect-il-pharmacies/1002-s-busse-rd-mount-prospect-il-60056/storeid=3110

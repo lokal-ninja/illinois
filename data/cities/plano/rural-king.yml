@@ -1,11 +1,11 @@
 id: 688506467
-type: way
+type: node
 latitude: 41.65593
 longitude: -88.55665
 postcode: "60545"
 city: Plano
-street: "West Route 34"
-housenumber: 15606
+street: West Route 34
+housenumber: "15606"
 phone: ""
 opening_hours: ""
 website: ""

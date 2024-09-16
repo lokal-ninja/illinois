@@ -1,11 +1,11 @@
 id: 233323875
-type: way
+type: node
 latitude: 41.72002
 longitude: -87.7712
 postcode: "60453"
 city: Oak Lawn
-street: "West 95th Street"
-housenumber: 6030
+street: West 95th Street
+housenumber: "6030"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Oak-Lawn/6030-West-95th-Street"
+website: https://www.speedway.com/locations/IL/Oak-Lawn/6030-West-95th-Street

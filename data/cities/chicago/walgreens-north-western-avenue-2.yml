@@ -1,11 +1,11 @@
 id: 149599772
-type: way
+type: node
 latitude: 41.94272
 longitude: -87.68958
 postcode: "60618"
 city: Chicago
-street: "North Western Avenue"
-housenumber: 3358
+street: North Western Avenue
+housenumber: "3358"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa,Su 09:00-17:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa,Su 09:00-17:00
 website: ""

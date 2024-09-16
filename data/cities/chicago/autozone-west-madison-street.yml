@@ -1,11 +1,11 @@
 id: 162514321
-type: way
+type: node
 latitude: 41.88047
 longitude: -87.7623
 postcode: "60644"
 city: Chicago
-street: "West Madison Street"
-housenumber: 5440
+street: West Madison Street
+housenumber: "5440"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/5440-w-madison.html"
+website: https://www.autozone.com/locations/il/chicago/5440-w-madison.html

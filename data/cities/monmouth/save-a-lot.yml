@@ -1,11 +1,11 @@
 id: 554447559
-type: way
+type: node
 latitude: 40.91336
 longitude: -90.6488
 postcode: "61462"
 city: Monmouth
-street: "North Main Street"
-housenumber: 200
-phone: "+1-309-734-5450"
+street: North Main Street
+housenumber: "200"
+phone: +1-309-734-5450
 opening_hours: ""
 website: ""

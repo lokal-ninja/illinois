@@ -4,8 +4,8 @@ latitude: 39.80079
 longitude: -89.65095
 postcode: "62701"
 city: Springfield
-street: "East Adams Street"
-housenumber: 321
-phone: "+1-217-753-5742"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.resourceoneoffice.com/"
+street: East Adams Street
+housenumber: "321"
+phone: +1-217-753-5742
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.resourceoneoffice.com/

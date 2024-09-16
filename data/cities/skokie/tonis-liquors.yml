@@ -1,11 +1,11 @@
 id: 400922301
-type: way
+type: node
 latitude: 42.06234
 longitude: -87.72897
 postcode: "60076"
 city: Skokie
-street: "Old Orchard Road"
-housenumber: 4033
-phone: "+1-847-673-0045"
-opening_hours: "Mo-Th 10:00-21:00,Fr,Sa 10:00-22:00,Su 11:30-17:00"
-website: "https://toniswinesliquorsbeer.com"
+street: Old Orchard Road
+housenumber: "4033"
+phone: +1-847-673-0045
+opening_hours: Mo-Th 10:00-21:00,Fr,Sa 10:00-22:00,Su 11:30-17:00
+website: https://toniswinesliquorsbeer.com

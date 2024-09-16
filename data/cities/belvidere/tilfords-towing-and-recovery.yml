@@ -1,11 +1,11 @@
 id: 1242083740
-type: way
+type: node
 latitude: 42.25202
 longitude: -88.81733
 postcode: "61008"
 city: Belvidere
-street: "Logan Avenue"
-housenumber: 6172
+street: Logan Avenue
+housenumber: "6172"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

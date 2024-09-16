@@ -1,11 +1,11 @@
 id: 266416439
-type: way
+type: node
 latitude: 42.10963
 longitude: -88.04305
 postcode: "60067"
 city: Palatine
-street: "South Plum Grove Road"
-housenumber: 45
-phone: "+1 847-991-1888"
-opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 06:00-23:00"
-website: "https://local.jewelosco.com/il/palatine/45-s-plum-grove-rd.html"
+street: South Plum Grove Road
+housenumber: "45"
+phone: +1 847-991-1888
+opening_hours: Mo-Fr 06:00-23:00; Sa-Su 06:00-23:00
+website: https://local.jewelosco.com/il/palatine/45-s-plum-grove-rd.html

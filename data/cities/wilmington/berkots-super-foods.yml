@@ -1,11 +1,11 @@
 id: 508033073
-type: way
+type: node
 latitude: 41.30613
 longitude: -88.15831
 postcode: "60481"
 city: Wilmington
-street: "West Balitmore Street"
-housenumber: 700
+street: West Balitmore Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

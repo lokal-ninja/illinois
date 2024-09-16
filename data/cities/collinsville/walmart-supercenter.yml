@@ -1,11 +1,11 @@
 id: 549272338
-type: way
+type: node
 latitude: 38.67397
 longitude: -90.01661
 postcode: "62234"
 city: Collinsville
-street: "Collinsville Crossing Boulevard"
-housenumber: 1040
-phone: "+1 618-344-4480"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/361-collinsville-il"
+street: Collinsville Crossing Boulevard
+housenumber: "1040"
+phone: +1 618-344-4480
+opening_hours: 24/7
+website: https://www.walmart.com/store/361-collinsville-il

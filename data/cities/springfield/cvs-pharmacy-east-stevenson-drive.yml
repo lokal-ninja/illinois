@@ -1,11 +1,11 @@
 id: 431740821
-type: way
+type: node
 latitude: 39.75866
 longitude: -89.61605
 postcode: "62703"
 city: Springfield
-street: "East Stevenson Drive"
-housenumber: 2703
+street: East Stevenson Drive
+housenumber: "2703"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/springfield-il-pharmacies/2703-stevenson-dr-springfield-il-62703/storeid=6819"
+website: https://www.cvs.com/store-locator/springfield-il-pharmacies/2703-stevenson-dr-springfield-il-62703/storeid=6819

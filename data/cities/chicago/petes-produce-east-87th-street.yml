@@ -1,11 +1,11 @@
 id: 211068788
-type: way
+type: node
 latitude: 41.73647
 longitude: -87.58658
 postcode: "60619"
 city: Chicago
-street: "East 87th Street"
-housenumber: 1543
+street: East 87th Street
+housenumber: "1543"
 phone: ""
 opening_hours: ""
-website: "https://www.petesproduce.com/"
+website: https://www.petesproduce.com/

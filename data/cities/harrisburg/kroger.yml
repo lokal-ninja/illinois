@@ -1,11 +1,11 @@
 id: 846573418
-type: way
+type: node
 latitude: 37.74571
 longitude: -88.52517
 postcode: "62946"
 city: Harrisburg
-street: "North Commercial Street"
-housenumber: 601
-phone: "+1 618-252-8691"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.kroger.com/stores/grocery/il/harrisburg/shawnee-square/024/00642"
+street: North Commercial Street
+housenumber: "601"
+phone: +1 618-252-8691
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.kroger.com/stores/grocery/il/harrisburg/shawnee-square/024/00642

@@ -1,11 +1,11 @@
 id: 331956547
-type: way
+type: node
 latitude: 42.23972
 longitude: -87.99366
 postcode: "60060"
 city: Mundelein
-street: "Townline Road"
-housenumber: 505
+street: Townline Road
+housenumber: "505"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Mundelein/505-Townline-Road"
+website: https://www.speedway.com/locations/IL/Mundelein/505-Townline-Road

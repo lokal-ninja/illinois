@@ -1,11 +1,11 @@
 id: 209810388
-type: way
+type: node
 latitude: 41.85809
 longitude: -87.66834
 postcode: "60608"
 city: Chicago
-street: "South Paulina Street"
-housenumber: 1715
+street: South Paulina Street
+housenumber: "1715"
 phone: ""
 opening_hours: ""
 website: ""

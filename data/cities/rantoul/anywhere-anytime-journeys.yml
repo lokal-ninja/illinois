@@ -1,11 +1,11 @@
 id: 1268194636
-type: way
+type: node
 latitude: 40.31098
 longitude: -88.15868
 postcode: "61866"
 city: Rantoul
-street: "East Sangamon Avenue"
-housenumber: 101
-phone: "+1 217 892 2526"
+street: East Sangamon Avenue
+housenumber: "101"
+phone: +1 217 892 2526
 opening_hours: ""
-website: "https://www.anywhereanytimejourneys.com/"
+website: https://www.anywhereanytimejourneys.com/

@@ -1,11 +1,11 @@
 id: 406781479
-type: way
+type: node
 latitude: 42.02379
 longitude: -87.92161
 postcode: "60018"
 city: Des Plaines
-street: "South Mount Prospect Road"
-housenumber: 1560
-phone: "+1-847-298-1170"
+street: South Mount Prospect Road
+housenumber: "1560"
+phone: +1-847-298-1170
 opening_hours: ""
 website: ""

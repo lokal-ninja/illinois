@@ -1,11 +1,11 @@
 id: 706234683
-type: way
+type: node
 latitude: 40.47966
 longitude: -88.98077
 postcode: "61701"
 city: Bloomington
-street: "East Washington Street"
-housenumber: 921
-phone: "+1 309 306 1523"
+street: East Washington Street
+housenumber: "921"
+phone: +1 309 306 1523
 opening_hours: ""
-website: "https://greentopgrocery.com/"
+website: https://greentopgrocery.com/

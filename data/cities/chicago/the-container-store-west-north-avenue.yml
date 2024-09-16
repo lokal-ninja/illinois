@@ -1,11 +1,11 @@
 id: 198989209
-type: way
+type: node
 latitude: 41.91094
 longitude: -87.65248
 postcode: "60642"
 city: Chicago
-street: "West North Avenue"
-housenumber: 908
+street: West North Avenue
+housenumber: "908"
 phone: ""
 opening_hours: ""
 website: ""

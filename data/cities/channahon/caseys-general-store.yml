@@ -1,11 +1,11 @@
 id: 1245721966
-type: way
+type: node
 latitude: 41.43129
 longitude: -88.22402
 postcode: "60410"
 city: Channahon
-street: "W. Eames St."
-housenumber: 25235
-phone: "(815) 655-7556"
-opening_hours: "Mo-Su 03:00-22:00"
+street: W. Eames St.
+housenumber: "25235"
+phone: (815) 655-7556
+opening_hours: Mo-Su 03:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 165142039
-type: way
+type: node
 latitude: 41.80123
 longitude: -87.68536
 postcode: "60632"
 city: Chicago
-street: "West 51st Street"
-housenumber: 2420
+street: West 51st Street
+housenumber: "2420"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

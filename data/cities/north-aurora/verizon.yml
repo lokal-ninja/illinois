@@ -1,11 +1,11 @@
 id: 1205526095
-type: way
+type: node
 latitude: 41.79592
 longitude: -88.36645
 postcode: "60542"
 city: North Aurora
-street: "Town Center Drive"
-housenumber: 1852
-phone: "+1 331-707-4545"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-16:00"
-website: "https://www.verizon.com/stores/details/illinois/north-aurora/tcc-north-aurora-1019715/"
+street: Town Center Drive
+housenumber: "1852"
+phone: +1 331-707-4545
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-16:00
+website: https://www.verizon.com/stores/details/illinois/north-aurora/tcc-north-aurora-1019715/

@@ -1,11 +1,11 @@
 id: 1161553301
-type: way
+type: node
 latitude: 42.01701
 longitude: -87.80554
 postcode: "60714"
 city: Niles
-street: "North Milwaukee Avenue"
-housenumber: 7547
+street: North Milwaukee Avenue
+housenumber: "7547"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/niles/7457-n-milwaukee-ave.html"
+website: https://www.autozone.com/locations/il/niles/7457-n-milwaukee-ave.html

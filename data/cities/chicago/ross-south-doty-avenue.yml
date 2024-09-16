@@ -4,8 +4,8 @@ latitude: 41.69781
 longitude: -87.59808
 postcode: "60628"
 city: Chicago
-street: "South Doty Avenue"
-housenumber: 10830
-phone: "+1 773-568-2324"
-opening_hours: "Mo-Th 10:30-20:30; Fr-Sa 09:30-20:30; Su 09:30-20:00"
+street: South Doty Avenue
+housenumber: "10830"
+phone: +1 773-568-2324
+opening_hours: Mo-Th 10:30-20:30; Fr-Sa 09:30-20:30; Su 09:30-20:00
 website: ""

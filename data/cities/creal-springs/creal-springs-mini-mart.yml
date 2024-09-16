@@ -1,11 +1,11 @@
 id: 845152222
-type: way
+type: node
 latitude: 37.61977
 longitude: -88.83672
 postcode: "62922"
 city: Creal Springs
-street: "East Keely Street"
-housenumber: 100
+street: East Keely Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

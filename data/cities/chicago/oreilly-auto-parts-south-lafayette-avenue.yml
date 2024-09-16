@@ -1,11 +1,11 @@
 id: 210491334
-type: way
+type: node
 latitude: 41.73678
 longitude: -87.6259
 postcode: "60620"
 city: Chicago
-street: "South Lafayette Avenue"
-housenumber: 8640
+street: South Lafayette Avenue
+housenumber: "8640"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/chicago/autoparts-3407.html"
+website: https://locations.oreillyauto.com/il/chicago/autoparts-3407.html

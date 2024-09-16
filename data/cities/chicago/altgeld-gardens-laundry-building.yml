@@ -1,11 +1,11 @@
 id: 388983678
-type: way
+type: node
 latitude: 41.65452
 longitude: -87.60493
 postcode: "60827"
 city: Chicago
-street: "South Langley Avenue"
-housenumber: 13291
+street: South Langley Avenue
+housenumber: "13291"
 phone: ""
 opening_hours: ""
 website: ""

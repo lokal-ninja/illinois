@@ -1,11 +1,11 @@
 id: 1087590627
-type: way
+type: node
 latitude: 41.87308
 longitude: -87.77501
 postcode: "60304"
 city: Oak Park
-street: "South Austin Boulevard"
-housenumber: 520
+street: South Austin Boulevard
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

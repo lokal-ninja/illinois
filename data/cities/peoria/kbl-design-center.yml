@@ -1,11 +1,11 @@
 id: 1052177396
-type: way
+type: node
 latitude: 40.7696
 longitude: -89.65632
 postcode: "61615"
 city: Peoria
-street: "North Big Hollow Road"
-housenumber: 6715
-phone: "+1 309-692-8700"
+street: North Big Hollow Road
+housenumber: "6715"
+phone: +1 309-692-8700
 opening_hours: ""
-website: "https://kbldesign.com/"
+website: https://kbldesign.com/

@@ -1,11 +1,11 @@
 id: 660880703
-type: way
+type: node
 latitude: 41.71684
 longitude: -87.68501
 postcode: "60805"
 city: Evergreen Park
-street: "South Western Avenue"
-housenumber: 9660
+street: South Western Avenue
+housenumber: "9660"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://tjmaxx.tjx.com/store/stores/Evergreen+Park-IL-60805/1487/aboutstore/"
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://tjmaxx.tjx.com/store/stores/Evergreen+Park-IL-60805/1487/aboutstore/

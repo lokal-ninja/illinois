@@ -1,11 +1,11 @@
 id: 936476636
-type: way
+type: node
 latitude: 41.99857
 longitude: -87.8877
 postcode: "60666"
 city: Chicago
-street: "Patton Drive"
-housenumber: 840
-phone: "+1 847-376-8757"
+street: Patton Drive
+housenumber: "840"
+phone: +1 847-376-8757
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/11601-w-tuohy-ave-39913"
+website: https://www.7-eleven.com/locations/il/chicago/11601-w-tuohy-ave-39913

@@ -1,11 +1,11 @@
 id: 851920309
-type: way
+type: node
 latitude: 42.35898
 longitude: -87.87067
 postcode: "60085"
 city: Waukegan
-street: "Washington Street"
-housenumber: 
+street: Washington Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

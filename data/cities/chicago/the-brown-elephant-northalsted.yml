@@ -4,8 +4,8 @@ latitude: 41.94009
 longitude: -87.6499
 postcode: "60657"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 812
-phone: "+1 773-549-5943"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://howardbrown.org/get-involved/brown-elephant/"
+street: West Belmont Avenue
+housenumber: "812"
+phone: +1 773-549-5943
+opening_hours: Mo-Su 11:00-18:00
+website: https://howardbrown.org/get-involved/brown-elephant/

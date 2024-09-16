@@ -1,11 +1,11 @@
 id: 1027570804
-type: way
+type: node
 latitude: 42.09873
 longitude: -88.28644
 postcode: "60118"
 city: West Dundee
-street: "North 8th Street"
-housenumber: 115
+street: North 8th Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/West-Dundee/115-North-8th-Street"
+website: https://www.speedway.com/locations/IL/West-Dundee/115-North-8th-Street

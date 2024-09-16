@@ -1,11 +1,11 @@
 id: 984135023
-type: way
+type: node
 latitude: 41.95378
 longitude: -88.72021
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2519
+street: Sycamore Road
+housenumber: "2519"
 phone: ""
 opening_hours: ""
 website: ""

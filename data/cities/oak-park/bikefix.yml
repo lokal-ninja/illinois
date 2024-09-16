@@ -4,8 +4,8 @@ latitude: 41.88841
 longitude: -87.78376
 postcode: "60302"
 city: Oak Park
-street: "Lake Street"
-housenumber: 310
-phone: "+1 708 445 8760"
+street: Lake Street
+housenumber: "310"
+phone: +1 708 445 8760
 opening_hours: ""
-website: "https://bikefixinc.com/"
+website: https://bikefixinc.com/

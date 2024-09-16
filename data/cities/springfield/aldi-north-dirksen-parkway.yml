@@ -1,11 +1,11 @@
 id: 410589611
-type: way
+type: node
 latitude: 39.84108
 longitude: -89.6058
 postcode: "62702"
 city: Springfield
-street: "North Dirksen Parkway"
-housenumber: 2731
-phone: "+1-855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/springfield/2731-north-dirksen-parkway"
+street: North Dirksen Parkway
+housenumber: "2731"
+phone: +1-855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/springfield/2731-north-dirksen-parkway

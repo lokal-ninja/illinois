@@ -1,11 +1,11 @@
 id: 771171444
-type: way
+type: node
 latitude: 42.37794
 longitude: -89.63359
 postcode: "61032"
 city: Cedarville
-street: "North Stephenson Street"
-housenumber: 200
+street: North Stephenson Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.barkau.com/"
+website: https://www.barkau.com/

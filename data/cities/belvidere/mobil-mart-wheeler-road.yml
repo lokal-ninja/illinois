@@ -1,11 +1,11 @@
 id: 799280056
-type: way
+type: node
 latitude: 42.23905
 longitude: -88.91958
 postcode: "61016"
 city: Belvidere
-street: "Wheeler Road"
-housenumber: 
+street: Wheeler Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

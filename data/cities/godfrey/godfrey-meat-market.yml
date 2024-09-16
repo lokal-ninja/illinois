@@ -1,11 +1,11 @@
 id: 1026900955
-type: way
+type: node
 latitude: 38.95479
 longitude: -90.19057
 postcode: "62035"
 city: Godfrey
-street: "Godfrey Road"
-housenumber: 6017
+street: Godfrey Road
+housenumber: "6017"
 phone: ""
 opening_hours: ""
 website: ""

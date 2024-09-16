@@ -1,11 +1,11 @@
 id: 1026011040
-type: way
+type: node
 latitude: 42.09162
 longitude: -87.8744
 postcode: "60062"
 city: Northbrook
-street: "Milwaukee Avenue"
-housenumber: 3385
+street: Milwaukee Avenue
+housenumber: "3385"
 phone: ""
 opening_hours: ""
 website: ""

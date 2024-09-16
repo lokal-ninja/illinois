@@ -1,11 +1,11 @@
 id: 533221250
-type: way
+type: node
 latitude: 41.96579
 longitude: -87.80698
 postcode: "60706"
 city: Harwood Heights
-street: "North Harlem Avenue"
-housenumber: 4725
+street: North Harlem Avenue
+housenumber: "4725"
 phone: ""
 opening_hours: ""
-website: "https://m.marshalls.com/us/m/stores/Harwood+Heights-IL-60656/129/aboutstore"
+website: https://m.marshalls.com/us/m/stores/Harwood+Heights-IL-60656/129/aboutstore

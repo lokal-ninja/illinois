@@ -1,11 +1,11 @@
 id: 162463346
-type: way
+type: node
 latitude: 41.96735
 longitude: -87.72788
 postcode: "60625"
 city: Chicago
-street: "North Pulaski Road"
-housenumber: 4723
+street: North Pulaski Road
+housenumber: "4723"
 phone: ""
 opening_hours: ""
 website: ""

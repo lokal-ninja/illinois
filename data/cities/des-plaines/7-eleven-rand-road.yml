@@ -1,11 +1,11 @@
 id: 1263008974
-type: way
+type: node
 latitude: 42.04582
 longitude: -87.88406
 postcode: "60016"
 city: Des Plaines
-street: "Rand Road"
-housenumber: 1585
+street: Rand Road
+housenumber: "1585"
 phone: ""
 opening_hours: ""
 website: ""

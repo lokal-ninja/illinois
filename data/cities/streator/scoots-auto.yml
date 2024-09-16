@@ -1,11 +1,11 @@
 id: 1290835553
-type: way
+type: node
 latitude: 41.12093
 longitude: -88.82842
 postcode: "61364"
 city: Streator
-street: "East Main Street"
-housenumber: 607
-phone: "+1-815-672-6200"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.scootsautorepair.com/"
+street: East Main Street
+housenumber: "607"
+phone: +1-815-672-6200
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.scootsautorepair.com/

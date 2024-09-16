@@ -1,11 +1,11 @@
 id: 1010824932
-type: way
+type: node
 latitude: 41.78886
 longitude: -89.69619
 postcode: "61081"
 city: Sterling
-street: "Locust Street"
-housenumber: 320
+street: Locust Street
+housenumber: "320"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-04:00"
-website: "https://defurniture.com/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-04:00
+website: https://defurniture.com/

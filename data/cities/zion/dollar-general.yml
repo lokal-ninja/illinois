@@ -1,11 +1,11 @@
 id: 350711628
-type: way
+type: node
 latitude: 42.451
 longitude: -87.82621
 postcode: "60099"
 city: Zion
-street: "Sheridan Road"
-housenumber: 2466
+street: Sheridan Road
+housenumber: "2466"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/zion/23794"
+website: https://www.dollargeneral.com/store-directory/il/zion/23794

@@ -1,11 +1,11 @@
 id: 528627809
-type: way
+type: node
 latitude: 40.74189
 longitude: -88.72413
 postcode: "61726"
 city: Chenoa
-street: "West Cemetery Avenue"
-housenumber: 316
-phone: "+1-815-945-7869"
+street: West Cemetery Avenue
+housenumber: "316"
+phone: +1-815-945-7869
 opening_hours: ""
 website: ""

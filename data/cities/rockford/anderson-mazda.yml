@@ -1,11 +1,11 @@
 id: 262108472
-type: way
+type: node
 latitude: 42.26656
 longitude: -88.98912
 postcode: "61108"
 city: Rockford
-street: "Lexus Drive"
-housenumber: 6551
-phone: "+1-815-633-3461"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:30-18:00"
-website: "https://www.driveandersonmazda.com"
+street: Lexus Drive
+housenumber: "6551"
+phone: +1-815-633-3461
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:30-18:00
+website: https://www.driveandersonmazda.com

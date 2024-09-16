@@ -4,8 +4,8 @@ latitude: 41.93114
 longitude: -87.72869
 postcode: "60647"
 city: Chicago
-street: "West Diversey Avenue"
-housenumber: 4039
-phone: "+1 773-687-0488"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1991.html"
+street: West Diversey Avenue
+housenumber: "4039"
+phone: +1 773-687-0488
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1991.html

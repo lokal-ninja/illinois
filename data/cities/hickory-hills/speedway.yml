@@ -1,11 +1,11 @@
 id: 233685070
-type: way
+type: node
 latitude: 41.7177
 longitude: -87.83688
 postcode: "60457"
 city: Hickory Hills
-street: "West 95th Street"
-housenumber: 8759
+street: West 95th Street
+housenumber: "8759"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Hickory-Hills/8759-West-95th-Street"
+website: https://www.speedway.com/locations/IL/Hickory-Hills/8759-West-95th-Street

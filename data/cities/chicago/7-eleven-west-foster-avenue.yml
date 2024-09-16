@@ -1,11 +1,11 @@
 id: 209942373
-type: way
+type: node
 latitude: 41.97642
 longitude: -87.67426
 postcode: "60640"
 city: Chicago
-street: "West Foster Avenue"
-housenumber: 1750
-phone: "+1 773-989-1986"
+street: West Foster Avenue
+housenumber: "1750"
+phone: +1 773-989-1986
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/1750-w-foster-ave-22365"
+website: https://www.7-eleven.com/locations/il/chicago/1750-w-foster-ave-22365

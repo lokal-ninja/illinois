@@ -1,11 +1,11 @@
 id: 851353050
-type: way
+type: node
 latitude: 41.54429
 longitude: -88.16017
-postcode: "60435-8401"
+postcode: 60435-8401
 city: Joliet
-street: "Essington Road"
-housenumber: 1202
-phone: "+1 815-729-0155"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 08:00-18:00"
+street: Essington Road
+housenumber: "1202"
+phone: +1 815-729-0155
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 08:00-18:00
 website: ""

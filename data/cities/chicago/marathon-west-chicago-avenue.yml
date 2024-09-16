@@ -1,11 +1,11 @@
 id: 162337433
-type: way
+type: node
 latitude: 41.8953
 longitude: -87.74544
 postcode: "60651"
 city: Chicago
-street: "West Chicago Avenue"
-housenumber: 4746
+street: West Chicago Avenue
+housenumber: "4746"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 67752354
-type: way
+type: node
 latitude: 41.66458
 longitude: -88.46029
 postcode: "60560"
 city: Yorkville
-street: "Edward Lane"
-housenumber: 735
-phone: "+1-630-882-8159"
+street: Edward Lane
+housenumber: "735"
+phone: +1-630-882-8159
 opening_hours: ""
-website: "https://www.homedepot.com/l/Yorkville/IL/Yorkville/60560/6887"
+website: https://www.homedepot.com/l/Yorkville/IL/Yorkville/60560/6887

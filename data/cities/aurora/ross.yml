@@ -1,11 +1,11 @@
 id: 544463002
-type: way
+type: node
 latitude: 41.78355
 longitude: -88.32067
-postcode: "60506-2481"
+postcode: 60506-2481
 city: Aurora
-street: "North Lake Street"
-housenumber: 1270
-phone: "+1 630-801-0655"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
+street: North Lake Street
+housenumber: "1270"
+phone: +1 630-801-0655
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
 website: ""

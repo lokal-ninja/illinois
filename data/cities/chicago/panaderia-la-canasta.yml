@@ -1,11 +1,11 @@
 id: 163886412
-type: way
+type: node
 latitude: 41.9172
 longitude: -87.71647
 postcode: "60647"
 city: Chicago
-street: "West Armitage Avenue"
-housenumber: 3575
+street: West Armitage Avenue
+housenumber: "3575"
 phone: ""
 opening_hours: ""
 website: ""

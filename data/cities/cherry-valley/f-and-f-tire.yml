@@ -1,11 +1,11 @@
 id: 393288616
-type: way
+type: node
 latitude: 42.24804
 longitude: -88.97898
 postcode: "61112"
 city: Cherry Valley
-street: "Pawlisch Drive"
-housenumber: 1983
-phone: "+1 815-566-4211"
+street: Pawlisch Drive
+housenumber: "1983"
+phone: +1 815-566-4211
 opening_hours: ""
 website: ""

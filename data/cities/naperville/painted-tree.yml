@@ -1,11 +1,11 @@
 id: 123649762
-type: way
+type: node
 latitude: 41.7687
 longitude: -88.20414
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 240
-phone: "+1 331 247 0888"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.paintedtree.com/"
+street: South Illinois Route 59
+housenumber: "240"
+phone: +1 331 247 0888
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.paintedtree.com/

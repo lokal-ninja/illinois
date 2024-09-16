@@ -1,11 +1,11 @@
 id: 1031063876
-type: way
+type: node
 latitude: 38.81406
 longitude: -89.95858
 postcode: "62025"
 city: Edwardsville
-street: "North Main Street"
-housenumber: 246
+street: North Main Street
+housenumber: "246"
 phone: ""
 opening_hours: ""
-website: "http://www.goshenbutchershop.com/"
+website: http://www.goshenbutchershop.com/

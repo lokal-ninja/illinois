@@ -1,11 +1,11 @@
 id: 879041224
-type: way
+type: node
 latitude: 41.60043
 longitude: -87.59081
 postcode: "60473"
 city: South Holland
-street: "East 162nd Street"
-housenumber: 1051
-phone: "+1 833-462-1044"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/south-holland/1051-e-162nd-street"
+street: East 162nd Street
+housenumber: "1051"
+phone: +1 833-462-1044
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/south-holland/1051-e-162nd-street

@@ -1,11 +1,11 @@
 id: 654812568
-type: way
+type: node
 latitude: 38.30954
 longitude: -88.96242
 postcode: "62864"
 city: Mount Vernon
-street: "Davidson Avenue"
-housenumber: 111
-phone: "+1 618-244-9400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0066"
+street: Davidson Avenue
+housenumber: "111"
+phone: +1 618-244-9400
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0066

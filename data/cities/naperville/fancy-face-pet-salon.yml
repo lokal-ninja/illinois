@@ -1,11 +1,11 @@
 id: 981099226
-type: way
+type: node
 latitude: 41.72551
 longitude: -88.20538
 postcode: "60564"
 city: Naperville
-street: "Artesian Road"
-housenumber: 2959
-phone: "+1 630 548 0949"
-opening_hours: "Mo-Sa 08:00-16:00; Su off"
-website: "https://fancy-face-pet-salon-spa.business.site/"
+street: Artesian Road
+housenumber: "2959"
+phone: +1 630 548 0949
+opening_hours: Mo-Sa 08:00-16:00; Su off
+website: https://fancy-face-pet-salon-spa.business.site/

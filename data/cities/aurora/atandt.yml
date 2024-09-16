@@ -1,11 +1,11 @@
 id: 1102222761
-type: way
+type: node
 latitude: 41.76363
 longitude: -88.20627
 postcode: "60504"
 city: Aurora
-street: "East New York Street"
-housenumber: 4412
-phone: "+1 630 851 1318"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-18:00"
-website: "https://www.att.com/stores/illinois/aurora/75892"
+street: East New York Street
+housenumber: "4412"
+phone: +1 630 851 1318
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-18:00
+website: https://www.att.com/stores/illinois/aurora/75892

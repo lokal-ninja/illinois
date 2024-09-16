@@ -1,11 +1,11 @@
 id: 875671395
-type: way
+type: node
 latitude: 42.24237
 longitude: -89.08708
 postcode: "61104"
 city: Rockford
-street: "Kishwaukee Street"
-housenumber: 2305
-phone: "+1-815-963-4425"
+street: Kishwaukee Street
+housenumber: "2305"
+phone: +1-815-963-4425
 opening_hours: ""
 website: ""

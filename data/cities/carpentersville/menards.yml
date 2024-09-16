@@ -1,11 +1,11 @@
 id: 552299105
-type: way
+type: node
 latitude: 42.12467
 longitude: -88.33789
 postcode: "60110"
 city: Carpentersville
-street: "Randall Road"
-housenumber: 2300
+street: Randall Road
+housenumber: "2300"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3148"
+website: https://www.menards.com/store-details/store.html?store=3148

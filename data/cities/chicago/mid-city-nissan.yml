@@ -1,11 +1,11 @@
 id: 162452360
-type: way
+type: node
 latitude: 41.95364
 longitude: -87.74021
 postcode: "60641"
 city: Chicago
-street: "West Irving Park Road"
-housenumber: 4444
+street: West Irving Park Road
+housenumber: "4444"
 phone: ""
 opening_hours: ""
 website: ""

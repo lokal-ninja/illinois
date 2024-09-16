@@ -1,11 +1,11 @@
 id: 1298824053
-type: way
+type: node
 latitude: 40.30651
 longitude: -88.15626
 postcode: "61866"
 city: Rantoul
-street: "South Century Boulevard"
-housenumber: 336
-phone: "+1 217-893-8666"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00; PH off"
+street: South Century Boulevard
+housenumber: "336"
+phone: +1 217-893-8666
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00; PH off
 website: ""

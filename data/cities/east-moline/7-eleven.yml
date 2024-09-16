@@ -1,11 +1,11 @@
 id: 881759614
-type: way
+type: node
 latitude: 41.50223
 longitude: -90.45605
 postcode: "61244"
 city: East Moline
-street: "Kennedy Drive"
-housenumber: 3017
+street: Kennedy Drive
+housenumber: "3017"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 979910865
-type: way
+type: node
 latitude: 42.25695
 longitude: -88.14436
 postcode: "60084"
 city: Wauconda
-street: "West Liberty Street"
-housenumber: 375
-phone: "+1-847-487-4990"
-opening_hours: "Tu-Fr 08:00-19:00"
-website: "https://www.wagnwheeldoggrooming.com"
+street: West Liberty Street
+housenumber: "375"
+phone: +1-847-487-4990
+opening_hours: Tu-Fr 08:00-19:00
+website: https://www.wagnwheeldoggrooming.com

@@ -1,11 +1,11 @@
 id: 141907288
-type: way
+type: node
 latitude: 40.14512
 longitude: -88.25188
 postcode: "61822"
 city: Champaign
-street: "West Town Center Boulevard"
-housenumber: 620
-phone: "+1 217-359-6100"
-opening_hours: "Mo-Sa 06:30-22:00;Su 08:00-20:00"
-website: "http://www.menards.com/main/storeDetails.html?store=3056"
+street: West Town Center Boulevard
+housenumber: "620"
+phone: +1 217-359-6100
+opening_hours: Mo-Sa 06:30-22:00;Su 08:00-20:00
+website: http://www.menards.com/main/storeDetails.html?store=3056

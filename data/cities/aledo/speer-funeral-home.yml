@@ -1,11 +1,11 @@
 id: 1285621299
-type: way
+type: node
 latitude: 41.19833
 longitude: -90.71967
 postcode: "61231"
 city: Aledo
-street: "Southeast 3rd Street"
-housenumber: 2502
-phone: "+1-309-582-5145"
+street: Southeast 3rd Street
+housenumber: "2502"
+phone: +1-309-582-5145
 opening_hours: ""
 website: ""

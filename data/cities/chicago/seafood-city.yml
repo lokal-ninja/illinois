@@ -1,11 +1,11 @@
 id: 162465397
-type: way
+type: node
 latitude: 41.97213
 longitude: -87.74567
 postcode: "60630"
 city: Chicago
-street: "North Elston Avenue"
-housenumber: 5033
+street: North Elston Avenue
+housenumber: "5033"
 phone: ""
 opening_hours: ""
-website: "http://www.seafoodcity.com/store-locations/chicago/"
+website: http://www.seafoodcity.com/store-locations/chicago/

@@ -1,11 +1,11 @@
 id: 1220142841
-type: way
+type: node
 latitude: 42.05355
 longitude: -87.83793
 postcode: "60714"
 city: Niles
-street: "Golf Mill Center"
-housenumber: 590
-phone: "+1 847-998-3440"
-opening_hours: "09:00-23:00"
-website: "https://stores.burlington.com/il/niles/162"
+street: Golf Mill Center
+housenumber: "590"
+phone: +1 847-998-3440
+opening_hours: 09:00-23:00
+website: https://stores.burlington.com/il/niles/162

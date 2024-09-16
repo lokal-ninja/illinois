@@ -1,11 +1,11 @@
 id: 570024043
-type: way
+type: node
 latitude: 42.27076
 longitude: -88.00386
 postcode: "60060"
 city: Mundelein
-street: "North Lake Street"
-housenumber: 439
-phone: "+1-847-910-3181"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: North Lake Street
+housenumber: "439"
+phone: +1-847-910-3181
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

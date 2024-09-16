@@ -1,11 +1,11 @@
 id: 181384672
-type: way
+type: node
 latitude: 41.90813
 longitude: -87.65274
 postcode: "60642"
 city: Chicago
-street: "North Kingsbury Street"
-housenumber: 1550
-phone: "+1 312-587-0648"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/lincolnpark"
+street: North Kingsbury Street
+housenumber: "1550"
+phone: +1 312-587-0648
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/lincolnpark

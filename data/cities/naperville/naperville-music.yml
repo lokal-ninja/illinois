@@ -1,11 +1,11 @@
 id: 998059393
-type: way
+type: node
 latitude: 41.78532
 longitude: -88.13768
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 636
-phone: "+1 630 355 1404"
-opening_hours: "Mo-Th 12:00-19:00; Fr, Su off; Sa 11:00-17:00"
-website: "https://www.napervillemusic.com/"
+street: East Ogden Avenue
+housenumber: "636"
+phone: +1 630 355 1404
+opening_hours: Mo-Th 12:00-19:00; Fr, Su off; Sa 11:00-17:00
+website: https://www.napervillemusic.com/

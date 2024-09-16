@@ -1,11 +1,11 @@
 id: 143220277
-type: way
+type: node
 latitude: 42.04606
 longitude: -87.93997
 postcode: "60016"
 city: Des Plaines
-street: "West Golf Road"
-housenumber: 745
+street: West Golf Road
+housenumber: "745"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/des-plaines/3601/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/des-plaines/3601/

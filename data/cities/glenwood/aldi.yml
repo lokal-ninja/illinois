@@ -1,11 +1,11 @@
 id: 1167666457
-type: way
+type: node
 latitude: 41.54733
 longitude: -87.63541
 postcode: "60425"
 city: Glenwood
-street: "South Halsted Street"
-housenumber: 18901
-phone: "+1 833-462-1006"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/glenwood/18901-s-halsted-street"
+street: South Halsted Street
+housenumber: "18901"
+phone: +1 833-462-1006
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/glenwood/18901-s-halsted-street

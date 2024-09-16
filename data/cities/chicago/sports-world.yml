@@ -1,11 +1,11 @@
 id: 210329811
-type: way
+type: node
 latitude: 41.94706
 longitude: -87.65599
 postcode: "60657"
 city: Chicago
-street: "North Clark Street"
-housenumber: 3555
-phone: "+1-844-462-4422"
+street: North Clark Street
+housenumber: "3555"
+phone: +1-844-462-4422
 opening_hours: ""
-website: "https://www.sportsworldchicago.com/"
+website: https://www.sportsworldchicago.com/

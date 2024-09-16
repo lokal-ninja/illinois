@@ -1,11 +1,11 @@
 id: 32667876
-type: way
+type: node
 latitude: 41.81068
 longitude: -87.9793
 postcode: "60559"
 city: Westmont
-street: "West Ogden Avenue"
-housenumber: 100
+street: West Ogden Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 211389078
-type: way
+type: node
 latitude: 41.69919
 longitude: -87.53492
 postcode: "60617"
 city: Chicago
-street: "South Ewing Avenue"
-housenumber: 10759
-phone: "+1 773-721-6223"
+street: South Ewing Avenue
+housenumber: "10759"
+phone: +1 773-721-6223
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/10759-s-ewing-13542"
+website: https://www.7-eleven.com/locations/il/chicago/10759-s-ewing-13542

@@ -1,11 +1,11 @@
 id: 1230633588
-type: way
+type: node
 latitude: 42.00837
 longitude: -88.0484
 postcode: "60007"
 city: Elk Grove Village
-street: "Meacham Road"
-housenumber: 610
+street: Meacham Road
+housenumber: "610"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/il/elk-grove-village/610-meacham-rd"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/il/elk-grove-village/610-meacham-rd

@@ -1,11 +1,11 @@
 id: 162229440
-type: way
+type: node
 latitude: 41.77748
 longitude: -87.74268
 postcode: "60638"
 city: Chicago
-street: "South Cicero Avenue"
-housenumber: 6330
+street: South Cicero Avenue
+housenumber: "6330"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/il/chicago/oil-change-gr0013.html"
+website: https://store.vioc.com/il/chicago/oil-change-gr0013.html

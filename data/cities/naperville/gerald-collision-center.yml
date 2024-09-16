@@ -1,11 +1,11 @@
 id: 292642451
-type: way
+type: node
 latitude: 41.79481
 longitude: -88.12356
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 1210
-phone: "+1 630-637-2090"
+street: East Ogden Avenue
+housenumber: "1210"
+phone: +1 630-637-2090
 opening_hours: ""
-website: "https://www.geraldcollisioncenter.com/"
+website: https://www.geraldcollisioncenter.com/

@@ -1,11 +1,11 @@
 id: 772606070
-type: way
+type: node
 latitude: 42.10159
 longitude: -89.01878
 postcode: "61052"
 city: Monroe Center
-street: "North Limestone Road"
-housenumber: 5534
-phone: "+1-815-393-3600"
+street: North Limestone Road
+housenumber: "5534"
+phone: +1-815-393-3600
 opening_hours: ""
-website: "https://www.bp.com/en_us/united-states/home.html"
+website: https://www.bp.com/en_us/united-states/home.html

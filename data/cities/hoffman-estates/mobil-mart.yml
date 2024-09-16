@@ -1,11 +1,11 @@
 id: 238909307
-type: way
+type: node
 latitude: 42.04826
 longitude: -88.09622
 postcode: "60169"
 city: Hoffman Estates
-street: "West Higgins Road"
-housenumber: 615
+street: West Higgins Road
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 961722169
-type: way
+type: node
 latitude: 41.29362
 longitude: -89.08679
 postcode: "61348"
 city: Oglesby
-street: "West Walnut Street"
-housenumber: 1001
+street: West Walnut Street
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

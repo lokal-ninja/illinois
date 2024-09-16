@@ -1,11 +1,11 @@
 id: 132001784
-type: way
+type: node
 latitude: 42.01718
 longitude: -87.67494
 postcode: "60626"
 city: Chicago
-street: "West Howard Street"
-housenumber: 1763
-phone: "+1 773-274-1287"
-opening_hours: "Mo-Fr 06:00-22:00; Sa-Su 06:00-22:00"
-website: "https://local.jewelosco.com/il/chicago/1763-w-howard-st.html"
+street: West Howard Street
+housenumber: "1763"
+phone: +1 773-274-1287
+opening_hours: Mo-Fr 06:00-22:00; Sa-Su 06:00-22:00
+website: https://local.jewelosco.com/il/chicago/1763-w-howard-st.html

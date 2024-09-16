@@ -1,11 +1,11 @@
 id: 426952372
-type: way
+type: node
 latitude: 41.72769
 longitude: -87.68483
 postcode: "60805"
 city: Evergreen Park
-street: "South Western Avenue"
-housenumber: 9100
+street: South Western Avenue
+housenumber: "9100"
 phone: ""
 opening_hours: ""
-website: "http://www.menards.com/main/storedetails.html?store=3303"
+website: http://www.menards.com/main/storedetails.html?store=3303

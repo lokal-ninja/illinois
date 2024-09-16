@@ -4,8 +4,8 @@ latitude: 39.80752
 longitude: -89.6783
 postcode: "62702"
 city: Springfield
-street: "West Jefferson Street"
-housenumber: 1501
-phone: "+1-217-793-1872"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/il/springfield/autoparts-1267.html"
+street: West Jefferson Street
+housenumber: "1501"
+phone: +1-217-793-1872
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/il/springfield/autoparts-1267.html

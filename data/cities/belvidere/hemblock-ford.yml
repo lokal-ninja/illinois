@@ -1,11 +1,11 @@
 id: 257543547
-type: way
+type: node
 latitude: 42.27125
 longitude: -88.86029
 postcode: "61008"
 city: Belvidere
-street: "North State Street"
-housenumber: 1800
-phone: "+1 815-544-2138"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-17:00; PH closed"
-website: "https://www.hamblockford.com"
+street: North State Street
+housenumber: "1800"
+phone: +1 815-544-2138
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-17:00; PH closed
+website: https://www.hamblockford.com

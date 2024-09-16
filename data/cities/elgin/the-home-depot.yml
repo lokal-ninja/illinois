@@ -1,11 +1,11 @@
 id: 817416193
-type: way
+type: node
 latitude: 42.05099
 longitude: -88.34035
 postcode: "60123"
 city: Elgin
-street: "North Randall Road"
-housenumber: 955
-phone: "+1 847-622-9441"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/elgin/il/elgin/60123/1934"
+street: North Randall Road
+housenumber: "955"
+phone: +1 847-622-9441
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/elgin/il/elgin/60123/1934

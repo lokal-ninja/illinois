@@ -1,11 +1,11 @@
 id: 209655078
-type: way
+type: node
 latitude: 41.7715
 longitude: -87.68393
 postcode: "60636"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 6714
+street: South Western Avenue
+housenumber: "6714"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/chicago/6714-s-western-ave"
+website: https://stores.advanceautoparts.com/il/chicago/6714-s-western-ave

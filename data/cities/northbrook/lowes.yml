@@ -1,11 +1,11 @@
 id: 197107922
-type: way
+type: node
 latitude: 42.10878
 longitude: -87.80301
 postcode: "60062"
 city: Northbrook
-street: "Willow Road"
-housenumber: 1000
-phone: "+1 847-418-4540"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/il-northbrook/2728"
+street: Willow Road
+housenumber: "1000"
+phone: +1 847-418-4540
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/il-northbrook/2728

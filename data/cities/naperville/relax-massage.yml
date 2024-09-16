@@ -1,11 +1,11 @@
 id: 1073354552
-type: way
+type: node
 latitude: 41.78758
 longitude: -88.13539
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 805
-phone: "+1 630 432 5959"
+street: East Ogden Avenue
+housenumber: "805"
+phone: +1 630 432 5959
 opening_hours: ""
-website: "https://www.napervillemassagesalon.com/"
+website: https://www.napervillemassagesalon.com/

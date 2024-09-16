@@ -1,11 +1,11 @@
 id: 1305984758
-type: way
+type: node
 latitude: 41.62307
 longitude: -87.59575
 postcode: "60419"
 city: Dolton
-street: "East Sibley Boulevard"
-housenumber: 844
+street: East Sibley Boulevard
+housenumber: "844"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/dolton/844-e-sibley-blvd"
+website: https://stores.advanceautoparts.com/il/dolton/844-e-sibley-blvd

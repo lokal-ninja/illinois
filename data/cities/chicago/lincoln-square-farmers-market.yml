@@ -4,8 +4,8 @@ latitude: 41.96659
 longitude: -87.68769
 postcode: "60625"
 city: Chicago
-street: "West Leland Avenue"
-housenumber: 2357
+street: West Leland Avenue
+housenumber: "2357"
 phone: ""
-opening_hours: "Tu 07:00-13:00; Th 15:00-19:00"
-website: "https://www.lincolnsquare.org/farmers-market"
+opening_hours: Tu 07:00-13:00; Th 15:00-19:00
+website: https://www.lincolnsquare.org/farmers-market

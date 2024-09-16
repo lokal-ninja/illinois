@@ -1,11 +1,11 @@
 id: 549452538
-type: way
+type: node
 latitude: 40.44968
 longitude: -89.01778
 postcode: "61701"
 city: Bloomington
-street: "Fox Creek Road"
-housenumber: 2010
+street: Fox Creek Road
+housenumber: "2010"
 phone: ""
 opening_hours: ""
 website: ""

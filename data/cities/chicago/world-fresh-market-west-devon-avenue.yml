@@ -1,11 +1,11 @@
 id: 209570003
-type: way
+type: node
 latitude: 41.99779
 longitude: -87.69172
 postcode: "60659"
 city: Chicago
-street: "West Devon Avenue"
-housenumber: 2434
+street: West Devon Avenue
+housenumber: "2434"
 phone: ""
 opening_hours: ""
-website: "https://www.worldfreshmarket.net/"
+website: https://www.worldfreshmarket.net/

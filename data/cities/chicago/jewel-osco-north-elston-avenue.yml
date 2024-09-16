@@ -1,11 +1,11 @@
 id: 163906764
-type: way
+type: node
 latitude: 41.94478
 longitude: -87.70886
 postcode: "60618"
 city: Chicago
-street: "North Elston Avenue"
-housenumber: 3570
-phone: "+1 773-583-9150"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/chicago/3570-n-elston-ave.html"
+street: North Elston Avenue
+housenumber: "3570"
+phone: +1 773-583-9150
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/chicago/3570-n-elston-ave.html

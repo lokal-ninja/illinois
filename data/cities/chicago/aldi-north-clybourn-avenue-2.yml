@@ -1,11 +1,11 @@
 id: 209883422
-type: way
+type: node
 latitude: 41.92835
 longitude: -87.67494
 postcode: "60614"
 city: Chicago
-street: "North Clybourn Avenue"
-housenumber: 2600
-phone: "+1 833-440-1026"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/chicago/2600-n-clybourn-avenue"
+street: North Clybourn Avenue
+housenumber: "2600"
+phone: +1 833-440-1026
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/chicago/2600-n-clybourn-avenue

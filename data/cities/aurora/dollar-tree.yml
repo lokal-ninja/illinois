@@ -1,11 +1,11 @@
 id: 1212370256
-type: way
+type: node
 latitude: 41.76552
 longitude: -88.36281
 postcode: "60506"
 city: Aurora
-street: "West Galena Boulevard"
-housenumber: 1925
-phone: "+1 630-870-4775"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/il/aurora/4596/"
+street: West Galena Boulevard
+housenumber: "1925"
+phone: +1 630-870-4775
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/il/aurora/4596/

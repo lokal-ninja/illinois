@@ -1,11 +1,11 @@
 id: 660880668
-type: way
+type: node
 latitude: 41.71736
 longitude: -87.68482
 postcode: "60805"
 city: Evergreen Park
-street: "South Western Avenue"
-housenumber: 9620
-phone: "+1 708-229-0342"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/evergreen-park-il-1265"
+street: South Western Avenue
+housenumber: "9620"
+phone: +1 708-229-0342
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/evergreen-park-il-1265

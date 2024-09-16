@@ -4,8 +4,8 @@ latitude: 41.7914
 longitude: -87.58963
 postcode: "60637"
 city: Chicago
-street: "East 57th Street"
-housenumber: 1451
-phone: "+1 (773) 888-1225"
-opening_hours: "By Appointment Only"
-website: "https://www.tamago.cc/"
+street: East 57th Street
+housenumber: "1451"
+phone: +1 (773) 888-1225
+opening_hours: '"By Appointment Only"'
+website: https://www.tamago.cc/

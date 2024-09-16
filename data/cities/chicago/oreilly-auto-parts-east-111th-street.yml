@@ -1,11 +1,11 @@
 id: 210419113
-type: way
+type: node
 latitude: 41.69217
 longitude: -87.62206
 postcode: "60628"
 city: Chicago
-street: "East 111th Street"
-housenumber: 55
+street: East 111th Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/chicago/autoparts-3377.html"
+website: https://locations.oreillyauto.com/il/chicago/autoparts-3377.html

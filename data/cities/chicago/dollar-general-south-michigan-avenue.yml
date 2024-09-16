@@ -1,11 +1,11 @@
 id: 210433099
-type: way
+type: node
 latitude: 41.69301
 longitude: -87.62153
 postcode: "60628"
 city: Chicago
-street: "South Michigan Avenue"
-housenumber: 11040
+street: South Michigan Avenue
+housenumber: "11040"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/19331"
+website: https://www.dollargeneral.com/store-directory/il/chicago/19331

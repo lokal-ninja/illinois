@@ -1,11 +1,11 @@
 id: 28239746
-type: way
+type: node
 latitude: 42.04789
 longitude: -87.74798
 postcode: "60077"
 city: Skokie
-street: "Skokie Boulevard"
-housenumber: 9150
+street: Skokie Boulevard
+housenumber: "9150"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9150+skokie+blvd-skokie-il-60077/id=5147"
+website: https://www.walgreens.com/locator/walgreens-9150+skokie+blvd-skokie-il-60077/id=5147

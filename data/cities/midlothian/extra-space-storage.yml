@@ -1,11 +1,11 @@
 id: 1026070875
-type: way
+type: node
 latitude: 41.62555
 longitude: -87.71032
 postcode: "60445"
 city: Midlothian
-street: "147th Street"
-housenumber: 3657
+street: 147th Street
+housenumber: "3657"
 phone: ""
 opening_hours: ""
 website: ""

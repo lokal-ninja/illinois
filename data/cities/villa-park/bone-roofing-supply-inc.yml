@@ -1,11 +1,11 @@
 id: 718629252
-type: way
+type: node
 latitude: 41.90719
 longitude: -87.98968
 postcode: "60181"
 city: Villa Park
-street: "North Addison Road"
-housenumber: 880
-phone: "+1-630-628-8170"
+street: North Addison Road
+housenumber: "880"
+phone: +1-630-628-8170
 opening_hours: ""
 website: ""

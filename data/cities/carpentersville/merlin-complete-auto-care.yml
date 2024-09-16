@@ -1,11 +1,11 @@
 id: 544271138
-type: way
+type: node
 latitude: 42.10759
 longitude: -88.29263
 postcode: "60110"
 city: Carpentersville
-street: "South Western Avenue"
-housenumber: 8
+street: South Western Avenue
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 910666722
-type: way
+type: node
 latitude: 42.10682
 longitude: -87.73547
 postcode: "60093"
 city: Winnetka
-street: "Chestnut Street"
-housenumber: 
+street: Chestnut Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

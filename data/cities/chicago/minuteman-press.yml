@@ -1,11 +1,11 @@
 id: 210307327
-type: way
+type: node
 latitude: 41.905
 longitude: -87.64051
 postcode: "60610"
 city: Chicago
-street: "North Clybourn Avenue"
-housenumber: 1249
+street: North Clybourn Avenue
+housenumber: "1249"
 phone: ""
 opening_hours: ""
-website: "https://www.chicago.minutemanpress.com/"
+website: https://www.chicago.minutemanpress.com/

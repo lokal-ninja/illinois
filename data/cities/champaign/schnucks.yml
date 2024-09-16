@@ -1,11 +1,11 @@
 id: 249825303
-type: way
+type: node
 latitude: 40.11674
 longitude: -88.27929
 postcode: "61821"
 city: Champaign
-street: "North Mattis Avenue"
-housenumber: 109
-phone: "+1 217 3512600"
-opening_hours: "06:00-00:00"
-website: "https://www.schnucks.com/stores/store.asp?store"
+street: North Mattis Avenue
+housenumber: "109"
+phone: +1 217 3512600
+opening_hours: 06:00-00:00
+website: https://www.schnucks.com/stores/store.asp?store

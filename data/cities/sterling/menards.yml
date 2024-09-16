@@ -1,11 +1,11 @@
 id: 319700418
-type: way
+type: node
 latitude: 41.81868
 longitude: -89.64859
 postcode: "61081"
 city: Sterling
-street: "East 30th Street"
-housenumber: 4220
+street: East 30th Street
+housenumber: "4220"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3272"
+website: https://www.menards.com/store-details/store.html?store=3272

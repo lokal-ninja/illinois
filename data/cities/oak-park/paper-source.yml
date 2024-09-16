@@ -1,11 +1,11 @@
 id: 477410750
-type: way
+type: node
 latitude: 41.88852
 longitude: -87.80301
 postcode: "60302"
 city: Oak Park
-street: "Lake Street"
-housenumber: 1109
+street: Lake Street
+housenumber: "1109"
 phone: ""
 opening_hours: ""
 website: ""

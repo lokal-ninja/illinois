@@ -1,11 +1,11 @@
 id: 1176838067
-type: way
+type: node
 latitude: 42.22927
 longitude: -88.3039
 postcode: "60014"
 city: Crystal Lake
-street: "Northwest Highway"
-housenumber: 5420
-phone: "+1 815-455-1100"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/crystallake-320.shtml"
+street: Northwest Highway
+housenumber: "5420"
+phone: +1 815-455-1100
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/crystallake-320.shtml

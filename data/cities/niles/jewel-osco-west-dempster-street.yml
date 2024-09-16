@@ -1,11 +1,11 @@
 id: 194722143
-type: way
+type: node
 latitude: 42.04125
 longitude: -87.84326
 postcode: "60714"
 city: Niles
-street: "West Dempster Street"
-housenumber: 8730
-phone: "+1 847-296-8847"
+street: West Dempster Street
+housenumber: "8730"
+phone: +1 847-296-8847
 opening_hours: ""
-website: "https://local.jewelosco.com/il/niles/8730-w-dempster.html"
+website: https://local.jewelosco.com/il/niles/8730-w-dempster.html

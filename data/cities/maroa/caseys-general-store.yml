@@ -1,11 +1,11 @@
 id: 1229629019
-type: way
+type: node
 latitude: 40.02869
 longitude: -88.9569
 postcode: ""
 city: Maroa
-street: "South Wood Street"
-housenumber: 506
+street: South Wood Street
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

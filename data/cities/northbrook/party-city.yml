@@ -1,11 +1,11 @@
 id: 442141848
-type: way
+type: node
 latitude: 42.14692
 longitude: -87.79564
 postcode: "60062"
 city: Northbrook
-street: "Skokie Boulevard"
-housenumber: 307
-phone: "+1 224-723-1598"
+street: Skokie Boulevard
+housenumber: "307"
+phone: +1 224-723-1598
 opening_hours: ""
-website: "https://stores.partycity.com/us/il/northbrook/party-store-pc168.html"
+website: https://stores.partycity.com/us/il/northbrook/party-store-pc168.html

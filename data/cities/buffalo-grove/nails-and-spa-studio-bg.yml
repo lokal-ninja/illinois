@@ -4,8 +4,8 @@ latitude: 42.15828
 longitude: -87.96189
 postcode: "60089"
 city: Buffalo Grove
-street: "McHenry Road"
-housenumber: 290
+street: McHenry Road
+housenumber: "290"
 phone: "+18472152212"
-opening_hours: "Mo-Th 10:00-19:00; Fr 9:00-19:00; Sa 9:00-17:00"
+opening_hours: Mo-Th 10:00-19:00; Fr 9:00-19:00; Sa 9:00-17:00
 website: ""

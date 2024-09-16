@@ -1,11 +1,11 @@
 id: 899321619
-type: way
+type: node
 latitude: 41.68882
 longitude: -88.20598
 postcode: "60564"
 city: Naperville
-street: "Royal Worlington Drive"
-housenumber: 24021
+street: Royal Worlington Drive
+housenumber: "24021"
 phone: ""
 opening_hours: ""
-website: "https://www.beidelmankunschfh.com/"
+website: https://www.beidelmankunschfh.com/

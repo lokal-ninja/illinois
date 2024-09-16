@@ -1,11 +1,11 @@
 id: 233328707
-type: way
+type: node
 latitude: 42.34106
 longitude: -89.01811
 postcode: "61111"
 city: Loves Park
-street: "Forest Hills Road"
-housenumber: 8096
-phone: "+1 815-315-4287"
-opening_hours: "24/7"
+street: Forest Hills Road
+housenumber: "8096"
+phone: +1 815-315-4287
+opening_hours: 24/7
 website: ""

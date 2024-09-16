@@ -1,11 +1,11 @@
 id: 1232931288
-type: way
+type: node
 latitude: 41.59746
 longitude: -87.56262
 postcode: "60409"
 city: Calumet City
-street: "River Oaks Center Drive"
-housenumber: 603
-phone: "+1 708-832-1794"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/calumet-city-il-sams-club/6489"
+street: River Oaks Center Drive
+housenumber: "603"
+phone: +1 708-832-1794
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/calumet-city-il-sams-club/6489

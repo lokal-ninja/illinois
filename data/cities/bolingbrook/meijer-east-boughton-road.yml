@@ -1,11 +1,11 @@
 id: 352332540
-type: way
+type: node
 latitude: 41.72196
 longitude: -88.03659
 postcode: "60440"
 city: Bolingbrook
-street: "East Boughton Road"
-housenumber: 755
-phone: "+1-630-783-5300"
+street: East Boughton Road
+housenumber: "755"
+phone: +1-630-783-5300
 opening_hours: ""
 website: ""

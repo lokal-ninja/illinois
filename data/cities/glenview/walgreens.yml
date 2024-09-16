@@ -1,11 +1,11 @@
 id: 422879725
-type: way
+type: node
 latitude: 42.05564
 longitude: -87.82477
 postcode: "60025"
 city: Glenview
-street: "Golf Road"
-housenumber: 2690
+street: Golf Road
+housenumber: "2690"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2690+golf+rd-glenview-il-60025/id=6228"
+website: https://www.walgreens.com/locator/walgreens-2690+golf+rd-glenview-il-60025/id=6228

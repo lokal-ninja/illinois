@@ -1,11 +1,11 @@
 id: 1028248025
-type: way
+type: node
 latitude: 41.84997
 longitude: -87.68532
 postcode: "60608"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 2303
+street: South Western Avenue
+housenumber: "2303"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Chicago/2303-South-Western-Avenue"
+website: https://www.speedway.com/locations/IL/Chicago/2303-South-Western-Avenue

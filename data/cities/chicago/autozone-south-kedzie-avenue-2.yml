@@ -1,11 +1,11 @@
 id: 165103915
-type: way
+type: node
 latitude: 41.74391
 longitude: -87.7021
 postcode: "60652"
 city: Chicago
-street: "South Kedzie Avenue"
-housenumber: 8215
+street: South Kedzie Avenue
+housenumber: "8215"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/8215-s-kedzie-ave.html"
+website: https://www.autozone.com/locations/il/chicago/8215-s-kedzie-ave.html

@@ -1,11 +1,11 @@
 id: 162714615
-type: way
+type: node
 latitude: 41.96734
 longitude: -87.76817
 postcode: "60630"
 city: Chicago
-street: "West Lawrence Avenue"
-housenumber: 5615
-phone: "+1 773-685-1880"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su off"
-website: "https://www.bvvacuums.com/"
+street: West Lawrence Avenue
+housenumber: "5615"
+phone: +1 773-685-1880
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su off
+website: https://www.bvvacuums.com/

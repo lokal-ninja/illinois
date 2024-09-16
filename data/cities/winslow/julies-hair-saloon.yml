@@ -1,11 +1,11 @@
 id: 359378456
-type: way
+type: node
 latitude: 42.49301
 longitude: -89.79176
 postcode: "61089"
 city: Winslow
-street: "Carver Street"
-housenumber: 214
+street: Carver Street
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

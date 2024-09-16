@@ -1,11 +1,11 @@
 id: 315565139
-type: way
+type: node
 latitude: 42.25349
 longitude: -87.94619
 postcode: "60048"
 city: Libertyville
-street: "Milwaukee Avenue"
-housenumber: 1620
-phone: "+1-847-680-7333"
+street: Milwaukee Avenue
+housenumber: "1620"
+phone: +1-847-680-7333
 opening_hours: ""
-website: "http://www.acuralibertyville.com/"
+website: http://www.acuralibertyville.com/

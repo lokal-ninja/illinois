@@ -1,11 +1,11 @@
 id: 1060232555
-type: way
+type: node
 latitude: 41.59974
 longitude: -87.66173
 postcode: "60426"
 city: Harvey
-street: "Wood Street"
-housenumber: 15930
+street: Wood Street
+housenumber: "15930"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/locations/il/harvey/25945/"
+website: https://www.familydollar.com/locations/il/harvey/25945/

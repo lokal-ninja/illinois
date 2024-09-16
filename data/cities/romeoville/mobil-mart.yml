@@ -1,11 +1,11 @@
 id: 368715399
-type: way
+type: node
 latitude: 41.63978
 longitude: -88.08111
 postcode: "60441"
 city: Romeoville
-street: "Independence Boulevard"
-housenumber: 344
+street: Independence Boulevard
+housenumber: "344"
 phone: ""
 opening_hours: ""
 website: ""

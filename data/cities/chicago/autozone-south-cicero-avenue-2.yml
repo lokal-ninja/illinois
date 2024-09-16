@@ -1,11 +1,11 @@
 id: 431568347
-type: way
+type: node
 latitude: 41.81028
 longitude: -87.74344
 postcode: "60638"
 city: Chicago
-street: "South Cicero Avenue"
-housenumber: 4536
+street: South Cicero Avenue
+housenumber: "4536"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/4536-s-cicero-ave.html"
+website: https://www.autozone.com/locations/il/chicago/4536-s-cicero-ave.html

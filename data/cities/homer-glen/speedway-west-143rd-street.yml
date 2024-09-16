@@ -1,11 +1,11 @@
 id: 518591418
-type: way
+type: node
 latitude: 41.62979
 longitude: -87.92419
 postcode: "60491"
 city: Homer Glen
-street: "West 143rd Street"
-housenumber: 12502
+street: West 143rd Street
+housenumber: "12502"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Homer-Glen/12502-West-143rd-Street"
+website: https://www.speedway.com/locations/IL/Homer-Glen/12502-West-143rd-Street

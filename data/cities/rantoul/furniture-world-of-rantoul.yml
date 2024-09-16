@@ -1,11 +1,11 @@
 id: 1275731645
-type: way
+type: node
 latitude: 40.31108
 longitude: -88.16033
 postcode: "61866"
 city: Rantoul
-street: "West Sangamon Avenue"
-housenumber: 110
-phone: "+1 217 892 4815"
+street: West Sangamon Avenue
+housenumber: "110"
+phone: +1 217 892 4815
 opening_hours: ""
-website: "https://rantoulfurnitureworld.com/index.html"
+website: https://rantoulfurnitureworld.com/index.html

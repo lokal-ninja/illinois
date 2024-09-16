@@ -1,11 +1,11 @@
 id: 768379559
-type: way
+type: node
 latitude: 39.71208
 longitude: -89.00633
 postcode: "62544"
 city: Macon
-street: "North Wiles Street"
-housenumber: 205
-phone: "+1-217-764-3000"
+street: North Wiles Street
+housenumber: "205"
+phone: +1-217-764-3000
 opening_hours: ""
-website: "https://www.maconracing.com/"
+website: https://www.maconracing.com/

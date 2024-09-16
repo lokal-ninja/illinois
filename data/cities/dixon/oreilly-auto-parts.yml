@@ -1,11 +1,11 @@
 id: 479321039
-type: way
+type: node
 latitude: 41.86058
 longitude: -89.49531
 postcode: "61021"
 city: Dixon
-street: "North Galena Avenue"
-housenumber: 1260
+street: North Galena Avenue
+housenumber: "1260"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/dixon/autoparts-1379.html"
+website: https://locations.oreillyauto.com/il/dixon/autoparts-1379.html

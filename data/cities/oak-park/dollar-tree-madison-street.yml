@@ -1,11 +1,11 @@
 id: 1263295998
-type: way
+type: node
 latitude: 41.88015
 longitude: -87.79806
 postcode: "60302"
 city: Oak Park
-street: "Madison Street"
-housenumber: 922
+street: Madison Street
+housenumber: "922"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/oak-park/6025/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/oak-park/6025/

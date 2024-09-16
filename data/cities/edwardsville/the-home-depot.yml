@@ -1,11 +1,11 @@
 id: 544925048
-type: way
+type: node
 latitude: 38.78065
 longitude: -89.95002
 postcode: "62025"
 city: Edwardsville
-street: "Troy Road"
-housenumber: 2500
-phone: "+1 618-659-3682"
-opening_hours: "Mo-Sa 06:00-23:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Edwardsville/IL/Edwardsville/62025/1973"
+street: Troy Road
+housenumber: "2500"
+phone: +1 618-659-3682
+opening_hours: Mo-Sa 06:00-23:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Edwardsville/IL/Edwardsville/62025/1973

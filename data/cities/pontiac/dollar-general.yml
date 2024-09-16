@@ -1,11 +1,11 @@
 id: 723562589
-type: way
+type: node
 latitude: 40.87109
 longitude: -88.64679
 postcode: "61764"
 city: Pontiac
-street: "North Vermillion Street"
-housenumber: 26
+street: North Vermillion Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/pontiac/2046"
+website: https://www.dollargeneral.com/store-directory/il/pontiac/2046

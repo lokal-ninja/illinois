@@ -1,11 +1,11 @@
 id: 157285794
-type: way
+type: node
 latitude: 42.03312
 longitude: -87.72953
 postcode: "60076"
 city: Skokie
-street: "Main Street"
-housenumber: 4035
+street: Main Street
+housenumber: "4035"
 phone: ""
 opening_hours: ""
 website: ""

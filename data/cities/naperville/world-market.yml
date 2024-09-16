@@ -1,11 +1,11 @@
 id: 123649920
-type: way
+type: node
 latitude: 41.76775
 longitude: -88.20401
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 276
-phone: "+1 331 702 6577"
+street: South Illinois Route 59
+housenumber: "276"
+phone: +1 331 702 6577
 opening_hours: ""
-website: "https://stores.worldmarket.com/il/naperville/276-s--route-59.html"
+website: https://stores.worldmarket.com/il/naperville/276-s--route-59.html

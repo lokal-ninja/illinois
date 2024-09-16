@@ -1,11 +1,11 @@
 id: 736437935
-type: way
+type: node
 latitude: 41.60125
 longitude: -87.82769
 postcode: "60487"
 city: Tinley Park
-street: "West 159th Street"
-housenumber: 8585
-phone: "+1-708-429-3000"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su closed"
-website: "https://www.applechevy.com/"
+street: West 159th Street
+housenumber: "8585"
+phone: +1-708-429-3000
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su closed
+website: https://www.applechevy.com/

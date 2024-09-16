@@ -1,11 +1,11 @@
 id: 769765365
-type: way
+type: node
 latitude: 38.91391
 longitude: -90.14303
 postcode: "62002"
 city: Alton
-street: "Homer M Adams Parkway"
-housenumber: 2831
-phone: "+1-618-462-0956"
+street: Homer M Adams Parkway
+housenumber: "2831"
+phone: +1-618-462-0956
 opening_hours: ""
-website: "https://www.rentacenter.com/"
+website: https://www.rentacenter.com/

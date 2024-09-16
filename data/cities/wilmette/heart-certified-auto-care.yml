@@ -4,8 +4,8 @@ latitude: 42.0833
 longitude: -87.71518
 postcode: "60091"
 city: Wilmette
-street: "Green Bay Road"
-housenumber: 1201
+street: Green Bay Road
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "https://heartautocare.com/locations/wilmette/"
+website: https://heartautocare.com/locations/wilmette/

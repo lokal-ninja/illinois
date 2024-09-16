@@ -4,8 +4,8 @@ latitude: 41.8961
 longitude: -87.68181
 postcode: "60622"
 city: Chicago
-street: "West Chicago Avenue"
-housenumber: 2158
-phone: "+1-773-384-5562"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-19:00"
+street: West Chicago Avenue
+housenumber: "2158"
+phone: +1-773-384-5562
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-19:00
 website: ""

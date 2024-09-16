@@ -1,11 +1,11 @@
 id: 318474741
-type: way
+type: node
 latitude: 42.23022
 longitude: -87.93961
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 235
-phone: "+1 847-913-9800"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/vernonhills-112.shtml"
+street: North Milwaukee Avenue
+housenumber: "235"
+phone: +1 847-913-9800
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/vernonhills-112.shtml

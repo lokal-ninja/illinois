@@ -1,11 +1,11 @@
 id: 720736191
-type: way
+type: node
 latitude: 38.79016
 longitude: -89.95518
 postcode: "62025"
 city: Edwardsville
-street: "Edwardsville Crossing Drive"
-housenumber: 6639
-phone: "+1 618-659-4697"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/il/edwardsville/7735"
+street: Edwardsville Crossing Drive
+housenumber: "6639"
+phone: +1 618-659-4697
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/il/edwardsville/7735

@@ -4,8 +4,8 @@ latitude: 42.08563
 longitude: -87.93312
 postcode: "60056"
 city: Mount Prospect
-street: "Center Drive"
-housenumber: 1025
-phone: "+1 847-253-5880"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Center Drive
+housenumber: "1025"
+phone: +1 847-253-5880
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

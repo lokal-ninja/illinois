@@ -1,11 +1,11 @@
 id: 746733027
-type: way
+type: node
 latitude: 42.26876
 longitude: -88.8531
 postcode: "61008"
 city: Belvidere
-street: "North State Street"
-housenumber: 1215
-phone: "+1 815-547-9101"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-22:00"
-website: "https://www.autozone.com/locations/il/belvidere/1215-n-state-st.html"
+street: North State Street
+housenumber: "1215"
+phone: +1 815-547-9101
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-22:00
+website: https://www.autozone.com/locations/il/belvidere/1215-n-state-st.html

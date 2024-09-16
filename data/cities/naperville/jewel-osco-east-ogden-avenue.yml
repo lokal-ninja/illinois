@@ -1,11 +1,11 @@
 id: 240278826
-type: way
+type: node
 latitude: 41.78729
 longitude: -88.14576
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 127
-phone: "+1 630-420-1818"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/naperville/127-e-ogden-ave.html"
+street: East Ogden Avenue
+housenumber: "127"
+phone: +1 630-420-1818
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/naperville/127-e-ogden-ave.html

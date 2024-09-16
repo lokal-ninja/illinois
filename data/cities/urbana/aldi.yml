@@ -1,11 +1,11 @@
 id: 207257549
-type: way
+type: node
 latitude: 40.11392
 longitude: -88.16473
 postcode: "61802"
 city: Urbana
-street: "East University Avenue"
-housenumber: 3102
-phone: "+1 833-468-1091"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-20:00"
-website: "https://stores.aldi.us/il/urbana/3102-east-university-avenue"
+street: East University Avenue
+housenumber: "3102"
+phone: +1 833-468-1091
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-20:00
+website: https://stores.aldi.us/il/urbana/3102-east-university-avenue

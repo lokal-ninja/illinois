@@ -1,11 +1,11 @@
 id: 233317301
-type: way
+type: node
 latitude: 39.91538
 longitude: -88.9533
 postcode: "62535"
 city: Forsyth
-street: "Koester Drive"
-housenumber: 1460
-phone: "+1 217-876-1392"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/forsyth-store1553.html"
+street: Koester Drive
+housenumber: "1460"
+phone: +1 217-876-1392
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/forsyth-store1553.html

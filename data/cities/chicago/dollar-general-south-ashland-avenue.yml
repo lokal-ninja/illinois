@@ -1,11 +1,11 @@
 id: 209709333
-type: way
+type: node
 latitude: 41.81147
 longitude: -87.66563
 postcode: "60609"
 city: Chicago
-street: "South Ashland Avenue"
-housenumber: 4524
+street: South Ashland Avenue
+housenumber: "4524"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/19098"
+website: https://www.dollargeneral.com/store-directory/il/chicago/19098

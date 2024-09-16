@@ -1,11 +1,11 @@
 id: 323717737
-type: way
+type: node
 latitude: 42.16416
 longitude: -88.05965
 postcode: "60010"
 city: Deer Park
-street: "West Long Grove Road"
-housenumber: 21830
-phone: "+1 847-550-1527"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/il/deer-park/311/"
+street: West Long Grove Road
+housenumber: "21830"
+phone: +1 847-550-1527
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/il/deer-park/311/

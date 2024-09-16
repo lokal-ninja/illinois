@@ -1,11 +1,11 @@
 id: 42278942
-type: way
+type: node
 latitude: 42.0242
 longitude: -87.89543
 postcode: "60018"
 city: Des Plaines
-street: "East Oakton Street"
-housenumber: 1180
+street: East Oakton Street
+housenumber: "1180"
 phone: ""
 opening_hours: ""
-website: "https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034"
+website: https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034

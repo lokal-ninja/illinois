@@ -1,11 +1,11 @@
 id: 124877668
-type: way
+type: node
 latitude: 42.42891
 longitude: -89.01016
-postcode: "61073-8882"
+postcode: 61073-8882
 city: Roscoe
-street: "Elevator Road"
-housenumber: 5506
-phone: "+1 815-270-0789"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-15:00"
+street: Elevator Road
+housenumber: "5506"
+phone: +1 815-270-0789
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-15:00
 website: ""

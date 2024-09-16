@@ -4,8 +4,8 @@ latitude: 41.7733
 longitude: -88.14969
 postcode: "60540"
 city: Naperville
-street: "South Main Street"
-housenumber: 119
-phone: "+1 630 585 7800"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://stores.pandora.net/en-us/il/naperville/"
+street: South Main Street
+housenumber: "119"
+phone: +1 630 585 7800
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://stores.pandora.net/en-us/il/naperville/

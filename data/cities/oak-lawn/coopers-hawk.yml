@@ -1,11 +1,11 @@
 id: 518102494
-type: way
+type: node
 latitude: 41.69139
 longitude: -87.74115
 postcode: "60453"
 city: Oak Lawn
-street: "West 111th Street"
-housenumber: 4830
+street: West 111th Street
+housenumber: "4830"
 phone: ""
 opening_hours: ""
 website: ""

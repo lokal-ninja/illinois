@@ -1,11 +1,12 @@
 id: 259922982
-type: way
+type: node
 latitude: 41.96098
 longitude: -88.71945
 postcode: "60115"
 city: Dekalb
-street: "Sycamore Road"
-housenumber: 2570
-phone: "+1 815-758-1039"
-opening_hours: "Mo 09:00-17:00; Tu 09:00-19:00; We 09:00-17:00; Th 09:00-19:00; Fr 09:00-15:00; Sa 08:00-14:00; Su"
-website: "https://spexexpressions.com"
+street: Sycamore Road
+housenumber: "2570"
+phone: +1 815-758-1039
+opening_hours: Mo 09:00-17:00; Tu 09:00-19:00; We 09:00-17:00; Th 09:00-19:00; Fr
+    09:00-15:00; Sa 08:00-14:00; Su
+website: https://spexexpressions.com

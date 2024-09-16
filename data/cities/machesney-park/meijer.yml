@@ -1,11 +1,11 @@
 id: 623549304
-type: way
+type: node
 latitude: 42.36802
 longitude: -89.01247
 postcode: "61115"
 city: Machesney Park
-street: "West Lane Road"
-housenumber: 1770
-phone: "+1-815-721-8700"
+street: West Lane Road
+housenumber: "1770"
+phone: +1-815-721-8700
 opening_hours: ""
 website: ""

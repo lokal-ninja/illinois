@@ -1,11 +1,11 @@
 id: 1181040592
-type: way
+type: node
 latitude: 41.76567
 longitude: -88.18578
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1592
-phone: "+1 630 364 2999"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://zen-spa-asian-massage.business.site/"
+street: West Ogden Avenue
+housenumber: "1592"
+phone: +1 630 364 2999
+opening_hours: Mo-Su 09:00-22:00
+website: https://zen-spa-asian-massage.business.site/

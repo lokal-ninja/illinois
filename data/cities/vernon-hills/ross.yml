@@ -4,8 +4,8 @@ latitude: 42.23972
 longitude: -87.94172
 postcode: "60061"
 city: Vernon Hills
-street: "Milwaukee Avenue"
-housenumber: 701
-phone: "+1 847-573-1386"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Milwaukee Avenue
+housenumber: "701"
+phone: +1 847-573-1386
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

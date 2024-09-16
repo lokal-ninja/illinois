@@ -1,11 +1,11 @@
 id: 354483947
-type: way
+type: node
 latitude: 42.0796
 longitude: -87.75343
 postcode: "60091"
 city: Wilmette
-street: "Lake Avenue"
-housenumber: 3132
+street: Lake Avenue
+housenumber: "3132"
 phone: ""
 opening_hours: ""
-website: "https://chaletnursery.com/"
+website: https://chaletnursery.com/

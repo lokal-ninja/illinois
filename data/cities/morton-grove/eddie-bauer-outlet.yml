@@ -1,11 +1,11 @@
 id: 729237201
-type: way
+type: node
 latitude: 42.04241
 longitude: -87.80808
 postcode: "60053"
 city: Morton Grove
-street: "West Dempster Street"
-housenumber: 7232
+street: West Dempster Street
+housenumber: "7232"
 phone: ""
 opening_hours: ""
 website: ""

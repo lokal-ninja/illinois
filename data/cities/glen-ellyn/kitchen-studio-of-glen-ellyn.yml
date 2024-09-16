@@ -1,11 +1,11 @@
 id: 261147691
-type: way
+type: node
 latitude: 41.87675
 longitude: -88.06643
 postcode: "60137"
 city: Glen Ellyn
-street: "Crescent Boulevard"
-housenumber: 522
-phone: "+1-630-858-4848"
+street: Crescent Boulevard
+housenumber: "522"
+phone: +1-630-858-4848
 opening_hours: ""
-website: "https://www.kitchenstudio-ge.com/"
+website: https://www.kitchenstudio-ge.com/

@@ -1,11 +1,11 @@
 id: 262122174
-type: way
+type: node
 latitude: 42.27453
 longitude: -88.98065
 postcode: "61107"
 city: Rockford
-street: "Garrett Lane"
-housenumber: 6955
-phone: "+1-815-399-9420"
+street: Garrett Lane
+housenumber: "6955"
+phone: +1-815-399-9420
 opening_hours: ""
-website: "https://www.gfs.com/"
+website: https://www.gfs.com/

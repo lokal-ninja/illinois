@@ -1,11 +1,11 @@
 id: 206476667
-type: way
+type: node
 latitude: 42.04203
 longitude: -87.74689
 postcode: "60076"
 city: Skokie
-street: "Skokie Boulevard"
-housenumber: 8851
-phone: "+1-847-229-8822"
+street: Skokie Boulevard
+housenumber: "8851"
+phone: +1-847-229-8822
 opening_hours: ""
-website: "https://chicagojewishfunerals.com/"
+website: https://chicagojewishfunerals.com/

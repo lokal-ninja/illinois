@@ -1,11 +1,11 @@
 id: 162447053
-type: way
+type: node
 latitude: 41.9412
 longitude: -87.72802
 postcode: "60641"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 3322
-phone: "+1-7732056993"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.advancedmedicalsupply.net/"
+street: North Milwaukee Avenue
+housenumber: "3322"
+phone: +1-7732056993
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.advancedmedicalsupply.net/

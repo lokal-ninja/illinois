@@ -1,11 +1,11 @@
 id: 796283231
-type: way
+type: node
 latitude: 42.08381
 longitude: -87.79922
 postcode: "60025"
 city: Glenview
-street: "Waukegan Road"
-housenumber: 1560
-phone: "+1 847-724-3444"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/store-details/00020"
+street: Waukegan Road
+housenumber: "1560"
+phone: +1 847-724-3444
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.acehardware.com/store-details/00020

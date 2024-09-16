@@ -1,11 +1,11 @@
 id: 759535021
-type: way
+type: node
 latitude: 42.08362
 longitude: -88.33801
 postcode: "60123"
 city: Elgin
-street: "Randall Road"
-housenumber: 2020
+street: Randall Road
+housenumber: "2020"
 phone: ""
 opening_hours: ""
 website: ""

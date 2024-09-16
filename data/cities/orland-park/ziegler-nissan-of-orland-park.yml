@@ -1,11 +1,11 @@
 id: 1128330430
-type: way
+type: node
 latitude: 41.60291
 longitude: -87.82798
 postcode: "60462"
 city: Orland Park
-street: "West 159th Street"
-housenumber: 8550
-phone: "708-403-1300"
+street: West 159th Street
+housenumber: "8550"
+phone: 708-403-1300
 opening_hours: ""
-website: "https://www.zeiglernissanoforlandpark.com/"
+website: https://www.zeiglernissanoforlandpark.com/

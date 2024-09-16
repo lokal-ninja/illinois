@@ -1,11 +1,11 @@
 id: 66789382
-type: way
+type: node
 latitude: 41.77895
 longitude: -88.15676
 postcode: "60540"
 city: Naperville
-street: "Spring Avenue"
-housenumber: 515
-phone: "+1 708 479 9050"
+street: Spring Avenue
+housenumber: "515"
+phone: +1 708 479 9050
 opening_hours: ""
-website: "https://ozinga.com/"
+website: https://ozinga.com/

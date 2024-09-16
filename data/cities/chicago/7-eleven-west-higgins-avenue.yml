@@ -1,11 +1,11 @@
 id: 163180301
-type: way
+type: node
 latitude: 41.97361
 longitude: -87.77851
 postcode: "60630"
 city: Chicago
-street: "West Higgins Avenue"
-housenumber: 6000
-phone: "+1 773-775-1671"
+street: West Higgins Avenue
+housenumber: "6000"
+phone: +1 773-775-1671
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/6000-w-higgins-ave-30105"
+website: https://www.7-eleven.com/locations/il/chicago/6000-w-higgins-ave-30105

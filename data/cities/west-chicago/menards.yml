@@ -1,11 +1,11 @@
 id: 322415644
-type: way
+type: node
 latitude: 41.91393
 longitude: -88.21245
 postcode: "60185"
 city: West Chicago
-street: "East North Avenue"
-housenumber: 220
-phone: "+1 630-876-3830"
+street: East North Avenue
+housenumber: "220"
+phone: +1 630-876-3830
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3140"
+website: https://www.menards.com/store-details/store.html?store=3140

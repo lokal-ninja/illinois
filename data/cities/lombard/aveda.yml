@@ -1,11 +1,11 @@
 id: 197795612
-type: way
+type: node
 latitude: 41.83843
 longitude: -88.00893
 postcode: "60148"
 city: Lombard
-street: "Yorktown Shopping Center"
-housenumber: 352
+street: Yorktown Shopping Center
+housenumber: "352"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 261619043
-type: way
+type: node
 latitude: 41.80735
 longitude: -88.14023
 postcode: "60563"
 city: Naperville
-street: "North Washington Street"
-housenumber: 1950
-phone: "+1 331 625 1993"
+street: North Washington Street
+housenumber: "1950"
+phone: +1 331 625 1993
 opening_hours: ""
-website: "https://www.lifestorage.com/storage-units/illinois/chicago/60563/568-in-naperville/"
+website: https://www.lifestorage.com/storage-units/illinois/chicago/60563/568-in-naperville/

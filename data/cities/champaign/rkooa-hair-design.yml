@@ -1,11 +1,11 @@
 id: 304025086
-type: way
+type: node
 latitude: 40.11037
 longitude: -88.23177
 postcode: "61820"
 city: Champaign
-street: "East Green Street"
-housenumber: 506
+street: East Green Street
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

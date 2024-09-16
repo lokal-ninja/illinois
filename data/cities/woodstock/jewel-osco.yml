@@ -1,11 +1,11 @@
 id: 296112262
-type: way
+type: node
 latitude: 42.31571
 longitude: -88.43482
 postcode: "60098"
 city: Woodstock
-street: "South Eastwood Drive"
-housenumber: 145
-phone: "+1 815-206-0499"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/woodstock/145-s-eastwood-dr.html"
+street: South Eastwood Drive
+housenumber: "145"
+phone: +1 815-206-0499
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/woodstock/145-s-eastwood-dr.html

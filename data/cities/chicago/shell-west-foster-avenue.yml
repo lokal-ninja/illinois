@@ -1,11 +1,11 @@
 id: 164019134
-type: way
+type: node
 latitude: 41.97536
 longitude: -87.71294
 postcode: "60625"
 city: Chicago
-street: "West Foster Avenue"
-housenumber: 3349
+street: West Foster Avenue
+housenumber: "3349"
 phone: ""
 opening_hours: ""
 website: ""

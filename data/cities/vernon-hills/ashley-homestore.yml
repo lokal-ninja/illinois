@@ -1,11 +1,11 @@
 id: 196239576
-type: way
+type: node
 latitude: 42.23578
 longitude: -87.94292
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 551
-phone: "+1 847-719-7200"
+street: North Milwaukee Avenue
+housenumber: "551"
+phone: +1 847-719-7200
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/illinois/vernon-hills/7710000161/"
+website: https://stores.ashleyfurniture.com/store/us/illinois/vernon-hills/7710000161/

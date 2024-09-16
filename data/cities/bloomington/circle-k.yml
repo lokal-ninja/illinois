@@ -1,11 +1,11 @@
 id: 648927364
-type: way
+type: node
 latitude: 40.49694
 longitude: -88.90342
 postcode: "61704"
 city: Bloomington
-street: "North Towanda Barnes Road"
-housenumber: 1206
-phone: "(309) 662-5223"
-opening_hours: "24/7"
+street: North Towanda Barnes Road
+housenumber: "1206"
+phone: (309) 662-5223
+opening_hours: 24/7
 website: ""

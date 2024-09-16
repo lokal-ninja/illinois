@@ -1,11 +1,11 @@
 id: 638897537
-type: way
+type: node
 latitude: 41.8461
 longitude: -88.34188
 postcode: "60510"
 city: Batavia
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

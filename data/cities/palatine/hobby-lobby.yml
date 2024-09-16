@@ -1,11 +1,11 @@
 id: 131607946
-type: way
+type: node
 latitude: 42.13749
 longitude: -88.02923
 postcode: "60067"
 city: Palatine
-street: "East Dundee Road"
-housenumber: 615
+street: East Dundee Road
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

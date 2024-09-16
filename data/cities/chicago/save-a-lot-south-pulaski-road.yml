@@ -1,11 +1,11 @@
 id: 163776948
-type: way
+type: node
 latitude: 41.87443
 longitude: -87.72653
 postcode: "60624"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 420
+street: South Pulaski Road
+housenumber: "420"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/chicago-60624-61315/"
+website: https://savealot.com/grocery-stores/chicago-60624-61315/

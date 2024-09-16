@@ -1,11 +1,11 @@
 id: 995791066
-type: way
+type: node
 latitude: 41.50707
 longitude: -87.92037
 postcode: "60451"
 city: New Lenox
-street: "East Lincoln Highway"
-housenumber: 2374
-phone: "+1 815-463-1705"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/il/new-lenox/6734"
+street: East Lincoln Highway
+housenumber: "2374"
+phone: +1 815-463-1705
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/il/new-lenox/6734

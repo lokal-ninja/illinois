@@ -4,8 +4,8 @@ latitude: 41.93852
 longitude: -87.75339
 postcode: "60641"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 5041
-phone: "+1-312-414-4255"
-opening_hours: "Mo-Th 10:00-18:30; Fr-Sa 09:00-19:00"
+street: West Belmont Avenue
+housenumber: "5041"
+phone: +1-312-414-4255
+opening_hours: Mo-Th 10:00-18:30; Fr-Sa 09:00-19:00
 website: ""

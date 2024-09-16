@@ -1,11 +1,11 @@
 id: 612818978
-type: way
+type: node
 latitude: 41.50698
 longitude: -87.70025
 postcode: "60461"
 city: Olympia Fields
-street: "Lincoln Highway"
-housenumber: 3400
+street: Lincoln Highway
+housenumber: "3400"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/olympia-fields-il-pharmacies/3400-lincoln-hwy-olympia-fields-il-60461/storeid=1768"
+website: https://www.cvs.com/store-locator/olympia-fields-il-pharmacies/3400-lincoln-hwy-olympia-fields-il-60461/storeid=1768

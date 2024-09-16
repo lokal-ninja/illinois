@@ -1,11 +1,11 @@
 id: 893580064
-type: way
+type: node
 latitude: 42.22573
 longitude: -88.31341
 postcode: "60014"
 city: Crystal Lake
-street: "Northwest Highway"
-housenumber: 5831
-phone: "+1 833-440-1010"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/crystal-lake/5831-northwest-highway"
+street: Northwest Highway
+housenumber: "5831"
+phone: +1 833-440-1010
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/crystal-lake/5831-northwest-highway

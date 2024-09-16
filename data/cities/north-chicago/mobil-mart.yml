@@ -1,11 +1,11 @@
 id: 195837365
-type: way
+type: node
 latitude: 42.3091
 longitude: -87.86232
 postcode: "60064"
 city: North Chicago
-street: "Buckley Road"
-housenumber: 3396
+street: Buckley Road
+housenumber: "3396"
 phone: ""
 opening_hours: ""
 website: ""

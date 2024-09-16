@@ -1,11 +1,11 @@
 id: 615373229
-type: way
+type: node
 latitude: 41.81441
 longitude: -87.87999
 postcode: "60525"
 city: La Grange
-street: "West Hillgrove Avenue"
-housenumber: 805
+street: West Hillgrove Avenue
+housenumber: "805"
 phone: ""
 opening_hours: ""
 website: ""

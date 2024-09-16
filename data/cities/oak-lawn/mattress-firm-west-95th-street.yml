@@ -1,11 +1,11 @@
 id: 1178779100
-type: way
+type: node
 latitude: 41.71946
 longitude: -87.77912
 postcode: "60453"
 city: Oak Lawn
-street: "West 95th Street"
-housenumber: 6343
-phone: "+1 708-346-9678"
+street: West 95th Street
+housenumber: "6343"
+phone: +1 708-346-9678
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/il/oak-lawn/119120/"
+website: https://www.mattressfirm.com/en-us/stores/il/oak-lawn/119120/

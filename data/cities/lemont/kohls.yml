@@ -1,11 +1,11 @@
 id: 306193376
-type: way
+type: node
 latitude: 41.64413
 longitude: -88.00257
 postcode: "60439"
 city: Lemont
-street: "Archer Avenue"
-housenumber: 13440
-phone: "+1 630-257-2727"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/lemont-419.shtml"
+street: Archer Avenue
+housenumber: "13440"
+phone: +1 630-257-2727
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/lemont-419.shtml

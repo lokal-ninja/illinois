@@ -1,11 +1,11 @@
 id: 317603939
-type: way
+type: node
 latitude: 42.17495
 longitude: -87.8169
 postcode: "60035"
 city: Highland Park
-street: "Old Skokie Valley Road"
-housenumber: 1200
+street: Old Skokie Valley Road
+housenumber: "1200"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 09:00-20:00; Su off"
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 09:00-20:00; Su off
 website: ""

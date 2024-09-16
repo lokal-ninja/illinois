@@ -1,11 +1,11 @@
 id: 227528969
-type: way
+type: node
 latitude: 42.26122
 longitude: -89.62905
 postcode: "61032"
 city: Freeport
-street: "IL 26"
-housenumber: 2755
+street: IL 26
+housenumber: "2755"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3250"
+website: https://www.menards.com/store-details/store.html?store=3250

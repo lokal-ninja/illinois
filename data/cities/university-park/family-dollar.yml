@@ -1,11 +1,11 @@
 id: 906428323
-type: way
+type: node
 latitude: 41.44691
 longitude: -87.68311
 postcode: "60484"
 city: University Park
-street: "University Parkway"
-housenumber: 806
+street: University Parkway
+housenumber: "806"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 154198149
-type: way
+type: node
 latitude: 40.15823
 longitude: -89.38945
 postcode: "62656"
 city: Lincoln
-street: "Woodlawn Road"
-housenumber: 1120
-phone: "+1-217-651-6968"
+street: Woodlawn Road
+housenumber: "1120"
+phone: +1-217-651-6968
 opening_hours: ""
 website: ""

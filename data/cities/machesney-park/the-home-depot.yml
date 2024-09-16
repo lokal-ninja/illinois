@@ -1,11 +1,11 @@
 id: 121143466
-type: way
+type: node
 latitude: 42.36779
 longitude: -89.02459
 postcode: "61115"
 city: Machesney Park
-street: "West Lane Road"
-housenumber: 1580
-phone: "+1 815-282-8234"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/machesney-park/il/machesney-park/61115/1956"
+street: West Lane Road
+housenumber: "1580"
+phone: +1 815-282-8234
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/machesney-park/il/machesney-park/61115/1956

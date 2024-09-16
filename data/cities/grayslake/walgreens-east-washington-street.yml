@@ -1,11 +1,11 @@
 id: 1026584451
-type: way
+type: node
 latitude: 42.35985
 longitude: -88.03529
 postcode: "60030"
 city: Grayslake
-street: "East Washington Street"
-housenumber: 460
+street: East Washington Street
+housenumber: "460"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-460+e+washington+st-grayslake-il-60030/id=5106"
+website: https://www.walgreens.com/locator/walgreens-460+e+washington+st-grayslake-il-60030/id=5106

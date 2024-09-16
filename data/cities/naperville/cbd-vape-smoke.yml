@@ -1,11 +1,11 @@
 id: 1181040593
-type: way
+type: node
 latitude: 41.76567
 longitude: -88.18552
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1592
-phone: "+1 630 857 3562"
+street: West Ogden Avenue
+housenumber: "1592"
+phone: +1 630 857 3562
 opening_hours: ""
-website: "https://www.thebuzzretail.com/"
+website: https://www.thebuzzretail.com/

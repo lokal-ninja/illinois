@@ -1,11 +1,11 @@
 id: 1225298734
-type: way
+type: node
 latitude: 42.0545
 longitude: -87.82717
 postcode: "60714"
 city: Niles
-street: "Golf Road"
-housenumber: 8025
+street: Golf Road
+housenumber: "8025"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 210521445
-type: way
+type: node
 latitude: 41.78024
 longitude: -87.64082
 postcode: "60621"
 city: Chicago
-street: "West 63rd Street"
-housenumber: 620
-phone: "+1 833-462-1092"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/chicago/620-w-63rd-st"
+street: West 63rd Street
+housenumber: "620"
+phone: +1 833-462-1092
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/chicago/620-w-63rd-st

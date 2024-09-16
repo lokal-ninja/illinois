@@ -1,11 +1,11 @@
 id: 451478838
-type: way
+type: node
 latitude: 42.14581
 longitude: -88.33869
 postcode: "60102"
 city: Algonquin
-street: "Esplanade Drive"
-housenumber: 2380
+street: Esplanade Drive
+housenumber: "2380"
 phone: ""
-opening_hours: "Mo 17:00-22:00; Tu-Th 11:00-22:00; Fr-Sa 11:00-23:30; Su 12:00-21:00"
+opening_hours: Mo 17:00-22:00; Tu-Th 11:00-22:00; Fr-Sa 11:00-23:30; Su 12:00-21:00
 website: ""

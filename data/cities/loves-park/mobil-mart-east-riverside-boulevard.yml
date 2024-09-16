@@ -1,11 +1,11 @@
 id: 245874882
-type: way
+type: node
 latitude: 42.3192
 longitude: -89.00873
 postcode: "61111"
 city: Loves Park
-street: "East Riverside Boulevard"
-housenumber: 5542
-phone: "+1-815-639-1032"
+street: East Riverside Boulevard
+housenumber: "5542"
+phone: +1-815-639-1032
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200318994"
+website: https://www.exxon.com/en/find-station/200318994

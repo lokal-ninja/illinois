@@ -1,11 +1,11 @@
 id: 729237203
-type: way
+type: node
 latitude: 42.04242
 longitude: -87.80754
 postcode: "60053"
 city: Morton Grove
-street: "West Dempster Street"
-housenumber: 7220
-phone: "+1 224-592-0500"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/il/morton-grove/5151"
+street: West Dempster Street
+housenumber: "7220"
+phone: +1 224-592-0500
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/il/morton-grove/5151

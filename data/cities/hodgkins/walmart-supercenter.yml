@@ -1,11 +1,11 @@
 id: 673161065
-type: way
+type: node
 latitude: 41.77828
 longitude: -87.86315
 postcode: "60525"
 city: Hodgkins
-street: "Joliet Road"
-housenumber: 9450
-phone: "+1 708-387-2090"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1892/hodgkins-il/whats-new"
+street: Joliet Road
+housenumber: "9450"
+phone: +1 708-387-2090
+opening_hours: 24/7
+website: https://www.walmart.com/store/1892/hodgkins-il/whats-new

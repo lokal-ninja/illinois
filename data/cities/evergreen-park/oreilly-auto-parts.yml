@@ -1,11 +1,11 @@
 id: 660880688
-type: way
+type: node
 latitude: 41.72802
 longitude: -87.68407
 postcode: "60643"
 city: Evergreen Park
-street: "South Western Avenue"
-housenumber: 9146
+street: South Western Avenue
+housenumber: "9146"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/evergreenpark/autoparts-3367.html"
+website: https://locations.oreillyauto.com/il/evergreenpark/autoparts-3367.html

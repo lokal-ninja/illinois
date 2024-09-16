@@ -4,8 +4,8 @@ latitude: 38.77925
 longitude: -89.98325
 postcode: "62025"
 city: Edwardsville
-street: "Club Centre Court"
-housenumber: 4
-phone: "+1-618-307-5301"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.playitagainsports.com/locations/edwardsville-il"
+street: Club Centre Court
+housenumber: "4"
+phone: +1-618-307-5301
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://www.playitagainsports.com/locations/edwardsville-il

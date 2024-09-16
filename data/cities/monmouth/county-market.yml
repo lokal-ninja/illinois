@@ -1,11 +1,11 @@
 id: 860367515
-type: way
+type: node
 latitude: 40.92364
 longitude: -90.64198
 postcode: "61462"
 city: Monmouth
-street: "North 6th Street"
-housenumber: 1120
+street: North 6th Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

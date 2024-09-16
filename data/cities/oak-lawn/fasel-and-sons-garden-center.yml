@@ -1,11 +1,11 @@
 id: 874465843
-type: way
+type: node
 latitude: 41.69492
 longitude: -87.7397
 postcode: "60453"
 city: Oak Lawn
-street: "South Cicero Avenue"
-housenumber: 10841
-phone: "+1-708-422-5335"
+street: South Cicero Avenue
+housenumber: "10841"
+phone: +1-708-422-5335
 opening_hours: ""
-website: "https://www.faselandsons.com/"
+website: https://www.faselandsons.com/

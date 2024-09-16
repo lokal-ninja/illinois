@@ -1,11 +1,11 @@
 id: 440051753
-type: way
+type: node
 latitude: 41.74899
 longitude: -88.2037
 postcode: "60540"
 city: Naperville
-street: "Audrey Avenue"
-housenumber: 2920
-phone: "+1 630-637-9200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/naperville/il/naperville/60540/1918"
+street: Audrey Avenue
+housenumber: "2920"
+phone: +1 630-637-9200
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/naperville/il/naperville/60540/1918

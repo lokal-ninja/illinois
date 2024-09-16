@@ -1,11 +1,11 @@
 id: 1115560535
-type: way
+type: node
 latitude: 41.24408
 longitude: -87.83604
-postcode: "60950-1667"
+postcode: 60950-1667
 city: Manteno
-street: "South Locust Street"
-housenumber: 361
-phone: "+1 815-468-3137"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 08:00-18:00"
+street: South Locust Street
+housenumber: "361"
+phone: +1 815-468-3137
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 08:00-18:00
 website: ""

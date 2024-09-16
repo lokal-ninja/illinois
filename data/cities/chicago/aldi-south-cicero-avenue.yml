@@ -1,11 +1,11 @@
 id: 162288626
-type: way
+type: node
 latitude: 41.74035
 longitude: -87.74068
 postcode: "60652"
 city: Chicago
-street: "South Cicero Avenue"
-housenumber: 8333
-phone: "+1 833-462-1083"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-20:00"
-website: "https://stores.aldi.us/il/chicago/8333-south-cicero-ave"
+street: South Cicero Avenue
+housenumber: "8333"
+phone: +1 833-462-1083
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-20:00
+website: https://stores.aldi.us/il/chicago/8333-south-cicero-ave

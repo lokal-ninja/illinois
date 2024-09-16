@@ -1,11 +1,11 @@
 id: 184486060
-type: way
+type: node
 latitude: 42.04696
 longitude: -87.68618
 postcode: "60201"
 city: Evanston
-street: "Davis Street"
-housenumber: 1022
+street: Davis Street
+housenumber: "1022"
 phone: ""
 opening_hours: ""
 website: ""

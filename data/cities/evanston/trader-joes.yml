@@ -1,11 +1,11 @@
 id: 227939344
-type: way
+type: node
 latitude: 42.03964
 longitude: -87.68035
 postcode: "60202"
 city: Evanston
-street: "Chicago Avenue"
-housenumber: 1211
-phone: "+1 847-733-0690"
-opening_hours: "08:00-21:00"
-website: "https://locations.traderjoes.com/il/evanston/702/"
+street: Chicago Avenue
+housenumber: "1211"
+phone: +1 847-733-0690
+opening_hours: 08:00-21:00
+website: https://locations.traderjoes.com/il/evanston/702/

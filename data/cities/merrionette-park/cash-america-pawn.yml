@@ -1,11 +1,11 @@
 id: 1030463076
-type: way
+type: node
 latitude: 41.68518
 longitude: -87.70041
 postcode: "60803"
 city: Merrionette Park
-street: "South Kedzie Avenue"
-housenumber: 11445
+street: South Kedzie Avenue
+housenumber: "11445"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 473464634
-type: way
+type: node
 latitude: 40.06584
 longitude: -87.7041
 postcode: "61817"
 city: Catlin
-street: "Douglas Street"
-housenumber: 103
+street: Douglas Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 826826466
-type: way
+type: node
 latitude: 42.11047
 longitude: -87.98103
 postcode: "60004"
 city: Arlington Heights
-street: "North Arlington Heights Road"
-housenumber: 1902
+street: North Arlington Heights Road
+housenumber: "1902"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Arlington-Heights/1902-North-Arlington-Heights-Road"
+website: https://www.speedway.com/locations/IL/Arlington-Heights/1902-North-Arlington-Heights-Road

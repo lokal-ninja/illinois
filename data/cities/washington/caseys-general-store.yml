@@ -1,11 +1,11 @@
 id: 247609966
-type: way
+type: node
 latitude: 40.70357
 longitude: -89.39601
 postcode: "61571"
 city: Washington
-street: "Walnut Street"
-housenumber: 902
+street: Walnut Street
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

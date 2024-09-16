@@ -1,11 +1,11 @@
 id: 165155205
-type: way
+type: node
 latitude: 41.81338
 longitude: -87.70518
 postcode: "60632"
 city: Chicago
-street: "South Archer Avenue"
-housenumber: 4385
+street: South Archer Avenue
+housenumber: "4385"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4385+s+archer+ave-chicago-il-60632/id=5926"
+website: https://www.walgreens.com/locator/walgreens-4385+s+archer+ave-chicago-il-60632/id=5926

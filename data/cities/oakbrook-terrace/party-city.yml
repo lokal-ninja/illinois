@@ -1,11 +1,11 @@
 id: 1254230280
-type: way
+type: node
 latitude: 41.84791
 longitude: -87.97726
 postcode: "60181"
 city: Oakbrook Terrace
-street: "West 740 22nd Street"
-housenumber: 17
-phone: "+1 331-979-6541"
+street: West 740 22nd Street
+housenumber: "17"
+phone: +1 331-979-6541
 opening_hours: ""
-website: "https://stores.partycity.com/us/il/oakbrookterrace/party-store-pc584.html"
+website: https://stores.partycity.com/us/il/oakbrookterrace/party-store-pc584.html

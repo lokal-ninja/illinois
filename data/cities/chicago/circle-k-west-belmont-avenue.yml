@@ -1,11 +1,11 @@
 id: 209455835
-type: way
+type: node
 latitude: 41.93954
 longitude: -87.69771
 postcode: "60618"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 2760
+street: West Belmont Avenue
+housenumber: "2760"
 phone: ""
 opening_hours: ""
-website: "https://www.circlek.com/store-locator/US/chicago/2760-w-belmont-ave/4706908"
+website: https://www.circlek.com/store-locator/US/chicago/2760-w-belmont-ave/4706908

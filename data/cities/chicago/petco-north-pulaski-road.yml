@@ -1,11 +1,11 @@
 id: 162464246
-type: way
+type: node
 latitude: 41.96944
 longitude: -87.72819
 postcode: "60630"
 city: Chicago
-street: "North Pulaski Road"
-housenumber: 4840
-phone: "+1 773-283-1248"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1987.html"
+street: North Pulaski Road
+housenumber: "4840"
+phone: +1 773-283-1248
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1987.html

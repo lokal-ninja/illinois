@@ -1,11 +1,11 @@
 id: 156356426
-type: way
+type: node
 latitude: 41.87789
 longitude: -87.64451
 postcode: "60661"
 city: Chicago
-street: "West Jackson Boulevard"
-housenumber: 711
-phone: "+1 312-966-4666"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://www.hmart.com/storelocator/index/index/id/60"
+street: West Jackson Boulevard
+housenumber: "711"
+phone: +1 312-966-4666
+opening_hours: Mo-Su 09:00-22:00
+website: https://www.hmart.com/storelocator/index/index/id/60

@@ -1,11 +1,11 @@
 id: 245021610
-type: way
+type: node
 latitude: 42.02599
 longitude: -88.07935
 postcode: "60193"
 city: Schaumburg
-street: "South Roselle Road"
-housenumber: 25
+street: South Roselle Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

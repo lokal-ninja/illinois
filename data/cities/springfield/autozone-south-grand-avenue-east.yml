@@ -4,8 +4,8 @@ latitude: 39.78693
 longitude: -89.60877
 postcode: "62703"
 city: Springfield
-street: "South Grand Avenue East"
-housenumber: 3000
-phone: "+1-217-753-2931"
-opening_hours: "Mo-Sa 07:30-20:00; Su 08:30-19:00"
-website: "https://www.autozone.com/locations/il/springfield/3000-s-grand-ave.html"
+street: South Grand Avenue East
+housenumber: "3000"
+phone: +1-217-753-2931
+opening_hours: Mo-Sa 07:30-20:00; Su 08:30-19:00
+website: https://www.autozone.com/locations/il/springfield/3000-s-grand-ave.html

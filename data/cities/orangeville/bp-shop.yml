@@ -1,11 +1,11 @@
 id: 70081889
-type: way
+type: node
 latitude: 42.46849
 longitude: -89.6524
 postcode: "61060"
 city: Orangeville
-street: "West High Street"
-housenumber: 456
-phone: "+1-815-789-4524"
+street: West High Street
+housenumber: "456"
+phone: +1-815-789-4524
 opening_hours: ""
-website: "https://www.bp.com/"
+website: https://www.bp.com/

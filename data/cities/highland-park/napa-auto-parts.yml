@@ -1,11 +1,11 @@
 id: 545357312
-type: way
+type: node
 latitude: 42.20148
 longitude: -87.80748
 postcode: "60035"
 city: Highland Park
-street: "Waukegan Avenue"
-housenumber: 2679
+street: Waukegan Avenue
+housenumber: "2679"
 phone: ""
 opening_hours: ""
 website: ""

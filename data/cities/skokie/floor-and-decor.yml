@@ -1,11 +1,11 @@
 id: 808488729
-type: way
+type: node
 latitude: 42.02757
 longitude: -87.71225
 postcode: "60076"
 city: Skokie
-street: "Oakton Street"
-housenumber: 3300
+street: Oakton Street
+housenumber: "3300"
 phone: ""
 opening_hours: ""
-website: "https://www.flooranddecor.com/store?StoreID=145&"
+website: https://www.flooranddecor.com/store?StoreID=145&

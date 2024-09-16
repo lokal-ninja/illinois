@@ -4,8 +4,8 @@ latitude: 40.48064
 longitude: -88.95212
 postcode: "61704"
 city: Bloomington
-street: "North Veterans Parkway"
-housenumber: 101
-phone: "+1 309 663 2700"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-17:00"
-website: "https://allabouteyes.com/locations/bloomington/"
+street: North Veterans Parkway
+housenumber: "101"
+phone: +1 309 663 2700
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-17:00
+website: https://allabouteyes.com/locations/bloomington/

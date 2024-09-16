@@ -1,11 +1,11 @@
 id: 864889234
-type: way
+type: node
 latitude: 42.45578
 longitude: -89.03522
 postcode: "61073"
 city: Rockton
-street: "East Rockton Road"
-housenumber: 4233
+street: East Rockton Road
+housenumber: "4233"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00; PH closed"
-website: "https://locations.oreillyauto.com/il/rockton/autoparts-6034.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00; PH closed
+website: https://locations.oreillyauto.com/il/rockton/autoparts-6034.html

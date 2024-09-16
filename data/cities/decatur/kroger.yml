@@ -1,11 +1,11 @@
 id: 233441319
-type: way
+type: node
 latitude: 39.87741
 longitude: -88.95334
 postcode: "62526"
 city: Decatur
-street: "North Water Street"
-housenumber: 3070
-phone: "+1 217-877-1327"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/il/decatur/brettwood-village/021/00922"
+street: North Water Street
+housenumber: "3070"
+phone: +1 217-877-1327
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/il/decatur/brettwood-village/021/00922

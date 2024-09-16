@@ -1,11 +1,11 @@
 id: 1155323311
-type: way
+type: node
 latitude: 41.8578
 longitude: -87.7841
 postcode: "60402"
 city: Berwyn
-street: "Ridgeland Avenue"
-housenumber: 1600
+street: Ridgeland Avenue
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

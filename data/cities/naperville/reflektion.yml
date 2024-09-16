@@ -1,11 +1,11 @@
 id: 1028828066
-type: way
+type: node
 latitude: 41.72516
 longitude: -88.20536
 postcode: "60564"
 city: Naperville
-street: "Artesian Road"
-housenumber: 2960
-phone: "+1 630 210 8346"
+street: Artesian Road
+housenumber: "2960"
+phone: +1 630 210 8346
 opening_hours: ""
-website: "https://www.reflektionsalon.com/"
+website: https://www.reflektionsalon.com/

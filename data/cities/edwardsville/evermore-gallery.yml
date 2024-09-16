@@ -1,11 +1,11 @@
 id: 752697419
-type: way
+type: node
 latitude: 38.81128
 longitude: -89.95547
 postcode: "62025"
 city: Edwardsville
-street: "East Vandalia Street"
-housenumber: 100
+street: East Vandalia Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

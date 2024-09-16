@@ -1,11 +1,11 @@
 id: 785325949
-type: way
+type: node
 latitude: 42.01161
 longitude: -87.7216
 postcode: "60712"
 city: Lincolnwood
-street: "West Touhy Avenue"
-housenumber: 3701
+street: West Touhy Avenue
+housenumber: "3701"
 phone: ""
 opening_hours: ""
-website: "https://www.att.com/stores/illinois/lincolnwood/123580"
+website: https://www.att.com/stores/illinois/lincolnwood/123580

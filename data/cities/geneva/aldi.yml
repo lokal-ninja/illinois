@@ -1,11 +1,11 @@
 id: 744814065
-type: way
+type: node
 latitude: 41.88855
 longitude: -88.28856
 postcode: "60134"
 city: Geneva
-street: "East State Street"
-housenumber: 975
-phone: "+1 833-440-1018"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/geneva/975-e-state-street"
+street: East State Street
+housenumber: "975"
+phone: +1 833-440-1018
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/geneva/975-e-state-street

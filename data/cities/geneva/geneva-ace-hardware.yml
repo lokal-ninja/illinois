@@ -1,11 +1,11 @@
 id: 718412406
-type: way
+type: node
 latitude: 41.88934
 longitude: -88.31259
 postcode: "60134"
 city: Geneva
-street: "West State Street"
-housenumber: 617
-phone: "+1 630-208-6600"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-17:00"
+street: West State Street
+housenumber: "617"
+phone: +1 630-208-6600
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 327477600
-type: way
+type: node
 latitude: 41.94837
 longitude: -88.72527
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2050
-phone: "+1 815-754-4800"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/il-dekalb/0059"
+street: Sycamore Road
+housenumber: "2050"
+phone: +1 815-754-4800
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/il-dekalb/0059

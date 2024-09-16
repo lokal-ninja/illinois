@@ -1,11 +1,11 @@
 id: 245014272
-type: way
+type: node
 latitude: 40.14046
 longitude: -88.26038
 postcode: "61822"
 city: Champaign
-street: "North Prospect Avenue"
-housenumber: 2023
-phone: "+1 217-355-5234"
-opening_hours: "Mo-Sa 10:00-21:00;Su 11:00-18:00"
-website: "https://www.ulta.com/stores/champaign-il-466"
+street: North Prospect Avenue
+housenumber: "2023"
+phone: +1 217-355-5234
+opening_hours: Mo-Sa 10:00-21:00;Su 11:00-18:00
+website: https://www.ulta.com/stores/champaign-il-466

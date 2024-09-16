@@ -1,11 +1,11 @@
 id: 820027733
-type: way
+type: node
 latitude: 41.49805
 longitude: -87.96599
 postcode: "60451"
 city: New Lenox
-street: "South Cedar Road"
-housenumber: 939
-phone: "+1-815-485-9636"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/IL/New-Lenox/939-South-Cedar-Road"
+street: South Cedar Road
+housenumber: "939"
+phone: +1-815-485-9636
+opening_hours: 24/7
+website: https://www.speedway.com/locations/IL/New-Lenox/939-South-Cedar-Road

@@ -1,11 +1,11 @@
 id: 216269428
-type: way
+type: node
 latitude: 41.7211
 longitude: -87.69892
 postcode: "60805"
 city: Evergreen Park
-street: "West 95th Street"
-housenumber: 3040
+street: West 95th Street
+housenumber: "3040"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Evergreen-Park/3040-West-95th-Street"
+website: https://www.speedway.com/locations/IL/Evergreen-Park/3040-West-95th-Street

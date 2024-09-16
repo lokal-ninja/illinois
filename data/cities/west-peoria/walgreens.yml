@@ -1,11 +1,11 @@
 id: 588205869
-type: way
+type: node
 latitude: 40.69129
 longitude: -89.62391
 postcode: "61604"
 city: West Peoria
-street: "North Western Avenue"
-housenumber: 221
+street: North Western Avenue
+housenumber: "221"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-221+n+western+ave-west+peoria-il-61604/id=9508"
+website: https://www.walgreens.com/locator/walgreens-221+n+western+ave-west+peoria-il-61604/id=9508

@@ -1,11 +1,11 @@
 id: 724870641
-type: way
+type: node
 latitude: 42.0176
 longitude: -88.33352
 postcode: "60123"
 city: Elgin
-street: "South Randall Road"
-housenumber: 629
-phone: "+1-847-289-8787"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 09:00-18:00"
-website: "https://www.farmandfleet.com/stores/il/elgin/"
+street: South Randall Road
+housenumber: "629"
+phone: +1-847-289-8787
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 09:00-18:00
+website: https://www.farmandfleet.com/stores/il/elgin/

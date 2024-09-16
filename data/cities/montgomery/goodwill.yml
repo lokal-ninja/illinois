@@ -1,11 +1,11 @@
 id: 380803059
-type: way
+type: node
 latitude: 41.72123
 longitude: -88.28437
 postcode: "60538"
 city: Montgomery
-street: "Hill Avenue"
-housenumber: 1901
+street: Hill Avenue
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

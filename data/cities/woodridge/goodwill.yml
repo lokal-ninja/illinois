@@ -1,11 +1,11 @@
 id: 311857392
-type: way
+type: node
 latitude: 41.72954
 longitude: -88.02721
 postcode: "60517"
 city: Woodridge
-street: "Woodward Avenue"
-housenumber: 8615
-phone: "+1 630 9100387"
+street: Woodward Avenue
+housenumber: "8615"
+phone: +1 630 9100387
 opening_hours: ""
-website: "https://www.goodwill.org/"
+website: https://www.goodwill.org/

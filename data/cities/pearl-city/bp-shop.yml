@@ -1,11 +1,11 @@
 id: 777350144
-type: way
+type: node
 latitude: 42.26726
 longitude: -89.82585
 postcode: "61062"
 city: Pearl City
-street: "South Main Street"
-housenumber: 101
-phone: "+1-815-443-2150"
+street: South Main Street
+housenumber: "101"
+phone: +1-815-443-2150
 opening_hours: ""
-website: "https://www.bp.com/"
+website: https://www.bp.com/

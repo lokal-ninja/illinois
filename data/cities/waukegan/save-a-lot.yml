@@ -1,11 +1,11 @@
 id: 940632153
-type: way
+type: node
 latitude: 42.34955
 longitude: -87.85564
 postcode: "60085"
 city: Waukegan
-street: "South Lewis Avenue"
-housenumber: 561
+street: South Lewis Avenue
+housenumber: "561"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/waukegan-60085-61311/"
+website: https://savealot.com/grocery-stores/waukegan-60085-61311/

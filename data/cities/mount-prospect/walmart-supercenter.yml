@@ -1,11 +1,11 @@
 id: 406479901
-type: way
+type: node
 latitude: 42.06972
 longitude: -87.92264
 postcode: "60056"
 city: Mount Prospect
-street: "Mount Prospect Plaza"
-housenumber: 930
-phone: "+1 847-590-0002"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1681/mount-prospect-il/whats-new"
+street: Mount Prospect Plaza
+housenumber: "930"
+phone: +1 847-590-0002
+opening_hours: 24/7
+website: https://www.walmart.com/store/1681/mount-prospect-il/whats-new

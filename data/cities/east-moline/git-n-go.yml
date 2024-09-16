@@ -1,11 +1,11 @@
 id: 675359566
-type: way
+type: node
 latitude: 41.48925
 longitude: -90.43656
 postcode: "61244"
 city: East Moline
-street: "Avenue of the Cities"
-housenumber: 1104
+street: Avenue of the Cities
+housenumber: "1104"
 phone: ""
 opening_hours: ""
 website: ""

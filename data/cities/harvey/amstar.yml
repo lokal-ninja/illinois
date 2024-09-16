@@ -1,11 +1,11 @@
 id: 1305827997
-type: way
+type: node
 latitude: 41.62237
 longitude: -87.66138
 postcode: "60426"
 city: Harvey
-street: "Wood Street"
-housenumber: 14700
+street: Wood Street
+housenumber: "14700"
 phone: ""
 opening_hours: ""
 website: ""

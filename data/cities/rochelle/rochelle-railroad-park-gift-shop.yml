@@ -1,11 +1,11 @@
 id: 594377411
-type: way
+type: node
 latitude: 41.9204
 longitude: -89.07145
 postcode: "61068"
 city: Rochelle
-street: "North 9th Street"
-housenumber: 124
+street: North 9th Street
+housenumber: "124"
 phone: ""
 opening_hours: ""
-website: "https://www.rochellerailroadpark.org/"
+website: https://www.rochellerailroadpark.org/

@@ -1,11 +1,11 @@
 id: 449143798
-type: way
+type: node
 latitude: 42.28122
 longitude: -88.2067
 postcode: "60042"
 city: Island Lake
-street: "West State Road"
-housenumber: 442
+street: West State Road
+housenumber: "442"
 phone: ""
 opening_hours: ""
 website: ""

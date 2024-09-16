@@ -1,11 +1,11 @@
 id: 1104823732
-type: way
+type: node
 latitude: 41.67812
 longitude: -88.3481
 postcode: "60543"
 city: Oswego
-street: "East Washington Street"
-housenumber: 244
+street: East Washington Street
+housenumber: "244"
 phone: ""
 opening_hours: ""
 website: ""

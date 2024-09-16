@@ -1,11 +1,11 @@
 id: 772184776
-type: way
+type: node
 latitude: 42.21728
 longitude: -89.0297
 postcode: "61109"
 city: Rockford
-street: "Linden Road"
-housenumber: 4402
-phone: "+1 815-873-0303"
+street: Linden Road
+housenumber: "4402"
+phone: +1 815-873-0303
 opening_hours: ""
-website: "https://www.phillips66gas.com/"
+website: https://www.phillips66gas.com/

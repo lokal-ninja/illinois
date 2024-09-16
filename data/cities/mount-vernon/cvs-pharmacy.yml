@@ -1,11 +1,11 @@
 id: 278459577
-type: way
+type: node
 latitude: 38.3158
 longitude: -88.92541
 postcode: "62864"
 city: Mount Vernon
-street: "Broadway Street"
-housenumber: 2700
+street: Broadway Street
+housenumber: "2700"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mount-vernon-il-pharmacies/2700-broadway-mount-vernon-il-62864/storeid=6370"
+website: https://www.cvs.com/store-locator/mount-vernon-il-pharmacies/2700-broadway-mount-vernon-il-62864/storeid=6370

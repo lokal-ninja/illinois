@@ -1,11 +1,11 @@
 id: 1026332617
-type: way
+type: node
 latitude: 42.11164
 longitude: -87.77576
 postcode: "60093"
 city: Northfield
-street: "Frontage Road"
-housenumber: 770
+street: Frontage Road
+housenumber: "770"
 phone: ""
 opening_hours: ""
 website: ""

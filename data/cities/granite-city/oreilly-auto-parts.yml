@@ -1,11 +1,11 @@
 id: 464616787
-type: way
+type: node
 latitude: 38.72421
 longitude: -90.12212
 postcode: "62040"
 city: Granite City
-street: "Nameoki Road"
-housenumber: 3318
+street: Nameoki Road
+housenumber: "3318"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/granitecity/autoparts-992.html"
+website: https://locations.oreillyauto.com/il/granitecity/autoparts-992.html

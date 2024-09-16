@@ -1,11 +1,11 @@
 id: 181180507
-type: way
+type: node
 latitude: 41.82363
 longitude: -87.86884
 postcode: "60526"
 city: La Grange Park
-street: "Woodlawn Avenue"
-housenumber: 507
-phone: "+1 708-354-4643"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/la-grange-park/507-e-woodlawn-ave.html"
+street: Woodlawn Avenue
+housenumber: "507"
+phone: +1 708-354-4643
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/la-grange-park/507-e-woodlawn-ave.html

@@ -1,11 +1,11 @@
 id: 265715928
-type: way
+type: node
 latitude: 42.04654
 longitude: -87.94221
 postcode: "60056"
 city: Mount Prospect
-street: "South Elmhurst Road"
-housenumber: 1028
+street: South Elmhurst Road
+housenumber: "1028"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walgreens.com/locator/walgreens-1028+s+elmhurst+rd-mount+prospect-il-60056/id=209"
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walgreens.com/locator/walgreens-1028+s+elmhurst+rd-mount+prospect-il-60056/id=209

@@ -1,11 +1,11 @@
 id: 1191939437
-type: way
+type: node
 latitude: 40.97634
 longitude: -90.38733
-postcode: "61401-1343"
+postcode: 61401-1343
 city: Galesburg
-street: "West Carl Sandburg Drive"
-housenumber: 1071
-phone: "+1 309-344-3211"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/galesburg/891"
+street: West Carl Sandburg Drive
+housenumber: "1071"
+phone: +1 309-344-3211
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/galesburg/891

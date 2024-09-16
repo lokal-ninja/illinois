@@ -1,11 +1,11 @@
 id: 785271828
-type: way
+type: node
 latitude: 42.06692
 longitude: -87.85176
 postcode: "60025"
 city: Glenview
-street: "Milwaukee Avenue"
-housenumber: 670
+street: Milwaukee Avenue
+housenumber: "670"
 phone: ""
 opening_hours: ""
-website: "http://joongboomarket.com/"
+website: http://joongboomarket.com/

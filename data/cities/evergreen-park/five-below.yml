@@ -1,11 +1,11 @@
 id: 660880670
-type: way
+type: node
 latitude: 41.71646
 longitude: -87.68484
 postcode: "60805"
 city: Evergreen Park
-street: "South Western Avenue"
-housenumber: 9680
+street: South Western Avenue
+housenumber: "9680"
 phone: ""
 opening_hours: ""
-website: "https://www.fivebelow.com/"
+website: https://www.fivebelow.com/

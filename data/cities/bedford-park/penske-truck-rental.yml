@@ -1,11 +1,11 @@
 id: 1169128392
-type: way
+type: node
 latitude: 41.7681
 longitude: -87.82238
 postcode: "60501"
 city: Bedford Park
-street: "68th Street"
-housenumber: 8001
+street: 68th Street
+housenumber: "8001"
 phone: ""
 opening_hours: ""
 website: ""

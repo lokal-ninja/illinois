@@ -1,11 +1,11 @@
 id: 165135361
-type: way
+type: node
 latitude: 41.77807
 longitude: -87.70261
 postcode: "60629"
 city: Chicago
-street: "South Kedzie Avenue"
-housenumber: 6315
+street: South Kedzie Avenue
+housenumber: "6315"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6315+s+kedzie+ave-chicago-il-60629/id=5034"
+website: https://www.walgreens.com/locator/walgreens-6315+s+kedzie+ave-chicago-il-60629/id=5034

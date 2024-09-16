@@ -1,11 +1,11 @@
 id: 1212054863
-type: way
+type: node
 latitude: 41.72104
 longitude: -87.74147
 postcode: "60453"
 city: Oak Lawn
-street: "South Cicero Avenue"
-housenumber: 9440
+street: South Cicero Avenue
+housenumber: "9440"
 phone: ""
 opening_hours: ""
 website: ""

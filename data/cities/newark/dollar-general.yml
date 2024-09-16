@@ -1,11 +1,11 @@
 id: 922693667
-type: way
+type: node
 latitude: 41.53278
 longitude: -88.58515
 postcode: "60541"
 city: Newark
-street: "West Route 71"
-housenumber: 106
+street: West Route 71
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

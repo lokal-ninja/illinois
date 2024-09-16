@@ -1,11 +1,11 @@
 id: 154901312
-type: way
+type: node
 latitude: 39.4747
 longitude: -88.37688
 postcode: "61938"
 city: Mattoon
-street: "Lakeland Boulevard"
-housenumber: 805
+street: Lakeland Boulevard
+housenumber: "805"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/mattoon/805-lakeland-blvd.html"
+website: https://www.autozone.com/locations/il/mattoon/805-lakeland-blvd.html

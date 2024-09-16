@@ -1,11 +1,11 @@
 id: 210222922
-type: way
+type: node
 latitude: 41.85382
 longitude: -87.64161
 postcode: "60616"
 city: Chicago
-street: "South Jefferson Street"
-housenumber: 2105
+street: South Jefferson Street
+housenumber: "2105"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

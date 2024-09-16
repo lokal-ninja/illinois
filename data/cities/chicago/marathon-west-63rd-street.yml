@@ -1,11 +1,11 @@
 id: 165130877
-type: way
+type: node
 latitude: 41.77932
 longitude: -87.69859
 postcode: "60629"
 city: Chicago
-street: "West 63rd Street"
-housenumber: 3000
+street: West 63rd Street
+housenumber: "3000"
 phone: ""
 opening_hours: ""
 website: ""

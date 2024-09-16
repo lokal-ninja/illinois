@@ -1,11 +1,11 @@
 id: 162514337
-type: way
+type: node
 latitude: 41.87897
 longitude: -87.75526
 postcode: "60644"
 city: Chicago
-street: "South Laramie Avenue"
-housenumber: 100
+street: South Laramie Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

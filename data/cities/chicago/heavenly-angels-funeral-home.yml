@@ -1,11 +1,11 @@
 id: 209607488
-type: way
+type: node
 latitude: 41.70628
 longitude: -87.66767
 postcode: "60643"
 city: Chicago
-street: "West 103rd Street"
-housenumber: 1811
+street: West 103rd Street
+housenumber: "1811"
 phone: ""
 opening_hours: ""
 website: ""

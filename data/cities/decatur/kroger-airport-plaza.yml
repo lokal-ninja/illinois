@@ -1,11 +1,11 @@
 id: 503477133
-type: way
+type: node
 latitude: 39.82098
 longitude: -88.8824
 postcode: "62521"
 city: Decatur
-street: "Airport Plaza"
-housenumber: 1818
-phone: "+1 217-864-5031"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/il/decatur/mt-zion/021/00946"
+street: Airport Plaza
+housenumber: "1818"
+phone: +1 217-864-5031
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/il/decatur/mt-zion/021/00946

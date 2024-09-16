@@ -1,11 +1,11 @@
 id: 1276592149
-type: way
+type: node
 latitude: 40.3038
 longitude: -88.15917
 postcode: "61866"
 city: Rantoul
-street: "Liberty Avenue"
-housenumber: 600
-phone: "+1 217-892-8200"
+street: Liberty Avenue
+housenumber: "600"
+phone: +1 217-892-8200
 opening_hours: ""
-website: "https://reynoldstowinginc.com/"
+website: https://reynoldstowinginc.com/

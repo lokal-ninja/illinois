@@ -1,11 +1,11 @@
 id: 37781163
-type: way
+type: node
 latitude: 42.03411
 longitude: -87.76188
 postcode: "60077"
 city: Skokie
-street: "Lincoln Avenue"
-housenumber: 5363
+street: Lincoln Avenue
+housenumber: "5363"
 phone: ""
 opening_hours: ""
 website: ""

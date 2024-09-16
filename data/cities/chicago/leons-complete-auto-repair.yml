@@ -1,11 +1,11 @@
 id: 211326337
-type: way
+type: node
 latitude: 41.65195
 longitude: -87.54668
 postcode: "60633"
 city: Chicago
-street: "South Baltimore Avenue"
-housenumber: 13359
-phone: "+1-773-646-2896"
+street: South Baltimore Avenue
+housenumber: "13359"
+phone: +1-773-646-2896
 opening_hours: ""
 website: ""

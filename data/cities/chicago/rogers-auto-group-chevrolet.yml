@@ -1,11 +1,11 @@
 id: 210538815
-type: way
+type: node
 latitude: 41.84348
 longitude: -87.62392
 postcode: "60616"
 city: Chicago
-street: "South Michigan Avenue"
-housenumber: 2720
+street: South Michigan Avenue
+housenumber: "2720"
 phone: ""
 opening_hours: ""
 website: ""

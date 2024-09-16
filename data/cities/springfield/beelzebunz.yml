@@ -4,8 +4,8 @@ latitude: 39.80014
 longitude: -89.64952
 postcode: "62701"
 city: Springfield
-street: "South 5th Street"
-housenumber: 213
-phone: "+1-904-540-9254"
-opening_hours: "Mo 09:00-17:00; Tu-Sa 09:00-19:00"
-website: "https://www.beelzebunz.com/"
+street: South 5th Street
+housenumber: "213"
+phone: +1-904-540-9254
+opening_hours: Mo 09:00-17:00; Tu-Sa 09:00-19:00
+website: https://www.beelzebunz.com/

@@ -1,11 +1,11 @@
 id: 210088360
-type: way
+type: node
 latitude: 41.74673
 longitude: -87.65416
 postcode: "60620"
 city: Chicago
-street: "South Racine Avenue"
-housenumber: 8100
+street: South Racine Avenue
+housenumber: "8100"
 phone: ""
 opening_hours: ""
 website: ""

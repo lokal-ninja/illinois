@@ -1,11 +1,11 @@
 id: 576461384
-type: way
+type: node
 latitude: 42.45723
 longitude: -89.0245
 postcode: "61073"
 city: Rockton
-street: "East Rockton Road"
-housenumber: 4790
-phone: "+1 855-955-2534"
-opening_hours: "Su - Sa 09:00-21:00"
-website: "https://stores.aldi.us/il/roscoe/4786-e-rockton-rd"
+street: East Rockton Road
+housenumber: "4790"
+phone: +1 855-955-2534
+opening_hours: Su - Sa 09:00-21:00
+website: https://stores.aldi.us/il/roscoe/4786-e-rockton-rd

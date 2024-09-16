@@ -1,11 +1,11 @@
 id: 1028825608
-type: way
+type: node
 latitude: 41.78595
 longitude: -87.80162
 postcode: "60501"
 city: Summit
-street: "South Harlem Avenue"
-housenumber: 5800
+street: South Harlem Avenue
+housenumber: "5800"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Summit/5800-South-Harlem-Avenue"
+website: https://www.speedway.com/locations/IL/Summit/5800-South-Harlem-Avenue

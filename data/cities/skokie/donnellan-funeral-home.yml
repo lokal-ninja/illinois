@@ -1,11 +1,11 @@
 id: 383572667
-type: way
+type: node
 latitude: 42.06401
 longitude: -87.74618
 postcode: "60077"
 city: Skokie
-street: "Skokie Boulevard"
-housenumber: 10045
+street: Skokie Boulevard
+housenumber: "10045"
 phone: ""
 opening_hours: ""
-website: "https://www.donnellanfuneral.com/"
+website: https://www.donnellanfuneral.com/

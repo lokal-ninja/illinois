@@ -4,8 +4,8 @@ latitude: 41.99368
 longitude: -87.71155
 postcode: "60659"
 city: Chicago
-street: "North Lincoln Avenue"
-housenumber: 6103
-phone: "+1 773-267-6544"
-opening_hours: "Mo-Th 09:30-23:00; Fr-Sa 09:00-23:00; Su 10:00-22:00"
+street: North Lincoln Avenue
+housenumber: "6103"
+phone: +1 773-267-6544
+opening_hours: Mo-Th 09:30-23:00; Fr-Sa 09:00-23:00; Su 10:00-22:00
 website: ""

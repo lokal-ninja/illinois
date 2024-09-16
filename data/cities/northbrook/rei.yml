@@ -1,11 +1,11 @@
 id: 195677525
-type: way
+type: node
 latitude: 42.10815
 longitude: -87.80141
 postcode: "60062"
 city: Northbrook
-street: "Willow Road"
-housenumber: 888
-phone: "+1-847-480-1938"
+street: Willow Road
+housenumber: "888"
+phone: +1-847-480-1938
 opening_hours: ""
-website: "https://www.rei.com/stores/northbrook"
+website: https://www.rei.com/stores/northbrook

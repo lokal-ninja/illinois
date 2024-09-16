@@ -1,11 +1,11 @@
 id: 201524623
-type: way
+type: node
 latitude: 41.78549
 longitude: -88.1478
 postcode: "60563"
 city: Naperville
-street: "North Washington Street"
-housenumber: 833
-phone: "+1 630 637 1500"
-opening_hours: "Mo-We 10:00-17:30, Th 10:00-19:00, Fr-Sa 10:00-17:30"
-website: "https://feyjewelers.com/"
+street: North Washington Street
+housenumber: "833"
+phone: +1 630 637 1500
+opening_hours: Mo-We 10:00-17:30, Th 10:00-19:00, Fr-Sa 10:00-17:30
+website: https://feyjewelers.com/

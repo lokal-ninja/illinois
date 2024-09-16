@@ -1,11 +1,11 @@
 id: 785984052
-type: way
+type: node
 latitude: 42.00885
 longitude: -88.1469
 postcode: "60133"
 city: Hanover Park
-street: "Barrington Road"
-housenumber: 7580
+street: Barrington Road
+housenumber: "7580"
 phone: ""
 opening_hours: ""
-website: "https://www.tonysfreshmarket.com/stores/hanover"
+website: https://www.tonysfreshmarket.com/stores/hanover

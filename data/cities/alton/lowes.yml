@@ -1,11 +1,11 @@
 id: 553888364
-type: way
+type: node
 latitude: 38.91765
 longitude: -90.1696
 postcode: "62002"
 city: Alton
-street: "Homer M Adams Parkway"
-housenumber: 1619
-phone: "+1 618-474-9900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/il-alton/0591"
+street: Homer M Adams Parkway
+housenumber: "1619"
+phone: +1 618-474-9900
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/il-alton/0591

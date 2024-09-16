@@ -1,11 +1,11 @@
 id: 209402167
-type: way
+type: node
 latitude: 41.91191
 longitude: -87.68768
 postcode: "60647"
 city: Chicago
-street: "North Western Avenue"
-housenumber: 1654
+street: North Western Avenue
+housenumber: "1654"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 47464618
-type: way
+type: node
 latitude: 41.651
 longitude: -88.20654
 postcode: "60544"
 city: Plainfield
-street: "South Route 59"
-housenumber: 12700
-phone: "+1 815-254-2590"
-opening_hours: "Mo-Th 09:30-21:00; Fr-Sa 09:30-22:00; Su 10:00-21:00"
+street: South Route 59
+housenumber: "12700"
+phone: +1 815-254-2590
+opening_hours: Mo-Th 09:30-21:00; Fr-Sa 09:30-22:00; Su 10:00-21:00
 website: ""

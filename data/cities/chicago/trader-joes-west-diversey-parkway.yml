@@ -1,11 +1,11 @@
 id: 238492923
-type: way
+type: node
 latitude: 41.93268
 longitude: -87.64648
 postcode: "60614"
 city: Chicago
-street: "West Diversey Parkway"
-housenumber: 667
-phone: "+1 773-935-7255"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.traderjoes.com/stores/index.asp?q=60614"
+street: West Diversey Parkway
+housenumber: "667"
+phone: +1 773-935-7255
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.traderjoes.com/stores/index.asp?q=60614

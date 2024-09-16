@@ -1,11 +1,11 @@
 id: 1303800044
-type: way
+type: node
 latitude: 41.77107
 longitude: -88.14713
 postcode: "60540"
 city: Naperville
-street: "East Chicago Avenue"
-housenumber: 22
-phone: "+1 630 425 2303"
+street: East Chicago Avenue
+housenumber: "22"
+phone: +1 630 425 2303
 opening_hours: ""
 website: ""

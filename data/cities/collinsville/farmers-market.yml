@@ -1,11 +1,11 @@
 id: 675376972
-type: way
+type: node
 latitude: 38.66571
 longitude: -89.99525
 postcode: "62234"
 city: Collinsville
-street: "St Louis Road"
-housenumber: 128
+street: St Louis Road
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1205526104
-type: way
+type: node
 latitude: 41.79758
 longitude: -88.36261
 postcode: "60542"
 city: North Aurora
-street: "Orchard Gateway Boulevard"
-housenumber: 1660
-phone: "+1 630-907-9004"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/il/northaurora/pet-supplies-northaurora-il-1658.html"
+street: Orchard Gateway Boulevard
+housenumber: "1660"
+phone: +1 630-907-9004
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/il/northaurora/pet-supplies-northaurora-il-1658.html

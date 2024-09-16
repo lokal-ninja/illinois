@@ -1,11 +1,11 @@
 id: 180218197
-type: way
+type: node
 latitude: 41.84548
 longitude: -87.8115
 postcode: "60546"
 city: North Riverside
-street: "West Cermak Road"
-housenumber: 7501
+street: West Cermak Road
+housenumber: "7501"
 phone: ""
 opening_hours: ""
 website: ""

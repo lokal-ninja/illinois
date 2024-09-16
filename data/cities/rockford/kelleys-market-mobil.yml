@@ -1,11 +1,11 @@
 id: 362681753
-type: way
+type: node
 latitude: 42.27046
 longitude: -88.97452
 postcode: "61108"
 city: Rockford
-street: "East State Street"
-housenumber: 
+street: East State Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://kelleysmarket.com/StoreHome/4"
+website: http://kelleysmarket.com/StoreHome/4

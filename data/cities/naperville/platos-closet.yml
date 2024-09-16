@@ -1,11 +1,11 @@
 id: 975492438
-type: way
+type: node
 latitude: 41.75942
 longitude: -88.20319
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 572
-phone: "+1 630 428 0900"
-opening_hours: "Mo-Sa 11:00-20:00; Su 12:00-18:00"
-website: "https://www.platoscloset.com/locations/naperville-il"
+street: South Illinois Route 59
+housenumber: "572"
+phone: +1 630 428 0900
+opening_hours: Mo-Sa 11:00-20:00; Su 12:00-18:00
+website: https://www.platoscloset.com/locations/naperville-il

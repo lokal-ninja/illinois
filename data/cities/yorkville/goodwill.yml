@@ -1,11 +1,11 @@
 id: 517622947
-type: way
+type: node
 latitude: 41.66235
 longitude: -88.43475
 postcode: "60560"
 city: Yorkville
-street: "East Countryside Parkway"
-housenumber: 481
+street: East Countryside Parkway
+housenumber: "481"
 phone: ""
 opening_hours: ""
 website: ""

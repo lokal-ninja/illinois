@@ -1,11 +1,11 @@
 id: 209946878
-type: way
+type: node
 latitude: 41.98358
 longitude: -87.6696
 postcode: "60660"
 city: Chicago
-street: "North Ashland Avenue"
-housenumber: 5601
+street: North Ashland Avenue
+housenumber: "5601"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.82015
 longitude: -87.68525
 postcode: "60609"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 4030
+street: South Western Avenue
+housenumber: "4030"
 phone: "+17738842181"
-opening_hours: "24/7"
-website: "https://www.sunueva.com/"
+opening_hours: 24/7
+website: https://www.sunueva.com/

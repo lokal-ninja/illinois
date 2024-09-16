@@ -1,11 +1,11 @@
 id: 324387202
-type: way
+type: node
 latitude: 42.14712
 longitude: -88.03252
 postcode: "60074"
 city: Palatine
-street: "North Hicks Road"
-housenumber: 2070
+street: North Hicks Road
+housenumber: "2070"
 phone: ""
 opening_hours: ""
 website: ""

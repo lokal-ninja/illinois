@@ -4,8 +4,8 @@ latitude: 39.76752
 longitude: -89.64889
 postcode: "62703"
 city: Springfield
-street: "South 6th Street"
-housenumber: 2625
+street: South 6th Street
+housenumber: "2625"
 phone: ""
-opening_hours: "Tu-Fr 07:30-17:30; Sa 09:00-12:00"
-website: "https://beggs-barbershop.business.site/"
+opening_hours: Tu-Fr 07:30-17:30; Sa 09:00-12:00
+website: https://beggs-barbershop.business.site/

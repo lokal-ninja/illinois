@@ -1,11 +1,11 @@
 id: 1212370253
-type: way
+type: node
 latitude: 41.76548
 longitude: -88.3623
 postcode: "60506"
 city: Aurora
-street: "West Galena Boulevard"
-housenumber: 1911
-phone: "+1 630-897-3026"
-opening_hours: "We off; Sa 08:00-15:00; Su off"
-website: "https://oldtime-barbers-west-plaza.business.site/"
+street: West Galena Boulevard
+housenumber: "1911"
+phone: +1 630-897-3026
+opening_hours: We off; Sa 08:00-15:00; Su off
+website: https://oldtime-barbers-west-plaza.business.site/

@@ -1,11 +1,11 @@
 id: 414261147
-type: way
+type: node
 latitude: 41.90991
 longitude: -87.76218
 postcode: "60639"
 city: Chicago
-street: "West North Avenue"
-housenumber: 5434
+street: West North Avenue
+housenumber: "5434"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/13777"
+website: https://www.dollargeneral.com/store-directory/il/chicago/13777

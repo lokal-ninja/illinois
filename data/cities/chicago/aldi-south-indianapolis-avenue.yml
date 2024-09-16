@@ -1,11 +1,11 @@
 id: 219592193
-type: way
+type: node
 latitude: 41.70316
 longitude: -87.52575
 postcode: "60617"
 city: Chicago
-street: "South Indianapolis Avenue"
-housenumber: 10532
-phone: "+1 833-462-1026"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/chicago/10532-s-indianapolis-ave"
+street: South Indianapolis Avenue
+housenumber: "10532"
+phone: +1 833-462-1026
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/chicago/10532-s-indianapolis-ave

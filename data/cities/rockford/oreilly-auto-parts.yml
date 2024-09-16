@@ -1,11 +1,11 @@
 id: 231274969
-type: way
+type: node
 latitude: 42.31798
 longitude: -89.02703
 postcode: "61114"
 city: Rockford
-street: "East Riverside Boulevard"
-housenumber: 1733
+street: East Riverside Boulevard
+housenumber: "1733"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/il/rockford/autoparts-1344.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/il/rockford/autoparts-1344.html

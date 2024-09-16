@@ -1,11 +1,11 @@
 id: 539335449
-type: way
+type: node
 latitude: 40.48667
 longitude: -88.94803
 postcode: "61704"
 city: Bloomington
-street: "East Empire Street"
-housenumber: 2101
-phone: "+1 309-661-6467"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/il-bloomington/1203"
+street: East Empire Street
+housenumber: "2101"
+phone: +1 309-661-6467
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/il-bloomington/1203

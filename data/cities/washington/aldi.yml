@@ -1,11 +1,11 @@
 id: 579684747
-type: way
+type: node
 latitude: 40.70792
 longitude: -89.46054
 postcode: "61571"
 city: Washington
-street: "Freedom Parkway"
-housenumber: 1997
-phone: "+1 833-468-1086"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/washington/1997-freedom-parkway"
+street: Freedom Parkway
+housenumber: "1997"
+phone: +1 833-468-1086
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/washington/1997-freedom-parkway

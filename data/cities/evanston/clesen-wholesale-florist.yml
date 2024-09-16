@@ -1,11 +1,11 @@
 id: 693997365
-type: way
+type: node
 latitude: 42.02364
 longitude: -87.69494
 postcode: "60202"
 city: Evanston
-street: "Florence Avenue"
-housenumber: 300
+street: Florence Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://clesen.com/"
+website: https://clesen.com/

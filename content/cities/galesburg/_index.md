@@ -1,6 +1,6 @@
 ---
 title: Galesburg
 url: /galesburg/
-latitude: 40.974
-longitude: -90.382
+latitude: 40.945
+longitude: -90.365
 ---

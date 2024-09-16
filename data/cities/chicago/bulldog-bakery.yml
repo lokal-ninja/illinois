@@ -1,11 +1,11 @@
 id: 209457536
-type: way
+type: node
 latitude: 41.93958
 longitude: -87.69841
 postcode: "60618"
 city: Chicago
-street: "North Elston Avenue"
-housenumber: 3207
-phone: "+1-773-539-9781"
+street: North Elston Avenue
+housenumber: "3207"
+phone: +1-773-539-9781
 opening_hours: ""
 website: ""

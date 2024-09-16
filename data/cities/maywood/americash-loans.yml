@@ -1,11 +1,11 @@
 id: 550674326
-type: way
+type: node
 latitude: 41.87755
 longitude: -87.83373
 postcode: "60153"
 city: Maywood
-street: "South 1st Avenue"
-housenumber: 1117
+street: South 1st Avenue
+housenumber: "1117"
 phone: ""
 opening_hours: ""
 website: ""

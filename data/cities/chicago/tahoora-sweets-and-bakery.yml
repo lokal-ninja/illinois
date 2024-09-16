@@ -4,8 +4,8 @@ latitude: 41.9975
 longitude: -87.68928
 postcode: "60659"
 city: Chicago
-street: "West Devon Avenue"
-housenumber: 2345
-phone: "+1-773-743-7272"
+street: West Devon Avenue
+housenumber: "2345"
+phone: +1-773-743-7272
 opening_hours: ""
-website: "https://tahoora.com/"
+website: https://tahoora.com/

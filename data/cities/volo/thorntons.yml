@@ -1,11 +1,11 @@
 id: 1011131087
-type: way
+type: node
 latitude: 42.32538
 longitude: -88.16357
 postcode: "60073"
 city: Volo
-street: "South US Highway 12"
-housenumber: 205
+street: South US Highway 12
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

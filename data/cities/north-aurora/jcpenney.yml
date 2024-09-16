@@ -1,11 +1,11 @@
 id: 1205526098
-type: way
+type: node
 latitude: 41.79759
 longitude: -88.36121
 postcode: "60542"
 city: North Aurora
-street: "Orchard Gateway Boulevard"
-housenumber: 1600
-phone: "+1 630-301-6300"
-opening_hours: "Mo-Tu 10:00-19:00; We 10:00-19:00; Fr-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://www.jcpenney.com/locations/il/northaurora/clothing-stores-northaurora-il-2930.html"
+street: Orchard Gateway Boulevard
+housenumber: "1600"
+phone: +1 630-301-6300
+opening_hours: Mo-Tu 10:00-19:00; We 10:00-19:00; Fr-Sa 10:00-19:00; Su 12:00-18:00
+website: https://www.jcpenney.com/locations/il/northaurora/clothing-stores-northaurora-il-2930.html

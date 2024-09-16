@@ -1,11 +1,11 @@
 id: 179250885
-type: way
+type: node
 latitude: 41.75903
 longitude: -88.24062
 postcode: "60504"
 city: Aurora
-street: "East New York Street"
-housenumber: 3045
+street: East New York Street
+housenumber: "3045"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/aurora/3045-e-new-york-ave.html"
+website: https://www.autozone.com/locations/il/aurora/3045-e-new-york-ave.html

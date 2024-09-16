@@ -1,11 +1,11 @@
 id: 317466766
-type: way
+type: node
 latitude: 42.2156
 longitude: -87.94286
 postcode: "60061"
 city: Vernon Hills
-street: "Corporate Woods Parkway"
-housenumber: 925
-phone: "+1-847-913-0306"
-opening_hours: "Tu-Fr 07:00-13:30; Sa 09:00-15:30"
-website: "https://www.bende.com/"
+street: Corporate Woods Parkway
+housenumber: "925"
+phone: +1-847-913-0306
+opening_hours: Tu-Fr 07:00-13:30; Sa 09:00-15:30
+website: https://www.bende.com/

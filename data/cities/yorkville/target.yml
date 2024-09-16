@@ -1,11 +1,11 @@
 id: 388816364
-type: way
+type: node
 latitude: 41.66316
 longitude: -88.4647
 postcode: "60560"
 city: Yorkville
-street: "North Beecher Road"
-housenumber: 1652
-phone: "+1 630-835-3200"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/yorkville/2378"
+street: North Beecher Road
+housenumber: "1652"
+phone: +1 630-835-3200
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.target.com/sl/yorkville/2378

@@ -1,11 +1,11 @@
 id: 426345608
-type: way
+type: node
 latitude: 41.75981
 longitude: -87.7936
 postcode: "60638"
 city: Bedford Park
-street: "West 73rd Street"
-housenumber: 6900
+street: West 73rd Street
+housenumber: "6900"
 phone: ""
 opening_hours: ""
 website: ""

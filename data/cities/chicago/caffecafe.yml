@@ -4,8 +4,8 @@ latitude: 41.88663
 longitude: -87.62762
 postcode: "60601"
 city: Chicago
-street: "East Wacker Place"
-housenumber: 1
-phone: "+1-312-644-2233"
+street: East Wacker Place
+housenumber: "1"
+phone: +1-312-644-2233
 opening_hours: ""
-website: "http://caffecafechicago.com/"
+website: http://caffecafechicago.com/

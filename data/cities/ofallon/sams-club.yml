@@ -1,11 +1,11 @@
 id: 105742914
-type: way
+type: node
 latitude: 38.59458
 longitude: -89.95108
 postcode: "62269"
 city: O'Fallon
-street: "West Highway 50"
-housenumber: 1350
-phone: "+1 618-632-7878"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/ofallon-il-sams-club/8285"
+street: West Highway 50
+housenumber: "1350"
+phone: +1 618-632-7878
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/ofallon-il-sams-club/8285

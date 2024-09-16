@@ -1,11 +1,11 @@
 id: 446885814
-type: way
+type: node
 latitude: 39.74753
 longitude: -89.64146
 postcode: "62703"
 city: Springfield
-street: "Octavus Via"
-housenumber: 3736
-phone: "+1-833-468-7059"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/springfield/3736-octavus-via"
+street: Octavus Via
+housenumber: "3736"
+phone: +1-833-468-7059
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/springfield/3736-octavus-via

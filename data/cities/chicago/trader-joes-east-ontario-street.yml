@@ -4,8 +4,8 @@ latitude: 41.89349
 longitude: -87.62627
 postcode: "60611"
 city: Chicago
-street: "East Ontario Street"
-housenumber: 44
-phone: "+1 312-951-6369"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.traderjoes.com/"
+street: East Ontario Street
+housenumber: "44"
+phone: +1 312-951-6369
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.traderjoes.com/

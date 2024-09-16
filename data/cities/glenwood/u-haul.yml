@@ -1,11 +1,11 @@
 id: 1167119328
-type: way
+type: node
 latitude: 41.53998
 longitude: -87.63429
 postcode: "60425"
 city: Glenwood
-street: "South Halsted Street"
-housenumber: 19201
+street: South Halsted Street
+housenumber: "19201"
 phone: ""
 opening_hours: ""
 website: ""

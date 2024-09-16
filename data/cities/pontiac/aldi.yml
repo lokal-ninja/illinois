@@ -1,11 +1,11 @@
 id: 282614480
-type: way
+type: node
 latitude: 40.87193
 longitude: -88.658
 postcode: "61764"
 city: Pontiac
-street: "Rittenhouse Drive"
-housenumber: 701
-phone: "+1 833-468-7051"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/pontiac/701-rittenhouse-drive"
+street: Rittenhouse Drive
+housenumber: "701"
+phone: +1 833-468-7051
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/pontiac/701-rittenhouse-drive

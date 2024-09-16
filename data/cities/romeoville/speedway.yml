@@ -1,11 +1,11 @@
 id: 313908751
-type: way
+type: node
 latitude: 41.65507
 longitude: -88.07948
 postcode: "60446"
 city: Romeoville
-street: "North Independence Boulevard"
-housenumber: 701
-phone: "+1 815 8861020"
+street: North Independence Boulevard
+housenumber: "701"
+phone: +1 815 8861020
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Romeoville/701-North-Independence-Boulevard"
+website: https://www.speedway.com/locations/IL/Romeoville/701-North-Independence-Boulevard

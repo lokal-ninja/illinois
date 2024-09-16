@@ -1,11 +1,11 @@
 id: 147060631
-type: way
+type: node
 latitude: 42.08459
 longitude: -87.9857
 postcode: "60005"
 city: Arlington Heights
-street: "North Vail Avenue"
-housenumber: 122
-phone: "+1 847-398-1430"
-opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 06:00-23:00"
-website: "https://local.jewelosco.com/il/arlington-heights/122-n-vail-ave.html"
+street: North Vail Avenue
+housenumber: "122"
+phone: +1 847-398-1430
+opening_hours: Mo-Fr 06:00-23:00; Sa-Su 06:00-23:00
+website: https://local.jewelosco.com/il/arlington-heights/122-n-vail-ave.html

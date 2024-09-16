@@ -1,11 +1,11 @@
 id: 195837953
-type: way
+type: node
 latitude: 42.34671
 longitude: -87.87365
 postcode: "60085"
 city: Waukegan
-street: "South Green Bay Road"
-housenumber: 711
+street: South Green Bay Road
+housenumber: "711"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/waukegan/711-s-greenbay-rd.html"
+website: https://www.autozone.com/locations/il/waukegan/711-s-greenbay-rd.html

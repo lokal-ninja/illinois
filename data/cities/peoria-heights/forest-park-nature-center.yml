@@ -1,11 +1,11 @@
 id: 64350649
-type: way
+type: node
 latitude: 40.7572
 longitude: -89.57501
 postcode: "61616"
 city: Peoria Heights
-street: "North Forest Park Drive"
-housenumber: 5809
+street: North Forest Park Drive
+housenumber: "5809"
 phone: ""
-opening_hours: "Tu-Sa 09:00-17:00; Apr-Oct Su 13:00-17:00"
+opening_hours: Tu-Sa 09:00-17:00; Apr-Oct Su 13:00-17:00
 website: ""

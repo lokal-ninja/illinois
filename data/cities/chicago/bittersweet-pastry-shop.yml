@@ -1,11 +1,11 @@
 id: 209784688
-type: way
+type: node
 latitude: 41.85444
 longitude: -87.66354
 postcode: "60608"
 city: Chicago
-street: "South Laflin Street"
-housenumber: 2019
-phone: "+1-773-929-1100"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://bittersweetpastry.com/"
+street: South Laflin Street
+housenumber: "2019"
+phone: +1-773-929-1100
+opening_hours: Mo-Su 08:00-18:00
+website: https://bittersweetpastry.com/

@@ -1,11 +1,11 @@
 id: 1224939011
-type: way
+type: node
 latitude: 42.36012
 longitude: -87.87371
 postcode: "60085"
 city: Waukegan
-street: "North Green Bay Road"
-housenumber: 1
+street: North Green Bay Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 250206239
-type: way
+type: node
 latitude: 42.2402
 longitude: -88.97249
 postcode: "61112"
 city: Rockford
-street: "Harrison Avenue"
-housenumber: 7373
-phone: "+1 815-680-5402"
+street: Harrison Avenue
+housenumber: "7373"
+phone: +1 815-680-5402
 opening_hours: ""
-website: "https://www.collierrv.com/"
+website: https://www.collierrv.com/

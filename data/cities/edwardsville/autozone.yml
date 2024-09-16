@@ -1,11 +1,11 @@
 id: 443486880
-type: way
+type: node
 latitude: 38.80683
 longitude: -89.95137
 postcode: "62025"
 city: Edwardsville
-street: "South Buchanan Street"
-housenumber: 430
-phone: "+1-618-692-1990"
+street: South Buchanan Street
+housenumber: "430"
+phone: +1-618-692-1990
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/edwardsville/430-s-buchanan-st.html"
+website: https://www.autozone.com/locations/il/edwardsville/430-s-buchanan-st.html

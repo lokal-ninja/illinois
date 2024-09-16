@@ -1,11 +1,11 @@
 id: 1050982323
-type: way
+type: node
 latitude: 41.70347
 longitude: -87.73987
 postcode: "60453"
 city: Oak Lawn
-street: "South Cicero Avenue"
-housenumber: 10401
+street: South Cicero Avenue
+housenumber: "10401"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/oak-lawn/10401-s-cicero-ave.html"
+website: https://www.autozone.com/locations/il/oak-lawn/10401-s-cicero-ave.html

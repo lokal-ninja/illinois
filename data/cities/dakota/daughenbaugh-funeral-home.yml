@@ -1,11 +1,11 @@
 id: 766512036
-type: way
+type: node
 latitude: 42.38803
 longitude: -89.5262
 postcode: "61018"
 city: Dakota
-street: "South West Street"
-housenumber: 115
-phone: "+1-815-449-2213"
+street: South West Street
+housenumber: "115"
+phone: +1-815-449-2213
 opening_hours: ""
 website: ""

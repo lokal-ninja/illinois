@@ -1,11 +1,11 @@
 id: 1055483215
-type: way
+type: node
 latitude: 41.78235
 longitude: -87.87238
 postcode: "60525"
 city: Countryside
-street: "Countryside Plaza"
-housenumber: 24
-phone: "+1 708-579-5948"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/countryside-store1375.html"
+street: Countryside Plaza
+housenumber: "24"
+phone: +1 708-579-5948
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/countryside-store1375.html

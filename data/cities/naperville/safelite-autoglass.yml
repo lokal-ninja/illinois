@@ -1,11 +1,11 @@
 id: 975861144
-type: way
+type: node
 latitude: 41.7673
 longitude: -88.1856
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1580
-phone: "+1 800 800 2727"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su off"
-website: "https://www.safelite.com/stores/naperville"
+street: West Ogden Avenue
+housenumber: "1580"
+phone: +1 800 800 2727
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su off
+website: https://www.safelite.com/stores/naperville

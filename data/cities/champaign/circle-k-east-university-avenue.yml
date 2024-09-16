@@ -1,11 +1,11 @@
 id: 292815767
-type: way
+type: node
 latitude: 40.11618
 longitude: -88.22977
 postcode: "61820"
 city: champaign
-street: "East University Avenue"
-housenumber: 609
+street: East University Avenue
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

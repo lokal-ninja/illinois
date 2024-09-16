@@ -1,11 +1,11 @@
 id: 554941185
-type: way
+type: node
 latitude: 41.77891
 longitude: -87.86224
 postcode: "60525"
 city: Hodgkins
-street: "Joliet Road"
-housenumber: 9430
-phone: "+1 833-462-1060"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/hodgkins/9430-joliet-rd"
+street: Joliet Road
+housenumber: "9430"
+phone: +1 833-462-1060
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/hodgkins/9430-joliet-rd

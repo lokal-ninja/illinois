@@ -1,11 +1,11 @@
 id: 1028268707
-type: way
+type: node
 latitude: 41.90564
 longitude: -88.00913
 postcode: "60148"
 city: Lombard
-street: "East North Avenue"
-housenumber: 350
+street: East North Avenue
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

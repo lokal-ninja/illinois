@@ -1,11 +1,11 @@
 id: 1210524413
-type: way
+type: node
 latitude: 42.32863
 longitude: -89.02355
 postcode: "61111"
 city: Loves Park
-street: "Edward Drive"
-housenumber: 7307
-phone: "+1 779-210-7227"
-opening_hours: "Tu-Fr 08:00-20:00; Sa 10:00-22:00; Su 12:00-20:00; PH off"
-website: "https://leosgunsandrange.com/"
+street: Edward Drive
+housenumber: "7307"
+phone: +1 779-210-7227
+opening_hours: Tu-Fr 08:00-20:00; Sa 10:00-22:00; Su 12:00-20:00; PH off
+website: https://leosgunsandrange.com/

@@ -4,8 +4,8 @@ latitude: 42.01923
 longitude: -87.66973
 postcode: "60626"
 city: Chicago
-street: "West Howard Street"
-housenumber: 1539
-phone: "+1-773-761-0700"
+street: West Howard Street
+housenumber: "1539"
+phone: +1-773-761-0700
 opening_hours: ""
-website: "http://www.caribbeanamericanbakery.com/"
+website: http://www.caribbeanamericanbakery.com/

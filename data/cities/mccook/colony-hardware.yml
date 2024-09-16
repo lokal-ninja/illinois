@@ -1,11 +1,11 @@
 id: 947415288
-type: way
+type: node
 latitude: 41.79313
 longitude: -87.85837
 postcode: "60525"
 city: McCook
-street: "West 55th Street"
-housenumber: 9550
-phone: "+1 630 629 0990"
-opening_hours: "Mo-Fr 06:00-17:00"
-website: "https://www.colonyhardware.com"
+street: West 55th Street
+housenumber: "9550"
+phone: +1 630 629 0990
+opening_hours: Mo-Fr 06:00-17:00
+website: https://www.colonyhardware.com

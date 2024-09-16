@@ -4,8 +4,8 @@ latitude: 41.8819
 longitude: -87.62751
 postcode: "60603"
 city: Chicago
-street: "South State Street"
-housenumber: 1
-phone: "+1-312-279-2133"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-20:00"
-website: "https://www.target.com/sl/chicago-state-st-/2799"
+street: South State Street
+housenumber: "1"
+phone: +1-312-279-2133
+opening_hours: Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-20:00
+website: https://www.target.com/sl/chicago-state-st-/2799

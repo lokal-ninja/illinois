@@ -1,11 +1,11 @@
 id: 518597282
-type: way
+type: node
 latitude: 38.31446
 longitude: -88.92859
 postcode: ""
 city: Mount Vernon
-street: "Broadway Street"
-housenumber: 3001
+street: Broadway Street
+housenumber: "3001"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3001+broadway+st-mount+vernon-il-62864/id=2876"
+website: https://www.walgreens.com/locator/walgreens-3001+broadway+st-mount+vernon-il-62864/id=2876

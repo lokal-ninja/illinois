@@ -4,8 +4,9 @@ latitude: 41.99676
 longitude: -87.83189
 postcode: "60068"
 city: Park Ridge
-street: "Devon Avenue"
-housenumber: 610
+street: Devon Avenue
+housenumber: "610"
 phone: ""
-opening_hours: "Mo 09:00-21:00; Tu,We 07:00-21:00; Th 08:00-21:00; Fr 08:00-19:00; Sa 07:00-16:00; Su 09:00-18:00"
+opening_hours: Mo 09:00-21:00; Tu,We 07:00-21:00; Th 08:00-21:00; Fr 08:00-19:00;
+    Sa 07:00-16:00; Su 09:00-18:00
 website: ""

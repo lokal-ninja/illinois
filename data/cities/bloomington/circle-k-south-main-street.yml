@@ -1,11 +1,11 @@
 id: 808203420
-type: way
+type: node
 latitude: 40.44896
 longitude: -88.99117
 postcode: "61704"
 city: Bloomington
-street: "South Main Street"
-housenumber: 2412
+street: South Main Street
+housenumber: "2412"
 phone: ""
 opening_hours: ""
-website: "https://www.circlek.com/store-locator/US/bloomington/2412-s-main-st/4701407"
+website: https://www.circlek.com/store-locator/US/bloomington/2412-s-main-st/4701407

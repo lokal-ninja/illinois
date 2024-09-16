@@ -1,11 +1,11 @@
 id: 131643131
-type: way
+type: node
 latitude: 41.5044
 longitude: -87.71751
 postcode: "60443"
 city: Matteson
-street: "Lincoln Highway"
-housenumber: 4233
+street: Lincoln Highway
+housenumber: "4233"
 phone: ""
 opening_hours: ""
-website: "https://www.petesfresh.com/stores/pfm-17-matteson"
+website: https://www.petesfresh.com/stores/pfm-17-matteson

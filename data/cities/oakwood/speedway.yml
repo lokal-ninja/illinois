@@ -1,11 +1,11 @@
 id: 1025728321
-type: way
+type: node
 latitude: 40.12246
 longitude: -87.77756
 postcode: "61858"
 city: Oakwood
-street: "North Oakwood Street"
-housenumber: 498
+street: North Oakwood Street
+housenumber: "498"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Oakwood/498-N-Oakwood-St"
+website: https://www.speedway.com/locations/IL/Oakwood/498-N-Oakwood-St

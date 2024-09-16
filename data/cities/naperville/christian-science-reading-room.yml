@@ -1,11 +1,11 @@
 id: 201475191
-type: way
+type: node
 latitude: 41.77283
 longitude: -88.14726
 postcode: "60540"
 city: Naperville
-street: "East Jefferson Avenue"
-housenumber: 16
-phone: "+1 630 355 6512"
-opening_hours: "Mo-Fr 10:00-16:00; Sa 11:00-14:00"
-website: "http://www.csnaperville.org/ReadingRoom"
+street: East Jefferson Avenue
+housenumber: "16"
+phone: +1 630 355 6512
+opening_hours: Mo-Fr 10:00-16:00; Sa 11:00-14:00
+website: http://www.csnaperville.org/ReadingRoom

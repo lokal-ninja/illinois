@@ -1,11 +1,11 @@
 id: 570024097
-type: way
+type: node
 latitude: 42.27104
 longitude: -88.00431
 postcode: "60060"
 city: Mundelein
-street: "North Lake Street"
-housenumber: 460
+street: North Lake Street
+housenumber: "460"
 phone: ""
 opening_hours: ""
-website: "https://tonycannoli.com/"
+website: https://tonycannoli.com/

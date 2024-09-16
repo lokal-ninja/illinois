@@ -1,11 +1,11 @@
 id: 975492429
-type: way
+type: node
 latitude: 41.76066
 longitude: -88.20229
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 514
-phone: "+1 630-778-6408"
-opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-22:00"
-website: "https://www.rossstores.com/"
+street: South Illinois Route 59
+housenumber: "514"
+phone: +1 630-778-6408
+opening_hours: Mo-Th 10:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-22:00
+website: https://www.rossstores.com/

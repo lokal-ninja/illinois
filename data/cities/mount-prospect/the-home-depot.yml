@@ -1,11 +1,11 @@
 id: 135721293
-type: way
+type: node
 latitude: 42.08093
 longitude: -87.93321
 postcode: "60056"
 city: Mount Prospect
-street: "East Kensington Road"
-housenumber: 350
-phone: "+1 847-342-1800"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Randhurst/IL/Mount-Prospect/60056/1913"
+street: East Kensington Road
+housenumber: "350"
+phone: +1 847-342-1800
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Randhurst/IL/Mount-Prospect/60056/1913

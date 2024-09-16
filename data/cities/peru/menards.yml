@@ -1,11 +1,11 @@
 id: 548974789
-type: way
+type: node
 latitude: 41.36233
 longitude: -89.12353
 postcode: "61354"
 city: Peru
-street: "Mahoney Drive"
-housenumber: 5353
+street: Mahoney Drive
+housenumber: "5353"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3130"
+website: https://www.menards.com/store-details/store.html?store=3130

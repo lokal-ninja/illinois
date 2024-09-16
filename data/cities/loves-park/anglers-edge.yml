@@ -1,11 +1,11 @@
 id: 767002807
-type: way
+type: node
 latitude: 42.31583
 longitude: -89.06508
 postcode: "61111"
 city: Loves Park
-street: "East Riverside Boulevard"
-housenumber: 217
-phone: "+1-815-877-6062"
+street: East Riverside Boulevard
+housenumber: "217"
+phone: +1-815-877-6062
 opening_hours: ""
-website: "https://www.anglersedge.net/"
+website: https://www.anglersedge.net/

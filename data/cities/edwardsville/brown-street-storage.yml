@@ -1,11 +1,11 @@
 id: 443486946
-type: way
+type: node
 latitude: 38.81154
 longitude: -89.94874
 postcode: "62025"
 city: Edwardsville
-street: "South Brown Avenue"
-housenumber: 132
-phone: "1-618-656-7373"
+street: South Brown Avenue
+housenumber: "132"
+phone: 1-618-656-7373
 opening_hours: ""
 website: ""

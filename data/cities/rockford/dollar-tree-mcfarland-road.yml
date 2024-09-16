@@ -1,11 +1,11 @@
 id: 1033336308
-type: way
+type: node
 latitude: 42.29146
 longitude: -88.97809
 postcode: "61107"
 city: Rockford
-street: "McFarland Road"
-housenumber: 1850
+street: McFarland Road
+housenumber: "1850"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Sa 11:00-16:15; PH closed"
-website: "https://www.dollartree.com/locations/il/rockford/8563/"
+opening_hours: Mo-Sa 09:00-21:00; Sa 11:00-16:15; PH closed
+website: https://www.dollartree.com/locations/il/rockford/8563/

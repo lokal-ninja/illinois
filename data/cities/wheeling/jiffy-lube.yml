@@ -1,11 +1,11 @@
 id: 1229096200
-type: way
+type: node
 latitude: 42.13984
 longitude: -87.91532
 postcode: "60090"
 city: Wheeling
-street: "East Dundee Road"
-housenumber: 10
+street: East Dundee Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

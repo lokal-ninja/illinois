@@ -1,11 +1,11 @@
 id: 132156268
-type: way
+type: node
 latitude: 42.17627
 longitude: -88.33224
 postcode: "60156"
 city: Lake in the Hills
-street: "North Randall Road"
-housenumber: 101
+street: North Randall Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

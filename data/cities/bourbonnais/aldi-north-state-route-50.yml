@@ -1,11 +1,11 @@
 id: 1111148040
-type: way
+type: node
 latitude: 41.18931
 longitude: -87.85165
 postcode: "60914"
 city: Bourbonnais
-street: "North State Route 50"
-housenumber: 2051
-phone: "+1 833-468-7039"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/bourbonnais/2051-north-state-route-50"
+street: North State Route 50
+housenumber: "2051"
+phone: +1 833-468-7039
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/bourbonnais/2051-north-state-route-50

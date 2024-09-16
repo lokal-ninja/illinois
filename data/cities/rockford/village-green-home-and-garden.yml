@@ -1,11 +1,11 @@
 id: 245880915
-type: way
+type: node
 latitude: 42.31816
 longitude: -88.99604
 postcode: "61114"
 city: Rockford
-street: "East Riverside Boulevard"
-housenumber: 6101
-phone: "+1 815-877-9559"
+street: East Riverside Boulevard
+housenumber: "6101"
+phone: +1 815-877-9559
 opening_hours: ""
-website: "https://www.villagegreenrockford.com/"
+website: https://www.villagegreenrockford.com/

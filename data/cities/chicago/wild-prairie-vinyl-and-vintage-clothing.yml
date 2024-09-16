@@ -4,8 +4,8 @@ latitude: 41.90152
 longitude: -87.68677
 postcode: "60622"
 city: Chicago
-street: "North Western Avenue"
-housenumber: 1109
+street: North Western Avenue
+housenumber: "1109"
 phone: ""
-opening_hours: "Mo By appt.; Tu-Sa 12:00-18:00; Su 11:00-18:00"
+opening_hours: Mo "By appt."; Tu-Sa 12:00-18:00; Su 11:00-18:00
 website: ""

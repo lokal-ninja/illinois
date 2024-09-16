@@ -1,11 +1,11 @@
 id: 173484284
-type: way
+type: node
 latitude: 42.05387
 longitude: -87.68988
 postcode: "60201"
 city: Evanston
-street: "Green Bay Road"
-housenumber: 1975
+street: Green Bay Road
+housenumber: "1975"
 phone: ""
 opening_hours: ""
 website: ""

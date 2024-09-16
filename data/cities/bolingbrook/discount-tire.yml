@@ -1,11 +1,11 @@
 id: 352332532
-type: way
+type: node
 latitude: 41.72315
 longitude: -88.03561
 postcode: "60440"
 city: Bolingbrook
-street: "Boughton Road"
-housenumber: 785
-phone: "+1 630 7830247"
+street: Boughton Road
+housenumber: "785"
+phone: +1 630 7830247
 opening_hours: ""
-website: "https://www.discounttire.com/"
+website: https://www.discounttire.com/

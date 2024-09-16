@@ -4,8 +4,8 @@ latitude: 41.98011
 longitude: -87.6681
 postcode: "60640"
 city: Chicago
-street: "North Clark Street"
-housenumber: 5405
-phone: "+1 773 944 0188"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://rattlebackrecords.com/"
+street: North Clark Street
+housenumber: "5405"
+phone: +1 773 944 0188
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-17:00
+website: https://rattlebackrecords.com/

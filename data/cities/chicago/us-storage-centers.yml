@@ -1,11 +1,11 @@
 id: 210686241
-type: way
+type: node
 latitude: 41.90963
 longitude: -87.63804
 postcode: "60610"
 city: Chicago
-street: "North Orleans Street"
-housenumber: 1516
+street: North Orleans Street
+housenumber: "1516"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.11503
 longitude: -88.22853
 postcode: "61801"
 city: Urbana
-street: "South Wright Street"
-housenumber: 306
-phone: "+1-217-333-1916"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-15:30"
-website: "https://ece.illinois.edu/about/supplycenter"
+street: South Wright Street
+housenumber: "306"
+phone: +1-217-333-1916
+opening_hours: Mo-Fr 09:00-12:00,13:00-15:30
+website: https://ece.illinois.edu/about/supplycenter

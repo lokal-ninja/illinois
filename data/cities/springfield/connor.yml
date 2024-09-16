@@ -4,8 +4,8 @@ latitude: 39.7865
 longitude: -89.64329
 postcode: "62703"
 city: Springfield
-street: "South 9th Street"
-housenumber: 1400
-phone: "+1-217-544-9612"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.connorco.com/"
+street: South 9th Street
+housenumber: "1400"
+phone: +1-217-544-9612
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.connorco.com/

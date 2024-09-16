@@ -1,11 +1,11 @@
 id: 272529963
-type: way
+type: node
 latitude: 41.62083
 longitude: -87.8504
 postcode: "60462"
 city: Orland Park
-street: "Orland Square Drive"
-housenumber: 288
+street: Orland Square Drive
+housenumber: "288"
 phone: ""
 opening_hours: ""
-website: "https://www.simon.com/mall/orland-square"
+website: https://www.simon.com/mall/orland-square

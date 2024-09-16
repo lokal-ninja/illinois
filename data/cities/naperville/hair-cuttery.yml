@@ -1,11 +1,11 @@
 id: 1229586133
-type: way
+type: node
 latitude: 41.78613
 longitude: -88.14392
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 215
-phone: "+1 630 305 3226"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 08:00-18:00"
-website: "https://locations.haircuttery.com/il/naperville/215-east-ogden-avenue-suite-105.html"
+street: East Ogden Avenue
+housenumber: "215"
+phone: +1 630 305 3226
+opening_hours: Mo-Fr 09:00-20:00, Sa 08:00-18:00
+website: https://locations.haircuttery.com/il/naperville/215-east-ogden-avenue-suite-105.html

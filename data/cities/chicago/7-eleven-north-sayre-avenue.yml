@@ -1,11 +1,11 @@
 id: 163331470
-type: way
+type: node
 latitude: 41.99458
 longitude: -87.8026
 postcode: "60631"
 city: Chicago
-street: "North Sayre Avenue"
-housenumber: 6200
-phone: "+1 773-775-2063"
+street: North Sayre Avenue
+housenumber: "6200"
+phone: +1 773-775-2063
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/6200-n-sayre-avenue-33768"
+website: https://www.7-eleven.com/locations/il/chicago/6200-n-sayre-avenue-33768

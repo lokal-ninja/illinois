@@ -1,11 +1,11 @@
 id: 894464481
-type: way
+type: node
 latitude: 42.04068
 longitude: -87.79496
 postcode: "60053"
 city: Morton Grove
-street: "West Dempter Street"
-housenumber: 6731
+street: West Dempter Street
+housenumber: "6731"
 phone: ""
 opening_hours: ""
-website: "https://chwinery.com/locations/illinois/morton-grove-il"
+website: https://chwinery.com/locations/illinois/morton-grove-il

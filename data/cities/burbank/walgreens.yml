@@ -1,11 +1,11 @@
 id: 1029167542
-type: way
+type: node
 latitude: 41.74817
 longitude: -87.75988
 postcode: "60459"
 city: Burbank
-street: "79th Street"
-housenumber: 5555
+street: 79th Street
+housenumber: "5555"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5555+w+79th+st-burbank-il-60459/id=15080"
+website: https://www.walgreens.com/locator/walgreens-5555+w+79th+st-burbank-il-60459/id=15080

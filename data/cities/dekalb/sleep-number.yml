@@ -1,11 +1,11 @@
 id: 1218659301
-type: way
+type: node
 latitude: 41.95155
 longitude: -88.72709
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2211
-phone: "+1 779-255-9050"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.sleepnumber.com/stores/il/dekalb/2211-sycamore-rd"
+street: Sycamore Road
+housenumber: "2211"
+phone: +1 779-255-9050
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.sleepnumber.com/stores/il/dekalb/2211-sycamore-rd

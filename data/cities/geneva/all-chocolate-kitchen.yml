@@ -1,11 +1,11 @@
 id: 718201530
-type: way
+type: node
 latitude: 41.88724
 longitude: -88.30789
 postcode: "60134"
 city: Geneva
-street: "South 3rd Street"
-housenumber: 33
-phone: "+1-630-232-2395"
-opening_hours: "Mo We 11:00-19:00, Th 12:00-20:00, Fr,Sa 11:00-21:30, Su 11:00-17:00"
-website: "https://allchocolatekitchen.com/"
+street: South 3rd Street
+housenumber: "33"
+phone: +1-630-232-2395
+opening_hours: Mo We 11:00-19:00, Th 12:00-20:00, Fr,Sa 11:00-21:30, Su 11:00-17:00
+website: https://allchocolatekitchen.com/

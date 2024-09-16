@@ -2,10 +2,10 @@ id: 11234406737
 type: node
 latitude: 41.95346
 longitude: -87.65432
-postcode: "60613-2925"
+postcode: 60613-2925
 city: Chicago
-street: "North Sheridan Road"
-housenumber: 3921
-phone: "+1 773-525-1700"
-opening_hours: "Mo-Sa 08:30-17:00; Su 09:00-17:00"
+street: North Sheridan Road
+housenumber: "3921"
+phone: +1 773-525-1700
+opening_hours: Mo-Sa 08:30-17:00; Su 09:00-17:00
 website: ""

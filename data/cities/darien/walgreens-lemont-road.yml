@@ -1,11 +1,11 @@
 id: 543921597
-type: way
+type: node
 latitude: 41.73615
 longitude: -88.01281
 postcode: "60561"
 city: Darien
-street: "Lemont Road"
-housenumber: 8300
+street: Lemont Road
+housenumber: "8300"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8300+lemont+rd-darien-il-60561/id=6176"
+website: https://www.walgreens.com/locator/walgreens-8300+lemont+rd-darien-il-60561/id=6176

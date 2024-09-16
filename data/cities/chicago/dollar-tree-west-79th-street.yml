@@ -1,11 +1,11 @@
 id: 163529376
-type: way
+type: node
 latitude: 41.74995
 longitude: -87.72107
 postcode: "60652"
 city: Chicago
-street: "West 79th Street"
-housenumber: 3920
+street: West 79th Street
+housenumber: "3920"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/il/chicago/6354/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/il/chicago/6354/

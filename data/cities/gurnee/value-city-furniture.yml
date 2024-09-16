@@ -1,11 +1,11 @@
 id: 1133927568
-type: way
+type: node
 latitude: 42.3875
 longitude: -87.95504
 postcode: ""
 city: Gurnee
-street: "Grand Avenue"
-housenumber: 6116
+street: Grand Avenue
+housenumber: "6116"
 phone: ""
 opening_hours: ""
 website: ""

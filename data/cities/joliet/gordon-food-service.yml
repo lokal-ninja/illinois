@@ -1,11 +1,11 @@
 id: 47785528
-type: way
+type: node
 latitude: 41.52244
 longitude: -88.15399
 postcode: "60435"
 city: Joliet
-street: "West Jefferson Street"
-housenumber: 
+street: West Jefferson Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

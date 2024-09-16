@@ -1,11 +1,11 @@
 id: 165131198
-type: way
+type: node
 latitude: 41.7785
 longitude: -87.70631
 postcode: "60629"
 city: Chicago
-street: "West 63rd Street"
-housenumber: 3307
+street: West 63rd Street
+housenumber: "3307"
 phone: ""
 opening_hours: ""
-website: "https://www.riovalleymarket.com/"
+website: https://www.riovalleymarket.com/

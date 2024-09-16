@@ -1,11 +1,11 @@
 id: 158465994
-type: way
+type: node
 latitude: 41.53297
 longitude: -88.20288
 postcode: "60404"
 city: Shorewood
-street: "Brookforest Avenue"
-housenumber: 621
-phone: "+1 815-725-6301"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/shorewood/il/shorewood/60404/6925"
+street: Brookforest Avenue
+housenumber: "621"
+phone: +1 815-725-6301
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/shorewood/il/shorewood/60404/6925

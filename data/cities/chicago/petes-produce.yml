@@ -1,11 +1,11 @@
 id: 210063248
-type: way
+type: node
 latitude: 41.73571
 longitude: -87.65887
 postcode: "60620"
 city: Chicago
-street: "West 87th Street"
-housenumber: 1411
+street: West 87th Street
+housenumber: "1411"
 phone: ""
 opening_hours: ""
-website: "https://www.petesproduce.com/"
+website: https://www.petesproduce.com/

@@ -1,11 +1,11 @@
 id: 930851985
-type: way
+type: node
 latitude: 41.56207
 longitude: -87.63696
 postcode: "60430"
 city: Homewood
-street: "Halsted Street"
-housenumber: 18002
+street: Halsted Street
+housenumber: "18002"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Homewood/18002-Halsted-Street"
+website: https://www.speedway.com/locations/IL/Homewood/18002-Halsted-Street

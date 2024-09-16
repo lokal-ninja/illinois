@@ -1,11 +1,11 @@
 id: 485427077
-type: way
+type: node
 latitude: 41.6003
 longitude: -87.92858
 postcode: "60491"
 city: Homer Glen
-street: "West 159th Street"
-housenumber: 12720
+street: West 159th Street
+housenumber: "12720"
 phone: ""
-opening_hours: "Mo-Sa 9:00-17:00"
+opening_hours: Mo-Sa 9:00-17:00
 website: ""

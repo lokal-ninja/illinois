@@ -1,11 +1,11 @@
 id: 995777661
-type: way
+type: node
 latitude: 41.50999
 longitude: -87.92635
 postcode: "60451"
 city: New Lenox
-street: "South Schoolhouse Road"
-housenumber: 450
-phone: "+1 815-485-7294"
-opening_hours: "Mo-Fr 07:00-22:00, Sa-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-450+s+schoolhouse+rd-new+lenox-il-60451/id=6180"
+street: South Schoolhouse Road
+housenumber: "450"
+phone: +1 815-485-7294
+opening_hours: Mo-Fr 07:00-22:00, Sa-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-450+s+schoolhouse+rd-new+lenox-il-60451/id=6180

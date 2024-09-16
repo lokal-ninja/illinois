@@ -1,11 +1,11 @@
 id: 823635273
-type: way
+type: node
 latitude: 42.01985
 longitude: -87.68435
 postcode: "60202"
 city: Evanston
-street: "Ridge Avenue"
-housenumber: 101
+street: Ridge Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

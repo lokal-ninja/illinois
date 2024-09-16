@@ -1,11 +1,11 @@
 id: 288581430
-type: way
+type: node
 latitude: 42.10147
 longitude: -88.28791
 postcode: "60118"
 city: West Dundee
-street: "North 8th Street"
-housenumber: 403
-phone: "+1 847-426-5616"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/il/westdundee/pet-supplies-westdundee-il-647.html"
+street: North 8th Street
+housenumber: "403"
+phone: +1 847-426-5616
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/il/westdundee/pet-supplies-westdundee-il-647.html

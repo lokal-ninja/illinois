@@ -1,11 +1,11 @@
 id: 211173577
-type: way
+type: node
 latitude: 41.77339
 longitude: -87.59237
 postcode: "60637"
 city: Chicago
-street: "East 67th Street"
-housenumber: 1344
+street: East 67th Street
+housenumber: "1344"
 phone: ""
 opening_hours: ""
 website: ""

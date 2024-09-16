@@ -1,11 +1,11 @@
 id: 558035490
-type: way
+type: node
 latitude: 40.46113
 longitude: -90.66878
 postcode: "61455"
 city: Macomb
-street: "East Calhoun Street"
-housenumber: 212
+street: East Calhoun Street
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/macomb/21271"
+website: https://www.dollargeneral.com/store-directory/il/macomb/21271

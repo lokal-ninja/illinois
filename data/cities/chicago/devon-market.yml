@@ -1,11 +1,11 @@
 id: 209951338
-type: way
+type: node
 latitude: 41.99821
 longitude: -87.66747
 postcode: "60660"
 city: Chicago
-street: "West Devon Avenue"
-housenumber: 1440
-phone: "+1-773-338-2572"
+street: West Devon Avenue
+housenumber: "1440"
+phone: +1-773-338-2572
 opening_hours: ""
-website: "https://devonmarket.com/"
+website: https://devonmarket.com/

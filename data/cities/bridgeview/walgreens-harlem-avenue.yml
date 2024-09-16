@@ -1,11 +1,11 @@
 id: 916720144
-type: way
+type: node
 latitude: 41.74885
 longitude: -87.80029
 postcode: "60455"
 city: Bridgeview
-street: "Harlem Avenue"
-housenumber: 7878
+street: Harlem Avenue
+housenumber: "7878"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 209600570
-type: way
+type: node
 latitude: 41.67813
 longitude: -87.68055
 postcode: "60643"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 11833
+street: South Western Avenue
+housenumber: "11833"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-11833+s+western+ave-chicago-il-60643/id=6762"
+website: https://www.walgreens.com/locator/walgreens-11833+s+western+ave-chicago-il-60643/id=6762

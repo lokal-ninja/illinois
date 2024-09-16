@@ -1,11 +1,11 @@
 id: 24837319
-type: way
+type: node
 latitude: 42.04717
 longitude: -88.03204
 postcode: "60173"
 city: Schaumburg
-street: "Perimeter Drive"
-housenumber: 905
-phone: "+1 847-240-5910"
+street: Perimeter Drive
+housenumber: "905"
+phone: +1 847-240-5910
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/illinois/schaumburg/7710000157/"
+website: https://stores.ashleyfurniture.com/store/us/illinois/schaumburg/7710000157/

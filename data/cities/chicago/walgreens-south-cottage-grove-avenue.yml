@@ -1,11 +1,11 @@
 id: 210845098
-type: way
+type: node
 latitude: 41.73775
 longitude: -87.6053
 postcode: "60619"
 city: Chicago
-street: "South Cottage Grove Avenue"
-housenumber: 8628
+street: South Cottage Grove Avenue
+housenumber: "8628"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8628+s+cottage+grove+ave-chicago-il-60619/id=5124"
+website: https://www.walgreens.com/locator/walgreens-8628+s+cottage+grove+ave-chicago-il-60619/id=5124

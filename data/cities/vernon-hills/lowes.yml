@@ -1,11 +1,11 @@
 id: 227732811
-type: way
+type: node
 latitude: 42.25614
 longitude: -87.95124
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 1660
-phone: "+1 847-876-2800"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/il-vernon-hills/2751"
+street: North Milwaukee Avenue
+housenumber: "1660"
+phone: +1 847-876-2800
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/il-vernon-hills/2751

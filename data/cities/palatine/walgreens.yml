@@ -1,11 +1,11 @@
 id: 117975126
-type: way
+type: node
 latitude: 42.13852
 longitude: -88.03437
 postcode: "60074"
 city: Palatine
-street: "East Dundee Road"
-housenumber: 375
+street: East Dundee Road
+housenumber: "375"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-375+e+dundee+rd-palatine-il-60074/id=3940"
+website: https://www.walgreens.com/locator/walgreens-375+e+dundee+rd-palatine-il-60074/id=3940

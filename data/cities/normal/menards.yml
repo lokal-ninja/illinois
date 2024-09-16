@@ -1,11 +1,11 @@
 id: 589132520
-type: way
+type: node
 latitude: 40.52507
 longitude: -88.94856
 postcode: "61761"
 city: Normal
-street: "Greenbriar Drive"
-housenumber: 900
+street: Greenbriar Drive
+housenumber: "900"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3072"
+website: https://www.menards.com/store-details/store.html?store=3072

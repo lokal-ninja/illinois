@@ -1,11 +1,11 @@
 id: 1022754610
-type: way
+type: node
 latitude: 42.04124
 longitude: -87.88579
 postcode: "60016"
 city: Des Plaines
-street: "Miner Street"
-housenumber: 
+street: Miner Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

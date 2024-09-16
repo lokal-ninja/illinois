@@ -1,11 +1,11 @@
 id: 210325292
-type: way
+type: node
 latitude: 41.93949
 longitude: -87.65864
 postcode: "60657"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 1153
-phone: "+1 773-528-7322"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/il/chicago/1153-w-belmont-ave-27125"
+street: West Belmont Avenue
+housenumber: "1153"
+phone: +1 773-528-7322
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/il/chicago/1153-w-belmont-ave-27125

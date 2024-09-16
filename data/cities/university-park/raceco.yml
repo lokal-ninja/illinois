@@ -1,11 +1,11 @@
 id: 1025857164
-type: way
+type: node
 latitude: 41.45558
 longitude: -87.73293
 postcode: "60466"
 city: University Park
-street: "Cicero Avenue"
-housenumber: 450
-phone: "+1 708 534 3050"
+street: Cicero Avenue
+housenumber: "450"
+phone: +1 708 534 3050
 opening_hours: ""
 website: ""

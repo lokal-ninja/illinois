@@ -1,11 +1,11 @@
 id: 162702434
-type: way
+type: node
 latitude: 41.95912
 longitude: -87.753
 postcode: "60641"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 4305
-phone: "+1 773-685-4442"
+street: North Milwaukee Avenue
+housenumber: "4305"
+phone: +1 773-685-4442
 opening_hours: ""
-website: "https://stores.truevalue.com/il/chicago/40/"
+website: https://stores.truevalue.com/il/chicago/40/

@@ -1,11 +1,11 @@
 id: 1185848126
-type: way
+type: node
 latitude: 42.2563
 longitude: -88.84342
 postcode: "61008"
 city: Belvidere
-street: "West Locust Street"
-housenumber: 301
-phone: "+1 779-552-8559"
-opening_hours: "Mo-Fr 08:00-17:00; PH closed"
-website: "https://www.facebook.com/Kenautomotive/"
+street: West Locust Street
+housenumber: "301"
+phone: +1 779-552-8559
+opening_hours: Mo-Fr 08:00-17:00; PH closed
+website: https://www.facebook.com/Kenautomotive/

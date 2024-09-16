@@ -1,11 +1,11 @@
 id: 293387425
-type: way
+type: node
 latitude: 41.99653
 longitude: -87.82996
 postcode: "60068"
 city: Park Ridge
-street: "Devon Avenue"
-housenumber: 555
-phone: "+1 847-318-0350"
+street: Devon Avenue
+housenumber: "555"
+phone: +1 847-318-0350
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/park-ridge/555-devon-ave-27235"
+website: https://www.7-eleven.com/locations/il/park-ridge/555-devon-ave-27235

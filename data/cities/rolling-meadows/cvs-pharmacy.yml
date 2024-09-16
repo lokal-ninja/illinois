@@ -1,11 +1,11 @@
 id: 86183038
-type: way
+type: node
 latitude: 42.08787
 longitude: -88.0448
 postcode: "60008"
 city: Rolling Meadows
-street: "South Plum Grove Road"
-housenumber: 2045
+street: South Plum Grove Road
+housenumber: "2045"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/rolling-meadows-il-pharmacies/2045-plum-grove-rd-rolling-meadows-il-60008/storeid=2863"
+website: https://www.cvs.com/store-locator/rolling-meadows-il-pharmacies/2045-plum-grove-rd-rolling-meadows-il-60008/storeid=2863

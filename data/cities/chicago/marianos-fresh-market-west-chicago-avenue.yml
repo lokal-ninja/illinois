@@ -1,11 +1,11 @@
 id: 131888902
-type: way
+type: node
 latitude: 41.89578
 longitude: -87.67783
 postcode: "60622"
 city: Chicago
-street: "West Chicago Avenue"
-housenumber: 2021
-phone: "+1 773 799 9000"
-opening_hours: "6:00-22:00"
-website: "https://www.marianos.com/stores/grocery/il/chicago/marianos-ukrainian-village/531/00527"
+street: West Chicago Avenue
+housenumber: "2021"
+phone: +1 773 799 9000
+opening_hours: 6:00-22:00
+website: https://www.marianos.com/stores/grocery/il/chicago/marianos-ukrainian-village/531/00527

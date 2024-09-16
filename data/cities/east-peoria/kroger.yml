@@ -1,11 +1,11 @@
 id: 100103978
-type: way
+type: node
 latitude: 40.66455
 longitude: -89.5813
 postcode: "61611"
 city: East Peoria
-street: "South Main Street"
-housenumber: 201
-phone: "+1 309-694-6451"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/il/east-peoria/east-peoria/021/00705"
+street: South Main Street
+housenumber: "201"
+phone: +1 309-694-6451
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/il/east-peoria/east-peoria/021/00705

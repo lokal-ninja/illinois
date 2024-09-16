@@ -1,11 +1,11 @@
 id: 772202119
-type: way
+type: node
 latitude: 42.2234
 longitude: -89.0281
 postcode: "61109"
 city: Rockford
-street: "Sandy Hollow Road"
-housenumber: 4545
-phone: "+1-815-874-2214"
+street: Sandy Hollow Road
+housenumber: "4545"
+phone: +1-815-874-2214
 opening_hours: ""
-website: "https://www.phillips66gas.com/"
+website: https://www.phillips66gas.com/

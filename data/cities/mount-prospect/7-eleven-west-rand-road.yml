@@ -1,11 +1,11 @@
 id: 1223971893
-type: way
+type: node
 latitude: 42.08784
 longitude: -87.94416
 postcode: "60056"
 city: Mount Prospect
-street: "West Rand Road"
-housenumber: 630
+street: West Rand Road
+housenumber: "630"
 phone: ""
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/mount-prospect/630-w-rand-rd-38526"
+website: https://www.7-eleven.com/locations/il/mount-prospect/630-w-rand-rd-38526

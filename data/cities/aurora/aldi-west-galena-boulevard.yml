@@ -1,11 +1,11 @@
 id: 824074122
-type: way
+type: node
 latitude: 41.76579
 longitude: -88.37223
 postcode: "60506"
 city: Aurora
-street: "West Galena Boulevard"
-housenumber: 2275
-phone: "+1 833-440-1052"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/aurora/2275-west-galena-blvd"
+street: West Galena Boulevard
+housenumber: "2275"
+phone: +1 833-440-1052
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/aurora/2275-west-galena-blvd

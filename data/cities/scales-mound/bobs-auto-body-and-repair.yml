@@ -1,11 +1,11 @@
 id: 331513684
-type: way
+type: node
 latitude: 42.47809
 longitude: -90.25328
 postcode: "61115"
 city: Scales Mound
-street: "Franklin Street"
-housenumber: 603
+street: Franklin Street
+housenumber: "603"
 phone: ""
 opening_hours: ""
 website: ""

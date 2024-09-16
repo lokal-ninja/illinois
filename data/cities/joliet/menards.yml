@@ -1,11 +1,11 @@
 id: 43231094
-type: way
+type: node
 latitude: 41.51976
 longitude: -88.1464
 postcode: "60435"
 city: Joliet
-street: "West Jefferson Street"
-housenumber: 2524
+street: West Jefferson Street
+housenumber: "2524"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3073"
+website: https://www.menards.com/store-details/store.html?store=3073

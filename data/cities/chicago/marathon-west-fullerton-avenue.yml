@@ -1,11 +1,11 @@
 id: 162628650
-type: way
+type: node
 latitude: 41.92461
 longitude: -87.74918
 postcode: "60639"
 city: Chicago
-street: "West Fullerton Avenue"
-housenumber: 4900
+street: West Fullerton Avenue
+housenumber: "4900"
 phone: ""
 opening_hours: ""
 website: ""

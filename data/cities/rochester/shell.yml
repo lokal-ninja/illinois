@@ -4,8 +4,8 @@ latitude: 39.74679
 longitude: -89.53106
 postcode: "62563"
 city: Rochester
-street: "State Street"
-housenumber: 450
-phone: "+1-217-498-7696"
-opening_hours: "24/7"
+street: State Street
+housenumber: "450"
+phone: +1-217-498-7696
+opening_hours: 24/7
 website: ""

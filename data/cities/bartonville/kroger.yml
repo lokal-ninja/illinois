@@ -1,11 +1,11 @@
 id: 65932781
-type: way
+type: node
 latitude: 40.64595
 longitude: -89.67519
 postcode: "61607"
 city: Bartonville
-street: "West Garfield Avenue"
-housenumber: 1405
-phone: "+1 309-697-8811"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/il/bartonville/bartonville-square/021/00531"
+street: West Garfield Avenue
+housenumber: "1405"
+phone: +1 309-697-8811
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/il/bartonville/bartonville-square/021/00531

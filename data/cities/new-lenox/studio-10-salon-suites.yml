@@ -1,11 +1,11 @@
 id: 995777690
-type: way
+type: node
 latitude: 41.51133
 longitude: -87.96154
 postcode: "60451"
 city: New Lenox
-street: "East Lincoln Highway"
-housenumber: 278
-phone: "+1 815-641-3647"
+street: East Lincoln Highway
+housenumber: "278"
+phone: +1 815-641-3647
 opening_hours: ""
-website: "http://www.studio10salonsuites.com/"
+website: http://www.studio10salonsuites.com/

@@ -1,11 +1,11 @@
 id: 775741959
-type: way
+type: node
 latitude: 41.83962
 longitude: -87.99659
 postcode: "60148"
 city: Lombard
-street: "Butterfield Road"
-housenumber: 801
+street: Butterfield Road
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 132062457
-type: way
+type: node
 latitude: 41.88813
 longitude: -87.78297
 postcode: "60302"
 city: Oak Park
-street: "Lake Street"
-housenumber: 259
+street: Lake Street
+housenumber: "259"
 phone: ""
 opening_hours: ""
-website: "https://www.petesfresh.com/stores/pfm-12-oak-park"
+website: https://www.petesfresh.com/stores/pfm-12-oak-park

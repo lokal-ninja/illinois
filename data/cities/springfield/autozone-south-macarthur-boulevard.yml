@@ -4,8 +4,8 @@ latitude: 39.77735
 longitude: -89.66877
 postcode: "62704"
 city: Springfield
-street: "South MacArthur Boulevard"
-housenumber: 2035
-phone: "+1-217-698-9791"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-20:00"
-website: "https://www.autozone.com/locations/il/springfield/2035-s-macarthur-blvd.html"
+street: South MacArthur Boulevard
+housenumber: "2035"
+phone: +1-217-698-9791
+opening_hours: Mo-Sa 07:30-21:00; Su 08:30-20:00
+website: https://www.autozone.com/locations/il/springfield/2035-s-macarthur-blvd.html

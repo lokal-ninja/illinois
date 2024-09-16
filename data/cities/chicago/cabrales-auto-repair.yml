@@ -1,11 +1,11 @@
 id: 211331098
-type: way
+type: node
 latitude: 41.65939
 longitude: -87.54986
 postcode: "60633"
 city: Chicago
-street: "South Carondolet Avenue"
-housenumber: 12958
-phone: "+1-773-646-5500"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: South Carondolet Avenue
+housenumber: "12958"
+phone: +1-773-646-5500
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

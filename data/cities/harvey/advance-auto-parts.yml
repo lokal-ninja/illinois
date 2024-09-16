@@ -1,11 +1,11 @@
 id: 1239172212
-type: way
+type: node
 latitude: 41.62251
 longitude: -87.64073
 postcode: "60426"
 city: Harvey
-street: "East 147th Street"
-housenumber: 272
+street: East 147th Street
+housenumber: "272"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/harvey/272-e-147th-st"
+website: https://stores.advanceautoparts.com/il/harvey/272-e-147th-st

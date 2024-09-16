@@ -1,11 +1,11 @@
 id: 806672508
-type: way
+type: node
 latitude: 41.50684
 longitude: -87.79133
 postcode: "60423"
 city: Frankfort
-street: "West Lincoln Highway"
-housenumber: 7218
+street: West Lincoln Highway
+housenumber: "7218"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Frankfort/7218-West-Lincoln-Highway"
+website: https://www.speedway.com/locations/IL/Frankfort/7218-West-Lincoln-Highway

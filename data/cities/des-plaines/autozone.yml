@@ -1,11 +1,11 @@
 id: 42278940
-type: way
+type: node
 latitude: 42.02321
 longitude: -87.89755
 postcode: "60018"
 city: Des Plaines
-street: "East Oakton Street"
-housenumber: 1065
+street: East Oakton Street
+housenumber: "1065"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1025872375
-type: way
+type: node
 latitude: 41.52857
 longitude: -87.71253
 postcode: "60422"
 city: Flossmoor
-street: "Vollmer Road"
-housenumber: 3950
+street: Vollmer Road
+housenumber: "3950"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 549225799
-type: way
+type: node
 latitude: 40.48084
 longitude: -88.99422
 postcode: ""
 city: Bloomington
-street: "West Jefferson Street"
-housenumber: 109
+street: West Jefferson Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

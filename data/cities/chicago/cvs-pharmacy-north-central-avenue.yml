@@ -1,11 +1,11 @@
 id: 162714459
-type: way
+type: node
 latitude: 41.96827
 longitude: -87.76725
 postcode: "60630"
 city: Chicago
-street: "North Central Avenue"
-housenumber: 4801
+street: North Central Avenue
+housenumber: "4801"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/chicago-il-pharmacies/4801-n-central-chicago-il-60630/storeid=8750"
+website: https://www.cvs.com/store-locator/chicago-il-pharmacies/4801-n-central-chicago-il-60630/storeid=8750

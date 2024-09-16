@@ -1,11 +1,11 @@
 id: 218139210
-type: way
+type: node
 latitude: 41.73945
 longitude: -87.63287
 postcode: "60620"
 city: Chicago
-street: "South Holland Road"
-housenumber: 8500
-phone: "+1 833-462-1088"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/chicago/8500-s-holland-road"
+street: South Holland Road
+housenumber: "8500"
+phone: +1 833-462-1088
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/chicago/8500-s-holland-road

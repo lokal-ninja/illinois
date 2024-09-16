@@ -1,11 +1,11 @@
 id: 201715209
-type: way
+type: node
 latitude: 42.24459
 longitude: -88.97693
 postcode: "61112"
 city: Cherry Valley
-street: "South Cherryvale Mall Drive"
-housenumber: 
+street: South Cherryvale Mall Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

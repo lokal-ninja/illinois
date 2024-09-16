@@ -1,11 +1,11 @@
 id: 894993113
-type: way
+type: node
 latitude: 41.97824
 longitude: -87.86851
 postcode: "60018"
 city: Rosemont
-street: "Park Place"
-housenumber: 5490
+street: Park Place
+housenumber: "5490"
 phone: ""
 opening_hours: ""
-website: "https://www.chicagoharley.com/"
+website: https://www.chicagoharley.com/

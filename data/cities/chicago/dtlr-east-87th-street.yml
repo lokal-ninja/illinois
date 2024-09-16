@@ -4,8 +4,8 @@ latitude: 41.73723
 longitude: -87.60611
 postcode: "60619"
 city: Chicago
-street: "East 87th Street"
-housenumber: 712
+street: East 87th Street
+housenumber: "712"
 phone: ""
 opening_hours: ""
-website: "https://locations.dtlr.com/il/chicago/chatham-village.html"
+website: https://locations.dtlr.com/il/chicago/chatham-village.html

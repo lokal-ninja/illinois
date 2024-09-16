@@ -1,11 +1,11 @@
 id: 535621124
-type: way
+type: node
 latitude: 38.43707
 longitude: -90.19949
 postcode: "62236"
 city: Columbia
-street: "Southwoods Center"
-housenumber: 156
+street: Southwoods Center
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

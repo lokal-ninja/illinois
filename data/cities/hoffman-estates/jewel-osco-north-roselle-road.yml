@@ -1,11 +1,11 @@
 id: 239535174
-type: way
+type: node
 latitude: 42.04809
 longitude: -88.078
 postcode: "60169"
 city: Hoffman Estates
-street: "North Roselle Road"
-housenumber: 1069
-phone: "+1 847-882-3210"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/hoffman-estates/1069-n-roselle-rd.html"
+street: North Roselle Road
+housenumber: "1069"
+phone: +1 847-882-3210
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/hoffman-estates/1069-n-roselle-rd.html

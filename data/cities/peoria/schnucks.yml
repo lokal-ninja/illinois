@@ -1,11 +1,11 @@
 id: 63904614
-type: way
+type: node
 latitude: 40.74522
 longitude: -89.60979
 postcode: "61614"
 city: Peoria
-street: "North University Street"
-housenumber: 4800
+street: North University Street
+housenumber: "4800"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 677523639
-type: way
+type: node
 latitude: 42.09617
 longitude: -88.68429
 postcode: ""
 city: Genoa
-street: "East Main Street"
-housenumber: 601
+street: East Main Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

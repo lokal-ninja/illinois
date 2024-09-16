@@ -1,11 +1,11 @@
 id: 307159632
-type: way
+type: node
 latitude: 40.68599
 longitude: -89.60075
 postcode: "61605"
 city: Peoria
-street: "SW Jefferson Avenue"
-housenumber: 910
-phone: "+1-309-637-1331"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.fastenal.com/"
+street: SW Jefferson Avenue
+housenumber: "910"
+phone: +1-309-637-1331
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.fastenal.com/

@@ -1,11 +1,11 @@
 id: 163083583
-type: way
+type: node
 latitude: 41.92862
 longitude: -87.79018
 postcode: "60639"
 city: Chicago
-street: "North Narragansett Avenue"
-housenumber: 2630
-phone: "+1 773-413-5120"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1845"
+street: North Narragansett Avenue
+housenumber: "2630"
+phone: +1 773-413-5120
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1845

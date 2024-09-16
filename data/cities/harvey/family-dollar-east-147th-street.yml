@@ -1,11 +1,11 @@
 id: 1060232556
-type: way
+type: node
 latitude: 41.62234
 longitude: -87.65034
 postcode: "60426"
 city: Harvey
-street: "East 147th Street"
-housenumber: 100
+street: East 147th Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/locations/il/harvey/21536/"
+website: https://www.familydollar.com/locations/il/harvey/21536/

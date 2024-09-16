@@ -1,11 +1,11 @@
 id: 210693437
-type: way
+type: node
 latitude: 41.68924
 longitude: -87.61047
 postcode: "60628"
 city: Chicago
-street: "South Cottage Grove Avenue"
-housenumber: 11235
+street: South Cottage Grove Avenue
+housenumber: "11235"
 phone: ""
 opening_hours: ""
 website: ""

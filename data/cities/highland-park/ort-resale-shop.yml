@@ -1,11 +1,11 @@
 id: 548466863
-type: way
+type: node
 latitude: 42.18349
 longitude: -87.79873
 postcode: ""
 city: Highland Park
-street: "1st Street"
-housenumber: 1710
+street: 1st Street
+housenumber: "1710"
 phone: ""
 opening_hours: ""
-website: "https://ortamerica.org/regions/chicago-region/chicago-ort-resale-shop/"
+website: https://ortamerica.org/regions/chicago-region/chicago-ort-resale-shop/

@@ -1,11 +1,11 @@
 id: 214945361
-type: way
+type: node
 latitude: 37.7495
 longitude: -89.07693
 postcode: "62918"
 city: Carterville
-street: "South Division Street"
-housenumber: 1114
-phone: "+1 618-985-5660"
+street: South Division Street
+housenumber: "1114"
+phone: +1 618-985-5660
 opening_hours: ""
 website: ""

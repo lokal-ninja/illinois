@@ -1,11 +1,11 @@
 id: 804705373
-type: way
+type: node
 latitude: 42.06025
 longitude: -87.79911
 postcode: "60025"
 city: Glenview
-street: "Waukegan Road"
-housenumber: 241
+street: Waukegan Road
+housenumber: "241"
 phone: ""
 opening_hours: ""
 website: ""

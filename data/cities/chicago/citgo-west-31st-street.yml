@@ -1,11 +1,11 @@
 id: 210533140
-type: way
+type: node
 latitude: 41.83776
 longitude: -87.63924
 postcode: "60616"
 city: Chicago
-street: "West 31st Street"
-housenumber: 501
+street: West 31st Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

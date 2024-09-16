@@ -1,11 +1,11 @@
 id: 749766086
-type: way
+type: node
 latitude: 41.80147
 longitude: -90.10687
 postcode: "61252"
 city: Fulton
-street: "Garden Plain Road"
-housenumber: 7250
+street: Garden Plain Road
+housenumber: "7250"
 phone: ""
 opening_hours: ""
-website: "https://www.timberlanetreefarm.com/"
+website: https://www.timberlanetreefarm.com/

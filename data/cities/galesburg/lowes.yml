@@ -1,11 +1,11 @@
 id: 182478568
-type: way
+type: node
 latitude: 40.97673
 longitude: -90.37744
 postcode: "61401"
 city: Galesburg
-street: "West Carl Sandburg Drive"
-housenumber: 531
-phone: "+1 309-342-4488"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/il-galesburg/0092"
+street: West Carl Sandburg Drive
+housenumber: "531"
+phone: +1 309-342-4488
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/il-galesburg/0092

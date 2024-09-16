@@ -1,11 +1,11 @@
 id: 427150668
-type: way
+type: node
 latitude: 41.9787
 longitude: -87.77074
 postcode: "60630"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 5374
+street: North Milwaukee Avenue
+housenumber: "5374"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/5374-n-milwaukee-ave.html"
+website: https://www.autozone.com/locations/il/chicago/5374-n-milwaukee-ave.html

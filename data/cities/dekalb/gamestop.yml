@@ -1,11 +1,11 @@
 id: 984135004
-type: way
+type: node
 latitude: 41.95594
 longitude: -88.7215
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2564
-phone: "+1 815-787-2888"
-opening_hours: "Mo-Fr 10:00-21:00, Su 11:00-20:00"
-website: "https://www.gamestop.com/store/us/il/dekalb/2337/northland-plaza-gamestop"
+street: Sycamore Road
+housenumber: "2564"
+phone: +1 815-787-2888
+opening_hours: Mo-Fr 10:00-21:00, Su 11:00-20:00
+website: https://www.gamestop.com/store/us/il/dekalb/2337/northland-plaza-gamestop

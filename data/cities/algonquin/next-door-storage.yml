@@ -1,11 +1,11 @@
 id: 855538916
-type: way
+type: node
 latitude: 42.15676
 longitude: -88.2666
 postcode: "60102"
 city: Algonquin
-street: "East Algonquin Road"
-housenumber: 1910
-phone: "+1-847-658-3033"
+street: East Algonquin Road
+housenumber: "1910"
+phone: +1-847-658-3033
 opening_hours: ""
 website: ""

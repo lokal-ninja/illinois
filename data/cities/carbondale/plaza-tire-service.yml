@@ -1,11 +1,11 @@
 id: 875392427
-type: way
+type: node
 latitude: 37.72834
 longitude: -89.20743
 postcode: "62901"
 city: Carbondale
-street: "East Main Street"
-housenumber: 610
-phone: "+1-618-457-0309"
+street: East Main Street
+housenumber: "610"
+phone: +1-618-457-0309
 opening_hours: ""
-website: "https://www.plazatireservice.com/"
+website: https://www.plazatireservice.com/

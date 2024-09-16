@@ -4,8 +4,8 @@ latitude: 39.80468
 longitude: -89.6699
 postcode: "62702"
 city: Springfield
-street: "North English Avenue"
-housenumber: 235
-phone: "+1-217-546-3686"
-opening_hours: "Mo,Tu,Th,Fr 07:30-17:00"
+street: North English Avenue
+housenumber: "235"
+phone: +1-217-546-3686
+opening_hours: Mo,Tu,Th,Fr 07:30-17:00
 website: ""

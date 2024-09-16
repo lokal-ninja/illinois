@@ -1,11 +1,11 @@
 id: 689507657
-type: way
+type: node
 latitude: 42.45241
 longitude: -89.07314
 postcode: "61072"
 city: Rockton
-street: "West Main Street"
-housenumber: 112
+street: West Main Street
+housenumber: "112"
 phone: "+18154944675"
 opening_hours: ""
-website: "https://shoptrulytreasured.com/"
+website: https://shoptrulytreasured.com/

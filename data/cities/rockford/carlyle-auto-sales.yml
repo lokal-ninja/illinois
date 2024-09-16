@@ -1,11 +1,11 @@
 id: 760450412
-type: way
+type: node
 latitude: 42.26336
 longitude: -89.02971
 postcode: "61108"
 city: Rockford
-street: "South Alpine Road"
-housenumber: 151
+street: South Alpine Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

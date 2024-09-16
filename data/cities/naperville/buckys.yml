@@ -1,11 +1,11 @@
 id: 440052543
-type: way
+type: node
 latitude: 41.748
 longitude: -88.20506
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 1290
+street: South Illinois Route 59
+housenumber: "1290"
 phone: ""
 opening_hours: ""
 website: ""

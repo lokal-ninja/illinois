@@ -1,11 +1,11 @@
 id: 1303166623
-type: way
+type: node
 latitude: 41.96029
 longitude: -87.80704
 postcode: "60706"
 city: Norridge
-street: "North Harlem Avenue"
-housenumber: 4353
+street: North Harlem Avenue
+housenumber: "4353"
 phone: ""
 opening_hours: ""
-website: "https://deliforyou.com/"
+website: https://deliforyou.com/

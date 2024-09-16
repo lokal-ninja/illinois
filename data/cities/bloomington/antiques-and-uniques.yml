@@ -1,11 +1,11 @@
 id: 549225793
-type: way
+type: node
 latitude: 40.48085
 longitude: -88.99356
 postcode: ""
 city: Bloomington
-street: "North Main Street"
-housenumber: 309
+street: North Main Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 110784082
-type: way
+type: node
 latitude: 42.02624
 longitude: -88.30791
-postcode: "60123-7104"
+postcode: 60123-7104
 city: Elgin
-street: "Lillian Street"
-housenumber: 1158
-phone: "+1 847-695-1722"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Lillian Street
+housenumber: "1158"
+phone: +1 847-695-1722
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 754941626
-type: way
+type: node
 latitude: 38.87383
 longitude: -90.09765
 postcode: "62095"
 city: Wood River
-street: "East Edwardsville Road"
-housenumber: 49
-phone: "+1-618-251-4572"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su closed"
-website: "https://bertsrentals.com/"
+street: East Edwardsville Road
+housenumber: "49"
+phone: +1-618-251-4572
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su closed
+website: https://bertsrentals.com/

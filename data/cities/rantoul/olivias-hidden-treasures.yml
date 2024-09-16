@@ -1,11 +1,11 @@
 id: 1271226473
-type: way
+type: node
 latitude: 40.31047
 longitude: -88.1575
 postcode: "61866"
 city: Rantoul
-street: "East Sangamon Avenue"
-housenumber: 130
+street: East Sangamon Avenue
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

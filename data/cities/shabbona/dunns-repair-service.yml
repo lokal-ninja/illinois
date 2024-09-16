@@ -1,11 +1,11 @@
 id: 806038525
-type: way
+type: node
 latitude: 41.76866
 longitude: -88.8875
 postcode: "60550"
 city: Shabbona
-street: "West Comanche Avenue"
-housenumber: 1003
-phone: "+1 815-824-8383"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://dunnsrepair.wixsite.com/dunnsrepair"
+street: West Comanche Avenue
+housenumber: "1003"
+phone: +1 815-824-8383
+opening_hours: Mo-Fr 08:00-16:00
+website: https://dunnsrepair.wixsite.com/dunnsrepair

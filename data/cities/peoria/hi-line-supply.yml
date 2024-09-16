@@ -1,11 +1,11 @@
 id: 64337323
-type: way
+type: node
 latitude: 40.73951
 longitude: -89.5879
 postcode: "61614"
 city: Peoria
-street: "East Lake Avenue"
-housenumber: 405
+street: East Lake Avenue
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

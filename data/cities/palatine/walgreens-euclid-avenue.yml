@@ -1,11 +1,11 @@
 id: 491443618
-type: way
+type: node
 latitude: 42.08619
 longitude: -88.06332
 postcode: "60067"
 city: Palatine
-street: "Euclid Avenue"
-housenumber: 805
+street: Euclid Avenue
+housenumber: "805"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-805+w+euclid+ave-palatine-il-60067/id=7754"
+website: https://www.walgreens.com/locator/walgreens-805+w+euclid+ave-palatine-il-60067/id=7754

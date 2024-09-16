@@ -1,11 +1,11 @@
 id: 360962092
-type: way
+type: node
 latitude: 40.06964
 longitude: -88.25224
 postcode: "61874"
 city: Savoy
-street: "Savoy Plaza Lane"
-housenumber: 1201
+street: Savoy Plaza Lane
+housenumber: "1201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 806038474
-type: way
+type: node
 latitude: 41.76764
 longitude: -88.87674
 postcode: "60550"
 city: Shabbona
-street: "South Shabbona Road"
-housenumber: 102
+street: South Shabbona Road
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

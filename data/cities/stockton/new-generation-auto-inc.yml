@@ -1,11 +1,11 @@
 id: 1098030573
-type: way
+type: node
 latitude: 42.35591
 longitude: -89.98274
 postcode: "61085"
 city: Stockton
-street: "South Curtiss Road"
-housenumber: 1232
+street: South Curtiss Road
+housenumber: "1232"
 phone: ""
 opening_hours: ""
 website: ""

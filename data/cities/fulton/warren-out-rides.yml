@@ -1,11 +1,11 @@
 id: 743782887
-type: way
+type: node
 latitude: 41.86282
 longitude: -90.15777
 postcode: "61252"
 city: Fulton
-street: "15th Avenue"
-housenumber: 1000
+street: 15th Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

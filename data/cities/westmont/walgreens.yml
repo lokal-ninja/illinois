@@ -1,11 +1,11 @@
 id: 281599506
-type: way
+type: node
 latitude: 41.77436
 longitude: -87.97556
 postcode: "60559"
 city: Westmont
-street: "West 63rd Street"
-housenumber: 8
+street: West 63rd Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8+w+63rd+st-westmont-il-60559/id=5275"
+website: https://www.walgreens.com/locator/walgreens-8+w+63rd+st-westmont-il-60559/id=5275

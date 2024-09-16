@@ -4,8 +4,8 @@ latitude: 41.9062
 longitude: -87.97078
 postcode: "60181"
 city: Villa Park
-street: "East North Avenue"
-housenumber: 300
-phone: "+1 630-359-4969"
+street: East North Avenue
+housenumber: "300"
+phone: +1 630-359-4969
 opening_hours: ""
-website: "https://www.premiummotorsinc.com/"
+website: https://www.premiummotorsinc.com/

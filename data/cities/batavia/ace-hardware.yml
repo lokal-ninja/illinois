@@ -1,11 +1,11 @@
 id: 718180893
-type: way
+type: node
 latitude: 41.85013
 longitude: -88.33828
 postcode: "60510"
 city: Batavia
-street: "West Wilson Street"
-housenumber: 1901
-phone: "+1 630-879-1330"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: West Wilson Street
+housenumber: "1901"
+phone: +1 630-879-1330
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1229586131
-type: way
+type: node
 latitude: 41.78613
 longitude: -88.14383
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 215
-phone: "+1 630 870 1543"
-opening_hours: "Mo-Sa 11:00-18:00, Su 11:00-17:00"
-website: "https://www.t-mobile.com/store-locator/il/naperville/e-ogden-ave-n-ellsworth-st"
+street: East Ogden Avenue
+housenumber: "215"
+phone: +1 630 870 1543
+opening_hours: Mo-Sa 11:00-18:00, Su 11:00-17:00
+website: https://www.t-mobile.com/store-locator/il/naperville/e-ogden-ave-n-ellsworth-st

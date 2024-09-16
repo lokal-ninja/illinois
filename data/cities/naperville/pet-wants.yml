@@ -1,11 +1,11 @@
 id: 1242412260
-type: way
+type: node
 latitude: 41.78554
 longitude: -88.13765
 postcode: "60563"
 city: Naperville
-street: "East Ogden Avenue"
-housenumber: 630
-phone: "+1 630 352 6062"
+street: East Ogden Avenue
+housenumber: "630"
+phone: +1 630 352 6062
 opening_hours: ""
-website: "https://petwantsnaperville.com/shop_home/203278"
+website: https://petwantsnaperville.com/shop_home/203278

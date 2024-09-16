@@ -1,11 +1,11 @@
 id: 163944073
-type: way
+type: node
 latitude: 41.96104
 longitude: -87.7126
 postcode: "60618"
 city: Chicago
-street: "West Montrose Avenue"
-housenumber: 3343
+street: West Montrose Avenue
+housenumber: "3343"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cvs-pharmacy-address/3343+West+Montrose+Avenue-Chicago-IL-60618/storeid=6785"
+website: https://www.cvs.com/store-locator/cvs-pharmacy-address/3343+West+Montrose+Avenue-Chicago-IL-60618/storeid=6785

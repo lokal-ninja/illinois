@@ -1,11 +1,11 @@
 id: 369461703
-type: way
+type: node
 latitude: 41.58305
 longitude: -87.71725
 postcode: "60478"
 city: Country Club Hills
-street: "167th Street"
-housenumber: 4005
-phone: "+1 708-647-1689"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5486/country-club%20hills-il/whats-new"
+street: 167th Street
+housenumber: "4005"
+phone: +1 708-647-1689
+opening_hours: 24/7
+website: https://www.walmart.com/store/5486/country-club%20hills-il/whats-new

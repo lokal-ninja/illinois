@@ -1,11 +1,11 @@
 id: 917083806
-type: way
+type: node
 latitude: 42.46652
 longitude: -88.09198
 postcode: "60002"
 city: Antioch
-street: "Main Street"
-housenumber: 1325
-phone: "+1 847-838-8050"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Main Street
+housenumber: "1325"
+phone: +1 847-838-8050
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

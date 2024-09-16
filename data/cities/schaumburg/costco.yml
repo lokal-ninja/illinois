@@ -1,11 +1,11 @@
 id: 319346979
-type: way
+type: node
 latitude: 42.05503
 longitude: -88.04273
-postcode: "60173-4805"
+postcode: 60173-4805
 city: Schaumburg
-street: "North Meacham Road"
-housenumber: 1375
-phone: "+1 847-969-0790"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/schaumburg-il-387.html"
+street: North Meacham Road
+housenumber: "1375"
+phone: +1 847-969-0790
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/schaumburg-il-387.html

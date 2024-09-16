@@ -1,11 +1,11 @@
 id: 769675194
-type: way
+type: node
 latitude: 38.89003
 longitude: -90.18495
 postcode: "62002"
 city: Alton
-street: "East Broadway"
-housenumber: 17
+street: East Broadway
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.picturethisandmore.com/"
+website: https://www.picturethisandmore.com/

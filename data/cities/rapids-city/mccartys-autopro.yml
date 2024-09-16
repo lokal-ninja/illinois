@@ -1,11 +1,11 @@
 id: 768155918
-type: way
+type: node
 latitude: 41.57776
 longitude: -90.35575
 postcode: "61278"
 city: Rapids City
-street: "2nd Avenue"
-housenumber: 2028
-phone: "+1-309-496-3202"
+street: 2nd Avenue
+housenumber: "2028"
+phone: +1-309-496-3202
 opening_hours: ""
-website: "http://mccartyautopro.com/"
+website: http://mccartyautopro.com/

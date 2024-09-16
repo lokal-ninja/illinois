@@ -1,11 +1,11 @@
 id: 165098230
-type: way
+type: node
 latitude: 41.7502
 longitude: -87.69183
 postcode: "60652"
 city: Chicago
-street: "West 79th Street"
-housenumber: 2740
+street: West 79th Street
+housenumber: "2740"
 phone: ""
 opening_hours: ""
-website: "https://www.metrostorage.com/locations/il/chicago/metro-self-storage-chicago-w-79th/"
+website: https://www.metrostorage.com/locations/il/chicago/metro-self-storage-chicago-w-79th/

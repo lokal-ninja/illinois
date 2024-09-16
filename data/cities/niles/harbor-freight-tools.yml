@@ -1,11 +1,11 @@
 id: 729237195
-type: way
+type: node
 latitude: 42.03994
 longitude: -87.80698
 postcode: "60714"
 city: Niles
-street: "West Dempster Street"
-housenumber: 7215
-phone: "+1 847-965-8170"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/7215-w-dempster-st-niles-60714?number=779"
+street: West Dempster Street
+housenumber: "7215"
+phone: +1 847-965-8170
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/7215-w-dempster-st-niles-60714?number=779

@@ -1,11 +1,11 @@
 id: 279502202
-type: way
+type: node
 latitude: 41.7911
 longitude: -87.80896
 postcode: "60501"
 city: Summit
-street: "Archer Avenue"
-housenumber: 7455
+street: Archer Avenue
+housenumber: "7455"
 phone: ""
 opening_hours: ""
 website: ""

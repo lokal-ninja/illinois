@@ -1,11 +1,11 @@
 id: 211388380
-type: way
+type: node
 latitude: 41.70335
 longitude: -87.52709
 postcode: "60617"
 city: Chicago
-street: "South Avenue B"
-housenumber: 10532
-phone: "+1-773-734-9885"
-opening_hours: "Mo-Su 05:00-22:30"
-website: "https://bluekangaroolaundromat.com/"
+street: South Avenue B
+housenumber: "10532"
+phone: +1-773-734-9885
+opening_hours: Mo-Su 05:00-22:30
+website: https://bluekangaroolaundromat.com/

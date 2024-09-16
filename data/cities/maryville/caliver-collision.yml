@@ -1,11 +1,11 @@
 id: 1281885410
-type: way
+type: node
 latitude: 38.71117
 longitude: -89.95701
 postcode: "62062"
 city: Maryville
-street: "Maryville Road"
-housenumber: 2727
-phone: "1-618-344-9922"
+street: Maryville Road
+housenumber: "2727"
+phone: 1-618-344-9922
 opening_hours: ""
-website: "https://www.caliber.com/find-a-location/maryville-il"
+website: https://www.caliber.com/find-a-location/maryville-il

@@ -1,11 +1,11 @@
 id: 120692777
-type: way
+type: node
 latitude: 42.15718
 longitude: -88.02509
 postcode: "60047"
 city: Long Grove
-street: "Lake Cook Road"
-housenumber: 2700
+street: Lake Cook Road
+housenumber: "2700"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3254"
+website: https://www.menards.com/store-details/store.html?store=3254

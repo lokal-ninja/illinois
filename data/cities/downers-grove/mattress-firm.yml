@@ -1,11 +1,11 @@
 id: 543806932
-type: way
+type: node
 latitude: 41.75135
 longitude: -88.01886
 postcode: "60516"
 city: Downers Grove
-street: "75th Street"
-housenumber: 1546
-phone: "+1 630-964-1648"
+street: 75th Street
+housenumber: "1546"
+phone: +1 630-964-1648
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/il/downers-grove/119191/"
+website: https://www.mattressfirm.com/en-us/stores/il/downers-grove/119191/

@@ -1,11 +1,11 @@
 id: 993536477
-type: way
+type: node
 latitude: 41.74708
 longitude: -88.16233
 postcode: "60565"
 city: Naperville
-street: "West 75th Street"
-housenumber: 860
-phone: "+1 630 999 0669"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://spaparis.net/"
+street: West 75th Street
+housenumber: "860"
+phone: +1 630 999 0669
+opening_hours: Mo-Su 10:00-21:00
+website: https://spaparis.net/

@@ -1,11 +1,11 @@
 id: 266950354
-type: way
+type: node
 latitude: 42.29256
 longitude: -88.42476
 postcode: "60098"
 city: Woodstock
-street: "Lake Avenue"
-housenumber: 2100
+street: Lake Avenue
+housenumber: "2100"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3191"
+website: https://www.menards.com/store-details/store.html?store=3191

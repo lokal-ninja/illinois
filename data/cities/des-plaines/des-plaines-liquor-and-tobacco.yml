@@ -1,11 +1,11 @@
 id: 1023821131
-type: way
+type: node
 latitude: 42.04116
 longitude: -87.88541
 postcode: "60016"
 city: Des Plaines
-street: "Pearson Street"
-housenumber: 
+street: Pearson Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

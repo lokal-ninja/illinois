@@ -1,11 +1,11 @@
 id: 1311882943
-type: way
+type: node
 latitude: 41.4806
 longitude: -87.75149
 postcode: "60471"
 city: Richton Park
-street: "Central Avenue"
-housenumber: 22401
-phone: "+1 708-503-0440"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1497/richton-park-il/"
+street: Central Avenue
+housenumber: "22401"
+phone: +1 708-503-0440
+opening_hours: 24/7
+website: https://www.walmart.com/store/1497/richton-park-il/

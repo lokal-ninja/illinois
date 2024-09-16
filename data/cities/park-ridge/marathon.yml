@@ -1,11 +1,11 @@
 id: 845532088
-type: way
+type: node
 latitude: 41.99625
 longitude: -87.83087
 postcode: "60068"
 city: Park Ridge
-street: "Talcott Road"
-housenumber: 525
+street: Talcott Road
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

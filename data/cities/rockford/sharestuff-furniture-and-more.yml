@@ -1,11 +1,11 @@
 id: 1135298672
-type: way
+type: node
 latitude: 42.25335
 longitude: -89.02631
 postcode: "61108"
 city: Rockford
-street: "Newburg Road"
-housenumber: 4230
+street: Newburg Road
+housenumber: "4230"
 phone: ""
 opening_hours: ""
 website: ""

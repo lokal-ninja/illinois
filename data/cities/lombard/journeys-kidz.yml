@@ -1,11 +1,11 @@
 id: 1121098231
-type: way
+type: node
 latitude: 41.83934
 longitude: -88.00716
 postcode: "60148"
 city: Lombard
-street: "Yorktown Shopping Center Rd"
-housenumber: 131
-phone: "+1 630 495 1601"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.journeys.com/store/kidz-yorktown-center"
+street: Yorktown Shopping Center Rd
+housenumber: "131"
+phone: +1 630 495 1601
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.journeys.com/store/kidz-yorktown-center

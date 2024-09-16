@@ -4,8 +4,8 @@ latitude: 41.88654
 longitude: -87.65543
 postcode: "60607"
 city: Chicago
-street: "West Fulton Market"
-housenumber: 1115
-phone: "+1-312-951-0518"
-opening_hours: "Mo-Su 11:00-19:00"
+street: West Fulton Market
+housenumber: "1115"
+phone: +1-312-951-0518
+opening_hours: Mo-Su 11:00-19:00
 website: ""

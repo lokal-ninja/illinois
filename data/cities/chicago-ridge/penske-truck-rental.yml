@@ -1,11 +1,11 @@
 id: 232950650
-type: way
+type: node
 latitude: 41.70877
 longitude: -87.79754
 postcode: "60465"
 city: Chicago Ridge
-street: "Harlem Avenue"
-housenumber: 10067
+street: Harlem Avenue
+housenumber: "10067"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 316403786
-type: way
+type: node
 latitude: 42.02093
 longitude: -88.20394
 postcode: "60107"
 city: Streamwood
-street: "South Sutton Road"
-housenumber: 630
-phone: "+1 855-489-6255"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-18:00"
-website: "https://ivyhalldispensary.com/locations/streamwood/"
+street: South Sutton Road
+housenumber: "630"
+phone: +1 855-489-6255
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-18:00
+website: https://ivyhalldispensary.com/locations/streamwood/

@@ -1,11 +1,11 @@
 id: 211175587
-type: way
+type: node
 latitude: 41.76533
 longitude: -87.58708
 postcode: "60649"
 city: Chicago
-street: "South Stony Island Avenue"
-housenumber: 7118
+street: South Stony Island Avenue
+housenumber: "7118"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/chicago/7118-s-stony-island-ave"
+website: https://stores.advanceautoparts.com/il/chicago/7118-s-stony-island-ave

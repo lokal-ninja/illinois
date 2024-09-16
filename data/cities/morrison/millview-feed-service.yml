@@ -1,11 +1,11 @@
 id: 403755976
-type: way
+type: node
 latitude: 41.93103
 longitude: -89.98816
 postcode: "61270"
 city: Morrison
-street: "Carroll Road"
-housenumber: 23987
+street: Carroll Road
+housenumber: "23987"
 phone: ""
 opening_hours: ""
 website: ""

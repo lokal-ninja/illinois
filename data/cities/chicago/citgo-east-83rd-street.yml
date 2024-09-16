@@ -1,11 +1,11 @@
 id: 211377813
-type: way
+type: node
 latitude: 41.74431
 longitude: -87.55168
 postcode: "60617"
 city: Chicago
-street: "East 83rd Street"
-housenumber: 2957
+street: East 83rd Street
+housenumber: "2957"
 phone: ""
 opening_hours: ""
 website: ""

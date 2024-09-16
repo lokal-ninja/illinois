@@ -1,11 +1,11 @@
 id: 529270603
-type: way
+type: node
 latitude: 41.63408
 longitude: -87.85284
 postcode: "60462"
 city: Orland Park
-street: "142nd Street"
-housenumber: 9504
+street: 142nd Street
+housenumber: "9504"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

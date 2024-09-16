@@ -1,11 +1,11 @@
 id: 209882067
-type: way
+type: node
 latitude: 41.93245
 longitude: -87.67784
 postcode: "60614"
 city: Chicago
-street: "West Diversey Parkway"
-housenumber: 1970
+street: West Diversey Parkway
+housenumber: "1970"
 phone: ""
 opening_hours: ""
 website: ""

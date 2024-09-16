@@ -1,11 +1,11 @@
 id: 1204437624
-type: way
+type: node
 latitude: 41.9529
 longitude: -87.81997
 postcode: "60706"
 city: Norridge
-street: "West Irving Park Road"
-housenumber: 7700
+street: West Irving Park Road
+housenumber: "7700"
 phone: ""
 opening_hours: ""
-website: "https://www.impact-fuel.com/"
+website: https://www.impact-fuel.com/

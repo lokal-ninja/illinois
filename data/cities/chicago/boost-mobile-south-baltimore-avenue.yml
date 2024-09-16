@@ -1,11 +1,11 @@
 id: 211325982
-type: way
+type: node
 latitude: 41.65377
 longitude: -87.54764
 postcode: "60633"
 city: Chicago
-street: "South Baltimore Avenue"
-housenumber: 13258
-phone: "+1-773-530-7220"
+street: South Baltimore Avenue
+housenumber: "13258"
+phone: +1-773-530-7220
 opening_hours: ""
-website: "https://boostmobile.com/"
+website: https://boostmobile.com/

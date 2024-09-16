@@ -1,11 +1,11 @@
 id: 288834423
-type: way
+type: node
 latitude: 38.73186
 longitude: -90.08332
 postcode: ""
 city: Granite City
-street: "Pontoon Road"
-housenumber: 3825
-phone: "+1-618-797-3330"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Pontoon Road
+housenumber: "3825"
+phone: +1-618-797-3330
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

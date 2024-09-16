@@ -1,11 +1,11 @@
 id: 1304723754
-type: way
+type: node
 latitude: 41.76898
 longitude: -87.62438
 postcode: "60621"
 city: Chicago
-street: "South State Street"
-housenumber: 6905
+street: South State Street
+housenumber: "6905"
 phone: ""
 opening_hours: ""
 website: ""

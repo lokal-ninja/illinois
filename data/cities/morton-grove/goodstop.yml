@@ -1,11 +1,11 @@
 id: 774537561
-type: way
+type: node
 latitude: 42.05476
 longitude: -87.80016
 postcode: "60053"
 city: Morton Grove
-street: "North Waukegan Road"
-housenumber: 9544
+street: North Waukegan Road
+housenumber: "9544"
 phone: ""
 opening_hours: ""
 website: ""

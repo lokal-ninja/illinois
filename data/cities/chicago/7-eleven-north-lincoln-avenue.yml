@@ -1,11 +1,11 @@
 id: 209486288
-type: way
+type: node
 latitude: 41.98243
 longitude: -87.6948
 postcode: "60625"
 city: Chicago
-street: "North Lincoln Avenue"
-housenumber: 5562
-phone: "+1 773-769-5320"
+street: North Lincoln Avenue
+housenumber: "5562"
+phone: +1 773-769-5320
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/5562-n-lincoln-ave-17859"
+website: https://www.7-eleven.com/locations/il/chicago/5562-n-lincoln-ave-17859

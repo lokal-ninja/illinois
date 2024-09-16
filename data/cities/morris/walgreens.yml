@@ -1,11 +1,11 @@
 id: 437690750
-type: way
+type: node
 latitude: 41.3738
 longitude: -88.42287
 postcode: "60450"
 city: Morris
-street: "Bedford Road"
-housenumber: 100
+street: Bedford Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-100+bedford+rd-morris-il-60450/id=4348"
+website: https://www.walgreens.com/locator/walgreens-100+bedford+rd-morris-il-60450/id=4348

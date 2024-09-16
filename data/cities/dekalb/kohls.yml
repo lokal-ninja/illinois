@@ -1,11 +1,11 @@
 id: 327478949
-type: way
+type: node
 latitude: 41.94751
 longitude: -88.7243
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2070
-phone: "+1 815-748-3600"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/dekalb-716.shtml"
+street: Sycamore Road
+housenumber: "2070"
+phone: +1 815-748-3600
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/dekalb-716.shtml

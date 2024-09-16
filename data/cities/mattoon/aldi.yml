@@ -1,11 +1,11 @@
 id: 936523092
-type: way
+type: node
 latitude: 39.48338
 longitude: -88.33005
 postcode: "61938"
 city: Mattoon
-street: "Ft Worth Way"
-housenumber: 1220
-phone: "+1 833-468-7037"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/mattoon/1220-fort-worth-way"
+street: Ft Worth Way
+housenumber: "1220"
+phone: +1 833-468-7037
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/mattoon/1220-fort-worth-way

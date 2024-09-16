@@ -1,11 +1,11 @@
 id: 36389657
-type: way
+type: node
 latitude: 41.99076
 longitude: -87.68338
 postcode: "60659"
 city: Chicago
-street: "West Peterson Avenue"
-housenumber: 2112
-phone: "+1 773-761-3001"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/chicago-peterson-ave/2079"
+street: West Peterson Avenue
+housenumber: "2112"
+phone: +1 773-761-3001
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/chicago-peterson-ave/2079

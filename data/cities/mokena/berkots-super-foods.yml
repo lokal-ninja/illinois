@@ -1,11 +1,11 @@
 id: 437711505
-type: way
+type: node
 latitude: 41.52519
 longitude: -87.88882
 postcode: "60448"
 city: Mokena
-street: "Wolf Road"
-housenumber: 20005
+street: Wolf Road
+housenumber: "20005"
 phone: ""
 opening_hours: ""
 website: ""

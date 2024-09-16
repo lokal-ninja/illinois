@@ -1,11 +1,11 @@
 id: 431473611
-type: way
+type: node
 latitude: 42.03964
 longitude: -87.89094
 postcode: "60016"
 city: Des Plaines
-street: "Graceland Avenue"
-housenumber: 
+street: Graceland Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

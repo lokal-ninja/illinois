@@ -4,8 +4,8 @@ latitude: 42.30608
 longitude: -88.9869
 postcode: "61114"
 city: Rockford
-street: "Spring Brook Road"
-housenumber: 6630
-phone: "+1 815-654-9769"
-opening_hours: "Mo-Th 14:00-19:00; Fr BY APPOINTMENT ONLY; Sa 09:00-18:00; Su 11:00-17:00"
+street: Spring Brook Road
+housenumber: "6630"
+phone: +1 815-654-9769
+opening_hours: Mo-Th 14:00-19:00; Fr "BY APPOINTMENT ONLY"; Sa 09:00-18:00; Su 11:00-17:00
 website: ""

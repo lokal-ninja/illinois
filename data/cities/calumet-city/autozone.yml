@@ -1,11 +1,11 @@
 id: 1294817904
-type: way
+type: node
 latitude: 41.61517
 longitude: -87.55857
 postcode: "60409"
 city: Calumet City
-street: "Torrence Avenue"
-housenumber: 701
+street: Torrence Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/calumet-city/701-torrence-ave.html"
+website: https://www.autozone.com/locations/il/calumet-city/701-torrence-ave.html

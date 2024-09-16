@@ -1,11 +1,11 @@
 id: 912886878
-type: way
+type: node
 latitude: 42.34928
 longitude: -88.851
 postcode: "61065"
 city: Poplar Grove
-street: "IL-26"
-housenumber: 13615
+street: IL-26
+housenumber: "13615"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

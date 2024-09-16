@@ -1,11 +1,11 @@
 id: 273844044
-type: way
+type: node
 latitude: 41.51809
 longitude: -87.98463
 postcode: "60451"
 city: New Lenox
-street: "Nelson Road"
-housenumber: 466
+street: Nelson Road
+housenumber: "466"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-466+nelson+rd-new+lenox-il-60451/id=4032"
+website: https://www.walgreens.com/locator/walgreens-466+nelson+rd-new+lenox-il-60451/id=4032

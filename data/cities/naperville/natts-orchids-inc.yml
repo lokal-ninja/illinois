@@ -1,11 +1,11 @@
 id: 992589651
-type: way
+type: node
 latitude: 41.69395
 longitude: -88.22144
 postcode: "60564"
 city: Naperville
-street: "103rd Street"
-housenumber: 24645
-phone: "+1 630 904 0947"
+street: 103rd Street
+housenumber: "24645"
+phone: +1 630 904 0947
 opening_hours: ""
-website: "https://www.nattsorchids.com/"
+website: https://www.nattsorchids.com/

@@ -1,11 +1,11 @@
 id: 384380859
-type: way
+type: node
 latitude: 42.27177
 longitude: -88.85878
 postcode: "61008"
 city: Belvidere
-street: "Wolf Road"
-housenumber: 
+street: Wolf Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

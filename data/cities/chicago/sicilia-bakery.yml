@@ -1,11 +1,11 @@
 id: 797280119
-type: way
+type: node
 latitude: 41.96756
 longitude: -87.77654
 postcode: "60630"
 city: Chicago
-street: "West Lawrence Avenue"
-housenumber: 5939
-phone: "+1-773-545-4464"
+street: West Lawrence Avenue
+housenumber: "5939"
+phone: +1-773-545-4464
 opening_hours: ""
-website: "https://www.siciliabakerychicago.com/"
+website: https://www.siciliabakerychicago.com/

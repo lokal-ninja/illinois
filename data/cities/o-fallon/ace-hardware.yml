@@ -1,11 +1,11 @@
 id: 301706523
-type: way
+type: node
 latitude: 38.58368
 longitude: -89.90905
-postcode: "62269-2685"
+postcode: 62269-2685
 city: O Fallon
-street: "Southview Plaza"
-housenumber: 600
-phone: "+1 618-628-7200"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
+street: Southview Plaza
+housenumber: "600"
+phone: +1 618-628-7200
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
 website: ""

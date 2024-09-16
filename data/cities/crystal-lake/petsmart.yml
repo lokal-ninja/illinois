@@ -1,11 +1,11 @@
 id: 1255706531
-type: way
+type: node
 latitude: 42.22257
 longitude: -88.28518
 postcode: "60014"
 city: Crystal Lake
-street: "Northwest Highway"
-housenumber: 4464
-phone: "+1 815-479-8059"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/crystal-lake-store0477.html"
+street: Northwest Highway
+housenumber: "4464"
+phone: +1 815-479-8059
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/crystal-lake-store0477.html

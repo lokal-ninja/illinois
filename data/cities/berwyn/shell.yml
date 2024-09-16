@@ -1,11 +1,11 @@
 id: 1155323324
-type: way
+type: node
 latitude: 41.86478
 longitude: -87.80379
 postcode: "60402"
 city: Berwyn
-street: "West Roosevelt Road"
-housenumber: 7143
+street: West Roosevelt Road
+housenumber: "7143"
 phone: ""
 opening_hours: ""
 website: ""

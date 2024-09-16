@@ -1,11 +1,11 @@
 id: 211362262
-type: way
+type: node
 latitude: 41.72927
 longitude: -87.55139
 postcode: "60617"
 city: Chicago
-street: "South Commercial Avenue"
-housenumber: 9124
+street: South Commercial Avenue
+housenumber: "9124"
 phone: ""
 opening_hours: ""
 website: ""

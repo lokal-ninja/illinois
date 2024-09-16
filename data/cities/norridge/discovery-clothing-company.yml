@@ -1,11 +1,11 @@
 id: 1095523078
-type: way
+type: node
 latitude: 41.96262
 longitude: -87.80994
 postcode: "60706"
 city: Norridge
-street: "North Harlem Avenue"
-housenumber: 4518
+street: North Harlem Avenue
+housenumber: "4518"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 209592094
-type: way
+type: node
 latitude: 42.00819
 longitude: -87.69063
 postcode: "60645"
 city: Chicago
-street: "North Western Avenue"
-housenumber: 6942
-phone: "+1 773-743-1902"
+street: North Western Avenue
+housenumber: "6942"
+phone: +1 773-743-1902
 opening_hours: ""
-website: "https://www.truevalue.com/chicagocoast"
+website: https://www.truevalue.com/chicagocoast

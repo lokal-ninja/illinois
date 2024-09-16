@@ -1,11 +1,11 @@
 id: 25014684
-type: way
+type: node
 latitude: 41.39722
 longitude: -89.46329
 postcode: "61356"
 city: Princeton
-street: "Claude Bailey Parkway"
-housenumber: 2111
-phone: "+1 815-875-4521"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/636/princeton-il/whats-new"
+street: Claude Bailey Parkway
+housenumber: "2111"
+phone: +1 815-875-4521
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/636/princeton-il/whats-new

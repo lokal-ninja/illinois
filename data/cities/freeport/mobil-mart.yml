@@ -1,11 +1,11 @@
 id: 541799001
-type: way
+type: node
 latitude: 42.27829
 longitude: -89.63241
 postcode: "61032"
 city: Freeport
-street: "South West Avenue"
-housenumber: 1730
-phone: "+1-815-233-9744"
+street: South West Avenue
+housenumber: "1730"
+phone: +1-815-233-9744
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200312197"
+website: https://www.exxon.com/en/find-station/200312197

@@ -1,11 +1,11 @@
 id: 1306998304
-type: way
+type: node
 latitude: 41.51418
 longitude: -87.96987
 postcode: "60451"
 city: New Lenox
-street: "West Maple Street"
-housenumber: 306
-phone: "+1 815-717-8706"
+street: West Maple Street
+housenumber: "306"
+phone: +1 815-717-8706
 opening_hours: ""
-website: "https://simonphilipsmenshairsalon.com/"
+website: https://simonphilipsmenshairsalon.com/

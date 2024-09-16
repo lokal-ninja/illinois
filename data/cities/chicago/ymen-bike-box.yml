@@ -1,11 +1,11 @@
 id: 1011932743
-type: way
+type: node
 latitude: 41.86419
 longitude: -87.72551
 postcode: "60624"
 city: Chicago
-street: "South Pulaski Road"
-housenumber: 1300
+street: South Pulaski Road
+housenumber: "1300"
 phone: ""
 opening_hours: ""
-website: "https://www.ymenchicago.com"
+website: https://www.ymenchicago.com

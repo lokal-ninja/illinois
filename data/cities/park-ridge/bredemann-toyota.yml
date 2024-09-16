@@ -1,11 +1,11 @@
 id: 205593968
-type: way
+type: node
 latitude: 42.03912
 longitude: -87.84297
 postcode: "60068"
 city: Park Ridge
-street: "Dempster Street"
-housenumber: 1301
+street: Dempster Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 163906552
-type: way
+type: node
 latitude: 41.9446
 longitude: -87.71411
 postcode: "60618"
 city: Chicago
-street: "North Kimball Avenue"
-housenumber: 3500
-phone: "+1 773-463-6306"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Kimball-Addison/IL/Chicago/60618/1980"
+street: North Kimball Avenue
+housenumber: "3500"
+phone: +1 773-463-6306
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Kimball-Addison/IL/Chicago/60618/1980

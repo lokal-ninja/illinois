@@ -1,11 +1,11 @@
 id: 769764173
-type: way
+type: node
 latitude: 38.91595
 longitude: -90.14491
 postcode: "62002"
 city: Alton
-street: "Homer M Adams Parkway"
-housenumber: 2822
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/alton/2822-homer-adams-parkway"
+street: Homer M Adams Parkway
+housenumber: "2822"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/alton/2822-homer-adams-parkway

@@ -4,8 +4,8 @@ latitude: 41.79511
 longitude: -87.58512
 postcode: "60615"
 city: Chicago
-street: "East 55th Street"
-housenumber: 1635
+street: East 55th Street
+housenumber: "1635"
 phone: "+17734964327"
-opening_hours: "Mo-Su 08:00-24:00"
-website: "https://openproduce.org/"
+opening_hours: Mo-Su 08:00-24:00
+website: https://openproduce.org/

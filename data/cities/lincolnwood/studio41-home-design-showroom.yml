@@ -1,11 +1,11 @@
 id: 1065999669
-type: way
+type: node
 latitude: 42.0116
 longitude: -87.74719
 postcode: "60712"
 city: Lincolnwood
-street: "West Touhy Avenue"
-housenumber: 4767
+street: West Touhy Avenue
+housenumber: "4767"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 417537206
-type: way
+type: node
 latitude: 40.1487
 longitude: -88.97647
 postcode: "61727"
 city: Clinton
-street: "Clinton Plaza"
-housenumber: 10
-phone: "+1 217-935-8588"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Clinton Plaza
+housenumber: "10"
+phone: +1 217-935-8588
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

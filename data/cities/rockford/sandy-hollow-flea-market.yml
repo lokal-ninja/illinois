@@ -1,11 +1,11 @@
 id: 772217880
-type: way
+type: node
 latitude: 42.22349
 longitude: -89.03218
 postcode: "61109"
 city: Rockford
-street: "Sandy Hollow Road"
-housenumber: 3913
-phone: "+1-815-378-8492"
+street: Sandy Hollow Road
+housenumber: "3913"
+phone: +1-815-378-8492
 opening_hours: ""
 website: ""

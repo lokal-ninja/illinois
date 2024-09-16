@@ -1,11 +1,11 @@
 id: 1205361476
-type: way
+type: node
 latitude: 42.03407
 longitude: -87.75041
 postcode: "60077"
 city: Skokie
-street: "Main Street"
-housenumber: 4900
+street: Main Street
+housenumber: "4900"
 phone: ""
 opening_hours: ""
-website: "https://ecchicago.com/"
+website: https://ecchicago.com/

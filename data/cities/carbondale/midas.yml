@@ -1,11 +1,11 @@
 id: 875392437
-type: way
+type: node
 latitude: 37.72893
 longitude: -89.20268
 postcode: "62901"
 city: Carbondale
-street: "East Main Street"
-housenumber: 900
-phone: "+1-618-319-4881"
+street: East Main Street
+housenumber: "900"
+phone: +1-618-319-4881
 opening_hours: ""
-website: "https://www.midas.com/carbondale/store.aspx?shopnum=2988"
+website: https://www.midas.com/carbondale/store.aspx?shopnum=2988

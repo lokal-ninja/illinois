@@ -1,11 +1,11 @@
 id: 334837313
-type: way
+type: node
 latitude: 42.38379
 longitude: -87.99435
 postcode: "60031"
 city: Gurnee
-street: "West Grand Avenue"
-housenumber: 7735
+street: West Grand Avenue
+housenumber: "7735"
 phone: ""
 opening_hours: ""
 website: ""

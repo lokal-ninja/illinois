@@ -1,11 +1,11 @@
 id: 209810267
-type: way
+type: node
 latitude: 41.85786
 longitude: -87.66762
 postcode: "60608"
 city: Chicago
-street: "West 18th Street"
-housenumber: 1634
-phone: "+1-312-243-5977"
+street: West 18th Street
+housenumber: "1634"
+phone: +1-312-243-5977
 opening_hours: ""
-website: "http://www.panaderianuevoleonpilsen.com/"
+website: http://www.panaderianuevoleonpilsen.com/

@@ -1,11 +1,11 @@
 id: 1035422875
-type: way
+type: node
 latitude: 41.6823
 longitude: -88.20857
 postcode: "60564"
 city: Naperville
-street: "111th Street"
-housenumber: 3111
-phone: "+1 630-416-4864"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/naperville-store1884.html"
+street: 111th Street
+housenumber: "3111"
+phone: +1 630-416-4864
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/naperville-store1884.html

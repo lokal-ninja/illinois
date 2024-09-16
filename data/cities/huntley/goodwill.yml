@@ -1,11 +1,11 @@
 id: 414846037
-type: way
+type: node
 latitude: 42.15445
 longitude: -88.42829
 postcode: "60142"
 city: Huntley
-street: "Kreutzer Road"
-housenumber: 11900
-phone: "+1-847-669-9338"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://goodwillni.org/store/huntley/"
+street: Kreutzer Road
+housenumber: "11900"
+phone: +1-847-669-9338
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://goodwillni.org/store/huntley/

@@ -4,8 +4,8 @@ latitude: 42.31834
 longitude: -88.99058
 postcode: "61114"
 city: Loves Park
-street: "East Riverside Boulevard"
-housenumber: 6451 #106
-phone: "+1-815-316-2468"
+street: East Riverside Boulevard
+housenumber: '6451 #106'
+phone: +1-815-316-2468
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1154584587
-type: way
+type: node
 latitude: 38.49882
 longitude: -89.79371
 postcode: "62258"
 city: Mascoutah
-street: "North Jefferson Street"
-housenumber: 751
-phone: "+1-618-714-1107"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://locations.oreillyauto.com/il/mascoutah/autoparts-5953.html"
+street: North Jefferson Street
+housenumber: "751"
+phone: +1-618-714-1107
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://locations.oreillyauto.com/il/mascoutah/autoparts-5953.html

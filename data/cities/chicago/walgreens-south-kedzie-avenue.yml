@@ -1,11 +1,11 @@
 id: 165145725
-type: way
+type: node
 latitude: 41.794
 longitude: -87.70305
 postcode: "60632"
 city: Chicago
-street: "South Kedzie Avenue"
-housenumber: 5435
+street: South Kedzie Avenue
+housenumber: "5435"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5435+s+kedzie+ave-chicago-il-60632/id=5234"
+website: https://www.walgreens.com/locator/walgreens-5435+s+kedzie+ave-chicago-il-60632/id=5234

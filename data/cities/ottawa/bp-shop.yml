@@ -1,11 +1,11 @@
 id: 767962651
-type: way
+type: node
 latitude: 41.37949
 longitude: -88.83652
 postcode: "61350"
 city: Ottawa
-street: "Columbus Street"
-housenumber: 4105
-phone: "+1-815-434-9132"
+street: Columbus Street
+housenumber: "4105"
+phone: +1-815-434-9132
 opening_hours: ""
-website: "https://www.bp.com/"
+website: https://www.bp.com/

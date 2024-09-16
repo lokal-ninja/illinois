@@ -1,11 +1,11 @@
 id: 244973016
-type: way
+type: node
 latitude: 42.36515
 longitude: -89.02441
 postcode: "61115"
 city: Machesney Park
-street: "West Lane Road"
-housenumber: 1539
-phone: "+1 815-633-8112"
+street: West Lane Road
+housenumber: "1539"
+phone: +1 815-633-8112
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/machesney-park/1539-w-lane-rd"
+website: https://stores.advanceautoparts.com/il/machesney-park/1539-w-lane-rd

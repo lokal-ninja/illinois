@@ -1,11 +1,11 @@
 id: 245920179
-type: way
+type: node
 latitude: 41.51321
 longitude: -87.73207
 postcode: "60443"
 city: Matteson
-street: "Cicero Avenue"
-housenumber: 20713
-phone: "+1 833-462-1052"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/matteson/20713-south-cicero-avenue"
+street: Cicero Avenue
+housenumber: "20713"
+phone: +1 833-462-1052
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/matteson/20713-south-cicero-avenue

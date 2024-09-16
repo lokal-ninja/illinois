@@ -4,8 +4,8 @@ latitude: 41.61691
 longitude: -87.55944
 postcode: "60409"
 city: Calumet City
-street: "Torrence Avenue"
-housenumber: 654
+street: Torrence Avenue
+housenumber: "654"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/il/calumet-city/654-torrence-ave"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/il/calumet-city/654-torrence-ave

@@ -1,11 +1,11 @@
 id: 39256795
-type: way
+type: node
 latitude: 42.03887
 longitude: -87.6809
 postcode: "60202"
 city: Evanston
-street: "Chicago Avenue"
-housenumber: 1128
-phone: "+1 847-869-7950"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/evanston/1128-chicago-ave.html"
+street: Chicago Avenue
+housenumber: "1128"
+phone: +1 847-869-7950
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/evanston/1128-chicago-ave.html

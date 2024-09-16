@@ -1,11 +1,11 @@
 id: 616677732
-type: way
+type: node
 latitude: 40.11343
 longitude: -88.20297
 postcode: "61802"
 city: Urbana
-street: "North Vine Street"
-housenumber: 114
+street: North Vine Street
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

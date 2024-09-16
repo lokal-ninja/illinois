@@ -1,11 +1,11 @@
 id: 201715097
-type: way
+type: node
 latitude: 42.24728
 longitude: -88.97506
 postcode: "61112"
 city: Cherry Valley
-street: "Harrison Avanue"
-housenumber: 7200
-phone: "+1 815-332-2440"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00; PH closed"
-website: "https://www.shopcherryvalemall.com/"
+street: Harrison Avanue
+housenumber: "7200"
+phone: +1 815-332-2440
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00; PH closed
+website: https://www.shopcherryvalemall.com/

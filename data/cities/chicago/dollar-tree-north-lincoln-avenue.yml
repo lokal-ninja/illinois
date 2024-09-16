@@ -4,8 +4,8 @@ latitude: 41.97893
 longitude: -87.6921
 postcode: "60625"
 city: Chicago
-street: "North Lincoln Avenue"
-housenumber: 5347
+street: North Lincoln Avenue
+housenumber: "5347"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/chicago/4693/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/chicago/4693/

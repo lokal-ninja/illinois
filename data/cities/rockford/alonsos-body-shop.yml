@@ -1,11 +1,11 @@
 id: 822922859
-type: way
+type: node
 latitude: 42.28184
 longitude: -89.09994
 postcode: "61101"
 city: Rockford
-street: "Kilburn Avenue"
-housenumber: 917
-phone: "+1-815-965-3010"
+street: Kilburn Avenue
+housenumber: "917"
+phone: +1-815-965-3010
 opening_hours: ""
 website: ""

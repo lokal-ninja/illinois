@@ -1,11 +1,11 @@
 id: 163946146
-type: way
+type: node
 latitude: 41.95823
 longitude: -87.70873
 postcode: "60618"
 city: Chicago
-street: "North Kedzie Avenue"
-housenumber: 4234
+street: North Kedzie Avenue
+housenumber: "4234"
 phone: ""
 opening_hours: ""
-website: "https://www.cermakfreshmarket.com/cermak-6-4234-n-kedzie-ave-chicago"
+website: https://www.cermakfreshmarket.com/cermak-6-4234-n-kedzie-ave-chicago

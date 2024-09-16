@@ -1,11 +1,11 @@
 id: 211173735
-type: way
+type: node
 latitude: 41.7656
 longitude: -87.59004
 postcode: "60619"
 city: Chicago
-street: "East 71st Street"
-housenumber: 1425
+street: East 71st Street
+housenumber: "1425"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/19093"
+website: https://www.dollargeneral.com/store-directory/il/chicago/19093

@@ -1,11 +1,11 @@
 id: 93463902
-type: way
+type: node
 latitude: 41.16233
 longitude: -87.84592
 postcode: "60915"
 city: Bradley
-street: "Christine Drive"
-housenumber: 1260
+street: Christine Drive
+housenumber: "1260"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3093"
+website: https://www.menards.com/store-details/store.html?store=3093

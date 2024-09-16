@@ -1,11 +1,11 @@
 id: 451243231
-type: way
+type: node
 latitude: 38.62791
 longitude: -88.94258
 postcode: "62881"
 city: Salem
-street: "East Main Street"
-housenumber: 406
-phone: "+1 618-548-0420"
+street: East Main Street
+housenumber: "406"
+phone: +1 618-548-0420
 opening_hours: ""
 website: ""

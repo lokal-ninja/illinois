@@ -1,11 +1,11 @@
 id: 318899685
-type: way
+type: node
 latitude: 42.00536
 longitude: -88.1457
 postcode: "60133"
 city: Hanover Park
-street: "Barrington Road"
-housenumber: 7350
+street: Barrington Road
+housenumber: "7350"
 phone: ""
-opening_hours: "06:00-24:00"
-website: "https://www.walgreens.com/locator/walgreens-7350+barrington+rd-hanover+park-il-60133/id=3729"
+opening_hours: 06:00-24:00
+website: https://www.walgreens.com/locator/walgreens-7350+barrington+rd-hanover+park-il-60133/id=3729

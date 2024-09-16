@@ -1,11 +1,11 @@
 id: 1232236507
-type: way
+type: node
 latitude: 41.82479
 longitude: -87.7442
 postcode: "60804"
 city: Stickney
-street: "South Cicero Avenue"
-housenumber: 3738
+street: South Cicero Avenue
+housenumber: "3738"
 phone: ""
 opening_hours: ""
 website: ""

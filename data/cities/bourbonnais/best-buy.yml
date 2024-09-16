@@ -1,11 +1,11 @@
 id: 103943806
-type: way
+type: node
 latitude: 41.1729
 longitude: -87.85075
 postcode: "60914"
 city: Bourbonnais
-street: "North State Route 50"
-housenumber: 1584
-phone: "+1 815-932-2995"
+street: North State Route 50
+housenumber: "1584"
+phone: +1 815-932-2995
 opening_hours: ""
-website: "https://stores.bestbuy.com/il/bourbonnais/1584-n-state-route-50-1123.html"
+website: https://stores.bestbuy.com/il/bourbonnais/1584-n-state-route-50-1123.html

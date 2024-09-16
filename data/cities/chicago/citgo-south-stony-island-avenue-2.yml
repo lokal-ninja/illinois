@@ -1,11 +1,11 @@
 id: 211124539
-type: way
+type: node
 latitude: 41.74383
 longitude: -87.58631
 postcode: "60617"
 city: Chicago
-street: "South Stony Island Avenue"
-housenumber: 8300
+street: South Stony Island Avenue
+housenumber: "8300"
 phone: ""
 opening_hours: ""
-website: "https://www.citgo.com/station-locator?search=8300+South+Stony+Island+Avenue,+Chicago,+Illinois+60617,+United+States"
+website: https://www.citgo.com/station-locator?search=8300+South+Stony+Island+Avenue,+Chicago,+Illinois+60617,+United+States

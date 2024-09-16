@@ -1,11 +1,11 @@
 id: 43748223
-type: way
+type: node
 latitude: 41.57738
 longitude: -88.16555
 postcode: ""
 city: Joliet
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/il/joliet/louis-joliet-mall_280.html"
+website: https://www.macys.com/stores/il/joliet/louis-joliet-mall_280.html

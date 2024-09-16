@@ -1,11 +1,11 @@
 id: 112549319
-type: way
+type: node
 latitude: 42.17222
 longitude: -88.33897
 postcode: "60102"
 city: Algonquin
-street: "South Randall Road"
-housenumber: 200
-phone: "+1 847-854-1100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Algonquin/IL/Algonquin/60102/1940"
+street: South Randall Road
+housenumber: "200"
+phone: +1 847-854-1100
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Algonquin/IL/Algonquin/60102/1940

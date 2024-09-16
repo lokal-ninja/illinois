@@ -1,11 +1,11 @@
 id: 1232829056
-type: way
+type: node
 latitude: 41.72081
 longitude: -87.70685
 postcode: "60805"
 city: Evergreen Park
-street: "West 95th Street"
-housenumber: 3404
-phone: "+1 708-422-8765"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:30; Su 09:00-16:30"
+street: West 95th Street
+housenumber: "3404"
+phone: +1 708-422-8765
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:30; Su 09:00-16:30
 website: ""

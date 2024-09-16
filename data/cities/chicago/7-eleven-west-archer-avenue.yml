@@ -1,11 +1,11 @@
 id: 162855962
-type: way
+type: node
 latitude: 41.79181
 longitude: -87.78645
 postcode: "60638"
 city: Chicago
-street: "West Archer Avenue"
-housenumber: 6559
-phone: "+1 773-788-1987"
+street: West Archer Avenue
+housenumber: "6559"
+phone: +1 773-788-1987
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/6559-w-archer-ave-26878"
+website: https://www.7-eleven.com/locations/il/chicago/6559-w-archer-ave-26878

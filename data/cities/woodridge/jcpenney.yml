@@ -1,11 +1,11 @@
 id: 546143200
-type: way
+type: node
 latitude: 41.75405
 longitude: -88.03301
 postcode: "60517"
 city: Woodridge
-street: "Woodward Avenue"
-housenumber: 7400
-phone: "+1 630 3532800"
+street: Woodward Avenue
+housenumber: "7400"
+phone: +1 630 3532800
 opening_hours: ""
-website: "https://www.jcpenney.com/"
+website: https://www.jcpenney.com/

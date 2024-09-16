@@ -1,11 +1,11 @@
 id: 616130510
-type: way
+type: node
 latitude: 42.05624
 longitude: -87.80146
 postcode: "60053"
 city: Morton Grove
-street: "Golf Road"
-housenumber: 7000
+street: Golf Road
+housenumber: "7000"
 phone: ""
 opening_hours: ""
 website: ""

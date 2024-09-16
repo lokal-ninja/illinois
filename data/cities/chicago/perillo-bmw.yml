@@ -1,11 +1,11 @@
 id: 210679204
-type: way
+type: node
 latitude: 41.90115
 longitude: -87.63067
 postcode: "60610"
 city: Chicago
-street: "North Clark Street"
-housenumber: 1035
-phone: "+1-312-981-0000"
+street: North Clark Street
+housenumber: "1035"
+phone: +1-312-981-0000
 opening_hours: ""
-website: "https://www.perillobmw.com/"
+website: https://www.perillobmw.com/

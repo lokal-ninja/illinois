@@ -4,8 +4,8 @@ latitude: 39.78105
 longitude: -89.668
 postcode: "62704"
 city: Springfield
-street: "South MacArthur Boulevard"
-housenumber: 1812
-phone: "+1-217-416-6185"
-opening_hours: "Mo,Sa 09:00-13:00; Tu-Th 09:00-17:30; Fr 09:00-19:00"
+street: South MacArthur Boulevard
+housenumber: "1812"
+phone: +1-217-416-6185
+opening_hours: Mo,Sa 09:00-13:00; Tu-Th 09:00-17:30; Fr 09:00-19:00
 website: ""

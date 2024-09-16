@@ -1,11 +1,11 @@
 id: 655253774
-type: way
+type: node
 latitude: 42.28812
 longitude: -89.07953
 postcode: "61103"
 city: Rockford
-street: "Toner Avenue"
-housenumber: 513
+street: Toner Avenue
+housenumber: "513"
 phone: ""
 opening_hours: ""
 website: ""

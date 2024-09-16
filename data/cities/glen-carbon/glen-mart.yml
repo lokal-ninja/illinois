@@ -1,11 +1,11 @@
 id: 1216673443
-type: way
+type: node
 latitude: 38.75066
 longitude: -90.0062
 postcode: "62034"
 city: Glen Carbon
-street: "The Game Drive"
-housenumber: 4
+street: The Game Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

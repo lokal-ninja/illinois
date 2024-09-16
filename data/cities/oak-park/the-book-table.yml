@@ -4,8 +4,8 @@ latitude: 41.88853
 longitude: -87.80202
 postcode: "60301"
 city: Oak Park
-street: "Lake Street"
-housenumber: 1045
-phone: "+1-708-386-9800"
-opening_hours: "Mo-Sa 09:00-19:30; Su 11:00-18:00"
-website: "https://www.booktable.net/"
+street: Lake Street
+housenumber: "1045"
+phone: +1-708-386-9800
+opening_hours: Mo-Sa 09:00-19:30; Su 11:00-18:00
+website: https://www.booktable.net/

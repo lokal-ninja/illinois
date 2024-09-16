@@ -1,11 +1,11 @@
 id: 63060000
-type: way
+type: node
 latitude: 41.66418
 longitude: -88.43918
 postcode: "60560"
 city: Yorkville
-street: "Marketview Drive"
-housenumber: 1800
+street: Marketview Drive
+housenumber: "1800"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3164"
+website: https://www.menards.com/store-details/store.html?store=3164

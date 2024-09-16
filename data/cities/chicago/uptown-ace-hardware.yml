@@ -4,8 +4,8 @@ latitude: 41.96663
 longitude: -87.65862
 postcode: "60640"
 city: Chicago
-street: "North Broadway"
-housenumber: 4654
-phone: "+1 773-334-7146"
-opening_hours: "Mo-Sa 08:00-16:00"
-website: "https://www.acehardware.com/store-details/00248"
+street: North Broadway
+housenumber: "4654"
+phone: +1 773-334-7146
+opening_hours: Mo-Sa 08:00-16:00
+website: https://www.acehardware.com/store-details/00248

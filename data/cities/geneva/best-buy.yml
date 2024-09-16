@@ -1,11 +1,11 @@
 id: 109337902
-type: way
+type: node
 latitude: 41.86821
 longitude: -88.34361
 postcode: "60134"
 city: Geneva
-street: "South Randall Road"
-housenumber: 1876
-phone: "+1 630-845-1986"
+street: South Randall Road
+housenumber: "1876"
+phone: +1 630-845-1986
 opening_hours: ""
-website: "https://stores.bestbuy.com/il/geneva/1876-s-randall-rd-387.html"
+website: https://stores.bestbuy.com/il/geneva/1876-s-randall-rd-387.html

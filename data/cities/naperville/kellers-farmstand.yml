@@ -1,11 +1,11 @@
 id: 1028767898
-type: way
+type: node
 latitude: 41.71034
 longitude: -88.1544
 postcode: "60565"
 city: Naperville
-street: "Knoch Knolls Road"
-housenumber: 516
+street: Knoch Knolls Road
+housenumber: "516"
 phone: ""
 opening_hours: ""
-website: "https://www.kellersfarmstand.com/"
+website: https://www.kellersfarmstand.com/

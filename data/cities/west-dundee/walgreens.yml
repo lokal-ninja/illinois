@@ -1,11 +1,11 @@
 id: 92249973
-type: way
+type: node
 latitude: 42.09891
 longitude: -88.28809
 postcode: "60118"
 city: West Dundee
-street: "West Main Street"
-housenumber: 810
+street: West Main Street
+housenumber: "810"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-810+w+main+st-west+dundee-il-60118/id=4258"
+website: https://www.walgreens.com/locator/walgreens-810+w+main+st-west+dundee-il-60118/id=4258

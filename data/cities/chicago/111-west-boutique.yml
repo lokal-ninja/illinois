@@ -4,8 +4,8 @@ latitude: 41.69162
 longitude: -87.68072
 postcode: "60643"
 city: Chicago
-street: "West 111th Street"
-housenumber: 2355
-phone: "+1-773-598-0479"
-opening_hours: "Mo-Su 10:00-22:00"
+street: West 111th Street
+housenumber: "2355"
+phone: +1-773-598-0479
+opening_hours: Mo-Su 10:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.94028
 longitude: -87.65077
 postcode: "60657"
 city: Chicago
-street: "North Clark Street"
-housenumber: 3209
-phone: "+1-773-354-2180"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00"
-website: "https://amigosandus.com/"
+street: North Clark Street
+housenumber: "3209"
+phone: +1-773-354-2180
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00
+website: https://amigosandus.com/

@@ -1,11 +1,11 @@
 id: 227951291
-type: way
+type: node
 latitude: 42.17599
 longitude: -88.07674
 postcode: "60047"
 city: Lake Zurich
-street: "West Cuba Road"
-housenumber: 
+street: West Cuba Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1285+s+rand+rd-lake+zurich-il-60047/id=2213"
+website: https://www.walgreens.com/locator/walgreens-1285+s+rand+rd-lake+zurich-il-60047/id=2213

@@ -1,11 +1,11 @@
 id: 155730198
-type: way
+type: node
 latitude: 39.48051
 longitude: -88.37818
 postcode: "61938"
 city: Mattoon
-street: "Charleston Avenue"
-housenumber: 1913
+street: Charleston Avenue
+housenumber: "1913"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30"
-website: "https://www.kcsummers.com/"
+opening_hours: Mo-Fr 08:00-18:30
+website: https://www.kcsummers.com/

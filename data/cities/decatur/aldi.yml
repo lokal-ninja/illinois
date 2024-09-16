@@ -1,11 +1,11 @@
 id: 707365138
-type: way
+type: node
 latitude: 39.81692
 longitude: -88.87937
 postcode: "62521"
 city: Decatur
-street: "South Mount Zion Road"
-housenumber: 2075
-phone: "+1 833-468-7028"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/decatur/2075-mount-zion-road"
+street: South Mount Zion Road
+housenumber: "2075"
+phone: +1 833-468-7028
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/decatur/2075-mount-zion-road

@@ -1,11 +1,11 @@
 id: 259220749
-type: way
+type: node
 latitude: 41.94044
 longitude: -88.1366
 postcode: "60108"
 city: Bloomingdale
-street: "West Army Trail Road"
-housenumber: 525
-phone: "+1 833-440-1025"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/bloomingdale/525-west-army-trail-road"
+street: West Army Trail Road
+housenumber: "525"
+phone: +1 833-440-1025
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/bloomingdale/525-west-army-trail-road

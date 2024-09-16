@@ -1,11 +1,11 @@
 id: 162929066
-type: way
+type: node
 latitude: 41.79252
 longitude: -87.78725
 postcode: "60638"
 city: Chicago
-street: "West Archer Avenue"
-housenumber: 6600
+street: West Archer Avenue
+housenumber: "6600"
 phone: ""
 opening_hours: ""
 website: ""

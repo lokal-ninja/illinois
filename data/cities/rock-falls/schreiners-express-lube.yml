@@ -1,11 +1,11 @@
 id: 772037268
-type: way
+type: node
 latitude: 41.76919
 longitude: -89.68984
 postcode: "61071"
 city: Rock Falls
-street: "1st Avenue"
-housenumber: 1300
-phone: "+1-815-625-1220"
+street: 1st Avenue
+housenumber: "1300"
+phone: +1-815-625-1220
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 517483574
-type: way
+type: node
 latitude: 42.22615
 longitude: -88.32777
 postcode: "60014"
 city: Crystal Lake
-street: "Virginia Road"
-housenumber: 177
-phone: "+1-815-444-4603"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/crystal-lake-il-pharmacies/177-west-virginia-street-crystal-lake-il-60014/storeid=10628"
+street: Virginia Road
+housenumber: "177"
+phone: +1-815-444-4603
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/crystal-lake-il-pharmacies/177-west-virginia-street-crystal-lake-il-60014/storeid=10628

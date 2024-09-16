@@ -1,11 +1,11 @@
 id: 1200700934
-type: way
+type: node
 latitude: 41.92084
 longitude: -87.94124
 postcode: "60126"
 city: Elmhurst
-street: "North York Street"
-housenumber: 678
+street: North York Street
+housenumber: "678"
 phone: ""
 opening_hours: ""
 website: ""

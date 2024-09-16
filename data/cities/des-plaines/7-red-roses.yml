@@ -1,11 +1,11 @@
 id: 380607211
-type: way
+type: node
 latitude: 42.04192
 longitude: -87.8879
 postcode: "60016"
 city: Des Plaines
-street: "Miner Street"
-housenumber: 1452
-phone: "+1-847-635-8755"
+street: Miner Street
+housenumber: "1452"
+phone: +1-847-635-8755
 opening_hours: ""
-website: "https://www.sevenredroses.com/"
+website: https://www.sevenredroses.com/

@@ -4,8 +4,8 @@ latitude: 39.77606
 longitude: -89.67003
 postcode: "62704"
 city: Springfield
-street: "South MacArthur Boulevard"
-housenumber: 2115
-phone: "+1-217-726-1001"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.hy-vee.com/stores/detail.aspx?s=1438"
+street: South MacArthur Boulevard
+housenumber: "2115"
+phone: +1-217-726-1001
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.hy-vee.com/stores/detail.aspx?s=1438

@@ -1,11 +1,11 @@
 id: 256465128
-type: way
+type: node
 latitude: 42.3434
 longitude: -89.05208
 postcode: "61111"
 city: Machesney Park
-street: "North 2nd Street"
-housenumber: 8332
+street: North 2nd Street
+housenumber: "8332"
 phone: ""
 opening_hours: ""
 website: ""

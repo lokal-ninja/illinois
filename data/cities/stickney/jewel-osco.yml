@@ -1,11 +1,11 @@
 id: 224933774
-type: way
+type: node
 latitude: 41.82032
 longitude: -87.80171
 postcode: "60402"
 city: Stickney
-street: "40th Street"
-housenumber: 7122
-phone: "+1 708-484-8421"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/stickney/7122-40th-st.html"
+street: 40th Street
+housenumber: "7122"
+phone: +1 708-484-8421
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/stickney/7122-40th-st.html

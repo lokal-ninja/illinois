@@ -1,11 +1,11 @@
 id: 734984616
-type: way
+type: node
 latitude: 39.84278
 longitude: -89.02474
 postcode: "62522"
 city: Decatur
-street: "West Main Street"
-housenumber: 4210
-phone: "+1-217-428-7661"
+street: West Main Street
+housenumber: "4210"
+phone: +1-217-428-7661
 opening_hours: ""
-website: "https://dunnautobody.com/"
+website: https://dunnautobody.com/

@@ -1,11 +1,11 @@
 id: 1029167545
-type: way
+type: node
 latitude: 41.7492
 longitude: -87.76004
 postcode: "60459"
 city: Burbank
-street: "79th Street"
-housenumber: 5550
-phone: "+1 708 529 1784"
+street: 79th Street
+housenumber: "5550"
+phone: +1 708 529 1784
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 227718596
-type: way
+type: node
 latitude: 41.75894
 longitude: -87.74617
 postcode: "60638"
 city: Bedford Park
-street: "South Cicero Avenue"
-housenumber: 7300
-phone: "+1 708-552-9010"
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-16:00"
-website: "https://www.costco.com/warehouse-locations/bedford-park-bus-ctr-chicago-il-580.html"
+street: South Cicero Avenue
+housenumber: "7300"
+phone: +1 708-552-9010
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-16:00
+website: https://www.costco.com/warehouse-locations/bedford-park-bus-ctr-chicago-il-580.html

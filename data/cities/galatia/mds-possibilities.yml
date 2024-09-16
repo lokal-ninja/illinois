@@ -1,11 +1,11 @@
 id: 785496239
-type: way
+type: node
 latitude: 37.83947
 longitude: -88.61159
 postcode: "62935"
 city: Galatia
-street: "South Main Cross Street"
-housenumber: 206
-phone: "+1-618-715-0268"
+street: South Main Cross Street
+housenumber: "206"
+phone: +1-618-715-0268
 opening_hours: ""
 website: ""

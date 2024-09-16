@@ -4,8 +4,9 @@ latitude: 41.7514
 longitude: -88.11393
 postcode: "60540"
 city: Naperville
-street: "Naper Boulevard"
-housenumber: 1212
-phone: "+1-630-416-6666"
-opening_hours: "Mo 08:00-18:30; Tu 08:00-18:30; We 08:00-18:30; Th 08:00-18:30; Fr 08:00-18:30; Sa 09:00-17:00; Su 10:00-15:00"
-website: "https://locations.theupsstore.com/il/naperville/1212-s-naper-blvd"
+street: Naper Boulevard
+housenumber: "1212"
+phone: +1-630-416-6666
+opening_hours: Mo 08:00-18:30; Tu 08:00-18:30; We 08:00-18:30; Th 08:00-18:30; Fr
+    08:00-18:30; Sa 09:00-17:00; Su 10:00-15:00
+website: https://locations.theupsstore.com/il/naperville/1212-s-naper-blvd

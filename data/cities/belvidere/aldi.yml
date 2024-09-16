@@ -1,11 +1,11 @@
 id: 255948730
-type: way
+type: node
 latitude: 42.26702
 longitude: -88.84969
 postcode: "61008"
 city: Belvidere
-street: "North State Street"
-housenumber: 1021
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00"
-website: "https://stores.aldi.us/il/belvidere/1021-n-state-street"
+street: North State Street
+housenumber: "1021"
+phone: +1 855-955-2534
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00
+website: https://stores.aldi.us/il/belvidere/1021-n-state-street

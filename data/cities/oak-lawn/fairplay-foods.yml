@@ -1,11 +1,11 @@
 id: 131642845
-type: way
+type: node
 latitude: 41.73422
 longitude: -87.74409
 postcode: "60453"
 city: Oak Lawn
-street: "South Cicero Avenue"
-housenumber: 8700
+street: South Cicero Avenue
+housenumber: "8700"
 phone: ""
 opening_hours: ""
-website: "https://www.fairplayfoods.com/store/oak-lawn"
+website: https://www.fairplayfoods.com/store/oak-lawn

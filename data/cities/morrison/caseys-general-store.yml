@@ -1,11 +1,11 @@
 id: 771378940
-type: way
+type: node
 latitude: 41.80793
 longitude: -89.95707
 postcode: "61270"
 city: Morrison
-street: "East Lincoln Way"
-housenumber: 602
-phone: "+1-815-772-2106"
+street: East Lincoln Way
+housenumber: "602"
+phone: +1-815-772-2106
 opening_hours: ""
-website: "https://www.caseys.com/general-store/il-morrison/602-e-lincolnway/2605"
+website: https://www.caseys.com/general-store/il-morrison/602-e-lincolnway/2605

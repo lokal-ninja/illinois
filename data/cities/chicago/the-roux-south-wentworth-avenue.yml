@@ -1,11 +1,11 @@
 id: 1304724842
-type: way
+type: node
 latitude: 41.78782
 longitude: -87.62995
 postcode: "60621"
 city: Chicago
-street: "South Wentworth Avenue"
-housenumber: 5843
+street: South Wentworth Avenue
+housenumber: "5843"
 phone: ""
 opening_hours: ""
-website: "https://therouxstore.com/wordpress/"
+website: https://therouxstore.com/wordpress/

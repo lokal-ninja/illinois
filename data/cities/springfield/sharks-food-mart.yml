@@ -4,8 +4,8 @@ latitude: 39.77896
 longitude: -89.65477
 postcode: "62704"
 city: Springfield
-street: "West Ash Street"
-housenumber: 100
-phone: "+1-217-572-1978"
-opening_hours: "Mo-Su 09:00-21:30"
+street: West Ash Street
+housenumber: "100"
+phone: +1-217-572-1978
+opening_hours: Mo-Su 09:00-21:30
 website: ""

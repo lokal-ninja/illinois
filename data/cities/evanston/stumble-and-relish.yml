@@ -4,8 +4,8 @@ latitude: 42.0417
 longitude: -87.6808
 postcode: "60201"
 city: Evanston
-street: "Chicago Avenue"
-housenumber: 1312
+street: Chicago Avenue
+housenumber: "1312"
 phone: ""
 opening_hours: ""
-website: "https://stumbleandrelish.com/"
+website: https://stumbleandrelish.com/

@@ -1,11 +1,11 @@
 id: 209946747
-type: way
+type: node
 latitude: 41.98197
 longitude: -87.66834
 postcode: "60640"
 city: Chicago
-street: "North Clark Street"
-housenumber: 5507
+street: North Clark Street
+housenumber: "5507"
 phone: "7739617111"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-20:00"
-website: "https://www.eliteabar.com/"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-20:00
+website: https://www.eliteabar.com/

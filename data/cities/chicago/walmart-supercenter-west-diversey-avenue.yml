@@ -1,11 +1,11 @@
 id: 442137550
-type: way
+type: node
 latitude: 41.93462
 longitude: -87.74231
 postcode: "60639"
 city: Chicago
-street: "West Diversey Avenue"
-housenumber: 4626
-phone: "+1 773-628-1880"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5617/chicago-il/whats-new"
+street: West Diversey Avenue
+housenumber: "4626"
+phone: +1 773-628-1880
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5617/chicago-il/whats-new

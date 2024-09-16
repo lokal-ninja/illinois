@@ -1,11 +1,11 @@
 id: 288739115
-type: way
+type: node
 latitude: 41.90289
 longitude: -88.11879
 postcode: "60188"
 city: Carol Stream
-street: "East North Avenue"
-housenumber: 110
-phone: "+1-630-580-5840"
+street: East North Avenue
+housenumber: "110"
+phone: +1-630-580-5840
 opening_hours: ""
-website: "https://www.advantagetrailer.com/"
+website: https://www.advantagetrailer.com/

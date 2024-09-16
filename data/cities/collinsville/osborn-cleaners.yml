@@ -1,11 +1,11 @@
 id: 653466257
-type: way
+type: node
 latitude: 38.66684
 longitude: -89.99495
 postcode: "62234"
 city: Collinsville
-street: "West Main Street"
-housenumber: 806
+street: West Main Street
+housenumber: "806"
 phone: ""
 opening_hours: ""
 website: ""

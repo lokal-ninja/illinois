@@ -1,11 +1,11 @@
 id: 1050683642
-type: way
+type: node
 latitude: 42.26867
 longitude: -88.97689
 postcode: "61108"
 city: Rockford
-street: "East State Street"
-housenumber: 7131
-phone: "+1 815-227-8600"
+street: East State Street
+housenumber: "7131"
+phone: +1 815-227-8600
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/illinois/rockford/7710000155/"
+website: https://stores.ashleyfurniture.com/store/us/illinois/rockford/7710000155/

@@ -1,11 +1,11 @@
 id: 132047493
-type: way
+type: node
 latitude: 41.99076
 longitude: -87.66011
 postcode: "60660"
 city: Chicago
-street: "North Broadway"
-housenumber: 6009
-phone: "+1 773-506-7600"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/chicagoedgewater"
+street: North Broadway
+housenumber: "6009"
+phone: +1 773-506-7600
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/chicagoedgewater

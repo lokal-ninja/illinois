@@ -1,11 +1,11 @@
 id: 254649074
-type: way
+type: node
 latitude: 42.04798
 longitude: -88.09023
 postcode: "60195"
 city: Schaumburg
-street: "West Higgins Road"
-housenumber: 400
+street: West Higgins Road
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

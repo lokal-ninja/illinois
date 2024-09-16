@@ -1,11 +1,11 @@
 id: 406358699
-type: way
+type: node
 latitude: 41.90505
 longitude: -87.90938
 postcode: "60164"
 city: Northlake
-street: "West North Avenue"
-housenumber: 137
-phone: "+1 708-409-0049"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1933/northlake-il/"
+street: West North Avenue
+housenumber: "137"
+phone: +1 708-409-0049
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1933/northlake-il/

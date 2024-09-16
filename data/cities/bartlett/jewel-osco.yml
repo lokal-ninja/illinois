@@ -1,11 +1,11 @@
 id: 191502369
-type: way
+type: node
 latitude: 41.97164
 longitude: -88.1834
 postcode: "60103"
 city: Bartlett
-street: "East Stearns Road"
-housenumber: 125
-phone: "+1 630-540-0856"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/bartlett/125-e-stearns-rd.html"
+street: East Stearns Road
+housenumber: "125"
+phone: +1 630-540-0856
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/bartlett/125-e-stearns-rd.html

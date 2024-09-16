@@ -4,8 +4,8 @@ latitude: 41.87904
 longitude: -87.64939
 postcode: "60607"
 city: Chicago
-street: "South Peoria Street"
-housenumber: 205
+street: South Peoria Street
+housenumber: "205"
 phone: ""
-opening_hours: "Mo-Sa 08:00-23:00; Su 08:00-22:00"
-website: "https://www.gogrocerchicago.com"
+opening_hours: Mo-Sa 08:00-23:00; Su 08:00-22:00
+website: https://www.gogrocerchicago.com

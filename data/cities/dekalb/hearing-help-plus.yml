@@ -1,11 +1,11 @@
 id: 1016755785
-type: way
+type: node
 latitude: 41.94479
 longitude: -88.73299
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 1712
-phone: "+1 815-758-0157"
-opening_hours: "Mo-Fr 09:00-16:30"
-website: "https://hearinghelpplus.com/"
+street: Sycamore Road
+housenumber: "1712"
+phone: +1 815-758-0157
+opening_hours: Mo-Fr 09:00-16:30
+website: https://hearinghelpplus.com/

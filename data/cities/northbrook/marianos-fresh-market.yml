@@ -1,11 +1,11 @@
 id: 751630519
-type: way
+type: node
 latitude: 42.14016
 longitude: -87.79422
 postcode: "60062"
 city: Northbrook
-street: "Skokie Boulevard"
-housenumber: 784
+street: Skokie Boulevard
+housenumber: "784"
 phone: ""
 opening_hours: ""
-website: "https://www.marianos.com/stores/details/531/00533"
+website: https://www.marianos.com/stores/details/531/00533

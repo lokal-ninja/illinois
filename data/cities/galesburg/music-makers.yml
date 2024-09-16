@@ -1,11 +1,11 @@
 id: 860330774
-type: way
+type: node
 latitude: 40.94731
 longitude: -90.3649
 postcode: "61401"
 city: Galesburg
-street: "East Main Street"
-housenumber: 346
-phone: "+1-309-342-0176"
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-16:00"
-website: "https://www.musicmakersweb.com/"
+street: East Main Street
+housenumber: "346"
+phone: +1-309-342-0176
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-16:00
+website: https://www.musicmakersweb.com/

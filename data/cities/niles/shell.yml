@@ -1,11 +1,11 @@
 id: 203688505
-type: way
+type: node
 latitude: 42.0133
 longitude: -87.7891
 postcode: "60714"
 city: Niles
-street: "North Caldwell Avenue"
-housenumber: 7235
+street: North Caldwell Avenue
+housenumber: "7235"
 phone: ""
 opening_hours: ""
 website: ""

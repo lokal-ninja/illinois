@@ -1,11 +1,11 @@
 id: 874465828
-type: way
+type: node
 latitude: 41.73856
 longitude: -87.74139
 postcode: "60459"
 city: Burbank
-street: "South Cicero Avenue"
-housenumber: 8458
+street: South Cicero Avenue
+housenumber: "8458"
 phone: ""
 opening_hours: ""
 website: ""

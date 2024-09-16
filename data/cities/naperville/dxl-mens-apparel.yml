@@ -1,11 +1,11 @@
 id: 976829198
-type: way
+type: node
 latitude: 41.76195
 longitude: -88.20464
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 618
-phone: "+1 630 778 6316"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://stores.dxl.com/us/il/naperville/618-south-rt-59"
+street: South Illinois Route 59
+housenumber: "618"
+phone: +1 630 778 6316
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://stores.dxl.com/us/il/naperville/618-south-rt-59

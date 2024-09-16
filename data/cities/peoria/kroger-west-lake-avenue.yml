@@ -4,8 +4,8 @@ latitude: 40.74141
 longitude: -89.60424
 postcode: "61614"
 city: Peoria
-street: "West Lake Avenue"
-housenumber: 801
-phone: "+1 309-682-2173"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/il/peoria/lake-street/021/00917"
+street: West Lake Avenue
+housenumber: "801"
+phone: +1 309-682-2173
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/il/peoria/lake-street/021/00917

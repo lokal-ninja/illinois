@@ -1,11 +1,11 @@
 id: 200196974
-type: way
+type: node
 latitude: 39.72363
 longitude: -90.26172
 postcode: "62650"
 city: Jacksonville
-street: "West Morton Avenue"
-housenumber: 
+street: West Morton Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

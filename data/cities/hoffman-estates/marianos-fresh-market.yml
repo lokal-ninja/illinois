@@ -1,11 +1,11 @@
 id: 132157761
-type: way
+type: node
 latitude: 42.04531
 longitude: -88.14375
 postcode: "60194"
 city: Hoffman Estates
-street: "West Golf Road"
-housenumber: 2575
-phone: "+1-847-490-2043"
+street: West Golf Road
+housenumber: "2575"
+phone: +1-847-490-2043
 opening_hours: ""
-website: "https://www.marianos.com/"
+website: https://www.marianos.com/

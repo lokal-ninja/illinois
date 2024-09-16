@@ -1,11 +1,11 @@
 id: 524966550
-type: way
+type: node
 latitude: 40.19504
 longitude: -88.39989
 postcode: "61853"
 city: Mahomet
-street: "N Lombard St"
-housenumber: 103
+street: N Lombard St
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

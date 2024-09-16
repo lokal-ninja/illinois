@@ -1,11 +1,11 @@
 id: 1055483218
-type: way
+type: node
 latitude: 41.78117
 longitude: -87.87087
 postcode: "60525"
 city: Countryside
-street: "Countryside Plaza"
-housenumber: 102
-phone: "+1 708-571-0309"
+street: Countryside Plaza
+housenumber: "102"
+phone: +1 708-571-0309
 opening_hours: ""
-website: "https://stores.partycity.com/us/il/countryside/party-store-pc5119.html"
+website: https://stores.partycity.com/us/il/countryside/party-store-pc5119.html

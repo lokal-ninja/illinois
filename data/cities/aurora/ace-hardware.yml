@@ -2,10 +2,10 @@ id: 5323092010
 type: node
 latitude: 41.7781
 longitude: -88.31638
-postcode: "60506-2516"
+postcode: 60506-2516
 city: Aurora
-street: "North Lake Street"
-housenumber: 994
-phone: "+1 630-897-9227"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: North Lake Street
+housenumber: "994"
+phone: +1 630-897-9227
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

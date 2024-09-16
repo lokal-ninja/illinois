@@ -1,11 +1,11 @@
 id: 516746335
-type: way
+type: node
 latitude: 42.24033
 longitude: -88.58408
 postcode: ""
 city: Marengo
-street: "Lindow Avenue"
-housenumber: 202
+street: Lindow Avenue
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

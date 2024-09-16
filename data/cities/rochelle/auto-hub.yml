@@ -1,11 +1,11 @@
 id: 1234336940
-type: way
+type: node
 latitude: 41.95148
 longitude: -89.06496
 postcode: "61068"
 city: Rochelle
-street: "Hillcrest Avenue"
-housenumber: 211
+street: Hillcrest Avenue
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

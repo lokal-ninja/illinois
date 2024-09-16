@@ -1,11 +1,11 @@
 id: 824484763
-type: way
+type: node
 latitude: 41.78347
 longitude: -87.80167
 postcode: "60501"
 city: Summit
-street: "South Harlem Avenue"
-housenumber: 5944
+street: South Harlem Avenue
+housenumber: "5944"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/summit/5944-s-harlem-ave"
+website: https://stores.advanceautoparts.com/il/summit/5944-s-harlem-ave

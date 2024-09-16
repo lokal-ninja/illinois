@@ -1,11 +1,11 @@
 id: 165135077
-type: way
+type: node
 latitude: 41.77995
 longitude: -87.70302
 postcode: "60629"
 city: Chicago
-street: "South Kedzie Avenue"
-housenumber: 6225
+street: South Kedzie Avenue
+housenumber: "6225"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/18701"
+website: https://www.dollargeneral.com/store-directory/il/chicago/18701

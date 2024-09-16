@@ -1,11 +1,11 @@
 id: 805019093
-type: way
+type: node
 latitude: 41.76889
 longitude: -88.63368
 postcode: "60520"
 city: Hinckley
-street: "East Lincoln Avenue"
-housenumber: 535
+street: East Lincoln Avenue
+housenumber: "535"
 phone: ""
 opening_hours: ""
 website: ""

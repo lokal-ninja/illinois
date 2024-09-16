@@ -1,11 +1,11 @@
 id: 770115230
-type: way
+type: node
 latitude: 39.12053
 longitude: -90.32922
 postcode: "62052"
 city: Jerseyville
-street: "North State Street"
-housenumber: 216
-phone: "+1-618-498-2682"
+street: North State Street
+housenumber: "216"
+phone: +1-618-498-2682
 opening_hours: ""
-website: "https://www.bp.com/en_us/united-states/home.html"
+website: https://www.bp.com/en_us/united-states/home.html

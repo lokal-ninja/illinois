@@ -1,11 +1,11 @@
 id: 766312523
-type: way
+type: node
 latitude: 42.3077
 longitude: -89.35892
 postcode: "61063"
 city: Pecatonica
-street: "East 9th Street"
-housenumber: 102
+street: East 9th Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

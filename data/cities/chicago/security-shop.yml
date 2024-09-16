@@ -4,8 +4,8 @@ latitude: 41.79506
 longitude: -87.5864
 postcode: "60615"
 city: Chicago
-street: "East 55th Street"
-housenumber: 1605
-phone: "+1-773-525-6705"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.securityshopinc.com/"
+street: East 55th Street
+housenumber: "1605"
+phone: +1-773-525-6705
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.securityshopinc.com/

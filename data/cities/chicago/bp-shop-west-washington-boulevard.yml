@@ -1,11 +1,11 @@
 id: 209381320
-type: way
+type: node
 latitude: 41.88315
 longitude: -87.68563
 postcode: "60612"
 city: Chicago
-street: "West Washington Boulevard"
-housenumber: 2340
+street: West Washington Boulevard
+housenumber: "2340"
 phone: ""
 opening_hours: ""
 website: ""

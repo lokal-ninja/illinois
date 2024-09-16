@@ -1,11 +1,11 @@
 id: 163895951
-type: way
+type: node
 latitude: 41.93964
 longitude: -87.72552
 postcode: "60618"
 city: Chicago
-street: "North Milwaukee Avenue"
-housenumber: 3222
+street: North Milwaukee Avenue
+housenumber: "3222"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3222+n+milwaukee+ave-chicago-il-60618/id=7359"
+website: https://www.walgreens.com/locator/walgreens-3222+n+milwaukee+ave-chicago-il-60618/id=7359

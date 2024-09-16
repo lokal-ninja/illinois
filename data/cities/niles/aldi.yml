@@ -1,11 +1,11 @@
 id: 751740184
-type: way
+type: node
 latitude: 42.01325
 longitude: -87.78348
 postcode: "60714"
 city: Niles
-street: "West Touhy Avenue"
-housenumber: 6250
-phone: "+1 833-440-1041"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/niles/6250-w-touhy-ave"
+street: West Touhy Avenue
+housenumber: "6250"
+phone: +1 833-440-1041
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/niles/6250-w-touhy-ave

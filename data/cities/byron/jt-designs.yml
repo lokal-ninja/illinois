@@ -1,11 +1,11 @@
 id: 821432438
-type: way
+type: node
 latitude: 42.1815
 longitude: -89.27838
 postcode: "61010"
 city: Byron
-street: "North Tower Road"
-housenumber: 11472
-phone: "+1-815-509-1068"
+street: North Tower Road
+housenumber: "11472"
+phone: +1-815-509-1068
 opening_hours: ""
-website: "https://thejtdesigns.com/"
+website: https://thejtdesigns.com/

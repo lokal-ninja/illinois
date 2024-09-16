@@ -1,11 +1,11 @@
 id: 198804809
-type: way
+type: node
 latitude: 41.86095
 longitude: -87.98734
 postcode: "60148"
 city: Lombard
-street: "East Roosevelt Road"
-housenumber: 1204
+street: East Roosevelt Road
+housenumber: "1204"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/il/lombard/oil-change-gr0037.html"
+website: https://store.vioc.com/il/lombard/oil-change-gr0037.html

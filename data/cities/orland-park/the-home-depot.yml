@@ -1,11 +1,11 @@
 id: 590558143
-type: way
+type: node
 latitude: 41.60338
 longitude: -87.79565
 postcode: "60462"
 city: Orland Park
-street: "West 159th Street"
-housenumber: 7300
-phone: "+1 708-614-9200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Orland-Park/IL/Orland-Park/60462/1906"
+street: West 159th Street
+housenumber: "7300"
+phone: +1 708-614-9200
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Orland-Park/IL/Orland-Park/60462/1906

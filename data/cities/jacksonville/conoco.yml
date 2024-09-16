@@ -1,11 +1,11 @@
 id: 1272598176
-type: way
+type: node
 latitude: 39.7456
 longitude: -90.22947
 postcode: "62650"
 city: Jacksonville
-street: "West Walnut Street"
-housenumber: 100
-phone: "217-43-3363"
+street: West Walnut Street
+housenumber: "100"
+phone: 217-43-3363
 opening_hours: ""
-website: "https://www.conoco.com/station/CON-JACKSONVILLE-CONOCO-0000892371/?utm_source=G&utm_medium=local&utm_campaign=google-local&utm_source=G&utm_medium=local&utm_campaign=google-local"
+website: https://www.conoco.com/station/CON-JACKSONVILLE-CONOCO-0000892371/?utm_source=G&utm_medium=local&utm_campaign=google-local&utm_source=G&utm_medium=local&utm_campaign=google-local

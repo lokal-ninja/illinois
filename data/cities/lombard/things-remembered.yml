@@ -1,11 +1,11 @@
 id: 1121097734
-type: way
+type: node
 latitude: 41.83991
 longitude: -88.0073
 postcode: "60148"
 city: Lombard
-street: "Yorktown Shopping Center Rd"
-housenumber: 136
-phone: "+1 630 916 1701"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00"
+street: Yorktown Shopping Center Rd
+housenumber: "136"
+phone: +1 630 916 1701
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00
 website: ""

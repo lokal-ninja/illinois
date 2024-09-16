@@ -1,11 +1,11 @@
 id: 1091995062
-type: way
+type: node
 latitude: 41.65306
 longitude: -88.20478
 postcode: "60585"
 city: Plainfield
-street: "South Illinois Route 59"
-housenumber: 12632
-phone: "+1 815 556 1360"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-17:00"
-website: "https://locations.tccrocks.com/il/plainfield/12632-s-route-59.html"
+street: South Illinois Route 59
+housenumber: "12632"
+phone: +1 815 556 1360
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-17:00
+website: https://locations.tccrocks.com/il/plainfield/12632-s-route-59.html

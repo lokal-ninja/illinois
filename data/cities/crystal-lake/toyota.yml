@@ -1,11 +1,11 @@
 id: 328909598
-type: way
+type: node
 latitude: 42.21285
 longitude: -88.28548
 postcode: "60014"
 city: Crystal Lake
-street: "South IL-31"
-housenumber: 1035
-phone: "+1-815-459-7100"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-17:00"
-website: "https://www.paulytoyota.com/"
+street: South IL-31
+housenumber: "1035"
+phone: +1-815-459-7100
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-17:00
+website: https://www.paulytoyota.com/

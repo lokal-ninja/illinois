@@ -1,11 +1,11 @@
 id: 163628289
-type: way
+type: node
 latitude: 42.03001
 longitude: -87.98612
 postcode: "60007"
 city: Elk Grove Village
-street: "North Arlington Heights Road"
-housenumber: 175
+street: North Arlington Heights Road
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

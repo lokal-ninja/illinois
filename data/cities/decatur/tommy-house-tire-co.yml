@@ -1,11 +1,11 @@
 id: 671590678
-type: way
+type: node
 latitude: 39.83881
 longitude: -88.95178
 postcode: "62523"
 city: Decatur
-street: "South Industry Court"
-housenumber: 120
+street: South Industry Court
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

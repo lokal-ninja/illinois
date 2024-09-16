@@ -1,11 +1,11 @@
 id: 400917819
-type: way
+type: node
 latitude: 42.0627
 longitude: -87.74722
 postcode: "60077"
 city: Skokie
-street: "Skokie Boulevard"
-housenumber: 10000
+street: Skokie Boulevard
+housenumber: "10000"
 phone: ""
 opening_hours: ""
-website: "https://curaleaf.com/shop/illinois/curaleaf-il-skokie"
+website: https://curaleaf.com/shop/illinois/curaleaf-il-skokie

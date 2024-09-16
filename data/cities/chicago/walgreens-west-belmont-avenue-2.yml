@@ -1,11 +1,11 @@
 id: 209881090
-type: way
+type: node
 latitude: 41.93933
 longitude: -87.67028
 postcode: "60657"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 1649
+street: West Belmont Avenue
+housenumber: "1649"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1649+w+belmont+ave-chicago-il-60657/id=4494"
+website: https://www.walgreens.com/locator/walgreens-1649+w+belmont+ave-chicago-il-60657/id=4494

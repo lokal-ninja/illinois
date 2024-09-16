@@ -1,11 +1,11 @@
 id: 163444746
-type: way
+type: node
 latitude: 42.01165
 longitude: -87.81687
 postcode: "60631"
 city: Chicago
-street: "West Touhy Avenue"
-housenumber: 7606
+street: West Touhy Avenue
+housenumber: "7606"
 phone: ""
 opening_hours: ""
-website: "https://www.caliber.com/find-a-location/chicago-north"
+website: https://www.caliber.com/find-a-location/chicago-north

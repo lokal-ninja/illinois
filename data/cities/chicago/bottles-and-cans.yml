@@ -4,8 +4,8 @@ latitude: 41.95621
 longitude: -87.68004
 postcode: "60618"
 city: Chicago
-street: "North Lincoln Avenue"
-housenumber: 4109
+street: North Lincoln Avenue
+housenumber: "4109"
 phone: ""
-opening_hours: "Mo-Sa 11:00-21:00; Su 11:00-19:00"
-website: "https://www.bottlesandcanschicago.com/"
+opening_hours: Mo-Sa 11:00-21:00; Su 11:00-19:00
+website: https://www.bottlesandcanschicago.com/

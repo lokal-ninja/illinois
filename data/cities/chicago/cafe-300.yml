@@ -4,8 +4,8 @@ latitude: 41.88815
 longitude: -87.63313
 postcode: "60654"
 city: Chicago
-street: "North LaSalle Boulevard"
-housenumber: 300
-phone: "+1-312-670-0030"
+street: North LaSalle Boulevard
+housenumber: "300"
+phone: +1-312-670-0030
 opening_hours: ""
-website: "https://cafe300.com/"
+website: https://cafe300.com/

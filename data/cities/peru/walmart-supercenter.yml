@@ -1,11 +1,11 @@
 id: 674067856
-type: way
+type: node
 latitude: 41.37377
 longitude: -89.12274
 postcode: "61354"
 city: Peru
-street: "Route 251"
-housenumber: 5307
-phone: "+1 815-224-2396"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/796/peru-il/whats-new"
+street: Route 251
+housenumber: "5307"
+phone: +1 815-224-2396
+opening_hours: 24/7
+website: https://www.walmart.com/store/796/peru-il/whats-new

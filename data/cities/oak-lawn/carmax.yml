@@ -1,11 +1,11 @@
 id: 1271829618
-type: way
+type: node
 latitude: 41.71997
 longitude: -87.78355
 postcode: "60453"
 city: Oak Lawn
-street: "West 95th Street"
-housenumber: 6540
+street: West 95th Street
+housenumber: "6540"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/7199"
+website: https://www.carmax.com/stores/7199

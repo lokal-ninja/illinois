@@ -1,11 +1,11 @@
 id: 718203741
-type: way
+type: node
 latitude: 41.88781
 longitude: -88.30586
 postcode: "60134"
 city: Geneva
-street: "North 2nd Street"
-housenumber: 117
+street: North 2nd Street
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1028828044
-type: way
+type: node
 latitude: 41.68127
 longitude: -88.20542
 postcode: "60564"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 4931
-phone: "+1 630 717 7550"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.europeansports.com/"
+street: South Illinois Route 59
+housenumber: "4931"
+phone: +1 630 717 7550
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.europeansports.com/

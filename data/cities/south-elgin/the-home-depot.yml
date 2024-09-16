@@ -1,11 +1,11 @@
 id: 835091739
-type: way
+type: node
 latitude: 41.98335
 longitude: -88.34343
 postcode: "60177"
 city: South Elgin
-street: "Randall Road"
-housenumber: 440
-phone: "+1 847-214-8718"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/south-elgin/il/south-elgin/60177/6923"
+street: Randall Road
+housenumber: "440"
+phone: +1 847-214-8718
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/south-elgin/il/south-elgin/60177/6923

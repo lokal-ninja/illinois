@@ -1,11 +1,11 @@
 id: 431568346
-type: way
+type: node
 latitude: 41.80972
 longitude: -87.74364
 postcode: "60638"
 city: Chicago
-street: "South Cicero Avenue"
-housenumber: 4558
+street: South Cicero Avenue
+housenumber: "4558"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1230118137
-type: way
+type: node
 latitude: 41.48989
 longitude: -90.47912
 postcode: "61265"
 city: Moline
-street: "Avenue of the Cities"
-housenumber: 4110
+street: Avenue of the Cities
+housenumber: "4110"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/moline/9464"
+website: https://www.dollargeneral.com/store-directory/il/moline/9464

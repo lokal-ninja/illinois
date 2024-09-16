@@ -1,11 +1,11 @@
 id: 1026882837
-type: way
+type: node
 latitude: 42.3035
 longitude: -87.87654
 postcode: "60064"
 city: Lake Bluff
-street: "North Skokie Highway"
-housenumber: 3092
-phone: "+1 847 473 0820"
-opening_hours: "Mo-Sa 05:00-24:00; Su 07:00-24:00"
+street: North Skokie Highway
+housenumber: "3092"
+phone: +1 847 473 0820
+opening_hours: Mo-Sa 05:00-24:00; Su 07:00-24:00
 website: ""

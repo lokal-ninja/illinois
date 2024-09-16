@@ -4,8 +4,8 @@ latitude: 41.904
 longitude: -87.63429
 postcode: "60610"
 city: Chicago
-street: "North Wells Street"
-housenumber: 1201
-phone: "+1-312-255-1955"
-opening_hours: "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00"
+street: North Wells Street
+housenumber: "1201"
+phone: +1-312-255-1955
+opening_hours: Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00
 website: ""

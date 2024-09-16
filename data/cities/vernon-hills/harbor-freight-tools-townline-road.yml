@@ -1,11 +1,11 @@
 id: 1245556771
-type: way
+type: node
 latitude: 42.2388
 longitude: -87.95327
 postcode: "60061"
 city: Vernon Hills
-street: "Townline Road"
-housenumber: 555
+street: Townline Road
+housenumber: "555"
 phone: ""
 opening_hours: ""
 website: ""

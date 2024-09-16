@@ -1,11 +1,11 @@
 id: 209846231
-type: way
+type: node
 latitude: 41.89986
 longitude: -87.6769
 postcode: "60622"
 city: Chicago
-street: "North Damen Avenue"
-housenumber: 1011
+street: North Damen Avenue
+housenumber: "1011"
 phone: ""
 opening_hours: ""
 website: ""

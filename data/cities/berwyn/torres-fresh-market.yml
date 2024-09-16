@@ -1,11 +1,11 @@
 id: 1005733698
-type: way
+type: node
 latitude: 41.84388
 longitude: -87.77902
 postcode: "60402"
 city: Berwyn
-street: "West 26th Street"
-housenumber: 6227
+street: West 26th Street
+housenumber: "6227"
 phone: ""
 opening_hours: ""
-website: "https://www.torresfreshmarket.com/"
+website: https://www.torresfreshmarket.com/

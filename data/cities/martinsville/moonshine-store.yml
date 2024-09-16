@@ -1,11 +1,11 @@
 id: 698058646
-type: way
+type: node
 latitude: 39.19084
 longitude: -87.89536
 postcode: "62442"
 city: Martinsville
-street: "East 300th Road"
-housenumber: 6017
+street: East 300th Road
+housenumber: "6017"
 phone: ""
-opening_hours: "Mo-Sa 06:00-13:00"
+opening_hours: Mo-Sa 06:00-13:00
 website: ""

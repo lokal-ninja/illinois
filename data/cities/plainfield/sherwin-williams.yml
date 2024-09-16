@@ -1,11 +1,11 @@
 id: 1181047827
-type: way
+type: node
 latitude: 41.66704
 longitude: -88.20579
-postcode: "60585-5605"
+postcode: 60585-5605
 city: Plainfield
-street: "South Illinois Route 59"
-housenumber: 11850
-phone: "+1 815 254 4198"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/plainfield/il/703270"
+street: South Illinois Route 59
+housenumber: "11850"
+phone: +1 815 254 4198
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/plainfield/il/703270

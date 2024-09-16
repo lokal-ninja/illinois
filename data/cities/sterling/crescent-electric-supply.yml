@@ -1,11 +1,11 @@
 id: 586604704
-type: way
+type: node
 latitude: 41.79021
 longitude: -89.69681
 postcode: "61081"
 city: Sterling
-street: "Locust Street"
-housenumber: 506
+street: Locust Street
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

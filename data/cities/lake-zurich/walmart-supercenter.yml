@@ -1,11 +1,11 @@
 id: 1311883439
-type: way
+type: node
 latitude: 42.18599
 longitude: -88.08851
 postcode: "60047"
 city: Lake Zurich
-street: "South Rand Road"
-housenumber: 820
-phone: "+1 847-438-2200"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1404/lake-zurich-il/whats-new"
+street: South Rand Road
+housenumber: "820"
+phone: +1 847-438-2200
+opening_hours: 24/7
+website: https://www.walmart.com/store/1404/lake-zurich-il/whats-new

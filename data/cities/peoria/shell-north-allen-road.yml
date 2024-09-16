@@ -1,11 +1,11 @@
 id: 203363532
-type: way
+type: node
 latitude: 40.79844
 longitude: -89.63222
 postcode: "61615"
 city: Peoria
-street: "North Allen Road"
-housenumber: 9109
+street: North Allen Road
+housenumber: "9109"
 phone: ""
 opening_hours: ""
 website: ""

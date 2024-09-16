@@ -4,8 +4,8 @@ latitude: 41.85039
 longitude: -88.30865
 postcode: "60510"
 city: Batavia
-street: "North Island Avenue"
-housenumber: 26
+street: North Island Avenue
+housenumber: "26"
 phone: "+16307774220"
-opening_hours: "Tu-Su 10:00-18:00"
-website: "https://boj-e-bikes.com/"
+opening_hours: Tu-Su 10:00-18:00
+website: https://boj-e-bikes.com/

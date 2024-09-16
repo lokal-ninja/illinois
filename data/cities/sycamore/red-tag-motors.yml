@@ -1,11 +1,11 @@
 id: 259940384
-type: way
+type: node
 latitude: 41.96796
 longitude: -88.71947
 postcode: "60178"
 city: Sycamore
-street: "Dekalb Avenue"
-housenumber: 1925
+street: Dekalb Avenue
+housenumber: "1925"
 phone: ""
 opening_hours: ""
-website: "https://www.redtagmotors.net/"
+website: https://www.redtagmotors.net/

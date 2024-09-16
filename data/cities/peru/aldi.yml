@@ -1,11 +1,11 @@
 id: 548974669
-type: way
+type: node
 latitude: 41.34006
 longitude: -89.11834
 postcode: "61354"
 city: Peru
-street: "Shooting Park Road"
-housenumber: 951
-phone: "+1 833-468-7013"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/peru/951-shooting-park-road"
+street: Shooting Park Road
+housenumber: "951"
+phone: +1 833-468-7013
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/peru/951-shooting-park-road

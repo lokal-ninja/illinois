@@ -1,11 +1,11 @@
 id: 1202478580
-type: way
+type: node
 latitude: 41.60166
 longitude: -87.80939
 postcode: "60477"
 city: Tinley Park
-street: "West 159th Street"
-housenumber: 7787
+street: West 159th Street
+housenumber: "7787"
 phone: ""
 opening_hours: ""
-website: "https://www.shopthegreatescape.com/"
+website: https://www.shopthegreatescape.com/

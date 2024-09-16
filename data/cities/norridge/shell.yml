@@ -1,11 +1,11 @@
 id: 207161794
-type: way
+type: node
 latitude: 41.9735
 longitude: -87.83785
 postcode: "60706"
 city: Norridge
-street: "North Cumberland Avenue"
-housenumber: 5150
+street: North Cumberland Avenue
+housenumber: "5150"
 phone: ""
 opening_hours: ""
 website: ""

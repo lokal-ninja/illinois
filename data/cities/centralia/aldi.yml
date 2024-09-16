@@ -1,11 +1,11 @@
 id: 190785799
-type: way
+type: node
 latitude: 38.53353
 longitude: -89.14689
 postcode: "62801"
 city: Centralia
-street: "Aaron Parkway"
-housenumber: 300
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/centralia/300-aaron-parkway"
+street: Aaron Parkway
+housenumber: "300"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/centralia/300-aaron-parkway

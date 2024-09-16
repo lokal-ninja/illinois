@@ -4,8 +4,8 @@ latitude: 39.7376
 longitude: -89.6993
 postcode: "62711"
 city: Springfield
-street: "Prairie Crossing Drive"
-housenumber: 2401
-phone: "+1-866-807-5399"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00"
-website: "https://www.landmarkford.net/"
+street: Prairie Crossing Drive
+housenumber: "2401"
+phone: +1-866-807-5399
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00
+website: https://www.landmarkford.net/

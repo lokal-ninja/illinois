@@ -1,11 +1,11 @@
 id: 479320856
-type: way
+type: node
 latitude: 41.85978
 longitude: -89.49576
 postcode: "61021"
 city: Dixon
-street: "North Galena Avenue"
-housenumber: 1275
+street: North Galena Avenue
+housenumber: "1275"
 phone: ""
 opening_hours: ""
 website: ""

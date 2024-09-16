@@ -1,11 +1,11 @@
 id: 388360781
-type: way
+type: node
 latitude: 41.66047
 longitude: -88.44141
 postcode: "60560"
 city: Yorkville
-street: "North Bridge Street"
-housenumber: 1610
-phone: "+1 833-468-7047"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/yorkville/1610-bridge-street"
+street: North Bridge Street
+housenumber: "1610"
+phone: +1 833-468-7047
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/yorkville/1610-bridge-street

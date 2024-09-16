@@ -1,11 +1,11 @@
 id: 772083996
-type: way
+type: node
 latitude: 42.28161
 longitude: -89.14454
 postcode: "61101"
 city: Rockford
-street: "North Springfield Avenue"
-housenumber: 453
-phone: "+1-815-965-5087"
+street: North Springfield Avenue
+housenumber: "453"
+phone: +1-815-965-5087
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/rockford-il-mahspringfieldpetroleumllc-200322091"
+website: https://www.exxon.com/en/find-station/rockford-il-mahspringfieldpetroleumllc-200322091

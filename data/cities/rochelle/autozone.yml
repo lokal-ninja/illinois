@@ -1,11 +1,11 @@
 id: 967108922
-type: way
+type: node
 latitude: 41.93832
 longitude: -89.06761
 postcode: "61068"
 city: Rochelle
-street: "North 7th Street"
-housenumber: 1269
-phone: "+1 815-562-9459"
-opening_hours: "Mo-Sa 07:30-20:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/il/rochelle/1269-n-7th-st.html"
+street: North 7th Street
+housenumber: "1269"
+phone: +1 815-562-9459
+opening_hours: Mo-Sa 07:30-20:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/il/rochelle/1269-n-7th-st.html

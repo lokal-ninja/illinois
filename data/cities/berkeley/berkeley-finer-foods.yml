@@ -1,11 +1,11 @@
 id: 327452743
-type: way
+type: node
 latitude: 41.88898
 longitude: -87.90545
 postcode: "60163"
 city: Berkeley
-street: "Saint Charles Road"
-housenumber: 5447
+street: Saint Charles Road
+housenumber: "5447"
 phone: ""
 opening_hours: ""
-website: "https://berkeleyfinerfoods.com/"
+website: https://berkeleyfinerfoods.com/

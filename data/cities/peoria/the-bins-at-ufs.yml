@@ -1,11 +1,13 @@
 id: 65053802
-type: way
+type: node
 latitude: 40.67792
 longitude: -89.60968
 postcode: "61602"
 city: Peoria
-street: "Southwest Adams Street"
-housenumber: 1828
+street: Southwest Adams Street
+housenumber: "1828"
 phone: ""
-opening_hours: "Mo-We,Fr-Sa 09:00-18:00; Th,Su off; Jan 01,easter,Dec 25 off; May Mo[-1] off; Sep Mo[1] off; Nov Th[4] off; Dec 24: Mo-We,Fr-Sa 09:00-16:00; Dec 31: Mo-We,Fr-Sa 09:00-17:00"
-website: "https://www.thebinspeoria.com/"
+opening_hours: 'Mo-We,Fr-Sa 09:00-18:00; Th,Su off; Jan 01,easter,Dec 25 off; May
+    Mo[-1] off; Sep Mo[1] off; Nov Th[4] off; Dec 24: Mo-We,Fr-Sa 09:00-16:00; Dec
+    31: Mo-We,Fr-Sa 09:00-17:00'
+website: https://www.thebinspeoria.com/

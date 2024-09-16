@@ -1,11 +1,11 @@
 id: 203044915
-type: way
+type: node
 latitude: 42.05596
 longitude: -87.75834
 postcode: "60077"
 city: Skokie
-street: "Golf Road"
-housenumber: 5250
+street: Golf Road
+housenumber: "5250"
 phone: ""
 opening_hours: ""
 website: ""

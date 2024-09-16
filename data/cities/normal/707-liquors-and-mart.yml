@@ -1,11 +1,11 @@
 id: 583050762
-type: way
+type: node
 latitude: 40.51122
 longitude: -88.98199
 postcode: "61761"
 city: Normal
-street: "North Linden Street"
-housenumber: 108
+street: North Linden Street
+housenumber: "108"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

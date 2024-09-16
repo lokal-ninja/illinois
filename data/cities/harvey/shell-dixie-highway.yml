@@ -1,11 +1,11 @@
 id: 1305827992
-type: way
+type: node
 latitude: 41.60032
 longitude: -87.66746
 postcode: "60428"
 city: Harvey
-street: "Dixie Highway"
-housenumber: 15901
+street: Dixie Highway
+housenumber: "15901"
 phone: ""
 opening_hours: ""
 website: ""

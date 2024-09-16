@@ -1,11 +1,11 @@
 id: 782871930
-type: way
+type: node
 latitude: 37.84031
 longitude: -88.60219
 postcode: "62935"
 city: Galatia
-street: "IL-34"
-housenumber: 10140
-phone: "+1-618-268-4600"
+street: IL-34
+housenumber: "10140"
+phone: +1-618-268-4600
 opening_hours: ""
 website: ""

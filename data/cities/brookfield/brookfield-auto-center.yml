@@ -1,11 +1,11 @@
 id: 1030592034
-type: way
+type: node
 latitude: 41.81735
 longitude: -87.85095
 postcode: "60513"
 city: Brookfield
-street: "Ogden Avenue"
-housenumber: 9136
+street: Ogden Avenue
+housenumber: "9136"
 phone: ""
 opening_hours: ""
 website: ""

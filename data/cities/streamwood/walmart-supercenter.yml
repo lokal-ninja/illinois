@@ -1,11 +1,11 @@
 id: 579403638
-type: way
+type: node
 latitude: 42.01583
 longitude: -88.1488
 postcode: "60107"
 city: Streamwood
-street: "South Barrington Road"
-housenumber: 850
-phone: "+1 630-213-7000"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1420-streamwood-il"
+street: South Barrington Road
+housenumber: "850"
+phone: +1 630-213-7000
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1420-streamwood-il

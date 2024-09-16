@@ -1,11 +1,11 @@
 id: 778657611
-type: way
+type: node
 latitude: 42.46874
 longitude: -89.64549
 postcode: "61060"
 city: Orangeville
-street: "West High Street"
-housenumber: 200
-phone: "+1-815-789-4411"
+street: West High Street
+housenumber: "200"
+phone: +1-815-789-4411
 opening_hours: ""
-website: "https://www.leamonfh.com/"
+website: https://www.leamonfh.com/

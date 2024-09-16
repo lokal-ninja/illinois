@@ -1,11 +1,11 @@
 id: 209712458
-type: way
+type: node
 latitude: 41.83246
 longitude: -87.67451
 postcode: "60608"
 city: Chicago
-street: "South Archer Avenue"
-housenumber: 3400
+street: South Archer Avenue
+housenumber: "3400"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/il/chicago/5617/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/il/chicago/5617/

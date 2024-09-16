@@ -1,11 +1,11 @@
 id: 673547047
-type: way
+type: node
 latitude: 42.07459
 longitude: -87.70822
 postcode: "60091"
 city: Wilmette
-street: "Green Bay Road"
-housenumber: 535
+street: Green Bay Road
+housenumber: "535"
 phone: ""
 opening_hours: ""
 website: ""

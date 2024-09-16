@@ -1,11 +1,11 @@
 id: 274064406
-type: way
+type: node
 latitude: 42.15223
 longitude: -88.42955
 postcode: "60142"
 city: Huntley
-street: "IL 47"
-housenumber: 12300
-phone: "+1 847-669-7126"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/4641-huntley-il"
+street: IL 47
+housenumber: "12300"
+phone: +1 847-669-7126
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/4641-huntley-il

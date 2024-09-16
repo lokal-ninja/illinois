@@ -1,11 +1,11 @@
 id: 365982584
-type: way
+type: node
 latitude: 38.73111
 longitude: -88.09312
 postcode: "62450"
 city: Olney
-street: "West Main Street"
-housenumber: 712
+street: West Main Street
+housenumber: "712"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-19:00"
-website: "https://locations.oreillyauto.com/il/olney/autoparts-1411.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-19:00
+website: https://locations.oreillyauto.com/il/olney/autoparts-1411.html

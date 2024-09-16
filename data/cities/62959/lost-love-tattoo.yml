@@ -1,11 +1,11 @@
 id: 1257080278
-type: way
+type: node
 latitude: 37.73089
 longitude: -88.92625
 postcode: "62959"
-city: 62959
-street: "East Main Street"
-housenumber: 108
-phone: "+1-618-993-5468"
-opening_hours: "Tu-Sa 11:00-19:00"
+city: "62959"
+street: East Main Street
+housenumber: "108"
+phone: +1-618-993-5468
+opening_hours: Tu-Sa 11:00-19:00
 website: ""

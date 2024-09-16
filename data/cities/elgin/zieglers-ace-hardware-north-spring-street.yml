@@ -1,11 +1,11 @@
 id: 593915357
-type: way
+type: node
 latitude: 42.04096
 longitude: -88.28164
 postcode: "60120"
 city: Elgin
-street: "North Spring Street"
-housenumber: 215
-phone: "+1 847-741-5610"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: North Spring Street
+housenumber: "215"
+phone: +1 847-741-5610
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

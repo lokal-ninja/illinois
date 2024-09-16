@@ -4,8 +4,8 @@ latitude: 39.80195
 longitude: -89.65102
 postcode: "62701"
 city: Springfield
-street: "North 4th Street"
-housenumber: 101
-phone: "+1-800-368-2348"
-opening_hours: "Mo-Fr 08:00-16:00; Sa 09:00-12:00"
-website: "https://a-1lock.com/"
+street: North 4th Street
+housenumber: "101"
+phone: +1-800-368-2348
+opening_hours: Mo-Fr 08:00-16:00; Sa 09:00-12:00
+website: https://a-1lock.com/

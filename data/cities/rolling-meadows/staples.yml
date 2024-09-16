@@ -1,11 +1,11 @@
 id: 114443487
-type: way
+type: node
 latitude: 42.05268
 longitude: -87.99689
 postcode: "60008"
 city: Rolling Meadows
-street: "Algonquin Road"
-housenumber: 1551
+street: Algonquin Road
+housenumber: "1551"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/il/rolling-meadows/1551-algonquin-road"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/il/rolling-meadows/1551-algonquin-road

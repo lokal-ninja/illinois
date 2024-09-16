@@ -1,11 +1,11 @@
 id: 1031077729
-type: way
+type: node
 latitude: 38.82225
 longitude: -90.04119
 postcode: "62025"
 city: Edwardsville
-street: "Signature Industrial Dr."
-housenumber: 4767
+street: Signature Industrial Dr.
+housenumber: "4767"
 phone: ""
 opening_hours: ""
-website: "https://minasespresso.com/"
+website: https://minasespresso.com/

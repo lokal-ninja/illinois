@@ -1,11 +1,11 @@
 id: 201015494
-type: way
+type: node
 latitude: 41.91166
 longitude: -87.65302
 postcode: "60642"
 city: Chicago
-street: "West North Avenue"
-housenumber: 1000
+street: West North Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

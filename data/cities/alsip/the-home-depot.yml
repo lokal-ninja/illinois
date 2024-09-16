@@ -1,11 +1,11 @@
 id: 473649288
-type: way
+type: node
 latitude: 41.6757
 longitude: -87.74177
 postcode: "60803"
 city: Alsip
-street: "South Cicero Avenue"
-housenumber: 12000
-phone: "+1 708-239-1873"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/alsip/il/alsip/60803/6822"
+street: South Cicero Avenue
+housenumber: "12000"
+phone: +1 708-239-1873
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/alsip/il/alsip/60803/6822

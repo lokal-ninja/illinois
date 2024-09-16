@@ -1,11 +1,11 @@
 id: 250227122
-type: way
+type: node
 latitude: 42.24913
 longitude: -88.97889
 postcode: "61112"
 city: Cherry Valley
-street: "South Perryville Road"
-housenumber: 1736
-phone: "+1 815-332-3100"
-opening_hours: "24/7"
+street: South Perryville Road
+housenumber: "1736"
+phone: +1 815-332-3100
+opening_hours: 24/7
 website: ""

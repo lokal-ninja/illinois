@@ -1,11 +1,11 @@
 id: 162461437
-type: way
+type: node
 latitude: 41.96022
 longitude: -87.74092
 postcode: "60641"
 city: Chicago
-street: "West Montrose Avenue"
-housenumber: 4455
+street: West Montrose Avenue
+housenumber: "4455"
 phone: ""
 opening_hours: ""
 website: ""

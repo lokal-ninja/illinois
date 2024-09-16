@@ -1,11 +1,11 @@
 id: 555567407
-type: way
+type: node
 latitude: 38.6771
 longitude: -90.01357
 postcode: "62234"
 city: Collinsville
-street: "Collinsville Crossing Boulevard"
-housenumber: 1190
+street: Collinsville Crossing Boulevard
+housenumber: "1190"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1190+collinsville+crossing+blvd-collinsville-il-62234/id=9750"
+website: https://www.walgreens.com/locator/walgreens-1190+collinsville+crossing+blvd-collinsville-il-62234/id=9750

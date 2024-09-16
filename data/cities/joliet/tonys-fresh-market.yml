@@ -1,11 +1,11 @@
 id: 200827647
-type: way
+type: node
 latitude: 41.52434
 longitude: -88.12646
 postcode: "60435"
 city: Joliet
-street: "West Jefferson Street"
-housenumber: 1801
+street: West Jefferson Street
+housenumber: "1801"
 phone: ""
 opening_hours: ""
-website: "https://www.tonysfreshmarket.com/stores/joliet"
+website: https://www.tonysfreshmarket.com/stores/joliet

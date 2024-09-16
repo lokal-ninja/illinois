@@ -1,11 +1,11 @@
 id: 447343817
-type: way
+type: node
 latitude: 41.82451
 longitude: -87.61656
 postcode: "60653"
 city: Chicago
-street: "South Doctor Martin Luther King Junior Drive"
-housenumber: 3857
+street: South Doctor Martin Luther King Junior Drive
+housenumber: "3857"
 phone: ""
 opening_hours: ""
-website: "https://www.marianos.com/"
+website: https://www.marianos.com/

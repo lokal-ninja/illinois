@@ -1,11 +1,11 @@
 id: 210680524
-type: way
+type: node
 latitude: 41.89228
 longitude: -87.62394
 postcode: "60611"
 city: Chicago
-street: "North Michigan Avenue"
-housenumber: 555
+street: North Michigan Avenue
+housenumber: "555"
 phone: ""
 opening_hours: ""
 website: ""

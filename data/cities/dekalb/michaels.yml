@@ -1,11 +1,11 @@
 id: 984135056
-type: way
+type: node
 latitude: 41.95295
 longitude: -88.72683
 postcode: "60115"
 city: Dekalb
-street: "Sycamore Road"
-housenumber: 2341
-phone: "+1 815-787-0823"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-19:00"
-website: "https://locations.michaels.com/il/dekalb/1604"
+street: Sycamore Road
+housenumber: "2341"
+phone: +1 815-787-0823
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-19:00
+website: https://locations.michaels.com/il/dekalb/1604

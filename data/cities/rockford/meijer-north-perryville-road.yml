@@ -1,11 +1,11 @@
 id: 775822961
-type: way
+type: node
 latitude: 42.29339
 longitude: -88.97913
 postcode: "61107"
 city: Rockford
-street: "North Perryville Road"
-housenumber: 2011
+street: North Perryville Road
+housenumber: "2011"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.meijer.com/"
+opening_hours: 24/7
+website: https://www.meijer.com/

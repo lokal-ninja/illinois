@@ -1,11 +1,11 @@
 id: 1251430879
-type: way
+type: node
 latitude: 40.31095
 longitude: -88.15769
 postcode: "61866"
 city: Rantoul
-street: "North Garrard Street"
-housenumber: 107
+street: North Garrard Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

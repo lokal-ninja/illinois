@@ -1,11 +1,11 @@
 id: 220411025
-type: way
+type: node
 latitude: 42.04124
 longitude: -87.70064
 postcode: "60201"
 city: Evanston
-street: "Dempster Street"
-housenumber: 1941
+street: Dempster Street
+housenumber: "1941"
 phone: ""
 opening_hours: ""
 website: ""

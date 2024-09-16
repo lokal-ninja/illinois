@@ -1,11 +1,11 @@
 id: 850669525
-type: way
+type: node
 latitude: 41.7093
 longitude: -88.20664
 postcode: "60564"
 city: Naperville
-street: "Reflection Drive"
-housenumber: 3004
+street: Reflection Drive
+housenumber: "3004"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Naperville/3004-Reflection-Drive"
+website: https://www.speedway.com/locations/IL/Naperville/3004-Reflection-Drive

@@ -1,11 +1,11 @@
 id: 158378908
-type: way
+type: node
 latitude: 42.3455
 longitude: -87.89733
 postcode: "60085"
 city: Waukegan
-street: "Fountain Square Place"
-housenumber: 3900
-phone: "+1 847-473-2193"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3891/waukegan-il/whats-new"
+street: Fountain Square Place
+housenumber: "3900"
+phone: +1 847-473-2193
+opening_hours: 24/7
+website: https://www.walmart.com/store/3891/waukegan-il/whats-new

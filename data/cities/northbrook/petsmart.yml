@@ -1,11 +1,11 @@
 id: 442141849
-type: way
+type: node
 latitude: 42.14714
 longitude: -87.79636
 postcode: "60062"
 city: Northbrook
-street: "Skokie Boulevard"
-housenumber: 291
-phone: "+1 847-562-0922"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/northbrook-store0431.html"
+street: Skokie Boulevard
+housenumber: "291"
+phone: +1 847-562-0922
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/northbrook-store0431.html

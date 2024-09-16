@@ -1,11 +1,11 @@
 id: 1245925583
-type: way
+type: node
 latitude: 38.87611
 longitude: -90.10319
 postcode: "62024"
 city: East Alton
-street: "East St Louis Avenue"
-housenumber: 410
-phone: "1-618-254-3921"
+street: East St Louis Avenue
+housenumber: "410"
+phone: 1-618-254-3921
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 566518823
-type: way
+type: node
 latitude: 41.77372
 longitude: -88.00702
 postcode: "60516"
 city: Downers Grove
-street: "Main Street"
-housenumber: 6215
-phone: "+1 630-969-3105"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/downers-grove/6215-main-st.html"
+street: Main Street
+housenumber: "6215"
+phone: +1 630-969-3105
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.jewelosco.com/il/downers-grove/6215-main-st.html

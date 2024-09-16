@@ -1,11 +1,11 @@
 id: 784919955
-type: way
+type: node
 latitude: 42.0323
 longitude: -87.94007
 postcode: "60016"
 city: Des Plaines
-street: "South Elmhurst Road"
-housenumber: 1101
+street: South Elmhurst Road
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

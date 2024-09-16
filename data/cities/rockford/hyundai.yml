@@ -1,11 +1,11 @@
 id: 257790600
-type: way
+type: node
 latitude: 42.2723
 longitude: -88.97845
 postcode: "61107"
 city: Rockford
-street: "North Perryville Road"
-housenumber: 506
+street: North Perryville Road
+housenumber: "506"
 phone: ""
 opening_hours: ""
-website: "http://www.napletonrockfordhyundai.com"
+website: http://www.napletonrockfordhyundai.com

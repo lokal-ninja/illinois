@@ -1,11 +1,11 @@
 id: 1226262215
-type: way
+type: node
 latitude: 41.80315
 longitude: -88.12745
 postcode: "60563"
 city: Naperville
-street: "Freedom Drive"
-housenumber: 1763
-phone: "+1 630 445 0095"
+street: Freedom Drive
+housenumber: "1763"
+phone: +1 630 445 0095
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 770898500
-type: way
+type: node
 latitude: 42.22457
 longitude: -89.02363
 postcode: "61109"
 city: Rockford
-street: "Stenstrom Road"
-housenumber: 4777
-phone: "+1-779-368-5154"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://mapleglencc.com/"
+street: Stenstrom Road
+housenumber: "4777"
+phone: +1-779-368-5154
+opening_hours: Mo-Su 10:00-18:00
+website: https://mapleglencc.com/

@@ -1,11 +1,11 @@
 id: 541727421
-type: way
+type: node
 latitude: 41.95864
 longitude: -90.10104
 postcode: "61285"
 city: Thomson
-street: "West Main Street"
-housenumber: 831
-phone: "+1-815-259-8289"
+street: West Main Street
+housenumber: "831"
+phone: +1-815-259-8289
 opening_hours: ""
-website: "https://www.arnoldsbikesusa.com"
+website: https://www.arnoldsbikesusa.com

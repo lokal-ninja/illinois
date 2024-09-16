@@ -4,8 +4,8 @@ latitude: 41.88408
 longitude: -87.65
 postcode: "60607"
 city: Chicago
-street: "West Randolph Street"
-housenumber: 901
-phone: "+1-312-666-4587"
-opening_hours: "Tu-Sa 11:00-16:00"
-website: "https://www.jpgraziano.com/"
+street: West Randolph Street
+housenumber: "901"
+phone: +1-312-666-4587
+opening_hours: Tu-Sa 11:00-16:00
+website: https://www.jpgraziano.com/

@@ -1,11 +1,11 @@
 id: 1303143078
-type: way
+type: node
 latitude: 41.9671
 longitude: -87.83457
 postcode: "60706"
 city: Norridge
-street: "West Lawrence Avenue"
-housenumber: 8300
+street: West Lawrence Avenue
+housenumber: "8300"
 phone: ""
 opening_hours: ""
 website: ""

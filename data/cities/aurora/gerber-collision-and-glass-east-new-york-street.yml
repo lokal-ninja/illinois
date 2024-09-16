@@ -1,11 +1,11 @@
 id: 745186900
-type: way
+type: node
 latitude: 41.76081
 longitude: -88.25642
 postcode: "60504"
 city: Aurora
-street: "East New York Street"
-housenumber: 2424
+street: East New York Street
+housenumber: "2424"
 phone: ""
 opening_hours: ""
 website: ""

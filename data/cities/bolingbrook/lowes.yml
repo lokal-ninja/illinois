@@ -1,11 +1,11 @@
 id: 59526821
-type: way
+type: node
 latitude: 41.6927
 longitude: -88.12644
 postcode: "60490"
 city: Bolingbrook
-street: "South Weber Road"
-housenumber: 245
-phone: "+1 630-343-3000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/"
+street: South Weber Road
+housenumber: "245"
+phone: +1 630-343-3000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/

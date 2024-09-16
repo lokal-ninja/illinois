@@ -1,11 +1,11 @@
 id: 245014256
-type: way
+type: node
 latitude: 40.1395
 longitude: -88.26031
-postcode: "61822-1235"
+postcode: 61822-1235
 city: Champaign
-street: "North Prospect Avenue"
-housenumber: 2013
-phone: "+1 217 3597618"
-opening_hours: "Mo-Sa 10:00-20:00;Su 12:00-18:00"
-website: "https://www.cititrends.com/locator/store_info.php?store=1310"
+street: North Prospect Avenue
+housenumber: "2013"
+phone: +1 217 3597618
+opening_hours: Mo-Sa 10:00-20:00;Su 12:00-18:00
+website: https://www.cititrends.com/locator/store_info.php?store=1310

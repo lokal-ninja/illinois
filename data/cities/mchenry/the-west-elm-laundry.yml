@@ -1,11 +1,11 @@
 id: 407794060
-type: way
+type: node
 latitude: 42.34792
 longitude: -88.28608
 postcode: "60050"
 city: McHenry
-street: "West Elm Street"
-housenumber: 4506
+street: West Elm Street
+housenumber: "4506"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.98575
 longitude: -87.66912
 postcode: "60660"
 city: Chicago
-street: "North Clark Street"
-housenumber: 5709
-phone: "+1-773-649-0111"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00"
-website: "http://ontherockschicago.com/"
+street: North Clark Street
+housenumber: "5709"
+phone: +1-773-649-0111
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00
+website: http://ontherockschicago.com/

@@ -1,11 +1,11 @@
 id: 333531658
-type: way
+type: node
 latitude: 42.05659
 longitude: -87.79707
 postcode: "60025"
 city: Glenview
-street: "Waukegan Road"
-housenumber: 25
+street: Waukegan Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.marianos.com/"
+website: https://www.marianos.com/

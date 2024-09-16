@@ -1,11 +1,11 @@
 id: 376476804
-type: way
+type: node
 latitude: 42.1516
 longitude: -87.84647
 postcode: "60015"
 city: Deerfield
-street: "South Pfingsten Road"
-housenumber: 125
+street: South Pfingsten Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

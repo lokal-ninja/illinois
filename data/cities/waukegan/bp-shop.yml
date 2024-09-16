@@ -1,11 +1,11 @@
 id: 914557421
-type: way
+type: node
 latitude: 42.34974
 longitude: -87.87374
 postcode: "60085"
 city: Waukegan
-street: "Belvidere Road"
-housenumber: 2930
+street: Belvidere Road
+housenumber: "2930"
 phone: ""
 opening_hours: ""
 website: ""

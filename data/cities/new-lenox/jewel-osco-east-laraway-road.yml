@@ -1,11 +1,11 @@
 id: 908253572
-type: way
+type: node
 latitude: 41.48556
 longitude: -87.92552
 postcode: "60451"
 city: New Lenox
-street: "East Laraway Road"
-housenumber: 2021
-phone: "+1 815-463-4950"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/new-lenox/2021-e-laraway-rd.html"
+street: East Laraway Road
+housenumber: "2021"
+phone: +1 815-463-4950
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/new-lenox/2021-e-laraway-rd.html

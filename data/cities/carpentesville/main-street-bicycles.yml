@@ -4,8 +4,8 @@ latitude: 42.10882
 longitude: -88.28814
 postcode: "60110"
 city: Carpentesville
-street: "East Main Street"
-housenumber: 39
-phone: "+1-847-783-0362"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-18:00; Jun-Aug Su 10:00-16:00; PH off"
-website: "https://www.mainstbicycles.com/"
+street: East Main Street
+housenumber: "39"
+phone: +1-847-783-0362
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-18:00; Jun-Aug Su 10:00-16:00; PH off
+website: https://www.mainstbicycles.com/

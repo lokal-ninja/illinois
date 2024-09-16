@@ -4,8 +4,8 @@ latitude: 39.76437
 longitude: -89.64782
 postcode: "62703"
 city: Springfield
-street: "South 6th Street"
-housenumber: 2860
-phone: "+1-217-544-5004"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-20:00"
-website: "https://www.autozone.com/locations/il/springfield/2860-s-6th-st.html"
+street: South 6th Street
+housenumber: "2860"
+phone: +1-217-544-5004
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-20:00
+website: https://www.autozone.com/locations/il/springfield/2860-s-6th-st.html

@@ -1,11 +1,11 @@
 id: 520825763
-type: way
+type: node
 latitude: 42.17525
 longitude: -88.33128
 postcode: "60102"
 city: Algonquin
-street: "West Algonquin Road"
-housenumber: 2341
-phone: "+1-847-458-2774"
+street: West Algonquin Road
+housenumber: "2341"
+phone: +1-847-458-2774
 opening_hours: ""
 website: ""

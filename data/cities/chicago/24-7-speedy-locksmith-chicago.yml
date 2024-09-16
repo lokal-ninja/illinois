@@ -1,11 +1,11 @@
 id: 210221630
-type: way
+type: node
 latitude: 41.85536
 longitude: -87.65169
 postcode: "60608"
 city: Chicago
-street: "West Cullerton Street"
-housenumber: 1000
-phone: "+1-312-285-3790"
-opening_hours: "24/7"
-website: "https://www.chilocksmith.com/"
+street: West Cullerton Street
+housenumber: "1000"
+phone: +1-312-285-3790
+opening_hours: 24/7
+website: https://www.chilocksmith.com/

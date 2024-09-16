@@ -1,11 +1,11 @@
 id: 805226896
-type: way
+type: node
 latitude: 42.27738
 longitude: -88.04154
 postcode: "60060"
 city: Mundelein
-street: "IL 60"
-housenumber: 20921
+street: IL 60
+housenumber: "20921"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1026885653
-type: way
+type: node
 latitude: 42.15653
 longitude: -87.91574
 postcode: "60089"
 city: Buffalo Grove
-street: "Milwaukee Avenue"
-housenumber: 201
+street: Milwaukee Avenue
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Buffalo-Grove/201-Milwaukee-Ave"
+website: https://www.speedway.com/locations/IL/Buffalo-Grove/201-Milwaukee-Ave

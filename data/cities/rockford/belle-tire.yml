@@ -1,11 +1,12 @@
 id: 1237405018
-type: way
+type: node
 latitude: 42.29611
 longitude: -88.97865
 postcode: "61114"
 city: Rockford
-street: "McFarland Road"
-housenumber: 
-phone: "+1 815-315-9570"
-opening_hours: "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed"
-website: "https://www.belletire.com/stores/detail/216/belle-tire-rockford-il"
+street: McFarland Road
+housenumber: ""
+phone: +1 815-315-9570
+opening_hours: Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00;
+    Sa 08:00-17:00; Su closed
+website: https://www.belletire.com/stores/detail/216/belle-tire-rockford-il

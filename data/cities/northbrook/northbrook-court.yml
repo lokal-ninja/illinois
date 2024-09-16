@@ -1,11 +1,11 @@
 id: 722018651
-type: way
+type: node
 latitude: 42.14984
 longitude: -87.81818
 postcode: "60062"
 city: Northbrook
-street: "Lake Cook Road"
-housenumber: 1515
+street: Lake Cook Road
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

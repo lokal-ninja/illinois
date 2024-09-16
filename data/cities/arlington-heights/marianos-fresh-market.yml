@@ -1,11 +1,11 @@
 id: 256388835
-type: way
+type: node
 latitude: 42.08085
 longitude: -87.97264
 postcode: "60004"
 city: Arlington Heights
-street: "East Northwest Highway"
-housenumber: 802
-phone: "+1-847-253-5439"
+street: East Northwest Highway
+housenumber: "802"
+phone: +1-847-253-5439
 opening_hours: ""
 website: ""

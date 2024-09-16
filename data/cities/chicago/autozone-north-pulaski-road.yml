@@ -1,11 +1,11 @@
 id: 162461371
-type: way
+type: node
 latitude: 41.9618
 longitude: -87.72843
 postcode: "60630"
 city: Chicago
-street: "North Pulaski Road"
-housenumber: 4448
+street: North Pulaski Road
+housenumber: "4448"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/4448-n-pulaski-rd.html"
+website: https://www.autozone.com/locations/il/chicago/4448-n-pulaski-rd.html

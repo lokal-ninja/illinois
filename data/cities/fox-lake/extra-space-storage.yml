@@ -1,11 +1,11 @@
 id: 131883259
-type: way
+type: node
 latitude: 42.36953
 longitude: -88.17365
 postcode: "60020"
 city: Fox Lake
-street: "US 12"
-housenumber: 1258
+street: US 12
+housenumber: "1258"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1219898885
-type: way
+type: node
 latitude: 42.04837
 longitude: -87.83781
 postcode: "60714"
 city: Niles
-street: "Golf Mill Center"
-housenumber: 220
+street: Golf Mill Center
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

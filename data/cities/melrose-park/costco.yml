@@ -1,11 +1,11 @@
 id: 226321902
-type: way
+type: node
 latitude: 41.90876
 longitude: -87.83785
 postcode: "60160"
 city: Melrose Park
-street: "North Avenue"
-housenumber: 8400
-phone: "+1 708-397-2905"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/melrose-park-il-1085.html"
+street: North Avenue
+housenumber: "8400"
+phone: +1 708-397-2905
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/melrose-park-il-1085.html

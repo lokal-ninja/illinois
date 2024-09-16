@@ -1,11 +1,11 @@
 id: 604119700
-type: way
+type: node
 latitude: 41.63464
 longitude: -87.61548
 postcode: "60419"
 city: Dolton
-street: "East 144th Street"
-housenumber: 200
+street: East 144th Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.fairway-foods.com/"
+website: https://www.fairway-foods.com/

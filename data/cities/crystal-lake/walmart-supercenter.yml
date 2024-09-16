@@ -1,11 +1,11 @@
 id: 328909597
-type: way
+type: node
 latitude: 42.21019
 longitude: -88.28362
 postcode: "60014"
 city: Crystal Lake
-street: "South IL Route 31"
-housenumber: 1205
-phone: "+1 815-455-4200"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1413/crystal-lake-il/whats-new"
+street: South IL Route 31
+housenumber: "1205"
+phone: +1 815-455-4200
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1413/crystal-lake-il/whats-new

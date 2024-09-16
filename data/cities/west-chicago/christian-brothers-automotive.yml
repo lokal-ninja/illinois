@@ -4,8 +4,8 @@ latitude: 41.91333
 longitude: -88.20903
 postcode: "60185"
 city: West Chicago
-street: "Illinois Route 59"
-housenumber: 1650
-phone: "+1 630 386 9106"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.cbac.com/west-chicago"
+street: Illinois Route 59
+housenumber: "1650"
+phone: +1 630 386 9106
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.cbac.com/west-chicago

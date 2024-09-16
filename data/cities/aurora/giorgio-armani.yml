@@ -1,11 +1,11 @@
 id: 975319252
-type: way
+type: node
 latitude: 41.80028
 longitude: -88.27572
 postcode: "60502"
 city: Aurora
-street: "Premium Outlets Boulevard"
-housenumber: 1650
-phone: "+1 630 585 6420"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-18:00"
-website: "https://www.premiumoutlets.com/outlet/chicago/stores/armani-outlet"
+street: Premium Outlets Boulevard
+housenumber: "1650"
+phone: +1 630 585 6420
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-18:00
+website: https://www.premiumoutlets.com/outlet/chicago/stores/armani-outlet

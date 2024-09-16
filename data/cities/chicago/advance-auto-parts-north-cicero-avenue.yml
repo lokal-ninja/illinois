@@ -1,11 +1,11 @@
 id: 162389316
-type: way
+type: node
 latitude: 41.9211
 longitude: -87.74566
 postcode: "60639"
 city: Chicago
-street: "North Cicero Avenue"
-housenumber: 2223
+street: North Cicero Avenue
+housenumber: "2223"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/chicago/2223-n-cicero-ave"
+website: https://stores.advanceautoparts.com/il/chicago/2223-n-cicero-ave

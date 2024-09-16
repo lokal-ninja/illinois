@@ -1,11 +1,11 @@
 id: 210089148
-type: way
+type: node
 latitude: 41.74467
 longitude: -87.65346
 postcode: "60620"
 city: Chicago
-street: "South Racine Avenue"
-housenumber: 8201
+street: South Racine Avenue
+housenumber: "8201"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/15472"
+website: https://www.dollargeneral.com/store-directory/il/chicago/15472

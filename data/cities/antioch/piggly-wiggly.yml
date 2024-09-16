@@ -1,11 +1,11 @@
 id: 917083746
-type: way
+type: node
 latitude: 42.47852
 longitude: -88.10007
 postcode: "60002"
 city: Antioch
-street: "Orchard Street"
-housenumber: 460
-phone: "+1 847-395-7842"
-opening_hours: "Mo-Fr 07:00-21:00; Sa,Su 07:00-20:00"
+street: Orchard Street
+housenumber: "460"
+phone: +1 847-395-7842
+opening_hours: Mo-Fr 07:00-21:00; Sa,Su 07:00-20:00
 website: ""

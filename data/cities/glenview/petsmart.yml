@@ -4,8 +4,8 @@ latitude: 42.08243
 longitude: -87.79707
 postcode: "60025"
 city: Glenview
-street: "Waukegan Road"
-housenumber: 1523
-phone: "+1 847-904-1556"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/glenview-store2579.html"
+street: Waukegan Road
+housenumber: "1523"
+phone: +1 847-904-1556
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/glenview-store2579.html

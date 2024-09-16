@@ -1,11 +1,11 @@
 id: 239197563
-type: way
+type: node
 latitude: 41.77338
 longitude: -88.15257
 postcode: "60540"
 city: Naperville
-street: "West Jefferson Avenue"
-housenumber: 237
-phone: "+1 630 357 3444"
-opening_hours: "Tu-Th 09:00-20:00, Fr 09:00-19:00, Sa 08:30-16:30"
-website: "https://czarspa.com/locations/naperville/"
+street: West Jefferson Avenue
+housenumber: "237"
+phone: +1 630 357 3444
+opening_hours: Tu-Th 09:00-20:00, Fr 09:00-19:00, Sa 08:30-16:30
+website: https://czarspa.com/locations/naperville/

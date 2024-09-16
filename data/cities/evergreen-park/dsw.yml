@@ -1,11 +1,11 @@
 id: 660880700
-type: way
+type: node
 latitude: 41.71621
 longitude: -87.68493
 postcode: "60805"
 city: Evergreen Park
-street: "South Western Avenue"
-housenumber: 9690
-phone: "+1 708-576-7244"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://stores.dsw.com/usa/il/evergreenpark/dsw-designer-shoe-warehouse-evergreen-plaza.html"
+street: South Western Avenue
+housenumber: "9690"
+phone: +1 708-576-7244
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://stores.dsw.com/usa/il/evergreenpark/dsw-designer-shoe-warehouse-evergreen-plaza.html

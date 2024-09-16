@@ -1,11 +1,11 @@
 id: 706497100
-type: way
+type: node
 latitude: 38.87477
 longitude: -90.09997
 postcode: "62095"
 city: Wood River
-street: "West Edwardsville Road"
-housenumber: 1
+street: West Edwardsville Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/wood-river-il-pharmacies/1-west-edwardsville-rd-wood-river-il-62095/storeid=6833"
+website: https://www.cvs.com/store-locator/wood-river-il-pharmacies/1-west-edwardsville-rd-wood-river-il-62095/storeid=6833

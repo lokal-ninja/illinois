@@ -1,11 +1,11 @@
 id: 165052990
-type: way
+type: node
 latitude: 41.70445
 longitude: -87.70111
 postcode: "60655"
 city: Chicago
-street: "South Kedzie Avenue"
-housenumber: 10355
+street: South Kedzie Avenue
+housenumber: "10355"
 phone: ""
 opening_hours: ""
-website: "Chicagoland Bicycle"
+website: Chicagoland Bicycle

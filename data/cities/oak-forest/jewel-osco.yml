@@ -1,11 +1,11 @@
 id: 1262009676
-type: way
+type: node
 latitude: 41.60463
 longitude: -87.75828
 postcode: "60452"
 city: Oak Forest
-street: "West 159th Street"
-housenumber: 5616
-phone: "+1 708-614-6700"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/oak-forest/5616-w-159th-st.html"
+street: West 159th Street
+housenumber: "5616"
+phone: +1 708-614-6700
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/oak-forest/5616-w-159th-st.html

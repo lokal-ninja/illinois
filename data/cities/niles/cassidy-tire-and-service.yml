@@ -1,11 +1,11 @@
 id: 1111932032
-type: way
+type: node
 latitude: 42.04032
 longitude: -87.80595
 postcode: "60714"
 city: Niles
-street: "Harlem Avenue"
-housenumber: 8733
+street: Harlem Avenue
+housenumber: "8733"
 phone: ""
 opening_hours: ""
 website: ""

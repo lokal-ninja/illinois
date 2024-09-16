@@ -1,11 +1,11 @@
 id: 1153129495
-type: way
+type: node
 latitude: 40.79928
 longitude: -89.36123
 postcode: "61548"
 city: Metamora
-street: "North Wiedman Street"
-housenumber: 913
+street: North Wiedman Street
+housenumber: "913"
 phone: ""
 opening_hours: ""
-website: "http://metamorastorage.com/"
+website: http://metamorastorage.com/

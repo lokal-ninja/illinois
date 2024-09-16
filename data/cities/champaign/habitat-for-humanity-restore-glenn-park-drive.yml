@@ -1,11 +1,11 @@
 id: 851897931
-type: way
+type: node
 latitude: 40.11965
 longitude: -88.27984
 postcode: "61821"
 city: Champaign
-street: "Glenn Park Drive"
-housenumber: 1914
-phone: "+1 217 3568242"
+street: Glenn Park Drive
+housenumber: "1914"
+phone: +1 217 3568242
 opening_hours: ""
 website: ""

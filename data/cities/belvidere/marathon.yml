@@ -1,11 +1,11 @@
 id: 255944059
-type: way
+type: node
 latitude: 42.26587
 longitude: -88.84895
 postcode: "61008"
 city: Belvidere
-street: "North State Street"
-housenumber: 
+street: North State Street
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 566189512
-type: way
+type: node
 latitude: 41.78908
 longitude: -89.69934
 postcode: "61081"
 city: Sterling
-street: "West 3rd Street"
-housenumber: 210
-phone: "815-622-0180"
+street: West 3rd Street
+housenumber: "210"
+phone: 815-622-0180
 opening_hours: ""
-website: "https://www.mycountymarket.com/"
+website: https://www.mycountymarket.com/

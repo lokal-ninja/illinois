@@ -1,11 +1,11 @@
 id: 1218403303
-type: way
+type: node
 latitude: 41.95315
 longitude: -88.72353
 postcode: "60115"
 city: DeKalb
-street: "Sycamore Road"
-housenumber: 2400
-phone: "+1 815-758-8401"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.exxon.com/en/find-station/mobil-dekalb-il-dekalbmobil-200314305"
+street: Sycamore Road
+housenumber: "2400"
+phone: +1 815-758-8401
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.exxon.com/en/find-station/mobil-dekalb-il-dekalbmobil-200314305

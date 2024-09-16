@@ -1,11 +1,11 @@
 id: 706546965
-type: way
+type: node
 latitude: 40.47161
 longitude: -88.95462
 postcode: "61701"
 city: Bloomington
-street: "East Oakland Avenue"
-housenumber: 2507
-phone: "+1 309-663-0423"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/il/bloomington/oakland/021/00943"
+street: East Oakland Avenue
+housenumber: "2507"
+phone: +1 309-663-0423
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/il/bloomington/oakland/021/00943

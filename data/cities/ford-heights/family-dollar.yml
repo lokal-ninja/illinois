@@ -1,11 +1,11 @@
 id: 562115973
-type: way
+type: node
 latitude: 41.50699
 longitude: -87.59629
 postcode: "60411"
 city: Ford Heights
-street: "Lincoln Highway"
-housenumber: 803
+street: Lincoln Highway
+housenumber: "803"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/locations/il/ford-heights/"
+website: https://www.familydollar.com/locations/il/ford-heights/

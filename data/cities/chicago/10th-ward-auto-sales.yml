@@ -1,11 +1,11 @@
 id: 211326525
-type: way
+type: node
 latitude: 41.65093
 longitude: -87.54863
 postcode: "60633"
 city: Chicago
-street: "South Houston Avenue"
-housenumber: 13428
+street: South Houston Avenue
+housenumber: "13428"
 phone: ""
 opening_hours: ""
-website: "https://www.10thwardauto.com/"
+website: https://www.10thwardauto.com/

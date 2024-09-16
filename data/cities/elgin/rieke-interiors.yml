@@ -4,8 +4,8 @@ latitude: 42.07489
 longitude: -88.32434
 postcode: "60123"
 city: Elgin
-street: "Fox Lane"
-housenumber: 2000
-phone: "+1-847-622-9711"
-opening_hours: "Mo-Th 08:00-16:30, Fr 08:00-16:00"
-website: "https://www.rieke.com"
+street: Fox Lane
+housenumber: "2000"
+phone: +1-847-622-9711
+opening_hours: Mo-Th 08:00-16:30, Fr 08:00-16:00
+website: https://www.rieke.com

@@ -1,11 +1,11 @@
 id: 1215608826
-type: way
+type: node
 latitude: 42.19007
 longitude: -88.11049
 postcode: "60047"
 city: Lake Zurich
-street: "Cortland Drive"
-housenumber: 540
+street: Cortland Drive
+housenumber: "540"
 phone: ""
 opening_hours: ""
-website: "https://acostashome.com/"
+website: https://acostashome.com/

@@ -1,11 +1,11 @@
 id: 518461349
-type: way
+type: node
 latitude: 41.78173
 longitude: -88.37778
 postcode: "60506"
 city: Aurora
-street: "Orchard Road"
-housenumber: 1250
-phone: "+1 630-907-1480"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/West-Aurora/IL/Aurora/60506/1957"
+street: Orchard Road
+housenumber: "1250"
+phone: +1 630-907-1480
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/West-Aurora/IL/Aurora/60506/1957

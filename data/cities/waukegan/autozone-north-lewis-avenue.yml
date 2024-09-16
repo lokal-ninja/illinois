@@ -1,11 +1,11 @@
 id: 417396196
-type: way
+type: node
 latitude: 42.38352
 longitude: -87.85493
 postcode: "60085"
 city: Waukegan
-street: "North Lewis Avenue"
-housenumber: 1701
+street: North Lewis Avenue
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/waukegan/1701-n-lewis-ave.html"
+website: https://www.autozone.com/locations/il/waukegan/1701-n-lewis-ave.html

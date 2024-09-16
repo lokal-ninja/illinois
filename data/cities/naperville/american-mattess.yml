@@ -1,11 +1,12 @@
 id: 260513971
-type: way
+type: node
 latitude: 41.75262
 longitude: -88.20552
 postcode: "60540"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 1044
+street: South Illinois Route 59
+housenumber: "1044"
 phone: ""
-opening_hours: "Mo-Tu 10:00-20:00, We 11:00-18:00, Th-Fr 10:00-20:00, Sa 10:00-19:00, Su 11:00-18:00"
-website: "https://www.americanmattress.com/pages/american-mattress-naperville"
+opening_hours: Mo-Tu 10:00-20:00, We 11:00-18:00, Th-Fr 10:00-20:00, Sa 10:00-19:00,
+    Su 11:00-18:00
+website: https://www.americanmattress.com/pages/american-mattress-naperville

@@ -1,11 +1,11 @@
 id: 766380240
-type: way
+type: node
 latitude: 42.3162
 longitude: -89.09756
 postcode: "61103"
 city: Rockford
-street: "West Riverside Boulevard"
-housenumber: 3910
-phone: "+1-815-654-2484"
+street: West Riverside Boulevard
+housenumber: "3910"
+phone: +1-815-654-2484
 opening_hours: ""
-website: "https://www.fitzgeraldfh.com/"
+website: https://www.fitzgeraldfh.com/

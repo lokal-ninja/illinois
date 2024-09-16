@@ -1,11 +1,11 @@
 id: 772233605
-type: way
+type: node
 latitude: 42.22253
 longitude: -89.03063
 postcode: "61109"
 city: Rockford
-street: "Merchandise Drive"
-housenumber: 3442
-phone: "+1 815-874-7226"
+street: Merchandise Drive
+housenumber: "3442"
+phone: +1 815-874-7226
 opening_hours: ""
-website: "https://www.sunnyislandrv.com/"
+website: https://www.sunnyislandrv.com/

@@ -1,11 +1,11 @@
 id: 28032454
-type: way
+type: node
 latitude: 42.16326
 longitude: -88.05166
 postcode: "60047"
 city: Kildeer
-street: "North Rand Road"
-housenumber: 20505
-phone: "+1 847-438-4401"
+street: North Rand Road
+housenumber: "20505"
+phone: +1 847-438-4401
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/il/kildeer/119101/"
+website: https://www.mattressfirm.com/en-us/stores/il/kildeer/119101/

@@ -1,11 +1,11 @@
 id: 975861138
-type: way
+type: node
 latitude: 41.76873
 longitude: -88.18476
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1568
-phone: "+1 331 226 0555"
+street: West Ogden Avenue
+housenumber: "1568"
+phone: +1 331 226 0555
 opening_hours: ""
 website: ""

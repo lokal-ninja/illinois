@@ -1,11 +1,11 @@
 id: 1305828002
-type: way
+type: node
 latitude: 41.62213
 longitude: -87.64084
 postcode: "60426"
 city: Harvey
-street: "Halsted Street"
-housenumber: 14715
+street: Halsted Street
+housenumber: "14715"
 phone: ""
 opening_hours: ""
 website: ""

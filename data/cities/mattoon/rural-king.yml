@@ -1,11 +1,11 @@
 id: 164422397
-type: way
+type: node
 latitude: 39.49245
 longitude: -88.41508
 postcode: "61938"
 city: Mattoon
-street: "DeWitt Avenue"
-housenumber: 4216
+street: DeWitt Avenue
+housenumber: "4216"
 phone: ""
 opening_hours: ""
 website: ""

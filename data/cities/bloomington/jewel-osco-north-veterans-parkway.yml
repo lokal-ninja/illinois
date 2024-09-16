@@ -1,11 +1,11 @@
 id: 984102248
-type: way
+type: node
 latitude: 40.50957
 longitude: -88.9497
 postcode: "61704"
 city: Bloomington
-street: "North Veterans Parkway"
-housenumber: 2103
-phone: "+1 309-664-1320"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/bloomington/2103-n-veterans-pkwy.html"
+street: North Veterans Parkway
+housenumber: "2103"
+phone: +1 309-664-1320
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/bloomington/2103-n-veterans-pkwy.html

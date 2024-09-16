@@ -1,11 +1,11 @@
 id: 530583984
-type: way
+type: node
 latitude: 41.74571
 longitude: -88.19917
 postcode: "60564"
 city: Naperville
-street: "West 75th Street"
-housenumber: 2552
-phone: "+1 630-416-1000"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1401/naperville-il/whats-new"
+street: West 75th Street
+housenumber: "2552"
+phone: +1 630-416-1000
+opening_hours: 24/7
+website: https://www.walmart.com/store/1401/naperville-il/whats-new

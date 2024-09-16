@@ -1,11 +1,11 @@
 id: 447973838
-type: way
+type: node
 latitude: 42.18821
 longitude: -88.0943
 postcode: "60047"
 city: Lake Zurich
-street: "South Rand Road"
-housenumber: 670
-phone: "+1 847-726-0707"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/lake-zurich/il/lake-zurich/60047/1952"
+street: South Rand Road
+housenumber: "670"
+phone: +1 847-726-0707
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/lake-zurich/il/lake-zurich/60047/1952

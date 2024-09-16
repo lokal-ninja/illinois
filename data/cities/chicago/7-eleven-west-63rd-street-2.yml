@@ -1,11 +1,11 @@
 id: 162852692
-type: way
+type: node
 latitude: 41.77748
 longitude: -87.77116
 postcode: "60638"
 city: Chicago
-street: "West 63rd Street"
-housenumber: 5953
-phone: "+1 773-585-4634"
+street: West 63rd Street
+housenumber: "5953"
+phone: +1 773-585-4634
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/chicago/5953-west-63rd-street-27463"
+website: https://www.7-eleven.com/locations/il/chicago/5953-west-63rd-street-27463

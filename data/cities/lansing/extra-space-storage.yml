@@ -1,11 +1,11 @@
 id: 1272640887
-type: way
+type: node
 latitude: 41.5803
 longitude: -87.55506
 postcode: "60438"
 city: Lansing
-street: "Bernice Road"
-housenumber: 2556
+street: Bernice Road
+housenumber: "2556"
 phone: ""
 opening_hours: ""
 website: ""

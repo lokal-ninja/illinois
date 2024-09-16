@@ -4,8 +4,8 @@ latitude: 41.85801
 longitude: -87.66079
 postcode: "60608"
 city: Chicago
-street: "West 18th Street"
-housenumber: 1350
+street: West 18th Street
+housenumber: "1350"
 phone: ""
 opening_hours: ""
-website: "https://www.bigcityoptical.com"
+website: https://www.bigcityoptical.com

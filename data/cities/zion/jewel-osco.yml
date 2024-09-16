@@ -1,11 +1,11 @@
 id: 362313567
-type: way
+type: node
 latitude: 42.45795
 longitude: -87.82867
 postcode: "60099"
 city: Zion
-street: "21st Street"
-housenumber: 1400
-phone: "+1 847-746-8138"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/zion/1400-21st-st.html"
+street: 21st Street
+housenumber: "1400"
+phone: +1 847-746-8138
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/zion/1400-21st-st.html

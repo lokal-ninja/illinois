@@ -1,11 +1,11 @@
 id: 1150610275
-type: way
+type: node
 latitude: 41.88217
 longitude: -87.71037
 postcode: "60624"
 city: Chicago
-street: "North Homan Boulevard"
-housenumber: 43
+street: North Homan Boulevard
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

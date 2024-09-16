@@ -1,11 +1,11 @@
 id: 768260688
-type: way
+type: node
 latitude: 38.49004
 longitude: -89.78892
 postcode: "62258"
 city: Mascoutah
-street: "East Main Street"
-housenumber: 620
-phone: "+1-618-566-4994"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-13:30"
+street: East Main Street
+housenumber: "620"
+phone: +1-618-566-4994
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-13:30
 website: ""

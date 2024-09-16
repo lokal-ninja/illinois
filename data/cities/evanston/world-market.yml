@@ -4,8 +4,8 @@ latitude: 42.04911
 longitude: -87.68452
 postcode: "60201"
 city: Evanston
-street: "Maple Avenue"
-housenumber: 1725
+street: Maple Avenue
+housenumber: "1725"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
 website: ""

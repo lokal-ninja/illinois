@@ -1,11 +1,11 @@
 id: 96469589
-type: way
+type: node
 latitude: 41.93523
 longitude: -87.83562
 postcode: "60171"
 city: River Grove
-street: "West Belmont Avenue"
-housenumber: 8361
+street: West Belmont Avenue
+housenumber: "8361"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8361+belmont+ave-river+grove-il-60171/id=829"
+website: https://www.walgreens.com/locator/walgreens-8361+belmont+ave-river+grove-il-60171/id=829

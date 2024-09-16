@@ -1,11 +1,11 @@
 id: 865194473
-type: way
+type: node
 latitude: 41.5928
 longitude: -88.05536
 postcode: "60441"
 city: Lockport
-street: "South State Street"
-housenumber: 518
+street: South State Street
+housenumber: "518"
 phone: ""
 opening_hours: ""
 website: ""

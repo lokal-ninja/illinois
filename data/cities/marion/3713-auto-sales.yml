@@ -1,11 +1,11 @@
 id: 427323859
-type: way
+type: node
 latitude: 37.74179
 longitude: -88.93333
 postcode: "62959"
 city: Marion
-street: "North Court Street"
-housenumber: 1204
-phone: "+1 618 993 6962"
+street: North Court Street
+housenumber: "1204"
+phone: +1 618 993 6962
 opening_hours: ""
-website: "3713autosales.com"
+website: 3713autosales.com

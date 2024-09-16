@@ -1,11 +1,11 @@
 id: 308321311
-type: way
+type: node
 latitude: 41.65933
 longitude: -88.00151
 postcode: "60439"
 city: Lemont
-street: "State Street"
-housenumber: 1146
-phone: "+1630 257-5608"
+street: State Street
+housenumber: "1146"
+phone: +1630 257-5608
 opening_hours: ""
-website: "https://www.goodwill.org/"
+website: https://www.goodwill.org/

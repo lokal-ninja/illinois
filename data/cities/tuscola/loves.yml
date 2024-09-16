@@ -1,11 +1,11 @@
 id: 1084498994
-type: way
+type: node
 latitude: 39.79338
 longitude: -88.26644
 postcode: "61953"
 city: Tuscola
-street: "Moore Avenue"
-housenumber: 809
+street: Moore Avenue
+housenumber: "809"
 phone: "+12172536855"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

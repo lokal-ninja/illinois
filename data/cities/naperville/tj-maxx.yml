@@ -1,11 +1,11 @@
 id: 1035422873
-type: way
+type: node
 latitude: 41.68195
 longitude: -88.208
 postcode: "60564"
 city: Naperville
-street: "111th Street"
-housenumber: 3111
-phone: "+1 630 428 1032"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-18:00"
-website: "https://tjmaxx.tjx.com/store/stores/Naperville-IL-60540/294/aboutstore"
+street: 111th Street
+housenumber: "3111"
+phone: +1 630 428 1032
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-18:00
+website: https://tjmaxx.tjx.com/store/stores/Naperville-IL-60540/294/aboutstore

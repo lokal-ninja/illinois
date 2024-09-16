@@ -1,11 +1,11 @@
 id: 162631655
-type: way
+type: node
 latitude: 41.93092
 longitude: -87.76118
 postcode: "60639"
 city: Chicago
-street: "West Diversey Avenue"
-housenumber: 5355
+street: West Diversey Avenue
+housenumber: "5355"
 phone: ""
 opening_hours: ""
 website: ""

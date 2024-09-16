@@ -4,8 +4,8 @@ latitude: 41.87957
 longitude: -87.62898
 postcode: "60603"
 city: Chicago
-street: "South Dearborn Street"
-housenumber: 131
-phone: "+1-312-621-1111"
+street: South Dearborn Street
+housenumber: "131"
+phone: +1-312-621-1111
 opening_hours: ""
-website: "https://www.hannahsbretzel.com/"
+website: https://www.hannahsbretzel.com/

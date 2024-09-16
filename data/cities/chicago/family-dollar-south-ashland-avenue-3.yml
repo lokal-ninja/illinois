@@ -1,11 +1,11 @@
 id: 209655468
-type: way
+type: node
 latitude: 41.7698
 longitude: -87.66453
 postcode: "60636"
 city: Chicago
-street: "South Ashland Avenue"
-housenumber: 6800
+street: South Ashland Avenue
+housenumber: "6800"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/locations/il/chicago/31464/"
+website: https://www.familydollar.com/locations/il/chicago/31464/

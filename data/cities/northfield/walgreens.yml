@@ -1,11 +1,11 @@
 id: 333581633
-type: way
+type: node
 latitude: 42.10227
 longitude: -87.77229
 postcode: "60093"
 city: Northfield
-street: "Willow Road"
-housenumber: 1825
+street: Willow Road
+housenumber: "1825"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1825+willow+rd-northfield-il-60093/id=3926"
+website: https://www.walgreens.com/locator/walgreens-1825+willow+rd-northfield-il-60093/id=3926

@@ -1,11 +1,11 @@
 id: 975314634
-type: way
+type: node
 latitude: 41.80097
 longitude: -88.27545
 postcode: "60502"
 city: Aurora
-street: "Premium Outlets Boulevard"
-housenumber: 1650
-phone: "+1 630 585 0665"
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00"
-website: "https://www.premiumoutlets.com/outlet/chicago/stores/calvin-klein-accessories"
+street: Premium Outlets Boulevard
+housenumber: "1650"
+phone: +1 630 585 0665
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00
+website: https://www.premiumoutlets.com/outlet/chicago/stores/calvin-klein-accessories

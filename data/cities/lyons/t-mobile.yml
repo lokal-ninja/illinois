@@ -1,11 +1,11 @@
 id: 1126747224
-type: way
+type: node
 latitude: 41.82149
 longitude: -87.80311
 postcode: "60534"
 city: Lyons
-street: "South Harlem Avenue"
-housenumber: 3850
+street: South Harlem Avenue
+housenumber: "3850"
 phone: ""
 opening_hours: ""
 website: ""

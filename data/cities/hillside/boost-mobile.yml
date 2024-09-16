@@ -1,11 +1,11 @@
 id: 471311829
-type: way
+type: node
 latitude: 41.88128
 longitude: -87.88364
 postcode: "60162"
 city: Hillside
-street: "Mannheim Road"
-housenumber: 558
+street: Mannheim Road
+housenumber: "558"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00, Su 11:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00, Su 11:00-16:00
 website: ""

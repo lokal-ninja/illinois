@@ -1,11 +1,11 @@
 id: 1145294795
-type: way
+type: node
 latitude: 41.30942
 longitude: -88.14757
 postcode: "60481"
 city: Wilmington
-street: "North Water Street"
-housenumber: 221
+street: North Water Street
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

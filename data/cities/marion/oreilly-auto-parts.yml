@@ -1,11 +1,11 @@
 id: 431724111
-type: way
+type: node
 latitude: 37.72989
 longitude: -88.93296
 postcode: "62959"
 city: Marion
-street: "South Court Street"
-housenumber: 200
+street: South Court Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/marion/autoparts-1594.html"
+website: https://locations.oreillyauto.com/il/marion/autoparts-1594.html

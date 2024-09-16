@@ -1,11 +1,11 @@
 id: 210916352
-type: way
+type: node
 latitude: 41.82347
 longitude: -87.61497
 postcode: "60653"
 city: Chicago
-street: "East Pershing Road"
-housenumber: 437
+street: East Pershing Road
+housenumber: "437"
 phone: ""
 opening_hours: ""
 website: ""

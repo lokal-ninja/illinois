@@ -1,11 +1,11 @@
 id: 674069124
-type: way
+type: node
 latitude: 41.15104
 longitude: -88.83234
 postcode: "61364"
 city: Streator
-street: "North Bloomington Street"
-housenumber: 2415
-phone: "+1 815-672-3071"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4699/streator-il/whats-new"
+street: North Bloomington Street
+housenumber: "2415"
+phone: +1 815-672-3071
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4699/streator-il/whats-new

@@ -1,11 +1,11 @@
 id: 1188752561
-type: way
+type: node
 latitude: 41.73471
 longitude: -87.75993
 postcode: "60459"
 city: Burbank
-street: "West 87th Street"
-housenumber: 5560
+street: West 87th Street
+housenumber: "5560"
 phone: ""
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/burbank/5560-w-87th-st-23591"
+website: https://www.7-eleven.com/locations/il/burbank/5560-w-87th-st-23591

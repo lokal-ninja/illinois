@@ -1,11 +1,11 @@
 id: 569403729
-type: way
+type: node
 latitude: 38.78659
 longitude: -89.97984
 postcode: "62025"
 city: Edwardsville
-street: "IL-157"
-housenumber: 1091
+street: IL-157
+housenumber: "1091"
 phone: ""
 opening_hours: ""
 website: ""

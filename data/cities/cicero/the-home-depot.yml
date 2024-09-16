@@ -1,11 +1,11 @@
 id: 432940144
-type: way
+type: node
 latitude: 41.84199
 longitude: -87.74165
 postcode: "60804"
 city: Cicero
-street: "South Cicero Avenue"
-housenumber: 2803
-phone: "+1 708-863-9600"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Cicero-IL/IL/Cicero/60804/1911"
+street: South Cicero Avenue
+housenumber: "2803"
+phone: +1 708-863-9600
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Cicero-IL/IL/Cicero/60804/1911

@@ -1,11 +1,11 @@
 id: 1303166644
-type: way
+type: node
 latitude: 41.96538
 longitude: -87.80757
 postcode: "60706"
 city: Harwood Heights
-street: "North Harlem Avenue"
-housenumber: 4605
+street: North Harlem Avenue
+housenumber: "4605"
 phone: ""
 opening_hours: ""
-website: "https://shop.greenroseil.com/"
+website: https://shop.greenroseil.com/

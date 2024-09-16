@@ -4,8 +4,8 @@ latitude: 41.77417
 longitude: -88.14828
 postcode: "60540"
 city: Naperville
-street: "South Main Street"
-housenumber: 50
+street: South Main Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://zanosalons.com/"
+website: https://zanosalons.com/

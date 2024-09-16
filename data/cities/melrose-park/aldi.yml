@@ -1,11 +1,11 @@
 id: 421306074
-type: way
+type: node
 latitude: 41.91004
 longitude: -87.84884
 postcode: "60160"
 city: Melrose Park
-street: "North Avenue"
-housenumber: 1345
-phone: "+1 833-440-1044"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/melrose-park/1345-w-north-ave"
+street: North Avenue
+housenumber: "1345"
+phone: +1 833-440-1044
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/melrose-park/1345-w-north-ave

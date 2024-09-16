@@ -1,11 +1,11 @@
 id: 162524783
-type: way
+type: node
 latitude: 41.89519
 longitude: -87.7644
 postcode: "60651"
 city: Chicago
-street: "West Chicago Avenue"
-housenumber: 5518
+street: West Chicago Avenue
+housenumber: "5518"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/15873"
+website: https://www.dollargeneral.com/store-directory/il/chicago/15873

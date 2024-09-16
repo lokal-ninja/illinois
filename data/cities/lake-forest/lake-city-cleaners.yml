@@ -1,11 +1,11 @@
 id: 886372889
-type: way
+type: node
 latitude: 42.25544
 longitude: -87.84151
 postcode: "60045"
 city: Lake Forest
-street: "North Western Avenue"
-housenumber: 866
+street: North Western Avenue
+housenumber: "866"
 phone: ""
 opening_hours: ""
 website: ""

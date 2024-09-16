@@ -1,11 +1,11 @@
 id: 771794272
-type: way
+type: node
 latitude: 41.80243
 longitude: -89.66779
 postcode: "61081"
 city: Sterling
-street: "East Lincolnway"
-housenumber: 2506
-phone: "+1-815-626-4920"
+street: East Lincolnway
+housenumber: "2506"
+phone: +1-815-626-4920
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1700+1st+ave-rock+falls-il-61071/id=2473"
+website: https://www.walgreens.com/locator/walgreens-1700+1st+ave-rock+falls-il-61071/id=2473

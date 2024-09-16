@@ -1,11 +1,11 @@
 id: 1126747292
-type: way
+type: node
 latitude: 41.8405
 longitude: -87.8038
 postcode: "60546"
 city: Riverside
-street: "Longcommon Road"
-housenumber: 536
+street: Longcommon Road
+housenumber: "536"
 phone: ""
 opening_hours: ""
 website: ""

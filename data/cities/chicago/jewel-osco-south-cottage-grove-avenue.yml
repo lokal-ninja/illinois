@@ -1,11 +1,11 @@
 id: 666759007
-type: way
+type: node
 latitude: 41.78484
 longitude: -87.60765
 postcode: "60637"
 city: Chicago
-street: "South Cottage Grove Avenue"
-housenumber: 6014
-phone: "+1-773-358-4278"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.jewelosco.com/il/chicago/6014-s-cottage-grove.html"
+street: South Cottage Grove Avenue
+housenumber: "6014"
+phone: +1-773-358-4278
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.jewelosco.com/il/chicago/6014-s-cottage-grove.html

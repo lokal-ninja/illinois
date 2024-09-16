@@ -1,11 +1,11 @@
 id: 1232014011
-type: way
+type: node
 latitude: 41.60047
 longitude: -87.63614
 postcode: "60426"
 city: Harvey
-street: "Halsted Street"
-housenumber: 15901
+street: Halsted Street
+housenumber: "15901"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/harvey/19105"
+website: https://www.dollargeneral.com/store-directory/il/harvey/19105

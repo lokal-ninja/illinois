@@ -1,11 +1,11 @@
 id: 546143204
-type: way
+type: node
 latitude: 41.7564
 longitude: -88.03319
 postcode: "60517"
 city: Woodridge
-street: "Woodward Avenue"
-housenumber: 7200
-phone: "+1 630-795-1950"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/woodridge/il/woodridge/60517/1942"
+street: Woodward Avenue
+housenumber: "7200"
+phone: +1 630-795-1950
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/woodridge/il/woodridge/60517/1942

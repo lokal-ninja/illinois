@@ -1,11 +1,11 @@
 id: 163083101
-type: way
+type: node
 latitude: 41.92648
 longitude: -87.78697
 postcode: "60639"
 city: Chicago
-street: "North Narragansett Avenue"
-housenumber: 2520
-phone: "+1 773-637-1631"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/chicago/2520-n-narragansett-ave.html"
+street: North Narragansett Avenue
+housenumber: "2520"
+phone: +1 773-637-1631
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.jewelosco.com/il/chicago/2520-n-narragansett-ave.html

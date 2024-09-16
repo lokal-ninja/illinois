@@ -1,11 +1,11 @@
 id: 1046354833
-type: way
+type: node
 latitude: 42.11676
 longitude: -88.28768
 postcode: "60110"
 city: Carpentersville
-street: "Williams Street"
-housenumber: 156
-phone: "+1-844-732-8778"
-opening_hours: "open by appointment"
-website: "https://www.chairtechs.com/"
+street: Williams Street
+housenumber: "156"
+phone: +1-844-732-8778
+opening_hours: open "by appointment"
+website: https://www.chairtechs.com/

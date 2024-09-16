@@ -1,11 +1,11 @@
 id: 165123237
-type: way
+type: node
 latitude: 41.77208
 longitude: -87.70283
 postcode: "60629"
 city: Chicago
-street: "South Kedzie Avenue"
-housenumber: 6655
+street: South Kedzie Avenue
+housenumber: "6655"
 phone: ""
 opening_hours: ""
 website: ""

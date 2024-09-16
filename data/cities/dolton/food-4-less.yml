@@ -1,11 +1,11 @@
 id: 1305984761
-type: way
+type: node
 latitude: 41.62432
 longitude: -87.59358
 postcode: "60419"
 city: Dolton
-street: "East Sibley Boulevard"
-housenumber: 1000
+street: East Sibley Boulevard
+housenumber: "1000"
 phone: ""
 opening_hours: ""
-website: "https://www.food4less.com/stores/grocery/il/dolton/dolton/708/00566"
+website: https://www.food4less.com/stores/grocery/il/dolton/dolton/708/00566

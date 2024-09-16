@@ -1,11 +1,11 @@
 id: 209478230
-type: way
+type: node
 latitude: 41.96784
 longitude: -87.68841
 postcode: "60625"
 city: Chicago
-street: "North Lincoln Avenue"
-housenumber: 4750
-phone: "+1 773-728-7243"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-16:00"
-website: "https://www.genessausage.com/"
+street: North Lincoln Avenue
+housenumber: "4750"
+phone: +1 773-728-7243
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-16:00
+website: https://www.genessausage.com/

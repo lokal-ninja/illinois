@@ -4,8 +4,8 @@ latitude: 42.15074
 longitude: -87.83963
 postcode: "60015"
 city: Deerfield
-street: "Lake Cook Rd"
-housenumber: 495
-phone: "+1-224-235-4646"
-opening_hours: "Mo-Fr 06:30-7:00"
-website: "https://thedogstop.com/il-deerfield/"
+street: Lake Cook Rd
+housenumber: "495"
+phone: +1-224-235-4646
+opening_hours: Mo-Fr 06:30-7:00
+website: https://thedogstop.com/il-deerfield/

@@ -1,11 +1,11 @@
 id: 585465855
-type: way
+type: node
 latitude: 40.11304
 longitude: -88.24256
 postcode: "61820"
 city: Champaign
-street: "South Market Street"
-housenumber: 308
+street: South Market Street
+housenumber: "308"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

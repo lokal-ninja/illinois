@@ -4,8 +4,8 @@ latitude: 41.9278
 longitude: -87.70666
 postcode: "60647"
 city: Chicago
-street: "West Logan Boulevard"
-housenumber: 3145
-phone: "+1 773-489-0712"
-opening_hours: "Mo,We 11:00-18:00; Th-Sa 11:00-20:00; Su 09:00-17:00"
+street: West Logan Boulevard
+housenumber: "3145"
+phone: +1 773-489-0712
+opening_hours: Mo,We 11:00-18:00; Th-Sa 11:00-20:00; Su 09:00-17:00
 website: ""

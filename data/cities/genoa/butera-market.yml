@@ -1,11 +1,11 @@
 id: 400029335
-type: way
+type: node
 latitude: 42.08917
 longitude: -88.68597
 postcode: "60135"
 city: Genoa
-street: "Pearson Drive"
-housenumber: 600
-phone: "+1 815-784-7001"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; PH closed"
+street: Pearson Drive
+housenumber: "600"
+phone: +1 815-784-7001
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 895814684
-type: way
+type: node
 latitude: 41.90794
 longitude: -87.90282
 postcode: "60164"
 city: Northlake
-street: "East North Avenue"
-housenumber: 6
+street: East North Avenue
+housenumber: "6"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

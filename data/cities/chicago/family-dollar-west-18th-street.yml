@@ -1,11 +1,11 @@
 id: 209810353
-type: way
+type: node
 latitude: 41.85784
 longitude: -87.6691
 postcode: "60608"
 city: Chicago
-street: "West 18th Street"
-housenumber: 1700
+street: West 18th Street
+housenumber: "1700"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

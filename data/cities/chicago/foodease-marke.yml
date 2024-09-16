@@ -4,8 +4,8 @@ latitude: 41.89795
 longitude: -87.62327
 postcode: "60611"
 city: Chicago
-street: "North Michigan Avenue"
-housenumber: 835
-phone: "+1-312-335-3663"
+street: North Michigan Avenue
+housenumber: "835"
+phone: +1-312-335-3663
 opening_hours: ""
-website: "http://foodeasechicago.com/"
+website: http://foodeasechicago.com/

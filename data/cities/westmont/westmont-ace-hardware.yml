@@ -1,11 +1,11 @@
 id: 606171059
-type: way
+type: node
 latitude: 41.79538
 longitude: -87.97412
-postcode: "60559-1821"
+postcode: 60559-1821
 city: Westmont
-street: "East Quincy Street"
-housenumber: 20
-phone: "+1 630-968-3100"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su 09:00-16:00"
+street: East Quincy Street
+housenumber: "20"
+phone: +1 630-968-3100
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su 09:00-16:00
 website: ""

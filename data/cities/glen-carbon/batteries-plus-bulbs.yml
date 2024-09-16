@@ -1,11 +1,11 @@
 id: 725176219
-type: way
+type: node
 latitude: 38.77631
 longitude: -89.95703
 postcode: "62034"
 city: Glen Carbon
-street: "South State RT 159"
-housenumber: 3755
+street: South State RT 159
+housenumber: "3755"
 phone: ""
 opening_hours: ""
 website: ""

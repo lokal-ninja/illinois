@@ -4,8 +4,8 @@ latitude: 42.01415
 longitude: -88.31548
 postcode: "60123"
 city: Elgin
-street: "South McLean Boulevard"
-housenumber: 780
-phone: "+1 630 357 3570"
-opening_hours: "Su 09:00-17:00; Mo-Fr 10:00-20:00; Sa 09:00-20:00"
-website: "https://foxvalleysr.com/"
+street: South McLean Boulevard
+housenumber: "780"
+phone: +1 630 357 3570
+opening_hours: Su 09:00-17:00; Mo-Fr 10:00-20:00; Sa 09:00-20:00
+website: https://foxvalleysr.com/

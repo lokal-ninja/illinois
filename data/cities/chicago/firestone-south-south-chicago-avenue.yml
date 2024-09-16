@@ -1,11 +1,11 @@
 id: 211362225
-type: way
+type: node
 latitude: 41.72961
 longitude: -87.55603
 postcode: "60617"
 city: Chicago
-street: "South South Chicago Avenue"
-housenumber: 9092
+street: South South Chicago Avenue
+housenumber: "9092"
 phone: ""
 opening_hours: ""
 website: ""

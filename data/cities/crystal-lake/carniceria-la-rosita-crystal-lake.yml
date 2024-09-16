@@ -4,8 +4,8 @@ latitude: 42.22949
 longitude: -88.32891
 postcode: "60014"
 city: Crystal Lake
-street: "North Main Street"
-housenumber: 131
+street: North Main Street
+housenumber: "131"
 phone: ""
-opening_hours: "08:00-21:30"
+opening_hours: 08:00-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 670007614
-type: way
+type: node
 latitude: 38.07332
 longitude: -88.19104
 postcode: "62821"
 city: Carmi
-street: "Illinois Highway 1"
-housenumber: 1344
-phone: "+1 618-382-5856"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/833/carmi-il/whats-new"
+street: Illinois Highway 1
+housenumber: "1344"
+phone: +1 618-382-5856
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/833/carmi-il/whats-new

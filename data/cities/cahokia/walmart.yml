@@ -1,11 +1,11 @@
 id: 281676969
-type: way
+type: node
 latitude: 38.5566
 longitude: -90.16648
 postcode: "62206"
 city: Cahokia
-street: "Camp Jackson Road"
-housenumber: 1511
-phone: "+1 618-332-1771"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/747/cahokia-il/whats-new"
+street: Camp Jackson Road
+housenumber: "1511"
+phone: +1 618-332-1771
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/747/cahokia-il/whats-new

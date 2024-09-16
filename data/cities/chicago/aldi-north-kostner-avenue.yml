@@ -1,11 +1,11 @@
 id: 225102531
-type: way
+type: node
 latitude: 41.9075
 longitude: -87.73646
 postcode: "60651"
 city: Chicago
-street: "North Kostner Avenue"
-housenumber: 1440
-phone: "+1 833-440-1016"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/chicago/1440-n-kostner-avenue"
+street: North Kostner Avenue
+housenumber: "1440"
+phone: +1 833-440-1016
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/chicago/1440-n-kostner-avenue

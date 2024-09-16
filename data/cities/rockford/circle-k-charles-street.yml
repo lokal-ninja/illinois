@@ -1,11 +1,11 @@
 id: 1135969022
-type: way
+type: node
 latitude: 42.25975
 longitude: -89.05409
 postcode: "61108"
 city: Rockford
-street: "Charles Street"
-housenumber: 2622
+street: Charles Street
+housenumber: "2622"
 phone: ""
 opening_hours: ""
 website: ""

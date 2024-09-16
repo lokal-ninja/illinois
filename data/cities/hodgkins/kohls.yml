@@ -1,11 +1,11 @@
 id: 673161063
-type: way
+type: node
 latitude: 41.77869
 longitude: -87.86201
 postcode: "60525"
 city: Hodgkins
-street: "Joliet Road"
-housenumber: 9350
-phone: "+1 708-352-8242"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/il/hodgkins-73.shtml"
+street: Joliet Road
+housenumber: "9350"
+phone: +1 708-352-8242
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/il/hodgkins-73.shtml

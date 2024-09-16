@@ -1,11 +1,11 @@
 id: 566222665
-type: way
+type: node
 latitude: 41.77252
 longitude: -88.03772
 postcode: "60516"
 city: Downers Grove
-street: "Belmont Road"
-housenumber: 6240
-phone: "+1-630-960-4160"
-opening_hours: "Mo-Su 8:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-6240+belmont+rd-downers+grove-il-60516/id=2720"
+street: Belmont Road
+housenumber: "6240"
+phone: +1-630-960-4160
+opening_hours: Mo-Su 8:00-22:00
+website: https://www.walgreens.com/locator/walgreens-6240+belmont+rd-downers+grove-il-60516/id=2720

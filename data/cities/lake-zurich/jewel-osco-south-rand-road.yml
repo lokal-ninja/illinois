@@ -1,11 +1,11 @@
 id: 131833575
-type: way
+type: node
 latitude: 42.19185
 longitude: -88.11109
 postcode: "60047"
 city: Lake Zurich
-street: "South Rand Road"
-housenumber: 345
-phone: "+1 847-438-2720"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/lake-zurich/345-s-rand-rd.html"
+street: South Rand Road
+housenumber: "345"
+phone: +1 847-438-2720
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/lake-zurich/345-s-rand-rd.html

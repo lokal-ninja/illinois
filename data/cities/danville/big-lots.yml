@@ -1,11 +1,11 @@
 id: 495339370
-type: way
+type: node
 latitude: 40.12579
 longitude: -87.63715
 postcode: "61832"
 city: Danville
-street: "North Gilbert Street"
-housenumber: 20
-phone: "+1 217-443-8156"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/il/danville/20-n-gilbert-st"
+street: North Gilbert Street
+housenumber: "20"
+phone: +1 217-443-8156
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/il/danville/20-n-gilbert-st

@@ -1,11 +1,11 @@
 id: 785990091
-type: way
+type: node
 latitude: 42.00561
 longitude: -88.14298
 postcode: "60133"
 city: Hanover Park
-street: "East Irving Park Road"
-housenumber: 1470
+street: East Irving Park Road
+housenumber: "1470"
 phone: ""
 opening_hours: ""
 website: ""

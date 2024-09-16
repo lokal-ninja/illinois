@@ -1,11 +1,11 @@
 id: 1268051610
-type: way
+type: node
 latitude: 41.52069
 longitude: -88.18647
 postcode: "60431"
 city: Joliet
-street: "W. Jefferson St."
-housenumber: 4360
+street: W. Jefferson St.
+housenumber: "4360"
 phone: ""
 opening_hours: ""
 website: ""

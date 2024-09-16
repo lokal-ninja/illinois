@@ -1,11 +1,11 @@
 id: 168822576
-type: way
+type: node
 latitude: 42.21884
 longitude: -88.25595
 postcode: "60013"
 city: Cary
-street: "Northwest Highway"
-housenumber: 696
-phone: "+1 847-639-3599"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/cary/696-northwest-hwy.html"
+street: Northwest Highway
+housenumber: "696"
+phone: +1 847-639-3599
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/cary/696-northwest-hwy.html

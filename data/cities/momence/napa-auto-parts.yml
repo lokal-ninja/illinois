@@ -1,11 +1,11 @@
 id: 378738303
-type: way
+type: node
 latitude: 41.16311
 longitude: -87.6638
 postcode: "60954"
 city: Momence
-street: "West Washington Street"
-housenumber: 122
+street: West Washington Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

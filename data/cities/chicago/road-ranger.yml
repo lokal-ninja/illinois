@@ -1,11 +1,11 @@
 id: 165234665
-type: way
+type: node
 latitude: 41.8313
 longitude: -87.69438
 postcode: "60632"
 city: Chicago
-street: "South California Avenue"
-housenumber: 3413
+street: South California Avenue
+housenumber: "3413"
 phone: ""
 opening_hours: ""
 website: ""

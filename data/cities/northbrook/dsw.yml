@@ -1,11 +1,11 @@
 id: 442141844
-type: way
+type: node
 latitude: 42.14966
 longitude: -87.79742
 postcode: "60062"
 city: Northbrook
-street: "Skokie Boulevard"
-housenumber: 181
-phone: "+1 224-501-7018"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/il/northbrook/dsw-designer-shoe-warehouse-village-square-of-northbrook.html"
+street: Skokie Boulevard
+housenumber: "181"
+phone: +1 224-501-7018
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/il/northbrook/dsw-designer-shoe-warehouse-village-square-of-northbrook.html

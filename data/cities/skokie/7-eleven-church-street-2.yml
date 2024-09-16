@@ -1,11 +1,11 @@
 id: 424242771
-type: way
+type: node
 latitude: 42.04824
 longitude: -87.74821
 postcode: "60077"
 city: Skokie
-street: "Church Street"
-housenumber: 4834
-phone: "+1 847-679-5850"
+street: Church Street
+housenumber: "4834"
+phone: +1 847-679-5850
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/skokie/4834-church-st-13361"
+website: https://www.7-eleven.com/locations/il/skokie/4834-church-st-13361

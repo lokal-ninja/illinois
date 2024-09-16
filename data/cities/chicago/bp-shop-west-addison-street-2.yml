@@ -1,11 +1,11 @@
 id: 163166433
-type: way
+type: node
 latitude: 41.94604
 longitude: -87.77708
 postcode: "60634"
 city: Chicago
-street: "West Addison Street"
-housenumber: 6014
+street: West Addison Street
+housenumber: "6014"
 phone: ""
 opening_hours: ""
 website: ""

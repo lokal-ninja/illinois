@@ -1,11 +1,11 @@
 id: 479800778
-type: way
+type: node
 latitude: 42.24166
 longitude: -88.31926
 postcode: "60014"
 city: Crystal Lake
-street: "North Williams Street"
-housenumber: 10
+street: North Williams Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

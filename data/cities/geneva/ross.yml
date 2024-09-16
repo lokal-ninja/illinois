@@ -1,11 +1,11 @@
 id: 718188049
-type: way
+type: node
 latitude: 41.87109
 longitude: -88.34085
 postcode: "60134"
 city: Geneva
-street: "South Randall Road"
-housenumber: 1660
-phone: "+1 630-208-0213"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: South Randall Road
+housenumber: "1660"
+phone: +1 630-208-0213
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

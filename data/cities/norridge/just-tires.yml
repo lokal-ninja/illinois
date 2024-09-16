@@ -1,11 +1,11 @@
 id: 217364147
-type: way
+type: node
 latitude: 41.9529
 longitude: -87.80783
 postcode: "60706"
 city: Norridge
-street: "West Forest Preserve Drive"
-housenumber: 7213
+street: West Forest Preserve Drive
+housenumber: "7213"
 phone: ""
 opening_hours: ""
 website: ""

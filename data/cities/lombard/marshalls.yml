@@ -1,11 +1,11 @@
 id: 1121098242
-type: way
+type: node
 latitude: 41.83874
 longitude: -88.00745
 postcode: "60148"
 city: Lombard
-street: "Yorktown Shopping Center Rd"
-housenumber: 102
-phone: "+1 630 495 0321"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.marshalls.com/us/store/stores/Lombard-IL-60148/41/aboutstore"
+street: Yorktown Shopping Center Rd
+housenumber: "102"
+phone: +1 630 495 0321
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.marshalls.com/us/store/stores/Lombard-IL-60148/41/aboutstore

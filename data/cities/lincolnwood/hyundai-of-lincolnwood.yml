@@ -1,11 +1,11 @@
 id: 896134736
-type: way
+type: node
 latitude: 42.00426
 longitude: -87.72842
 postcode: "60712"
 city: Lincolnwood
-street: "North Lincoln Avenue"
-housenumber: 6747
+street: North Lincoln Avenue
+housenumber: "6747"
 phone: ""
 opening_hours: ""
 website: ""

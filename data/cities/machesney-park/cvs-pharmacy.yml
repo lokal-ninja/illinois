@@ -1,11 +1,11 @@
 id: 247269099
-type: way
+type: node
 latitude: 42.33997
 longitude: -89.05156
 postcode: "61115"
 city: Machesney Park
-street: "North 2nd Street"
-housenumber: 8001
+street: North 2nd Street
+housenumber: "8001"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/machesney-park-il-pharmacies/8001-n-2nd-st-machesney-park-il-61115/storeid=8528"
+website: https://www.cvs.com/store-locator/machesney-park-il-pharmacies/8001-n-2nd-st-machesney-park-il-61115/storeid=8528

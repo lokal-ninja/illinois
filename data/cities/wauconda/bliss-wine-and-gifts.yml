@@ -4,8 +4,9 @@ latitude: 42.25939
 longitude: -88.1406
 postcode: "60084"
 city: Wauconda
-street: "North Main Street"
-housenumber: 201
+street: North Main Street
+housenumber: "201"
 phone: ""
-opening_hours: "Tu,We 16:00-20:00; Th 16:00-21:00; Fr 16:00-22:00; Sa 12:00-22:00; Su 14:00-20:00"
-website: "https://blisswineandgifts.com"
+opening_hours: Tu,We 16:00-20:00; Th 16:00-21:00; Fr 16:00-22:00; Sa 12:00-22:00;
+    Su 14:00-20:00
+website: https://blisswineandgifts.com

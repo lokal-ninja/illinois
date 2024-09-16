@@ -1,11 +1,11 @@
 id: 202500731
-type: way
+type: node
 latitude: 42.18867
 longitude: -87.82368
 postcode: "60035"
 city: Highland Park
-street: "Park Avenue West"
-housenumber: 1345
+street: Park Avenue West
+housenumber: "1345"
 phone: ""
 opening_hours: ""
 website: ""

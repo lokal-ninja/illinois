@@ -1,11 +1,11 @@
 id: 1076751810
-type: way
+type: node
 latitude: 42.4766
 longitude: -88.12013
 postcode: "60002"
 city: Antioch
-street: "W. IL Route 173"
-housenumber: 1000
+street: W. IL Route 173
+housenumber: "1000"
 phone: ""
 opening_hours: ""
-website: "http://skipperbuds.com/Page.aspx/locationId/63790/pageId/9310/view/Detail/SkipperBuds---Sequoit-Harbor-IL.aspx"
+website: http://skipperbuds.com/Page.aspx/locationId/63790/pageId/9310/view/Detail/SkipperBuds---Sequoit-Harbor-IL.aspx

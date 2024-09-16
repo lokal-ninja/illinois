@@ -1,11 +1,11 @@
 id: 1013387011
-type: way
+type: node
 latitude: 41.80902
 longitude: -89.96627
 postcode: "61270"
 city: Morrison
-street: "East Main Street"
-housenumber: 113
+street: East Main Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

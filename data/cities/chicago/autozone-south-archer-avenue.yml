@@ -1,11 +1,11 @@
 id: 165150818
-type: way
+type: node
 latitude: 41.81906
 longitude: -87.69636
 postcode: "60632"
 city: Chicago
-street: "South Archer Avenue"
-housenumber: 4100
+street: South Archer Avenue
+housenumber: "4100"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/4100-s-archer-ave.html"
+website: https://www.autozone.com/locations/il/chicago/4100-s-archer-ave.html

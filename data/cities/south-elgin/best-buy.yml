@@ -1,11 +1,11 @@
 id: 718631018
-type: way
+type: node
 latitude: 41.98436
 longitude: -88.34363
 postcode: "60177"
 city: South Elgin
-street: "Randall Road"
-housenumber: 424
-phone: "+1 847-695-1492"
+street: Randall Road
+housenumber: "424"
+phone: +1 847-695-1492
 opening_hours: ""
-website: "https://stores.bestbuy.com/il/south-elgin/424-randall-rd-607.html"
+website: https://stores.bestbuy.com/il/south-elgin/424-randall-rd-607.html

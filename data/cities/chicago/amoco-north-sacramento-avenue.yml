@@ -1,11 +1,11 @@
 id: 209453978
-type: way
+type: node
 latitude: 41.92441
 longitude: -87.70293
 postcode: "60647"
 city: Chicago
-street: "North Sacramento Avenue"
-housenumber: 2338
+street: North Sacramento Avenue
+housenumber: "2338"
 phone: ""
 opening_hours: ""
 website: ""

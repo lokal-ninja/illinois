@@ -1,11 +1,11 @@
 id: 1218808243
-type: way
+type: node
 latitude: 41.90471
 longitude: -87.999
 postcode: "60181"
 city: Villa Park
-street: "West North Avenue"
-housenumber: 807
+street: West North Avenue
+housenumber: "807"
 phone: ""
 opening_hours: ""
 website: ""

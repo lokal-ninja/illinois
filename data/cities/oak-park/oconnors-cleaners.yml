@@ -1,11 +1,11 @@
 id: 327700202
-type: way
+type: node
 latitude: 41.894
 longitude: -87.80265
 postcode: "60302"
 city: Oak Park
-street: "Chicago Avenue"
-housenumber: 1045
+street: Chicago Avenue
+housenumber: "1045"
 phone: ""
 opening_hours: ""
 website: ""

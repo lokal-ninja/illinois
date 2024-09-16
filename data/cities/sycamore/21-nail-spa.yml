@@ -1,11 +1,11 @@
 id: 1000392736
-type: way
+type: node
 latitude: 41.95979
 longitude: -88.71988
 postcode: "60178"
 city: Sycamore
-street: "DeKalb Avenue"
-housenumber: 2674
+street: DeKalb Avenue
+housenumber: "2674"
 phone: ""
 opening_hours: ""
 website: ""

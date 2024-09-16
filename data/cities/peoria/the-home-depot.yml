@@ -1,11 +1,11 @@
 id: 57754763
-type: way
+type: node
 latitude: 40.77346
 longitude: -89.67331
 postcode: "61615"
 city: Peoria
-street: "West Holiday Drive"
-housenumber: 5026
-phone: "+1 309-693-3819"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/peoria-il/il/peoria/61615/1978"
+street: West Holiday Drive
+housenumber: "5026"
+phone: +1 309-693-3819
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/peoria-il/il/peoria/61615/1978

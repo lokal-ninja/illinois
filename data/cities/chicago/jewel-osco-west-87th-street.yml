@@ -1,11 +1,11 @@
 id: 1007504942
-type: way
+type: node
 latitude: 41.73547
 longitude: -87.62844
 postcode: "60620"
 city: Chicago
-street: "West 87th Street"
-housenumber: 101
-phone: "+1 773-487-8700"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.jewelosco.com/il/chicago/87-w-87th-st.html"
+street: West 87th Street
+housenumber: "101"
+phone: +1 773-487-8700
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.jewelosco.com/il/chicago/87-w-87th-st.html

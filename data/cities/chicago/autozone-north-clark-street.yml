@@ -1,11 +1,11 @@
 id: 209952608
-type: way
+type: node
 latitude: 41.99498
 longitude: -87.66995
 postcode: "60660"
 city: Chicago
-street: "North Clark Street"
-housenumber: 6201
+street: North Clark Street
+housenumber: "6201"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/6201-n-clark-st.html"
+website: https://www.autozone.com/locations/il/chicago/6201-n-clark-st.html

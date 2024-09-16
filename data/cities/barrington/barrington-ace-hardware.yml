@@ -4,8 +4,8 @@ latitude: 42.14649
 longitude: -88.11823
 postcode: "60010"
 city: Barrington
-street: "South Northwest Highway"
-housenumber: 906
-phone: "+1 847-304-4325"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/mystore/index.jsp"
+street: South Northwest Highway
+housenumber: "906"
+phone: +1 847-304-4325
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.acehardware.com/mystore/index.jsp

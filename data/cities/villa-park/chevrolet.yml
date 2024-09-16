@@ -1,11 +1,11 @@
 id: 198804792
-type: way
+type: node
 latitude: 41.8614
 longitude: -87.9668
 postcode: "60181"
 city: Villa Park
-street: "East Roosevelt Road"
-housenumber: 400
+street: East Roosevelt Road
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

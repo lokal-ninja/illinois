@@ -4,8 +4,8 @@ latitude: 42.07173
 longitude: -88.19372
 postcode: "60192"
 city: Hoffman Estates
-street: "New Sutton Road"
-housenumber: 2600
-phone: "+1 847-645-0226"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/hoffman-estates-il-1258"
+street: New Sutton Road
+housenumber: "2600"
+phone: +1 847-645-0226
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/hoffman-estates-il-1258

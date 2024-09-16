@@ -1,11 +1,11 @@
 id: 443486889
-type: way
+type: node
 latitude: 38.80808
 longitude: -89.95171
 postcode: "62025"
 city: Edwardsville
-street: "South Buchanan Street"
-housenumber: 332
-phone: "+1-618-656-3729"
-opening_hours: "Mo-Su 10:00-23:00; Fr 09:00-23:00; Sa 10:00-23:00; Su 10:00-22:00"
+street: South Buchanan Street
+housenumber: "332"
+phone: +1-618-656-3729
+opening_hours: Mo-Su 10:00-23:00; Fr 09:00-23:00; Sa 10:00-23:00; Su 10:00-22:00
 website: ""

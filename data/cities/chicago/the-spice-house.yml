@@ -1,11 +1,11 @@
 id: 210684760
-type: way
+type: node
 latitude: 41.90961
 longitude: -87.63507
 postcode: "60610"
 city: Chicago
-street: "North Wells Street"
-housenumber: 1512
-phone: "+1-312-274-0378"
+street: North Wells Street
+housenumber: "1512"
+phone: +1-312-274-0378
 opening_hours: ""
-website: "https://www.thespicehouse.com/"
+website: https://www.thespicehouse.com/

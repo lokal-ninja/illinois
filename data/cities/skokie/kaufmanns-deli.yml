@@ -1,11 +1,11 @@
 id: 288575053
-type: way
+type: node
 latitude: 42.04041
 longitude: -87.74962
 postcode: "60077"
 city: Skokie
-street: "West Dempster Street"
-housenumber: 4905
+street: West Dempster Street
+housenumber: "4905"
 phone: ""
 opening_hours: ""
-website: "https://kaufmansdeli.com/"
+website: https://kaufmansdeli.com/

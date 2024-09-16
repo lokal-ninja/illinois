@@ -1,11 +1,11 @@
 id: 413373767
-type: way
+type: node
 latitude: 42.03838
 longitude: -87.87911
 postcode: "60016"
 city: Des Plaines
-street: "Busse Highway"
-housenumber: 1800
+street: Busse Highway
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

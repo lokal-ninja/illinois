@@ -1,11 +1,11 @@
 id: 210874489
-type: way
+type: node
 latitude: 41.7725
 longitude: -87.60637
 postcode: "60637"
 city: Chicago
-street: "South Cottage Grove Avenue"
-housenumber: 6714
+street: South Cottage Grove Avenue
+housenumber: "6714"
 phone: ""
 opening_hours: ""
-website: "https://www.storage-mart.com/chicago/60637-cottage-grove-ave"
+website: https://www.storage-mart.com/chicago/60637-cottage-grove-ave

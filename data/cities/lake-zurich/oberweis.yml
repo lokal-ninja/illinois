@@ -4,8 +4,8 @@ latitude: 42.18522
 longitude: -88.09182
 postcode: "60047"
 city: Lake Zurich
-street: "South Rand Road"
-housenumber: 684
-phone: "+1 847 550 9000"
-opening_hours: "Su-Th 10:00-22:00, Fr-Sa 10:00-23:00"
-website: "https://www.oberweis.com/ice-cream-and-dairy-stores/Lake%20Zurich"
+street: South Rand Road
+housenumber: "684"
+phone: +1 847 550 9000
+opening_hours: Su-Th 10:00-22:00, Fr-Sa 10:00-23:00
+website: https://www.oberweis.com/ice-cream-and-dairy-stores/Lake%20Zurich

@@ -1,11 +1,11 @@
 id: 210382893
-type: way
+type: node
 latitude: 41.96188
 longitude: -87.65392
 postcode: "60613"
 city: Chicago
-street: "West Montrose Avenue"
-housenumber: 918
-phone: "+1 773-561-5451"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 09:30-21:30; Su 10:00-21:00"
+street: West Montrose Avenue
+housenumber: "918"
+phone: +1 773-561-5451
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 09:30-21:30; Su 10:00-21:00
 website: ""

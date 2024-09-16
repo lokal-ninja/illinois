@@ -1,11 +1,11 @@
 id: 210693506
-type: way
+type: node
 latitude: 41.68937
 longitude: -87.62156
 postcode: "60628"
 city: Chicago
-street: "South Michigan Avenue"
-housenumber: 11248
-phone: "+1-773-995-7420"
+street: South Michigan Avenue
+housenumber: "11248"
+phone: +1-773-995-7420
 opening_hours: ""
 website: ""

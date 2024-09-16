@@ -4,8 +4,9 @@ latitude: 41.77344
 longitude: -88.14799
 postcode: "60540"
 city: Naperville
-street: "South Washington Street"
-housenumber: 121
+street: South Washington Street
+housenumber: "121"
 phone: ""
-opening_hours: "Mo off; Tu, Th 11:00-18:00; We 12:00-18:00; Fr, Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://treasuresnaperville.com/"
+opening_hours: Mo off; Tu, Th 11:00-18:00; We 12:00-18:00; Fr, Sa 11:00-19:00; Su
+    11:00-17:00
+website: https://treasuresnaperville.com/

@@ -4,8 +4,8 @@ latitude: 41.90821
 longitude: -87.75007
 postcode: "60639"
 city: Chicago
-street: "West North Avenue"
-housenumber: 4939
-phone: "+1 773-772-0309"
-opening_hours: "Mo-Th 10:30-20:30; Fr-Sa 10:00-20:30; Su 10:00-21:30"
+street: West North Avenue
+housenumber: "4939"
+phone: +1 773-772-0309
+opening_hours: Mo-Th 10:30-20:30; Fr-Sa 10:00-20:30; Su 10:00-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 131828166
-type: way
+type: node
 latitude: 42.04528
 longitude: -87.94308
 postcode: "60056"
 city: Mount Prospect
-street: "South Elmhurst Road"
-housenumber: 1046
+street: South Elmhurst Road
+housenumber: "1046"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
 website: ""

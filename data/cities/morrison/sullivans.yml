@@ -1,11 +1,11 @@
 id: 320273377
-type: way
+type: node
 latitude: 41.80905
 longitude: -89.96319
 postcode: "61270"
 city: Morrison
-street: "North Madison Street"
-housenumber: 300
+street: North Madison Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.sullivansfoods.net/"
+website: https://www.sullivansfoods.net/

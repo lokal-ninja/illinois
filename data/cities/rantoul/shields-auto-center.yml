@@ -1,11 +1,11 @@
 id: 1127833291
-type: way
+type: node
 latitude: 40.30729
 longitude: -88.17899
 postcode: "61866"
 city: Rantoul
-street: "Broadmeadow Road"
-housenumber: 850
+street: Broadmeadow Road
+housenumber: "850"
 phone: "+12178922155"
 opening_hours: ""
-website: "https://www.shieldsautocenter.com/"
+website: https://www.shieldsautocenter.com/

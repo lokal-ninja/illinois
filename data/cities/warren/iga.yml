@@ -1,11 +1,11 @@
 id: 475960655
-type: way
+type: node
 latitude: 42.48741
 longitude: -89.9852
 postcode: "61087"
 city: Warren
-street: "IL-78"
-housenumber: 7989
-phone: "+1-815-745-3311"
+street: IL-78
+housenumber: "7989"
+phone: +1-815-745-3311
 opening_hours: ""
-website: "https://hartzellsigawarren.com/"
+website: https://hartzellsigawarren.com/

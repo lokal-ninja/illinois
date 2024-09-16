@@ -1,11 +1,11 @@
 id: 173402635
-type: way
+type: node
 latitude: 41.60401
 longitude: -87.79041
 postcode: "60462"
 city: Orland Park
-street: "South 71st Court"
-housenumber: 15701
-phone: "+1-708-342-9900"
+street: South 71st Court
+housenumber: "15701"
+phone: +1-708-342-9900
 opening_hours: ""
 website: ""

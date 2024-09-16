@@ -1,11 +1,11 @@
 id: 1205526089
-type: way
+type: node
 latitude: 41.7957
 longitude: -88.36702
 postcode: "60542"
 city: North Aurora
-street: "Town Center Drive"
-housenumber: 1866
-phone: "+1 630-907-6100"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://locations.massageenvy.com/illinois/north-aurora/1866-town-center-drive.html"
+street: Town Center Drive
+housenumber: "1866"
+phone: +1 630-907-6100
+opening_hours: Mo-Su 09:00-20:00
+website: https://locations.massageenvy.com/illinois/north-aurora/1866-town-center-drive.html

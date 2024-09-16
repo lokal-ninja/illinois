@@ -1,11 +1,11 @@
 id: 131830783
-type: way
+type: node
 latitude: 41.80356
 longitude: -87.89174
 postcode: "60558"
 city: Western Springs
-street: "South Gilbert Avenue"
-housenumber: 4700
+street: South Gilbert Avenue
+housenumber: "4700"
 phone: ""
 opening_hours: ""
-website: "https://www.marianos.com/"
+website: https://www.marianos.com/

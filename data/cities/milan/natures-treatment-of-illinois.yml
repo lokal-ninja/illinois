@@ -1,11 +1,11 @@
 id: 756033594
-type: way
+type: node
 latitude: 41.44242
 longitude: -90.54267
 postcode: "61624"
 city: Milan
-street: "Tech Drive"
-housenumber: 973
+street: Tech Drive
+housenumber: "973"
 phone: ""
 opening_hours: ""
 website: ""

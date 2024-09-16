@@ -1,11 +1,11 @@
 id: 771772531
-type: way
+type: node
 latitude: 41.40169
 longitude: -89.90434
 postcode: "61234"
 city: Annawan
-street: "North Canal Street"
-housenumber: 301
-phone: "+1-319-935-6501"
+street: North Canal Street
+housenumber: "301"
+phone: +1-319-935-6501
 opening_hours: ""
-website: "https://www.cenex.com/"
+website: https://www.cenex.com/

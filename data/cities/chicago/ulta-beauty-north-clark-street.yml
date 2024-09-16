@@ -4,8 +4,8 @@ latitude: 41.93709
 longitude: -87.64768
 postcode: "60657"
 city: Chicago
-street: "North Clark Street"
-housenumber: 3015
-phone: "+1 773-348-7315"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/chicago-il-44"
+street: North Clark Street
+housenumber: "3015"
+phone: +1 773-348-7315
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/chicago-il-44

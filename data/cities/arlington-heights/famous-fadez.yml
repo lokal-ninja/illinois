@@ -4,8 +4,8 @@ latitude: 42.05202
 longitude: -87.97436
 postcode: "60005"
 city: Arlington Heights
-street: "East Golf Road"
-housenumber: 618
+street: East Golf Road
+housenumber: "618"
 phone: ""
-opening_hours: "Tu-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-17:00"
-website: "https://www.famousfadez.com"
+opening_hours: Tu-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-17:00
+website: https://www.famousfadez.com

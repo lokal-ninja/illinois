@@ -1,11 +1,11 @@
 id: 1127413411
-type: way
+type: node
 latitude: 41.93264
 longitude: -89.06883
 postcode: "61068"
 city: Rochelle
-street: "North 7th Street"
-housenumber: 1076
-phone: "+1 815-234-9422"
-opening_hours: "Mo-Fr 04:30-21:30; Sa-Su 05:00-21:00"
-website: "https://www.starbucks.com/store-locator/store/1033296/n-7th-and-il-38-rochelle-1076-n-7th-street-rochelle-il-610681500-us"
+street: North 7th Street
+housenumber: "1076"
+phone: +1 815-234-9422
+opening_hours: Mo-Fr 04:30-21:30; Sa-Su 05:00-21:00
+website: https://www.starbucks.com/store-locator/store/1033296/n-7th-and-il-38-rochelle-1076-n-7th-street-rochelle-il-610681500-us

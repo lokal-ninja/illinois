@@ -1,11 +1,11 @@
 id: 312152032
-type: way
+type: node
 latitude: 41.7587
 longitude: -88.18623
 postcode: "60540"
 city: Naperville
-street: "Sequoia Road"
-housenumber: 1779
+street: Sequoia Road
+housenumber: "1779"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1779+sequoia+rd-naperville-il-60540/id=7361"
+website: https://www.walgreens.com/locator/walgreens-1779+sequoia+rd-naperville-il-60540/id=7361

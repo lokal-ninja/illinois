@@ -1,11 +1,11 @@
 id: 975861133
-type: way
+type: node
 latitude: 41.76897
 longitude: -88.18414
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1568
-phone: "+1 224 277 1223"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://vivekflowers.com/"
+street: West Ogden Avenue
+housenumber: "1568"
+phone: +1 224 277 1223
+opening_hours: Mo-Su 10:00-20:00
+website: https://vivekflowers.com/

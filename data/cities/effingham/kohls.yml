@@ -1,11 +1,11 @@
 id: 214840536
-type: way
+type: node
 latitude: 39.14422
 longitude: -88.56403
 postcode: "62401"
 city: Effingham
-street: "Ford Avenue"
-housenumber: 1600
-phone: "+1 217-347-5140"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/effingham-1189.shtml"
+street: Ford Avenue
+housenumber: "1600"
+phone: +1 217-347-5140
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/effingham-1189.shtml

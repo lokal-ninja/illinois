@@ -1,11 +1,11 @@
 id: 1247040797
-type: way
+type: node
 latitude: 38.85722
 longitude: -90.0681
 postcode: "62095"
 city: Wood River
-street: "East Edwardsville Road"
-housenumber: 1870
-phone: "1-618-259-4900"
+street: East Edwardsville Road
+housenumber: "1870"
+phone: 1-618-259-4900
 opening_hours: ""
-website: "https://www.schmittchevrolet.com/"
+website: https://www.schmittchevrolet.com/

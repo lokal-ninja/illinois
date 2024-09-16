@@ -1,11 +1,11 @@
 id: 338913880
-type: way
+type: node
 latitude: 42.054
 longitude: -87.74706
 postcode: "60077"
 city: Skokie
-street: "Skokie Boulevard"
-housenumber: 9522
+street: Skokie Boulevard
+housenumber: "9522"
 phone: ""
 opening_hours: ""
 website: ""

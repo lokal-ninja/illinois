@@ -1,11 +1,11 @@
 id: 162633093
-type: way
+type: node
 latitude: 41.93118
 longitude: -87.76662
 postcode: "60639"
 city: Chicago
-street: "West Diversey Avenue"
-housenumber: 5601
+street: West Diversey Avenue
+housenumber: "5601"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/5601-w-diversey-ave.html"
+website: https://www.autozone.com/locations/il/chicago/5601-w-diversey-ave.html

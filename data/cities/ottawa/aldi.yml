@@ -1,11 +1,11 @@
 id: 871723279
-type: way
+type: node
 latitude: 41.36974
 longitude: -88.83449
 postcode: "61350"
 city: Ottawa
-street: "Columbus Street"
-housenumber: 2710
-phone: "+1 833-468-7049"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/ottawa/2710-columbus-street"
+street: Columbus Street
+housenumber: "2710"
+phone: +1 833-468-7049
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/ottawa/2710-columbus-street

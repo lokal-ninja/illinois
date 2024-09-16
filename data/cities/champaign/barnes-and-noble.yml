@@ -4,8 +4,8 @@ latitude: 40.13644
 longitude: -88.23979
 postcode: "61820"
 city: Champaign
-street: "East Marketview Drive"
-housenumber: 65
-phone: "+1 217 3552045"
-opening_hours: "Mo-Sa 09:00-22:00;Su 10:00-21:00"
-website: "https://store-locator.barnesandnoble.com/store/2714"
+street: East Marketview Drive
+housenumber: "65"
+phone: +1 217 3552045
+opening_hours: Mo-Sa 09:00-22:00;Su 10:00-21:00
+website: https://store-locator.barnesandnoble.com/store/2714

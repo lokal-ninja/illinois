@@ -4,8 +4,8 @@ latitude: 41.40307
 longitude: -90.55413
 postcode: "61264"
 city: Milan
-street: "22nd Street"
-housenumber: 11531
-phone: "+1-309-787-5551"
+street: 22nd Street
+housenumber: "11531"
+phone: +1-309-787-5551
 opening_hours: ""
-website: "https://www.bmbuckleprinting.com/"
+website: https://www.bmbuckleprinting.com/

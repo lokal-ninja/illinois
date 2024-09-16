@@ -1,11 +1,11 @@
 id: 554965200
-type: way
+type: node
 latitude: 41.77781
 longitude: -87.86717
 postcode: "60525"
 city: Hodgkins
-street: "South La Grange Road"
-housenumber: 6201
+street: South La Grange Road
+housenumber: "6201"
 phone: ""
 opening_hours: ""
 website: ""

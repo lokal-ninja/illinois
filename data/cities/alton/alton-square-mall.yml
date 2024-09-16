@@ -1,11 +1,11 @@
 id: 492684456
-type: way
+type: node
 latitude: 38.92334
 longitude: -90.17571
 postcode: "62002"
 city: Alton
-street: "Alton Square"
-housenumber: 200
+street: Alton Square
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

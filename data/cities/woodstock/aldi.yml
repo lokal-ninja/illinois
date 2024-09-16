@@ -1,11 +1,11 @@
 id: 1275817053
-type: way
+type: node
 latitude: 42.29647
 longitude: -88.42522
 postcode: "60098"
 city: Woodstock
-street: "Lake Avenue"
-housenumber: 1270
-phone: "+1 833-440-1084"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/woodstock/1270-lake-avenue"
+street: Lake Avenue
+housenumber: "1270"
+phone: +1 833-440-1084
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/woodstock/1270-lake-avenue

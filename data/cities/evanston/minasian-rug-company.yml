@@ -1,11 +1,11 @@
 id: 213941979
-type: way
+type: node
 latitude: 42.041
 longitude: -87.68074
 postcode: "60202"
 city: Evanston
-street: "Chicago Avenue"
-housenumber: 1244
+street: Chicago Avenue
+housenumber: "1244"
 phone: ""
 opening_hours: ""
-website: "https://www.minasian.com/"
+website: https://www.minasian.com/

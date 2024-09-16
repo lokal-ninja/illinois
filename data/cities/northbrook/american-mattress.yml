@@ -1,11 +1,11 @@
 id: 442141839
-type: way
+type: node
 latitude: 42.15134
 longitude: -87.79939
 postcode: "60062"
 city: Northbrook
-street: "Skokie Boulevard"
-housenumber: 51
+street: Skokie Boulevard
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.americanmattress.com/pages/american-mattress-northbrook-il"
+website: https://www.americanmattress.com/pages/american-mattress-northbrook-il

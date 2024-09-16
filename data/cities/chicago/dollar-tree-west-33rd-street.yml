@@ -4,8 +4,8 @@ latitude: 41.83438
 longitude: -87.66394
 postcode: "60608"
 city: Chicago
-street: "West 33rd Street"
-housenumber: 1514
+street: West 33rd Street
+housenumber: "1514"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/il/chicago/743/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/il/chicago/743/

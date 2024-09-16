@@ -1,11 +1,11 @@
 id: 209589825
-type: way
+type: node
 latitude: 42.01915
 longitude: -87.68704
 postcode: "60645"
 city: Chicago
-street: "West Howard Street"
-housenumber: 2255
+street: West Howard Street
+housenumber: "2255"
 phone: ""
 opening_hours: ""
-website: "https://www.howardautobody.com/"
+website: https://www.howardautobody.com/

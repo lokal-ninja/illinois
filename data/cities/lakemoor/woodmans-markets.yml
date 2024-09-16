@@ -1,11 +1,11 @@
 id: 793335377
-type: way
+type: node
 latitude: 42.32085
 longitude: -88.16935
 postcode: "60051"
 city: Lakemoor
-street: "IL Route 120"
-housenumber: 27555
-phone: "+1-779-704-4220"
-opening_hours: "24/7"
-website: "https://www.woodmans-food.com/lakemoor"
+street: IL Route 120
+housenumber: "27555"
+phone: +1-779-704-4220
+opening_hours: 24/7
+website: https://www.woodmans-food.com/lakemoor

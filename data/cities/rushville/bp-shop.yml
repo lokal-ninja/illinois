@@ -1,11 +1,11 @@
 id: 771771327
-type: way
+type: node
 latitude: 40.11812
 longitude: -90.57631
 postcode: "62681"
 city: Rushville
-street: "West Clinton Street"
-housenumber: 705
-phone: "+1-217-322-3234"
+street: West Clinton Street
+housenumber: "705"
+phone: +1-217-322-3234
 opening_hours: ""
-website: "https://www.bp.com/en_us/united-states/home.html"
+website: https://www.bp.com/en_us/united-states/home.html

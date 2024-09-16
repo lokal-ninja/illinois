@@ -1,11 +1,11 @@
 id: 130802894
-type: way
+type: node
 latitude: 41.99729
 longitude: -87.70982
 postcode: "60659"
 city: Chicago
-street: "West Devon Avenue"
-housenumber: 3201
+street: West Devon Avenue
+housenumber: "3201"
 phone: ""
 opening_hours: ""
-website: "https://www.cityfreshmarket.com/"
+website: https://www.cityfreshmarket.com/

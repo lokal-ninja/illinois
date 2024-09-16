@@ -1,11 +1,11 @@
 id: 291941758
-type: way
+type: node
 latitude: 42.36141
 longitude: -88.26487
 postcode: "60051"
 city: McHenry
-street: "Richmond Road"
-housenumber: 2450
-phone: "+1 815-344-0024"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/il/mchenry-475.shtml"
+street: Richmond Road
+housenumber: "2450"
+phone: +1 815-344-0024
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/il/mchenry-475.shtml

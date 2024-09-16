@@ -1,11 +1,11 @@
 id: 906015160
-type: way
+type: node
 latitude: 42.19103
 longitude: -88.08315
 postcode: "60047"
 city: Lake Zurich
-street: "South Buesching Road"
-housenumber: 415
+street: South Buesching Road
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

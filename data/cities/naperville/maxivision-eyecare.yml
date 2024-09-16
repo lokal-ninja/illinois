@@ -1,11 +1,11 @@
 id: 1028828048
-type: way
+type: node
 latitude: 41.68149
 longitude: -88.20543
 postcode: "60564"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 4931
-phone: "+1 630 904 1900"
+street: South Illinois Route 59
+housenumber: "4931"
+phone: +1 630 904 1900
 opening_hours: ""
-website: "https://maxivisioneyecare.com/"
+website: https://maxivisioneyecare.com/

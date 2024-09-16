@@ -1,11 +1,11 @@
 id: 239508797
-type: way
+type: node
 latitude: 42.02501
 longitude: -87.81261
 postcode: "60714"
 city: Niles
-street: "North Milwaukee Avenue"
-housenumber: 7901
+street: North Milwaukee Avenue
+housenumber: "7901"
 phone: ""
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 07:00-23:00; Su 07:00-23:00"
-website: "https://www.jerrysfruitandgarden.com/"
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 07:00-23:00; Su 07:00-23:00
+website: https://www.jerrysfruitandgarden.com/

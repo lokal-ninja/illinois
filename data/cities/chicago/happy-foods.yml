@@ -1,11 +1,11 @@
 id: 162837922
-type: way
+type: node
 latitude: 41.99796
 longitude: -87.76325
 postcode: "60646"
 city: Chicago
-street: "North Central Avenue"
-housenumber: 6415
+street: North Central Avenue
+housenumber: "6415"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 209406449
-type: way
+type: node
 latitude: 41.91758
 longitude: -87.69909
 postcode: "60647"
 city: Chicago
-street: "West Armitage Avenue"
-housenumber: 2844
+street: West Armitage Avenue
+housenumber: "2844"
 phone: ""
 opening_hours: ""
-website: "https://doddcamera.com/"
+website: https://doddcamera.com/

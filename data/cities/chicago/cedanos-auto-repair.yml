@@ -1,11 +1,11 @@
 id: 211270661
-type: way
+type: node
 latitude: 41.70623
 longitude: -87.56006
 postcode: "60617"
 city: Chicago
-street: "South Torrence Avenue"
-housenumber: 10400
+street: South Torrence Avenue
+housenumber: "10400"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 806672510
-type: way
+type: node
 latitude: 41.50581
 longitude: -87.79134
 postcode: "60423"
 city: Frankfort
-street: "West Lincoln Highway"
-housenumber: 7290
+street: West Lincoln Highway
+housenumber: "7290"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7209+w+lincoln+hwy-frankfort-il-60423/id=4949"
+website: https://www.walgreens.com/locator/walgreens-7209+w+lincoln+hwy-frankfort-il-60423/id=4949

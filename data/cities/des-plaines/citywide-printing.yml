@@ -1,11 +1,11 @@
 id: 668018733
-type: way
+type: node
 latitude: 42.04585
 longitude: -87.88598
 postcode: "60016"
 city: Des Plaines
-street: "Lee Street"
-housenumber: 
+street: Lee Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

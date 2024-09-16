@@ -1,11 +1,11 @@
 id: 511810691
-type: way
+type: node
 latitude: 41.52101
 longitude: -88.07482
 postcode: "60433"
 city: Joliet
-street: "Richards Street"
-housenumber: 121
+street: Richards Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

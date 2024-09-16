@@ -1,11 +1,11 @@
 id: 488130574
-type: way
+type: node
 latitude: 42.23286
 longitude: -88.83506
 postcode: "61008"
 city: Belvidere
-street: "Pearl Street"
-housenumber: 2502
+street: Pearl Street
+housenumber: "2502"
 phone: ""
 opening_hours: ""
 website: ""

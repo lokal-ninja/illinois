@@ -1,11 +1,11 @@
 id: 209883047
-type: way
+type: node
 latitude: 41.92618
 longitude: -87.68112
 postcode: "60647"
 city: Chicago
-street: "North Elston Avenue"
-housenumber: 2490
-phone: "+1 773-904-2845"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/il/chicago/1314/"
+street: North Elston Avenue
+housenumber: "2490"
+phone: +1 773-904-2845
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/il/chicago/1314/

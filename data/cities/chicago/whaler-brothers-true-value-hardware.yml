@@ -1,11 +1,11 @@
 id: 210321654
-type: way
+type: node
 latitude: 41.92892
 longitude: -87.64855
 postcode: "60614"
 city: Chicago
-street: "North Halsted Street"
-housenumber: 2551
-phone: "+1 773-248-1349"
-opening_hours: "Mo-Fr 08:00-17:30, Sa 08:00-17:00"
-website: "https://www.truevalue.com/wahlerbrothershardware"
+street: North Halsted Street
+housenumber: "2551"
+phone: +1 773-248-1349
+opening_hours: Mo-Fr 08:00-17:30, Sa 08:00-17:00
+website: https://www.truevalue.com/wahlerbrothershardware

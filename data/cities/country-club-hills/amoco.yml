@@ -1,11 +1,11 @@
 id: 619968115
-type: way
+type: node
 latitude: 41.55675
 longitude: -87.71418
 postcode: "60478"
 city: Country Club Hills
-street: "183rd Street"
-housenumber: 4001
+street: 183rd Street
+housenumber: "4001"
 phone: ""
 opening_hours: ""
 website: ""

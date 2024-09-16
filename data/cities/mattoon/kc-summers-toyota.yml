@@ -1,11 +1,11 @@
 id: 130788933
-type: way
+type: node
 latitude: 39.48209
 longitude: -88.38002
 postcode: "61938"
 city: Mattoon
-street: "Broadway Avenue"
-housenumber: 1913
-phone: "+1-877-862-0034"
-opening_hours: "Mo-Fr 08:00-18:30"
-website: "https://www.kcsummers.com/"
+street: Broadway Avenue
+housenumber: "1913"
+phone: +1-877-862-0034
+opening_hours: Mo-Fr 08:00-18:30
+website: https://www.kcsummers.com/

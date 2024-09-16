@@ -1,11 +1,11 @@
 id: 768282419
-type: way
+type: node
 latitude: 38.90315
 longitude: -90.1489
 postcode: "62002"
 city: Alton
-street: "Washington Avenue"
-housenumber: 1651
+street: Washington Avenue
+housenumber: "1651"
 phone: ""
 opening_hours: ""
 website: ""

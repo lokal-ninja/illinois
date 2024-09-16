@@ -1,11 +1,11 @@
 id: 996203705
-type: way
+type: node
 latitude: 37.61912
 longitude: -88.84198
 postcode: "62922"
 city: Creal Springs
-street: "West Blue Avenue"
-housenumber: 501
-phone: "+1 618 579 2812"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/il/creal-springs/15635"
+street: West Blue Avenue
+housenumber: "501"
+phone: +1 618 579 2812
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/il/creal-springs/15635

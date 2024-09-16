@@ -1,11 +1,11 @@
 id: 1040101917
-type: way
+type: node
 latitude: 41.77306
 longitude: -88.14893
 postcode: "60540"
 city: Naperville
-street: "West Jefferson Avenue"
-housenumber: 27
-phone: "+1 630 428 2556"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:30-18:00"
-website: "https://www.adagio.com/stores/il_naperville.html"
+street: West Jefferson Avenue
+housenumber: "27"
+phone: +1 630 428 2556
+opening_hours: Mo-Sa 10:00-18:00; Su 11:30-18:00
+website: https://www.adagio.com/stores/il_naperville.html

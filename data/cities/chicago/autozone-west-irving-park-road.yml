@@ -1,11 +1,11 @@
 id: 151190317
-type: way
+type: node
 latitude: 41.95339
 longitude: -87.78983
 postcode: "60634"
 city: Chicago
-street: "West Irving Park Road"
-housenumber: 6520
+street: West Irving Park Road
+housenumber: "6520"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/6520-w-irving-park.html"
+website: https://www.autozone.com/locations/il/chicago/6520-w-irving-park.html

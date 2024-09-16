@@ -1,11 +1,11 @@
 id: 690819241
-type: way
+type: node
 latitude: 41.70232
 longitude: -87.52598
 postcode: "60617"
 city: Chicago
-street: "East 106th Street"
-housenumber: 4023
+street: East 106th Street
+housenumber: "4023"
 phone: ""
 opening_hours: ""
 website: ""

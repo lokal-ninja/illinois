@@ -1,11 +1,11 @@
 id: 573774060
-type: way
+type: node
 latitude: 42.26088
 longitude: -87.9507
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 1860
+street: North Milwaukee Avenue
+housenumber: "1860"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3327"
+website: https://www.menards.com/store-details/store.html?store=3327

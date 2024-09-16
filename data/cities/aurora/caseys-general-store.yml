@@ -1,11 +1,11 @@
 id: 259720080
-type: way
+type: node
 latitude: 41.75865
 longitude: -88.24404
 postcode: "60502"
 city: Aurora
-street: "North Eola Road"
-housenumber: 330
-phone: "+1 630 851 4788"
+street: North Eola Road
+housenumber: "330"
+phone: +1 630 851 4788
 opening_hours: ""
-website: "https://www.caseys.com/general-store/il-aurora/330-n-eola-rd/"
+website: https://www.caseys.com/general-store/il-aurora/330-n-eola-rd/

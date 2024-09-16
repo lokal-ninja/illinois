@@ -1,11 +1,11 @@
 id: 311425512
-type: way
+type: node
 latitude: 41.76453
 longitude: -88.1857
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1712
+street: West Ogden Avenue
+housenumber: "1712"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Naperville/1712-West-Ogden-Avenue"
+website: https://www.speedway.com/locations/IL/Naperville/1712-West-Ogden-Avenue

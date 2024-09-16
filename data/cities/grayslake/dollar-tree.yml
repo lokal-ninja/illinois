@@ -1,11 +1,11 @@
 id: 1026584441
-type: way
+type: node
 latitude: 42.33717
 longitude: -88.02235
 postcode: "60030"
 city: Grayslake
-street: "East Belvidere Road"
-housenumber: 1015
+street: East Belvidere Road
+housenumber: "1015"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/il/grayslake/7436/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/il/grayslake/7436/

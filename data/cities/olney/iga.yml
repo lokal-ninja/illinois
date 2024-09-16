@@ -1,11 +1,11 @@
 id: 204851563
-type: way
+type: node
 latitude: 38.7306
 longitude: -88.07188
 postcode: "62450"
 city: Olney
-street: "East Main Street"
-housenumber: 1313
-phone: "+1 610-539-8987"
+street: East Main Street
+housenumber: "1313"
+phone: +1 610-539-8987
 opening_hours: ""
 website: ""

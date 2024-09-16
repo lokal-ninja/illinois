@@ -1,11 +1,11 @@
 id: 1091995041
-type: way
+type: node
 latitude: 41.64921
 longitude: -88.20405
 postcode: "60585"
 city: Plainfield
-street: "South Illinois Route 59"
-housenumber: 12820
-phone: "+1 815 436 2100"
-opening_hours: "Mo-We 10:00-17:00; Th, Fr 10:00-19:00; Sa 10:00-15:00; Su off"
-website: "https://mymarkpeters.com/"
+street: South Illinois Route 59
+housenumber: "12820"
+phone: +1 815 436 2100
+opening_hours: Mo-We 10:00-17:00; Th, Fr 10:00-19:00; Sa 10:00-15:00; Su off
+website: https://mymarkpeters.com/

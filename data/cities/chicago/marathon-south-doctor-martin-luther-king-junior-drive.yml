@@ -1,11 +1,11 @@
 id: 210859232
-type: way
+type: node
 latitude: 41.75149
 longitude: -87.61568
 postcode: "60619"
 city: Chicago
-street: "South Doctor Martin Luther King Junior Drive"
-housenumber: 7858
+street: South Doctor Martin Luther King Junior Drive
+housenumber: "7858"
 phone: ""
 opening_hours: ""
 website: ""

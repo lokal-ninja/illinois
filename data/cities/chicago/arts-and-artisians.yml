@@ -4,8 +4,8 @@ latitude: 41.88229
 longitude: -87.64017
 postcode: "60661"
 city: Chicago
-street: "West Madison Street"
-housenumber: 500
+street: West Madison Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "http://artsartisans.com/"
+website: http://artsartisans.com/

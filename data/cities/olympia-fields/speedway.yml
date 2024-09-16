@@ -1,11 +1,11 @@
 id: 1025868409
-type: way
+type: node
 latitude: 41.50658
 longitude: -87.70383
 postcode: "60461"
 city: Olympia Fields
-street: "Lincoln Highway"
-housenumber: 3602
+street: Lincoln Highway
+housenumber: "3602"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Olympia-Fields/3602-Lincoln-Highway"
+website: https://www.speedway.com/locations/IL/Olympia-Fields/3602-Lincoln-Highway

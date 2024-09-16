@@ -1,11 +1,11 @@
 id: 1159402577
-type: way
+type: node
 latitude: 41.67473
 longitude: -87.68093
 postcode: "60406"
 city: Blue Island
-street: "Western Avenue"
-housenumber: 12000
+street: Western Avenue
+housenumber: "12000"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/blue-island/12000-western-ave.html"
+website: https://www.autozone.com/locations/il/blue-island/12000-western-ave.html

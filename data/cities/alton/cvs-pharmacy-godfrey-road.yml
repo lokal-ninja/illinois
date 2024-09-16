@@ -1,11 +1,11 @@
 id: 858732221
-type: way
+type: node
 latitude: 38.9226
 longitude: -90.19152
 postcode: "62035"
 city: Alton
-street: "Godfrey Road"
-housenumber: 2701
+street: Godfrey Road
+housenumber: "2701"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/godfrey-il-pharmacies/2701-godfrey-rd-godfrey-il-62035/storeid=6831"
+website: https://www.cvs.com/store-locator/godfrey-il-pharmacies/2701-godfrey-rd-godfrey-il-62035/storeid=6831

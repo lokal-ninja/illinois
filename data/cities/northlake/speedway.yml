@@ -1,11 +1,11 @@
 id: 1028225846
-type: way
+type: node
 latitude: 41.91637
 longitude: -87.88329
 postcode: "60164"
 city: Northlake
-street: "North Mannheim Road"
-housenumber: 2139
+street: North Mannheim Road
+housenumber: "2139"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Northlake/2139-N-Mannheim-Ave"
+website: https://www.speedway.com/locations/IL/Northlake/2139-N-Mannheim-Ave

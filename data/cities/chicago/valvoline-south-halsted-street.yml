@@ -1,11 +1,11 @@
 id: 210414463
-type: way
+type: node
 latitude: 41.68769
 longitude: -87.64262
 postcode: "60628"
 city: Chicago
-street: "South Halsted Street"
-housenumber: 11328
+street: South Halsted Street
+housenumber: "11328"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/il/chicago/oil-change-gr0021.html"
+website: https://store.vioc.com/il/chicago/oil-change-gr0021.html

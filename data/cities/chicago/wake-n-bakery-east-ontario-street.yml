@@ -4,8 +4,8 @@ latitude: 41.89344
 longitude: -87.62659
 postcode: "60611"
 city: Chicago
-street: "East Ontario Street"
-housenumber: 38
-phone: "+1-833-384-5744"
-opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 08:00-22:00; Su 08:00-20:00"
-website: "https://wakenbakery.net/"
+street: East Ontario Street
+housenumber: "38"
+phone: +1-833-384-5744
+opening_hours: Mo-Th 08:00-20:00; Fr-Sa 08:00-22:00; Su 08:00-20:00
+website: https://wakenbakery.net/

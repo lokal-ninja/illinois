@@ -1,11 +1,11 @@
 id: 759535020
-type: way
+type: node
 latitude: 42.08401
 longitude: -88.33686
 postcode: "60123"
 city: Elgin
-street: "Randall Road"
-housenumber: 2020
-phone: "+1-847-695-8000"
+street: Randall Road
+housenumber: "2020"
+phone: +1-847-695-8000
 opening_hours: ""
-website: "https://www.mcgrathhondaelgin.com"
+website: https://www.mcgrathhondaelgin.com

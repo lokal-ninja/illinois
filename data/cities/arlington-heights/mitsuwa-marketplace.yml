@@ -1,11 +1,11 @@
 id: 105288475
-type: way
+type: node
 latitude: 42.04472
 longitude: -87.98126
 postcode: "60005"
 city: Arlington Heights
-street: "East Algonquin Road"
-housenumber: 100
-phone: "+1-847-956-6699"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://mitsuwa.com/locations/chicago/"
+street: East Algonquin Road
+housenumber: "100"
+phone: +1-847-956-6699
+opening_hours: Mo-Su 09:00-21:00
+website: https://mitsuwa.com/locations/chicago/

@@ -1,11 +1,11 @@
 id: 209709729
-type: way
+type: node
 latitude: 41.80869
 longitude: -87.68346
 postcode: "60609"
 city: Chicago
-street: "South Western Boulevard"
-housenumber: 4653
+street: South Western Boulevard
+housenumber: "4653"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 436923524
-type: way
+type: node
 latitude: 42.36235
 longitude: -88.16767
 postcode: "60020"
 city: Volo
-street: "West Hartigan Road"
-housenumber: 2743
+street: West Hartigan Road
+housenumber: "2743"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/volo/2743-hartigan-rd.html"
+website: https://www.autozone.com/locations/il/volo/2743-hartigan-rd.html

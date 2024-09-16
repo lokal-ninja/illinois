@@ -1,11 +1,11 @@
 id: 743082696
-type: way
+type: node
 latitude: 38.49108
 longitude: -89.79558
 postcode: "62258"
 city: Mascoutah
-street: "East Main Street"
-housenumber: 121
+street: East Main Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

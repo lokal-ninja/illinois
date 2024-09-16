@@ -1,11 +1,11 @@
 id: 211177084
-type: way
+type: node
 latitude: 41.75992
 longitude: -87.58678
 postcode: "60649"
 city: Chicago
-street: "South Stony Island Avenue"
-housenumber: 7424
+street: South Stony Island Avenue
+housenumber: "7424"
 phone: ""
 opening_hours: ""
 website: ""

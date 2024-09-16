@@ -1,11 +1,11 @@
 id: 1010824977
-type: way
+type: node
 latitude: 41.78124
 longitude: -89.69141
 postcode: "61071"
 city: Rock Falls
-street: "1st Avenue"
-housenumber: 220
-phone: "815-626-4084"
+street: 1st Avenue
+housenumber: "220"
+phone: 815-626-4084
 opening_hours: ""
-website: "https://find.shell.com/us/fuel/10011185-220-1st-ave-ste-r/en_US"
+website: https://find.shell.com/us/fuel/10011185-220-1st-ave-ste-r/en_US

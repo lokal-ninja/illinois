@@ -1,11 +1,11 @@
 id: 624637249
-type: way
+type: node
 latitude: 41.65696
 longitude: -87.59566
 postcode: "60827"
 city: Chicago
-street: "South Greenwood Avenue"
-housenumber: 13068
+street: South Greenwood Avenue
+housenumber: "13068"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 888234651
-type: way
+type: node
 latitude: 42.25295
 longitude: -88.82143
 postcode: "61008"
 city: Belvidere
-street: "Logan Avenue"
-housenumber: 1776
-phone: "+1 815"
-opening_hours: "24/7"
-website: "http://www.nyexxonmobil.com"
+street: Logan Avenue
+housenumber: "1776"
+phone: +1 815
+opening_hours: 24/7
+website: http://www.nyexxonmobil.com

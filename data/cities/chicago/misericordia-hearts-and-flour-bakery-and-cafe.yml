@@ -1,11 +1,11 @@
 id: 1300783957
-type: way
+type: node
 latitude: 41.99287
 longitude: -87.67569
 postcode: "60660"
 city: Chicago
-street: "North Ravenswood Avenue"
-housenumber: 6130
-phone: "+1-773-564-8403"
-opening_hours: "Mo-Fr 06:00-16:00; Sa 07:00-16:00; Su 07:00-14:00"
-website: "https://www.misericordia.com/restaurant-stores/hearts-flour-bakery-and-cafe/"
+street: North Ravenswood Avenue
+housenumber: "6130"
+phone: +1-773-564-8403
+opening_hours: Mo-Fr 06:00-16:00; Sa 07:00-16:00; Su 07:00-14:00
+website: https://www.misericordia.com/restaurant-stores/hearts-flour-bakery-and-cafe/

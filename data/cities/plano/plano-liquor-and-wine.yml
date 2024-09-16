@@ -4,8 +4,8 @@ latitude: 41.66246
 longitude: -88.53254
 postcode: "60545"
 city: Plano
-street: "East South Street"
-housenumber: 401
+street: East South Street
+housenumber: "401"
 phone: ""
-opening_hours: "Mo-Th 09:30-22:00; Fr,Sa 09:30-00:00; Su 10:00-20:00"
-website: "https://plano-liquor-and-wine.com/"
+opening_hours: Mo-Th 09:30-22:00; Fr,Sa 09:30-00:00; Su 10:00-20:00
+website: https://plano-liquor-and-wine.com/

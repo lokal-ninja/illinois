@@ -1,11 +1,11 @@
 id: 242556159
-type: way
+type: node
 latitude: 42.13257
 longitude: -87.82044
 postcode: "60062"
 city: Northbrook
-street: "Waukegan Road"
-housenumber: 1111
+street: Waukegan Road
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

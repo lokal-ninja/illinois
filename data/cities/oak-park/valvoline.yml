@@ -1,11 +1,11 @@
 id: 477303860
-type: way
+type: node
 latitude: 41.86547
 longitude: -87.79116
 postcode: "60304"
 city: Oak Park
-street: "West Roosevelt Road"
-housenumber: 6644
+street: West Roosevelt Road
+housenumber: "6644"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/il/oakpark/oil-change-gr0039.html"
+website: https://store.vioc.com/il/oakpark/oil-change-gr0039.html

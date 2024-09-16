@@ -1,11 +1,11 @@
 id: 993181678
-type: way
+type: node
 latitude: 40.51297
 longitude: -88.95176
-postcode: "61761-6282"
+postcode: 61761-6282
 city: Normal
-street: "Greenbriar Drive"
-housenumber: 200
-phone: "+1 309-268-4007"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/il/normal/5027"
+street: Greenbriar Drive
+housenumber: "200"
+phone: +1 309-268-4007
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/il/normal/5027

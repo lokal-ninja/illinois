@@ -4,8 +4,8 @@ latitude: 39.73579
 longitude: -89.69936
 postcode: "62711"
 city: Springfield
-street: "Prairie Crossing Drive"
-housenumber: 2360
-phone: "+1-217-793-6050"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-17:00"
-website: "https://www.landmarkcadillac.com/"
+street: Prairie Crossing Drive
+housenumber: "2360"
+phone: +1-217-793-6050
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-17:00
+website: https://www.landmarkcadillac.com/

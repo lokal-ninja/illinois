@@ -1,11 +1,11 @@
 id: 1031061454
-type: way
+type: node
 latitude: 38.92246
 longitude: -90.18157
 postcode: "62002"
 city: Alton
-street: "East Delmar Avenue"
-housenumber: 34
+street: East Delmar Avenue
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "http://www.dicksflowers.com/"
+website: http://www.dicksflowers.com/

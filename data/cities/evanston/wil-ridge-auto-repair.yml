@@ -1,11 +1,11 @@
 id: 958559243
-type: way
+type: node
 latitude: 42.06523
 longitude: -87.72813
 postcode: "60201"
 city: Evanston
-street: "Crawford Avenue"
-housenumber: 2620
+street: Crawford Avenue
+housenumber: "2620"
 phone: ""
 opening_hours: ""
 website: ""

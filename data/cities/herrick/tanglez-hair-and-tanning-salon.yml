@@ -1,11 +1,11 @@
 id: 444342311
-type: way
+type: node
 latitude: 39.21839
 longitude: -88.98458
 postcode: "62431"
 city: Herrick
-street: "East Main Street"
-housenumber: 4
+street: East Main Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

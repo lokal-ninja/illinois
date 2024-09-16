@@ -1,11 +1,11 @@
 id: 768282416
-type: way
+type: node
 latitude: 38.90307
 longitude: -90.14983
 postcode: "62002"
 city: Alton
-street: "Washington Avenue"
-housenumber: 1650
-phone: "+1-618-462-5386"
+street: Washington Avenue
+housenumber: "1650"
+phone: +1-618-462-5386
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1650+washington+ave-alton-il-62002/id=3627"
+website: https://www.walgreens.com/locator/walgreens-1650+washington+ave-alton-il-62002/id=3627

@@ -1,11 +1,11 @@
 id: 163905856
-type: way
+type: node
 latitude: 41.94169
 longitude: -87.71242
 postcode: "60618"
 city: Chicago
-street: "North Kimball Avenue"
-housenumber: 3333
+street: North Kimball Avenue
+housenumber: "3333"
 phone: ""
 opening_hours: ""
 website: ""

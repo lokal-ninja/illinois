@@ -1,11 +1,11 @@
 id: 227843608
-type: way
+type: node
 latitude: 41.76324
 longitude: -87.74546
 postcode: "60638"
 city: Bedford Park
-street: "South Cicero Avenue"
-housenumber: 7200
-phone: "+1 708-728-9200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Bedford-Park/IL/Chicago/60629/1908"
+street: South Cicero Avenue
+housenumber: "7200"
+phone: +1 708-728-9200
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Bedford-Park/IL/Chicago/60629/1908

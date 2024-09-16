@@ -1,11 +1,11 @@
 id: 182568171
-type: way
+type: node
 latitude: 40.98203
 longitude: -90.36092
 postcode: "61401"
 city: Galesburg
-street: "Knox Square Drive"
-housenumber: 659
-phone: "+1 309-344-1180"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/775/galesburg-il/whats-new"
+street: Knox Square Drive
+housenumber: "659"
+phone: +1 309-344-1180
+opening_hours: 24/7
+website: https://www.walmart.com/store/775/galesburg-il/whats-new

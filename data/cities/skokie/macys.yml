@@ -1,11 +1,11 @@
 id: 33192692
-type: way
+type: node
 latitude: 42.05872
 longitude: -87.75047
 postcode: "60077"
 city: Skokie
-street: "Old Orchard Center"
-housenumber: 1
+street: Old Orchard Center
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/il/skokie/westfield-old-orchard_218.html"
+website: https://www.macys.com/stores/il/skokie/westfield-old-orchard_218.html

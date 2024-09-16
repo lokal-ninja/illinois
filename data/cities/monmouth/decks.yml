@@ -1,11 +1,11 @@
 id: 771829188
-type: way
+type: node
 latitude: 40.92621
 longitude: -90.64862
 postcode: "61462"
 city: Monmouth
-street: "North Main Street"
-housenumber: 1198
-phone: "+1-309-734-7177"
+street: North Main Street
+housenumber: "1198"
+phone: +1-309-734-7177
 opening_hours: ""
-website: "https://www.phillips66gas.com/"
+website: https://www.phillips66gas.com/

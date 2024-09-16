@@ -1,11 +1,11 @@
 id: 456134586
-type: way
+type: node
 latitude: 42.31674
 longitude: -88.98378
 postcode: "61114"
 city: Rockford
-street: "East Riverside Boulevard"
-housenumber: 6825
-phone: "+1 815-282-6202"
-opening_hours: "24/7"
-website: "http://www.cremation-socity.com"
+street: East Riverside Boulevard
+housenumber: "6825"
+phone: +1 815-282-6202
+opening_hours: 24/7
+website: http://www.cremation-socity.com

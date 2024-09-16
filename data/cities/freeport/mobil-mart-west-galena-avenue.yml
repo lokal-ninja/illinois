@@ -1,11 +1,11 @@
 id: 772613301
-type: way
+type: node
 latitude: 42.30203
 longitude: -89.64279
 postcode: "61032"
 city: Freeport
-street: "West Galena Avenue"
-housenumber: 1220
-phone: "+1-815-650-2138"
+street: West Galena Avenue
+housenumber: "1220"
+phone: +1-815-650-2138
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200318561"
+website: https://www.exxon.com/en/find-station/200318561

@@ -1,11 +1,11 @@
 id: 993474300
-type: way
+type: node
 latitude: 41.79729
 longitude: -88.11784
 postcode: "60563"
 city: Naperville
-street: "Naper Boulevard"
-housenumber: 1512
-phone: "+1 630 536 8549"
-opening_hours: "Mo-Su 09:00-17:30"
-website: "https://www.tljus.com/"
+street: Naper Boulevard
+housenumber: "1512"
+phone: +1 630 536 8549
+opening_hours: Mo-Su 09:00-17:30
+website: https://www.tljus.com/

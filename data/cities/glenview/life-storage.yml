@@ -1,11 +1,11 @@
 id: 702570526
-type: way
+type: node
 latitude: 42.07822
 longitude: -87.86068
 postcode: "60025"
 city: Glenview
-street: "Milwaukee Avenue"
-housenumber: 1205
+street: Milwaukee Avenue
+housenumber: "1205"
 phone: ""
 opening_hours: ""
 website: ""

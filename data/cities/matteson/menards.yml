@@ -1,11 +1,11 @@
 id: 1012158832
-type: way
+type: node
 latitude: 41.49686
 longitude: -87.73442
 postcode: "60443"
 city: Matteson
-street: "Cicero Avenue"
-housenumber: 21630
+street: Cicero Avenue
+housenumber: "21630"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3087"
+website: https://www.menards.com/store-details/store.html?store=3087

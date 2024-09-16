@@ -1,11 +1,11 @@
 id: 595960229
-type: way
+type: node
 latitude: 42.05087
 longitude: -88.04203
 postcode: "60173"
 city: Schaumburg
-street: "East Golf Road"
-housenumber: 1426
-phone: "+1 847-619-0095"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://locations.traderjoes.com/il/schaumburg/705/"
+street: East Golf Road
+housenumber: "1426"
+phone: +1 847-619-0095
+opening_hours: Mo-Su 09:00-21:00
+website: https://locations.traderjoes.com/il/schaumburg/705/

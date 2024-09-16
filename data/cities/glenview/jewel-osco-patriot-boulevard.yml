@@ -1,11 +1,11 @@
 id: 131828654
-type: way
+type: node
 latitude: 42.07817
 longitude: -87.81966
 postcode: "60026"
 city: Glenview
-street: "Patriot Boulevard"
-housenumber: 1340
-phone: "+1 847-657-9130"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.jewelosco.com/il/glenview/1340-patriot-blvd.html"
+street: Patriot Boulevard
+housenumber: "1340"
+phone: +1 847-657-9130
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.jewelosco.com/il/glenview/1340-patriot-blvd.html

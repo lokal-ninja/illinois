@@ -1,11 +1,11 @@
 id: 344741916
-type: way
+type: node
 latitude: 39.13692
 longitude: -89.48437
 postcode: "62049"
 city: Hillsboro
-street: "Montgomery"
-housenumber: 11159
-phone: "+1-888-902-1381"
+street: Montgomery
+housenumber: "11159"
+phone: +1-888-902-1381
 opening_hours: ""
-website: "http://www.wrightautomotive.net/"
+website: http://www.wrightautomotive.net/

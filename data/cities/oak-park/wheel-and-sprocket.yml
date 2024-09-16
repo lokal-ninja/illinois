@@ -1,11 +1,11 @@
 id: 477411496
-type: way
+type: node
 latitude: 41.88799
 longitude: -87.80321
 postcode: "60301"
 city: Oak Park
-street: "Westgate Street"
-housenumber: 1118
+street: Westgate Street
+housenumber: "1118"
 phone: ""
 opening_hours: ""
-website: "https://wheelandsprocket.com"
+website: https://wheelandsprocket.com

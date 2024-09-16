@@ -1,11 +1,11 @@
 id: 764253690
-type: way
+type: node
 latitude: 39.84103
 longitude: -88.94449
 postcode: "62521"
 city: Decatur
-street: "East Wood Street"
-housenumber: 932
-phone: "+1-217-425-6446"
+street: East Wood Street
+housenumber: "932"
+phone: +1-217-425-6446
 opening_hours: ""
-website: "https://www.decaturhabitat.org/"
+website: https://www.decaturhabitat.org/

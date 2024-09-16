@@ -1,11 +1,11 @@
 id: 163895711
-type: way
+type: node
 latitude: 41.93891
 longitude: -87.70562
 postcode: "60618"
 city: Chicago
-street: "West Belmont Avenue"
-housenumber: 3135
-phone: "+1-773-588-0800"
-opening_hours: "Mo-Fr 06:30-16:00"
-website: "https://hfsmaterials.com/"
+street: West Belmont Avenue
+housenumber: "3135"
+phone: +1-773-588-0800
+opening_hours: Mo-Fr 06:30-16:00
+website: https://hfsmaterials.com/

@@ -1,11 +1,11 @@
 id: 252787897
-type: way
+type: node
 latitude: 42.073
 longitude: -87.70629
 postcode: "60091"
 city: Wilmette
-street: "Green Bay Road"
-housenumber: 411
-phone: "+1 847-256-7420"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/wilmette/411-n-green-bay-rd.html"
+street: Green Bay Road
+housenumber: "411"
+phone: +1 847-256-7420
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/wilmette/411-n-green-bay-rd.html

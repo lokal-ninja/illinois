@@ -1,11 +1,11 @@
 id: 376195720
-type: way
+type: node
 latitude: 41.9725
 longitude: -88.71459
 postcode: "60178"
 city: Sycamore
-street: "Mercantile Drive"
-housenumber: 1825
-phone: "+1-815-899-3420"
-opening_hours: "06:00-21:00; Su 06:00-20:00"
-website: "https://www.menards.com/main/storeDetails.html?store=3145"
+street: Mercantile Drive
+housenumber: "1825"
+phone: +1-815-899-3420
+opening_hours: 06:00-21:00; Su 06:00-20:00
+website: https://www.menards.com/main/storeDetails.html?store=3145

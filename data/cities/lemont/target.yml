@@ -1,11 +1,11 @@
 id: 306193375
-type: way
+type: node
 latitude: 41.64487
 longitude: -88.00382
 postcode: "60439"
 city: Lemont
-street: "Archer Avenue"
-housenumber: 13460
-phone: "+1 630-243-6511"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/lemont/1213"
+street: Archer Avenue
+housenumber: "13460"
+phone: +1 630-243-6511
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/lemont/1213

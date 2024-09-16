@@ -1,11 +1,11 @@
 id: 368854859
-type: way
+type: node
 latitude: 41.69048
 longitude: -88.06947
 postcode: "60440"
 city: Bolingbrook
-street: "Lily Cache Lane"
-housenumber: 101
+street: Lily Cache Lane
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-101+lily+cache+ln-bolingbrook-il-60440/id=4948"
+website: https://www.walgreens.com/locator/walgreens-101+lily+cache+ln-bolingbrook-il-60440/id=4948

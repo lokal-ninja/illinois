@@ -1,11 +1,11 @@
 id: 228446896
-type: way
+type: node
 latitude: 41.38643
 longitude: -88.41797
 postcode: "60450"
 city: Morris
-street: "East US Route 6"
-housenumber: 355
-phone: "+1 833-468-7018"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/morris/355-east-us-route-6"
+street: East US Route 6
+housenumber: "355"
+phone: +1 833-468-7018
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/morris/355-east-us-route-6

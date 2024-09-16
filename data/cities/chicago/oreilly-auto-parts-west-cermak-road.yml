@@ -1,11 +1,11 @@
 id: 609877122
-type: way
+type: node
 latitude: 41.85186
 longitude: -87.69039
 postcode: "60608"
 city: Chicago
-street: "West Cermak Road"
-housenumber: 2551
+street: West Cermak Road
+housenumber: "2551"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/chicago/autoparts-3382.html"
+website: https://locations.oreillyauto.com/il/chicago/autoparts-3382.html

@@ -1,11 +1,11 @@
 id: 210270322
-type: way
+type: node
 latitude: 41.88756
 longitude: -87.66116
 postcode: "60607"
 city: Chicago
-street: "North Ogden Avenue"
-housenumber: 335
+street: North Ogden Avenue
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 947350584
-type: way
+type: node
 latitude: 41.8144
 longitude: -87.83443
-postcode: "60534-1030"
+postcode: 60534-1030
 city: Lyons
-street: "South First Avenue"
-housenumber: 4200
-phone: "+1 708-247-3192"
+street: South First Avenue
+housenumber: "4200"
+phone: +1 708-247-3192
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/lyons/4200-s-first-avenue-33899"
+website: https://www.7-eleven.com/locations/il/lyons/4200-s-first-avenue-33899

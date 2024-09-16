@@ -1,11 +1,11 @@
 id: 1258905633
-type: way
+type: node
 latitude: 41.67302
 longitude: -87.68116
 postcode: "60406"
 city: Blue Island
-street: "Western Avenue"
-housenumber: 12120
+street: Western Avenue
+housenumber: "12120"
 phone: ""
 opening_hours: ""
 website: ""

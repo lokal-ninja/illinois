@@ -1,11 +1,11 @@
 id: 553856152
-type: way
+type: node
 latitude: 38.56525
 longitude: -90.19168
 postcode: "62206"
 city: Cahokia
-street: "Illinois Route 3"
-housenumber: 527
+street: Illinois Route 3
+housenumber: "527"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 209704470
-type: way
+type: node
 latitude: 41.79637
 longitude: -87.66492
 postcode: "60609"
 city: Chicago
-street: "South Ashland Avenue"
-housenumber: 5346
+street: South Ashland Avenue
+housenumber: "5346"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/chicago/autoparts-3397.html"
+website: https://locations.oreillyauto.com/il/chicago/autoparts-3397.html

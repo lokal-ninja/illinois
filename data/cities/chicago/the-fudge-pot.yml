@@ -4,8 +4,8 @@ latitude: 41.91013
 longitude: -87.63499
 postcode: "60610"
 city: Chicago
-street: "North Wells Street"
-housenumber: 1532
-phone: "+1-312-943-1777"
-opening_hours: "Su-Th 12:00-20:00; Fr,Sa 12:00-22:00"
-website: "http://thefudgepotchicago.com/"
+street: North Wells Street
+housenumber: "1532"
+phone: +1-312-943-1777
+opening_hours: Su-Th 12:00-20:00; Fr,Sa 12:00-22:00
+website: http://thefudgepotchicago.com/

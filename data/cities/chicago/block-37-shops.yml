@@ -1,11 +1,11 @@
 id: 124865494
-type: way
+type: node
 latitude: 41.88439
 longitude: -87.62933
 postcode: "60602"
 city: Chicago
-street: "North State Street"
-housenumber: 108
+street: North State Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

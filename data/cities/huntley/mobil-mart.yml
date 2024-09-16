@@ -1,11 +1,11 @@
 id: 102923714
-type: way
+type: node
 latitude: 42.13659
 longitude: -88.4317
 postcode: "60142"
 city: Huntley
-street: "IL 47"
-housenumber: 13280
-phone: "+1 847 669 9171"
-opening_hours: "24/7"
-website: "https://www.exxon.com/en/gas-station/huntley-il-drendelscornermobil-200311395"
+street: IL 47
+housenumber: "13280"
+phone: +1 847 669 9171
+opening_hours: 24/7
+website: https://www.exxon.com/en/gas-station/huntley-il-drendelscornermobil-200311395

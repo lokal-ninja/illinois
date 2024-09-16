@@ -1,11 +1,11 @@
 id: 1050903051
-type: way
+type: node
 latitude: 42.27341
 longitude: -88.98351
 postcode: "61107"
 city: Rockford
-street: "Argus Drive"
-housenumber: 6910
-phone: "+1 815-397-6800"
+street: Argus Drive
+housenumber: "6910"
+phone: +1 815-397-6800
 opening_hours: ""
-website: "https://www.slumberland.com/"
+website: https://www.slumberland.com/

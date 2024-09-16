@@ -1,11 +1,11 @@
 id: 1046996653
-type: way
+type: node
 latitude: 41.73078
 longitude: -88.2052
 postcode: "60564"
 city: Naperville
-street: "Springbrook Square Drive"
-housenumber: 1995
-phone: "+1 331 213 2202"
-opening_hours: "Mo, Su off; Tu, We 10:00-19:00; Th, Fr 10:00-17:00; Sa 08:00-12:00"
-website: "https://www.meldhairstudio.com/"
+street: Springbrook Square Drive
+housenumber: "1995"
+phone: +1 331 213 2202
+opening_hours: Mo, Su off; Tu, We 10:00-19:00; Th, Fr 10:00-17:00; Sa 08:00-12:00
+website: https://www.meldhairstudio.com/

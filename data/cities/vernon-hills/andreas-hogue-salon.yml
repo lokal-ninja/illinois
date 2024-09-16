@@ -1,11 +1,11 @@
 id: 687473900
-type: way
+type: node
 latitude: 42.24294
 longitude: -87.94263
 postcode: "60061"
 city: Vernon Hills
-street: "North Milwaukee Avenue"
-housenumber: 901
+street: North Milwaukee Avenue
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "https://andreashogue.com/"
+website: https://andreashogue.com/

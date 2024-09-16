@@ -1,11 +1,11 @@
 id: 308288986
-type: way
+type: node
 latitude: 41.89519
 longitude: -88.10292
 postcode: "60188"
 city: Carol Stream
-street: "South Schmale Road"
-housenumber: 330
-phone: "+1 833-440-1076"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://stores.aldi.us/il/carol-stream/330-s-schmale-road"
+street: South Schmale Road
+housenumber: "330"
+phone: +1 833-440-1076
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://stores.aldi.us/il/carol-stream/330-s-schmale-road

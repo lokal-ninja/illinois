@@ -1,11 +1,11 @@
 id: 344140777
-type: way
+type: node
 latitude: 42.13934
 longitude: -87.9072
 postcode: "60090"
 city: Wheeling
-street: "South Milwaukee Avenue"
-housenumber: 39
+street: South Milwaukee Avenue
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

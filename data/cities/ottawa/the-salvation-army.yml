@@ -1,11 +1,11 @@
 id: 685297825
-type: way
+type: node
 latitude: 41.34692
 longitude: -88.84862
 postcode: "61350"
 city: Ottawa
-street: "West Madison Street"
-housenumber: 516
+street: West Madison Street
+housenumber: "516"
 phone: ""
 opening_hours: ""
 website: ""

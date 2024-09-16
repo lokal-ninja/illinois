@@ -1,11 +1,11 @@
 id: 296969646
-type: way
+type: node
 latitude: 41.7649
 longitude: -88.19278
 postcode: "60540"
 city: Naperville
-street: "Aurora Avenue"
-housenumber: 2363
-phone: "+1 630 864 6433"
+street: Aurora Avenue
+housenumber: "2363"
+phone: +1 630 864 6433
 opening_hours: ""
-website: "https://www.napervillemazda.com/"
+website: https://www.napervillemazda.com/

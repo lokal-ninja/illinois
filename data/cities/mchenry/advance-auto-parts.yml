@@ -1,11 +1,11 @@
 id: 407798234
-type: way
+type: node
 latitude: 42.34548
 longitude: -88.27655
 postcode: "60050"
 city: McHenry
-street: "West Elm Street"
-housenumber: 4000
+street: West Elm Street
+housenumber: "4000"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/il/mchenry/4004-w-elm-st"
+website: https://stores.advanceautoparts.com/il/mchenry/4004-w-elm-st

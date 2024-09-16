@@ -1,11 +1,11 @@
 id: 173484288
-type: way
+type: node
 latitude: 42.02732
 longitude: -87.70438
 postcode: "60202"
 city: Evanston
-street: "Oakton Street"
-housenumber: 2211
-phone: "+1 833-440-1068"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/evanston/2211-oakton-st"
+street: Oakton Street
+housenumber: "2211"
+phone: +1 833-440-1068
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/evanston/2211-oakton-st

@@ -1,11 +1,11 @@
 id: 930851983
-type: way
+type: node
 latitude: 41.56137
 longitude: -87.63739
 postcode: "60430"
 city: Homewood
-street: "Halsted Street"
-housenumber: 18024
+street: Halsted Street
+housenumber: "18024"
 phone: ""
 opening_hours: ""
 website: ""

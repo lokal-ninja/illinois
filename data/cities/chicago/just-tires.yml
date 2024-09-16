@@ -1,11 +1,11 @@
 id: 210382279
-type: way
+type: node
 latitude: 41.96936
 longitude: -87.65941
 postcode: "60640"
 city: Chicago
-street: "North Broadway"
-housenumber: 4809
+street: North Broadway
+housenumber: "4809"
 phone: ""
 opening_hours: ""
 website: ""

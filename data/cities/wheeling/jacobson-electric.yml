@@ -1,11 +1,11 @@
 id: 1136556072
-type: way
+type: node
 latitude: 42.15277
 longitude: -87.94144
 postcode: "60090"
 city: Wheeling
-street: "Lake Cook Road"
-housenumber: 1035
+street: Lake Cook Road
+housenumber: "1035"
 phone: ""
 opening_hours: ""
 website: ""

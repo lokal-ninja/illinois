@@ -1,11 +1,11 @@
 id: 162391431
-type: way
+type: node
 latitude: 41.90984
 longitude: -87.7405
 postcode: "60639"
 city: Chicago
-street: "West North Avenue"
-housenumber: 4534
+street: West North Avenue
+housenumber: "4534"
 phone: ""
 opening_hours: ""
 website: ""

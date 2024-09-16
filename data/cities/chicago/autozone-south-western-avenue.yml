@@ -1,11 +1,11 @@
 id: 165241923
-type: way
+type: node
 latitude: 41.85038
 longitude: -87.68541
 postcode: "60608"
 city: Chicago
-street: "South Western Avenue"
-housenumber: 2255
+street: South Western Avenue
+housenumber: "2255"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/2255-s-western-ave.html"
+website: https://www.autozone.com/locations/il/chicago/2255-s-western-ave.html

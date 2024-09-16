@@ -1,11 +1,11 @@
 id: 998047240
-type: way
+type: node
 latitude: 41.76657
 longitude: -88.18551
 postcode: "60540"
 city: Naperville
-street: "West Ogden Avenue"
-housenumber: 1580
-phone: "+1 630 305 8330"
+street: West Ogden Avenue
+housenumber: "1580"
+phone: +1 630 305 8330
 opening_hours: ""
-website: "https://www.gus-auto-imports.com/"
+website: https://www.gus-auto-imports.com/

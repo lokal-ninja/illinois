@@ -1,11 +1,11 @@
 id: 294822271
-type: way
+type: node
 latitude: 42.23922
 longitude: -87.95805
 postcode: "60061"
 city: Vernon Hills
-street: "East Townline Road"
-housenumber: 313
-phone: "+1 847-680-0390"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/vernon-hills/833"
+street: East Townline Road
+housenumber: "313"
+phone: +1 847-680-0390
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/vernon-hills/833

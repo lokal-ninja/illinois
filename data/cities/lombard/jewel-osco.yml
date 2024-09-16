@@ -1,11 +1,11 @@
 id: 197990732
-type: way
+type: node
 latitude: 41.86151
 longitude: -88.01582
 postcode: "60148"
 city: Lombard
-street: "South Main Street"
-housenumber: 1177
-phone: "+1 630-953-1390"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/lombard/1177-s-main-st.html"
+street: South Main Street
+housenumber: "1177"
+phone: +1 630-953-1390
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/lombard/1177-s-main-st.html

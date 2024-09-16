@@ -1,11 +1,11 @@
 id: 210860331
-type: way
+type: node
 latitude: 41.75157
 longitude: -87.60366
 postcode: "60619"
 city: Chicago
-street: "East 79th Street"
-housenumber: 834
+street: East 79th Street
+housenumber: "834"
 phone: ""
 opening_hours: ""
 website: ""

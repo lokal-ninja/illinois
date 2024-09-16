@@ -1,11 +1,11 @@
 id: 978890319
-type: way
+type: node
 latitude: 37.73458
 longitude: -89.19178
 postcode: "62901"
 city: Carbondale
-street: "East Main Street"
-housenumber: 1270
-phone: "+1 618-351-1700"
+street: East Main Street
+housenumber: "1270"
+phone: +1 618-351-1700
 opening_hours: ""
-website: "https://stores.bestbuy.com/il/carbondale/1270-e-main-st-492.html"
+website: https://stores.bestbuy.com/il/carbondale/1270-e-main-st-492.html

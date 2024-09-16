@@ -1,11 +1,11 @@
 id: 578923530
-type: way
+type: node
 latitude: 37.57024
 longitude: -89.31851
 postcode: "62905"
 city: Alto Pass
-street: "Elm Street"
-housenumber: 65
+street: Elm Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

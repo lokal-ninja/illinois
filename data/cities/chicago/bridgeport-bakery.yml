@@ -1,11 +1,11 @@
 id: 210224026
-type: way
+type: node
 latitude: 41.84131
 longitude: -87.65772
 postcode: "60608"
 city: Chicago
-street: "South Archer Avenue"
-housenumber: 2907
-phone: "+1-773-523-1121"
+street: South Archer Avenue
+housenumber: "2907"
+phone: +1-773-523-1121
 opening_hours: ""
 website: ""

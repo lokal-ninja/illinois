@@ -1,11 +1,11 @@
 id: 211277918
-type: way
+type: node
 latitude: 41.7214
 longitude: -87.57557
 postcode: "60617"
 city: Chicago
-street: "South Jeffery Avenue"
-housenumber: 9520
+street: South Jeffery Avenue
+housenumber: "9520"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/chicago/19103"
+website: https://www.dollargeneral.com/store-directory/il/chicago/19103

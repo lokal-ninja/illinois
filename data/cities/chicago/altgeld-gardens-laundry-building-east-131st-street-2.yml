@@ -1,11 +1,11 @@
 id: 624637246
-type: way
+type: node
 latitude: 41.65748
 longitude: -87.60373
 postcode: "60827"
 city: Chicago
-street: "East 131st Street"
-housenumber: 730
+street: East 131st Street
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

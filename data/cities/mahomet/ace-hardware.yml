@@ -1,11 +1,11 @@
 id: 525061384
-type: way
+type: node
 latitude: 40.19679
 longitude: -88.39735
 postcode: "61853"
 city: Mahomet
-street: "Eastwood Drive"
-housenumber: 804
-phone: "+1 217-586-3747"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-19:00"
+street: Eastwood Drive
+housenumber: "804"
+phone: +1 217-586-3747
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-19:00
 website: ""

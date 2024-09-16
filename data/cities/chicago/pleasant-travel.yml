@@ -4,8 +4,8 @@ latitude: 41.99604
 longitude: -87.66989
 postcode: "60660"
 city: Chicago
-street: "North Clark Street"
-housenumber: 6257
-phone: "+1-773-508-1927"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:30-14:00"
-website: "http://pleasanttravelchicago.com"
+street: North Clark Street
+housenumber: "6257"
+phone: +1-773-508-1927
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:30-14:00
+website: http://pleasanttravelchicago.com

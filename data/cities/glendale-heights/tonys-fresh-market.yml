@@ -1,11 +1,11 @@
 id: 468025316
-type: way
+type: node
 latitude: 41.90101
 longitude: -88.08441
 postcode: "60139"
 city: Glendale Heights
-street: "East North Avenue"
-housenumber: 155
+street: East North Avenue
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

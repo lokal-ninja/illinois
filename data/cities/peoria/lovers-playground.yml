@@ -1,11 +1,11 @@
 id: 64492153
-type: way
+type: node
 latitude: 40.68959
 longitude: -89.59337
 postcode: "61602"
 city: Peoria
-street: "Southwest Adams Street"
-housenumber: 335
-phone: "+1-309-676-9275"
-opening_hours: "24/7"
-website: "https://loversplayground.com/lovers-playground-peoria-illinois.html"
+street: Southwest Adams Street
+housenumber: "335"
+phone: +1-309-676-9275
+opening_hours: 24/7
+website: https://loversplayground.com/lovers-playground-peoria-illinois.html

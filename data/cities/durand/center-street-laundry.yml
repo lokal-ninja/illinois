@@ -1,11 +1,11 @@
 id: 766710993
-type: way
+type: node
 latitude: 42.43462
 longitude: -89.33149
 postcode: "61024"
 city: Durand
-street: "North Center Street"
-housenumber: 207
-phone: "+1-815-248-4430"
+street: North Center Street
+housenumber: "207"
+phone: +1-815-248-4430
 opening_hours: ""
 website: ""

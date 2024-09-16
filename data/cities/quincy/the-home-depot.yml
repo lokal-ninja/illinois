@@ -1,11 +1,11 @@
 id: 166670717
-type: way
+type: node
 latitude: 39.93309
 longitude: -91.32946
 postcode: "62305"
 city: Quincy
-street: "Broadway Street"
-housenumber: 5432
-phone: "+1 217-228-2475"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/quincy-il/il/quincy/62305/1915"
+street: Broadway Street
+housenumber: "5432"
+phone: +1 217-228-2475
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/quincy-il/il/quincy/62305/1915

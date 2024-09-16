@@ -4,8 +4,8 @@ latitude: 42.0065
 longitude: -89.10582
 postcode: ""
 city: Kings
-street: "IL 64"
-housenumber: 12554
-phone: "+1 815-761-5643"
-opening_hours: "We-Sa 09:00-17:00; PH hours vary, call"
-website: "https://sweetrevivalantiques.com/"
+street: IL 64
+housenumber: "12554"
+phone: +1 815-761-5643
+opening_hours: We-Sa 09:00-17:00; PH "hours vary, call"
+website: https://sweetrevivalantiques.com/

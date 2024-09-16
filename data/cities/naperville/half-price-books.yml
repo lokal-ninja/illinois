@@ -4,8 +4,8 @@ latitude: 41.71087
 longitude: -88.20365
 postcode: "60564"
 city: Naperville
-street: "95th Street"
-housenumber: 2867
+street: 95th Street
+housenumber: "2867"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://hpb.com/115"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://hpb.com/115

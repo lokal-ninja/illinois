@@ -1,11 +1,11 @@
 id: 122142019
-type: way
+type: node
 latitude: 41.47911
 longitude: -87.63924
 postcode: "60411"
 city: South Chicago Heights
-street: "Chicago Road"
-housenumber: 3220
-phone: "+1 708-755-7372"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/south-chicago-heights/3220-chicago-rd.html"
+street: Chicago Road
+housenumber: "3220"
+phone: +1 708-755-7372
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/il/south-chicago-heights/3220-chicago-rd.html

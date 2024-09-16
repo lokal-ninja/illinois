@@ -1,11 +1,11 @@
 id: 1028828052
-type: way
+type: node
 latitude: 41.68173
 longitude: -88.20544
 postcode: "60564"
 city: Naperville
-street: "South Illinois Route 59"
-housenumber: 4931
-phone: "+1 331 226 2998"
+street: South Illinois Route 59
+housenumber: "4931"
+phone: +1 331 226 2998
 opening_hours: ""
-website: "https://www.authenticcuts.com/"
+website: https://www.authenticcuts.com/

@@ -1,11 +1,11 @@
 id: 328511207
-type: way
+type: node
 latitude: 41.77571
 longitude: -88.44403
 postcode: "60554"
 city: Sugar Grove
-street: "West Park Avenue"
-housenumber: 11
-phone: "+1-855-955-2534"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://stores.aldi.us/il/sugar-grove/11-w-park-ave"
+street: West Park Avenue
+housenumber: "11"
+phone: +1-855-955-2534
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://stores.aldi.us/il/sugar-grove/11-w-park-ave

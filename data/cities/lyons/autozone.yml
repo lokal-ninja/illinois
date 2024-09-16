@@ -1,11 +1,11 @@
 id: 947350578
-type: way
+type: node
 latitude: 41.81631
 longitude: -87.8356
 postcode: "60534"
 city: Lyons
-street: "Ogden Avenue"
-housenumber: 8554
+street: Ogden Avenue
+housenumber: "8554"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/lyons/8554-ogden-ave.html"
+website: https://www.autozone.com/locations/il/lyons/8554-ogden-ave.html

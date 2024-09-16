@@ -1,11 +1,11 @@
 id: 192770999
-type: way
+type: node
 latitude: 42.38567
 longitude: -88.06515
 postcode: "60073"
 city: Round Lake Beach
-street: "North Illinois Route 83"
-housenumber: 2050
-phone: "+1 847-223-0336"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/round-lake-beach/il/round-lake-beach/60073/8431"
+street: North Illinois Route 83
+housenumber: "2050"
+phone: +1 847-223-0336
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/round-lake-beach/il/round-lake-beach/60073/8431

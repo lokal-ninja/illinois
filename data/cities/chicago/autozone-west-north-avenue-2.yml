@@ -1,11 +1,11 @@
 id: 354623502
-type: way
+type: node
 latitude: 41.91016
 longitude: -87.68918
 postcode: "60647"
 city: Chicago
-street: "West North Avenue"
-housenumber: 2449
+street: West North Avenue
+housenumber: "2449"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/2449-w-north-ave.html"
+website: https://www.autozone.com/locations/il/chicago/2449-w-north-ave.html

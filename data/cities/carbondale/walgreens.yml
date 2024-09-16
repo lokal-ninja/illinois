@@ -1,11 +1,11 @@
 id: 295045106
-type: way
+type: node
 latitude: 37.72617
 longitude: -89.20932
 postcode: "62901"
 city: Carbondale
-street: "South Wall Street"
-housenumber: 206
-phone: "+1 618 457 4104"
+street: South Wall Street
+housenumber: "206"
+phone: +1 618 457 4104
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-206+s+wall+st-carbondale-il-62901/id=4219"
+website: https://www.walgreens.com/locator/walgreens-206+s+wall+st-carbondale-il-62901/id=4219

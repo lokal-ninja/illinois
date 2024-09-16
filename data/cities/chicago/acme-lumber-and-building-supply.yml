@@ -1,11 +1,11 @@
 id: 211122520
-type: way
+type: node
 latitude: 41.75149
 longitude: -87.59778
 postcode: "60619"
 city: Chicago
-street: "South Greenwood Avenue"
-housenumber: 7855
+street: South Greenwood Avenue
+housenumber: "7855"
 phone: ""
 opening_hours: ""
-website: "https://www.acmelumber.net/"
+website: https://www.acmelumber.net/

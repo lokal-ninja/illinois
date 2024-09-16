@@ -1,11 +1,11 @@
 id: 245235303
-type: way
+type: node
 latitude: 42.26633
 longitude: -89.08124
 postcode: "61104"
 city: Rockford
-street: "Charles Street"
-housenumber: 1015
-phone: "+1 815-648-0115"
+street: Charles Street
+housenumber: "1015"
+phone: +1 815-648-0115
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/il/rockford/12204"
+website: https://www.dollargeneral.com/store-directory/il/rockford/12204

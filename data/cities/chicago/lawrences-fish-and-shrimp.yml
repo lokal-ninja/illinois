@@ -1,11 +1,11 @@
 id: 210537794
-type: way
+type: node
 latitude: 41.85382
 longitude: -87.63897
 postcode: "60616"
 city: Chicago
-street: "South Canal Street"
-housenumber: 2120
+street: South Canal Street
+housenumber: "2120"
 phone: ""
 opening_hours: ""
-website: "https://www.lawrencesfishandshrimp.com/"
+website: https://www.lawrencesfishandshrimp.com/

@@ -1,11 +1,11 @@
 id: 293387739
-type: way
+type: node
 latitude: 41.97674
 longitude: -87.66052
 postcode: "60640"
 city: Chicago
-street: "North Broadway"
-housenumber: 5210
-phone: "+1 773-250-0201"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/chicago-store2524.html"
+street: North Broadway
+housenumber: "5210"
+phone: +1 773-250-0201
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/chicago-store2524.html

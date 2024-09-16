@@ -1,11 +1,11 @@
 id: 361225223
-type: way
+type: node
 latitude: 41.92748
 longitude: -87.68069
 postcode: "60647"
 city: Chicago
-street: "North Elston Avenue"
-housenumber: 2501
+street: North Elston Avenue
+housenumber: "2501"
 phone: ""
 opening_hours: ""
 website: ""

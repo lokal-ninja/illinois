@@ -1,11 +1,11 @@
 id: 966807523
-type: way
+type: node
 latitude: 42.44675
 longitude: -87.82617
 postcode: "60099"
 city: Zion
-street: "Sheridan Road"
-housenumber: 2660
-phone: "+1 847-746-1446"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Sheridan Road
+housenumber: "2660"
+phone: +1 847-746-1446
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

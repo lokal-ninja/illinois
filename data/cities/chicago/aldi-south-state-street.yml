@@ -1,11 +1,11 @@
 id: 416486898
-type: way
+type: node
 latitude: 41.76064
 longitude: -87.62465
 postcode: "60619"
 city: Chicago
-street: "South State Street"
-housenumber: 7345
-phone: "+1 833-462-1008"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/il/chicago/7345-s-state-street"
+street: South State Street
+housenumber: "7345"
+phone: +1 833-462-1008
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/il/chicago/7345-s-state-street

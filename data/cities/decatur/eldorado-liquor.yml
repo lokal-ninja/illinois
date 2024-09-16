@@ -1,11 +1,11 @@
 id: 1157464842
-type: way
+type: node
 latitude: 39.84597
 longitude: -88.93909
 postcode: "62521"
 city: Decatur
-street: "East Eldorado Street"
-housenumber: 1303
-phone: "1-217-330-7910"
+street: East Eldorado Street
+housenumber: "1303"
+phone: 1-217-330-7910
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 209476177
-type: way
+type: node
 latitude: 41.96883
 longitude: -87.699
 postcode: "60625"
 city: Chicago
-street: "West Lawrence Avenue"
-housenumber: 2800
+street: West Lawrence Avenue
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""

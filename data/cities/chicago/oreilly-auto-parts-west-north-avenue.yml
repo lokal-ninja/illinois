@@ -1,11 +1,11 @@
 id: 162552245
-type: way
+type: node
 latitude: 41.90969
 longitude: -87.75228
 postcode: "60639"
 city: Chicago
-street: "West North Avenue"
-housenumber: 5010
+street: West North Avenue
+housenumber: "5010"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/il/chicago/autoparts-3375.html"
+website: https://locations.oreillyauto.com/il/chicago/autoparts-3375.html

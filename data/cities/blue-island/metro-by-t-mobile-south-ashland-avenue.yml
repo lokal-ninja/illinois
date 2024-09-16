@@ -1,11 +1,11 @@
 id: 233930689
-type: way
+type: node
 latitude: 41.65707
 longitude: -87.66129
 postcode: "60406"
 city: Blue Island
-street: "South Ashland Avenue"
-housenumber: 12962
+street: South Ashland Avenue
+housenumber: "12962"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-blue-island-il-10230013/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-blue-island-il-10230013/

@@ -4,8 +4,9 @@ latitude: 42.26645
 longitude: -88.28729
 postcode: "60012"
 city: Crystal Lake
-street: "State Route 31"
-housenumber: 4317
-phone: "+1- 815-893-6313"
-opening_hours: "Apr 01-Jun 30: 09:00-17:00; Sep Mo[1] +1 day-Oct 30: 09:00-17:00; Oct 31: Su 09:00-15:00"
+street: State Route 31
+housenumber: "4317"
+phone: +1- 815-893-6313
+opening_hours: 'Apr 01-Jun 30: 09:00-17:00; Sep Mo[1] +1 day-Oct 30: 09:00-17:00;
+    Oct 31: Su 09:00-15:00'
 website: ""

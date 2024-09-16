@@ -1,11 +1,11 @@
 id: 673515775
-type: way
+type: node
 latitude: 41.93605
 longitude: -88.10286
 postcode: "60108"
 city: Bloomingdale
-street: "West Army Trail Road"
-housenumber: 314
-phone: "+1 630-893-5000"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1553/bloomingdale-il/whats-new"
+street: West Army Trail Road
+housenumber: "314"
+phone: +1 630-893-5000
+opening_hours: 24/7
+website: https://www.walmart.com/store/1553/bloomingdale-il/whats-new

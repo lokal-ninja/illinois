@@ -1,11 +1,11 @@
 id: 407812862
-type: way
+type: node
 latitude: 42.34026
 longitude: -88.28664
-postcode: "60050-5318"
+postcode: 60050-5318
 city: McHenry
-street: "West Crystal Lake Road"
-housenumber: 4520
-phone: "+1 815-385-3660"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 08:00-18:00"
+street: West Crystal Lake Road
+housenumber: "4520"
+phone: +1 815-385-3660
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 08:00-18:00
 website: ""

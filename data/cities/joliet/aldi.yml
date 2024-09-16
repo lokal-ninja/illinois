@@ -1,11 +1,11 @@
 id: 42119313
-type: way
+type: node
 latitude: 41.57357
 longitude: -88.15602
 postcode: "60431"
 city: Joliet
-street: "Hennepin Drive"
-housenumber: 3080
-phone: "+1 833-468-7045"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/joliet/3080-hennepin-drive"
+street: Hennepin Drive
+housenumber: "3080"
+phone: +1 833-468-7045
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/joliet/3080-hennepin-drive

@@ -1,11 +1,11 @@
 id: 772907232
-type: way
+type: node
 latitude: 42.30141
 longitude: -89.60814
 postcode: "61032"
 city: Freeport
-street: "East Stephenson Street"
-housenumber: 718
-phone: "+1-815-616-8761"
+street: East Stephenson Street
+housenumber: "718"
+phone: +1-815-616-8761
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 352332486
-type: way
+type: node
 latitude: 41.72016
 longitude: -88.0416
 postcode: "60440"
 city: Bolingbrook
-street: "East Boughton Road"
-housenumber: 645
-phone: "+1-630-343-4200"
+street: East Boughton Road
+housenumber: "645"
+phone: +1-630-343-4200
 opening_hours: ""
-website: "https://www.macys.com/stores/il/bolingbrook/promenade-bolingbrook_277.html"
+website: https://www.macys.com/stores/il/bolingbrook/promenade-bolingbrook_277.html

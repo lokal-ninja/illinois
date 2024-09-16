@@ -4,8 +4,8 @@ latitude: 41.86913
 longitude: -87.62726
 postcode: "60605"
 city: Chicago
-street: "South State Street"
-housenumber: 1103
+street: South State Street
+housenumber: "1103"
 phone: ""
 opening_hours: ""
-website: "https://krisers.com/"
+website: https://krisers.com/

@@ -1,11 +1,11 @@
 id: 1002519991
-type: way
+type: node
 latitude: 42.04667
 longitude: -87.94221
 postcode: "60056"
 city: Mount Prospect
-street: "South Elmhurst Road"
-housenumber: 1026
+street: South Elmhurst Road
+housenumber: "1026"
 phone: ""
-opening_hours: "Mo-Th 12:00-21:00; Fr,Sa 10:00-21:00; Su 12:00-19:00"
-website: "https://www.gamestop.com/store/us/il/mount-prospect/403/golf-plaza-mount-prospect-gamestop"
+opening_hours: Mo-Th 12:00-21:00; Fr,Sa 10:00-21:00; Su 12:00-19:00
+website: https://www.gamestop.com/store/us/il/mount-prospect/403/golf-plaza-mount-prospect-gamestop

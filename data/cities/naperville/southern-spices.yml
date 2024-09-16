@@ -1,11 +1,11 @@
 id: 981099230
-type: way
+type: node
 latitude: 41.72578
 longitude: -88.20539
 postcode: "60564"
 city: Naperville
-street: "Artesian Road"
-housenumber: 2959
-phone: "+1 630 579 9990"
+street: Artesian Road
+housenumber: "2959"
+phone: +1 630 579 9990
 opening_hours: ""
-website: "http://www.southern-spices.com/"
+website: http://www.southern-spices.com/

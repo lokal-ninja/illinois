@@ -1,11 +1,11 @@
 id: 424242772
-type: way
+type: node
 latitude: 42.02599
 longitude: -87.72882
 postcode: "60076"
 city: Skokie
-street: "Crawford Avenue"
-housenumber: 7950
-phone: "+1 312-241-8697"
+street: Crawford Avenue
+housenumber: "7950"
+phone: +1 312-241-8697
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/skokie/7950-n-crawford-ave-30107"
+website: https://www.7-eleven.com/locations/il/skokie/7950-n-crawford-ave-30107

@@ -1,11 +1,11 @@
 id: 333693139
-type: way
+type: node
 latitude: 42.42796
 longitude: -87.87617
 postcode: "60087"
 city: Beach Park
-street: "North Green Bay Road"
-housenumber: 38947
+street: North Green Bay Road
+housenumber: "38947"
 phone: ""
 opening_hours: ""
 website: ""

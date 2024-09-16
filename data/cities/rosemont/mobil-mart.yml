@@ -1,11 +1,11 @@
 id: 284682442
-type: way
+type: node
 latitude: 41.991
 longitude: -87.86055
 postcode: "60018"
 city: Rosemont
-street: "West Higgins Road"
-housenumber: 9401
+street: West Higgins Road
+housenumber: "9401"
 phone: ""
 opening_hours: ""
 website: ""

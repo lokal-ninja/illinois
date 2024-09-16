@@ -1,11 +1,11 @@
 id: 544463003
-type: way
+type: node
 latitude: 41.78289
 longitude: -88.32099
 postcode: "60506"
 city: Aurora
-street: "North Lake Street"
-housenumber: 1250
+street: North Lake Street
+housenumber: "1250"
 phone: ""
 opening_hours: ""
-website: "https://www.cermakfreshmarket.com/cermak-10-1250-n-lake-st-aurora"
+website: https://www.cermakfreshmarket.com/cermak-10-1250-n-lake-st-aurora

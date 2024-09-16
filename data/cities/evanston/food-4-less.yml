@@ -4,8 +4,8 @@ latitude: 42.0326
 longitude: -87.7071
 postcode: "60202"
 city: Evanston
-street: "Main Street"
-housenumber: 2400
+street: Main Street
+housenumber: "2400"
 phone: ""
 opening_hours: ""
-website: "https://www.food4less.com/"
+website: https://www.food4less.com/

@@ -1,11 +1,11 @@
 id: 1133927680
-type: way
+type: node
 latitude: 42.39049
 longitude: -87.96033
 postcode: "60031"
 city: Gurnee
-street: "West Grand Avenue"
-housenumber: 6140
-phone: "+1 224-538-2195"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/il/gurnee/1340/"
+street: West Grand Avenue
+housenumber: "6140"
+phone: +1 224-538-2195
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/il/gurnee/1340/

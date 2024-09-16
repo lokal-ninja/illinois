@@ -1,11 +1,11 @@
 id: 414506131
-type: way
+type: node
 latitude: 41.92135
 longitude: -87.74683
 postcode: "60639"
 city: Chicago
-street: "North Cicero Avenue"
-housenumber: 2222
+street: North Cicero Avenue
+housenumber: "2222"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/il/chicago/2222-n-cicero-ave.html"
+website: https://www.autozone.com/locations/il/chicago/2222-n-cicero-ave.html

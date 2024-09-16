@@ -1,11 +1,11 @@
 id: 418082560
-type: way
+type: node
 latitude: 41.7489
 longitude: -87.79928
 postcode: "60459"
 city: Burbank
-street: "Harlem Avenue"
-housenumber: 7859
+street: Harlem Avenue
+housenumber: "7859"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IL/Burbank/7859-South-Harlem-Avenue"
+website: https://www.speedway.com/locations/IL/Burbank/7859-South-Harlem-Avenue

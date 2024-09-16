@@ -1,11 +1,11 @@
 id: 1133927637
-type: way
+type: node
 latitude: 42.39102
 longitude: -87.9581
 postcode: "60031"
 city: Gurnee
-street: "Grand Avenue"
-housenumber: 6104
-phone: "+1 847-855-0565"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-22:30; Su 09:00-22:00"
-website: "https://stores.burlington.com/il/gurnee/198"
+street: Grand Avenue
+housenumber: "6104"
+phone: +1 847-855-0565
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-22:30; Su 09:00-22:00
+website: https://stores.burlington.com/il/gurnee/198

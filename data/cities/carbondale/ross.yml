@@ -1,11 +1,11 @@
 id: 978890194
-type: way
+type: node
 latitude: 37.73054
 longitude: -89.19132
-postcode: "62901-3114"
+postcode: 62901-3114
 city: Carbondale,
-street: "East Main Street"
-housenumber: 1261
-phone: "+1 618-351-0552"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 09:30-21:00; Su 10:00-20:30"
+street: East Main Street
+housenumber: "1261"
+phone: +1 618-351-0552
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 09:30-21:00; Su 10:00-20:30
 website: ""

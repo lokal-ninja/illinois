@@ -1,11 +1,11 @@
 id: 995777696
-type: way
+type: node
 latitude: 41.51336
 longitude: -87.96514
 postcode: "60451"
 city: New Lenox
-street: "East Maple Street"
-housenumber: 202
-phone: "+1 815-485-5180"
+street: East Maple Street
+housenumber: "202"
+phone: +1 815-485-5180
 opening_hours: ""
 website: ""

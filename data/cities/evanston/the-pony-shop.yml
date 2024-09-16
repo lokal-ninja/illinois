@@ -4,8 +4,8 @@ latitude: 42.04039
 longitude: -87.68072
 postcode: "60202"
 city: Evanston
-street: "Chicago Avenue"
-housenumber: 1224
-phone: "+1-847-864-5775"
-opening_hours: "Mo-Th 11:00-20:00; Fr 11:00-18:00; Sa-Su 10:00-17:00"
-website: "https://www.ponyshop.com/"
+street: Chicago Avenue
+housenumber: "1224"
+phone: +1-847-864-5775
+opening_hours: Mo-Th 11:00-20:00; Fr 11:00-18:00; Sa-Su 10:00-17:00
+website: https://www.ponyshop.com/

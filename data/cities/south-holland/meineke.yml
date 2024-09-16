@@ -1,11 +1,11 @@
 id: 1300781871
-type: way
+type: node
 latitude: 41.60056
 longitude: -87.61561
 postcode: "60473"
 city: South Holland
-street: "East 162nd Street"
-housenumber: 35
+street: East 162nd Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

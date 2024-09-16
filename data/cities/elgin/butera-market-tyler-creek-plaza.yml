@@ -1,11 +1,11 @@
 id: 1027575260
-type: way
+type: node
 latitude: 42.05944
 longitude: -88.31326
 postcode: "60123"
 city: Elgin
-street: "Tyler Creek Plaza"
-housenumber: 20
-phone: "+1 847 289 9022"
-opening_hours: "Mo-Fr 07:00-21:00; Sa,Su 07:00-20:00"
-website: "https://buteramarket.com/"
+street: Tyler Creek Plaza
+housenumber: "20"
+phone: +1 847 289 9022
+opening_hours: Mo-Fr 07:00-21:00; Sa,Su 07:00-20:00
+website: https://buteramarket.com/

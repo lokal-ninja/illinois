@@ -1,11 +1,11 @@
 id: 517853663
-type: way
+type: node
 latitude: 41.51974
 longitude: -87.65001
 postcode: "60411"
 city: Chicago Heights
-street: "Dixie Highway"
-housenumber: 650
+street: Dixie Highway
+housenumber: "650"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-650+dixie+hwy-chicago+heights-il-60411/id"
+website: https://www.walgreens.com/locator/walgreens-650+dixie+hwy-chicago+heights-il-60411/id

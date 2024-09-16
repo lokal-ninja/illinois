@@ -1,11 +1,11 @@
 id: 238551436
-type: way
+type: node
 latitude: 40.61513
 longitude: -89.46801
 postcode: "61550"
 city: Morton
-street: "West David Street"
-housenumber: 617
-phone: "+1 309 263 5533;+1 800 334 8187"
+street: West David Street
+housenumber: "617"
+phone: +1 309 263 5533;+1 800 334 8187
 opening_hours: ""
-website: "https://www.milamaudio.com/"
+website: https://www.milamaudio.com/

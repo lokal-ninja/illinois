@@ -1,11 +1,11 @@
 id: 1015084208
-type: way
+type: node
 latitude: 41.64978
 longitude: -89.7869
 postcode: "61283"
 city: Tampico
-street: "Tampico Road"
-housenumber: 4515
-phone: "+1-815-438-3022"
+street: Tampico Road
+housenumber: "4515"
+phone: +1-815-438-3022
 opening_hours: ""
 website: ""

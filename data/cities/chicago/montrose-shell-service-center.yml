@@ -1,11 +1,11 @@
 id: 963488194
-type: way
+type: node
 latitude: 41.96088
 longitude: -87.6892
 postcode: "60618"
 city: Chicago
-street: "North Western Avenue"
-housenumber: 4346
-phone: "+1 (773) 866-1235"
+street: North Western Avenue
+housenumber: "4346"
+phone: +1 (773) 866-1235
 opening_hours: ""
 website: ""

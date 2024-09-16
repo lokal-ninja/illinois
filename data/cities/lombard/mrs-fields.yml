@@ -1,11 +1,11 @@
 id: 1121098235
-type: way
+type: node
 latitude: 41.83944
 longitude: -88.00742
 postcode: "60148"
 city: Lombard
-street: "Yorktown Shopping Center Rd"
-housenumber: 121
-phone: "+1 630 627 9070"
-opening_hours: "Mo-We, Fr, Sa 11:00-20:45; Th off; Su 11:00-17:45"
-website: "https://store.mrsfields.com/store/yorktowncenter"
+street: Yorktown Shopping Center Rd
+housenumber: "121"
+phone: +1 630 627 9070
+opening_hours: Mo-We, Fr, Sa 11:00-20:45; Th off; Su 11:00-17:45
+website: https://store.mrsfields.com/store/yorktowncenter

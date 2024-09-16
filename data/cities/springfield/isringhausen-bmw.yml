@@ -4,8 +4,8 @@ latitude: 39.80365
 longitude: -89.65256
 postcode: "62702"
 city: Springfield
-street: "East Madison Street"
-housenumber: 200
-phone: "+1-877-364-6099"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
-website: "https://www.isringhausenbmw.com"
+street: East Madison Street
+housenumber: "200"
+phone: +1-877-364-6099
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00
+website: https://www.isringhausenbmw.com

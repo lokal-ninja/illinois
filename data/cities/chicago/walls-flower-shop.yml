@@ -1,11 +1,11 @@
 id: 163179995
-type: way
+type: node
 latitude: 41.97256
 longitude: -87.77561
 postcode: "60630"
 city: Chicago
-street: "West Higgins Avenue"
-housenumber: 5862
+street: West Higgins Avenue
+housenumber: "5862"
 phone: ""
 opening_hours: ""
 website: ""

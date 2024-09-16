@@ -4,8 +4,8 @@ latitude: 42.0447
 longitude: -87.98056
 postcode: "60005"
 city: Arlington Heights
-street: "East Algonquin Road"
-housenumber: 100
-phone: "(224) 875-7664"
-opening_hours: "Tu-Sa 09:00-19:00, Su 09:00-18:00"
-website: "http://arukashairresort.com/chicago/information/"
+street: East Algonquin Road
+housenumber: "100"
+phone: (224) 875-7664
+opening_hours: Tu-Sa 09:00-19:00, Su 09:00-18:00
+website: http://arukashairresort.com/chicago/information/

@@ -1,11 +1,11 @@
 id: 1247040796
-type: way
+type: node
 latitude: 38.85643
 longitude: -90.06616
 postcode: "62095"
 city: Wood River
-street: "East Edwardsville Road"
-housenumber: 1900
-phone: "1-618-251-5660"
+street: East Edwardsville Road
+housenumber: "1900"
+phone: 1-618-251-5660
 opening_hours: ""
 website: ""

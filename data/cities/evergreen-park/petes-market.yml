@@ -1,11 +1,11 @@
 id: 998069451
-type: way
+type: node
 latitude: 41.72134
 longitude: -87.71505
 postcode: "60805"
 city: Evergreen Park
-street: "West 95th Street"
-housenumber: 3720
+street: West 95th Street
+housenumber: "3720"
 phone: ""
 opening_hours: ""
-website: "https://www.petesfresh.com/stores/pfm-08-evergreen-park"
+website: https://www.petesfresh.com/stores/pfm-08-evergreen-park

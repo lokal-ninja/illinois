@@ -1,11 +1,11 @@
 id: 405410176
-type: way
+type: node
 latitude: 41.86966
 longitude: -87.63948
 postcode: "60607"
 city: Chicago
-street: "South Canal Street"
-housenumber: 1100
+street: South Canal Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1156717868
-type: way
+type: node
 latitude: 42.12507
 longitude: -87.82988
 postcode: "60062"
 city: Northbrook
-street: "Shermer Road"
-housenumber: 1512
-phone: "+1 847-498-1772"
+street: Shermer Road
+housenumber: "1512"
+phone: +1 847-498-1772
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/il/northbrook/1512-shermer-road-33792"
+website: https://www.7-eleven.com/locations/il/northbrook/1512-shermer-road-33792

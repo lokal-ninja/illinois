@@ -4,8 +4,8 @@ latitude: 41.89163
 longitude: -87.6205
 postcode: "60611"
 city: Chicago
-street: "East Grand Avenue"
-housenumber: 255
-phone: "+1 312-379-7900"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/streeterville"
+street: East Grand Avenue
+housenumber: "255"
+phone: +1 312-379-7900
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/streeterville

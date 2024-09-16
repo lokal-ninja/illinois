@@ -1,11 +1,11 @@
 id: 252823351
-type: way
+type: node
 latitude: 41.96161
 longitude: -87.9401
 postcode: "60106"
 city: Bensenville
-street: "Irving Park Road"
-housenumber: 5
+street: Irving Park Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.86869
 longitude: -87.63851
 postcode: "60607"
 city: Chicago
-street: "South Canal Street"
-housenumber: 1101
-phone: "+1 312-588-0138"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/il/chicago-store1658.html"
+street: South Canal Street
+housenumber: "1101"
+phone: +1 312-588-0138
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/il/chicago-store1658.html

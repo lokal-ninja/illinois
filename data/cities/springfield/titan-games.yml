@@ -4,8 +4,9 @@ latitude: 39.76454
 longitude: -89.69501
 postcode: "62704"
 city: Springfield
-street: "Wabash Avenue"
-housenumber: 2205
-phone: "+1-217-679-7019"
-opening_hours: "Mo-We 12:00-21:00; Th 12:00-20:00; Fr 12:00-22:00; Sa 12:00-19:00; Su 12:00-17:00"
-website: "https://www.titangamesonline.com/"
+street: Wabash Avenue
+housenumber: "2205"
+phone: +1-217-679-7019
+opening_hours: Mo-We 12:00-21:00; Th 12:00-20:00; Fr 12:00-22:00; Sa 12:00-19:00;
+    Su 12:00-17:00
+website: https://www.titangamesonline.com/

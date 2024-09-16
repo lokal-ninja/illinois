@@ -1,11 +1,11 @@
 id: 206747279
-type: way
+type: node
 latitude: 41.94965
 longitude: -88.03356
 postcode: "60101"
 city: Addison
-street: "North Rohlwing Road"
-housenumber: 1050
-phone: "+1 630-889-1826"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5442/addison-il/whats-new"
+street: North Rohlwing Road
+housenumber: "1050"
+phone: +1 630-889-1826
+opening_hours: 24/7
+website: https://www.walmart.com/store/5442/addison-il/whats-new

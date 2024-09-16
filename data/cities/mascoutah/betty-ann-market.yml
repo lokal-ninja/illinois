@@ -1,11 +1,11 @@
 id: 740520612
-type: way
+type: node
 latitude: 38.49691
 longitude: -89.79587
 postcode: "62258"
 city: Mascoutah
-street: "Mascoutah Plaza Drive"
-housenumber: 95
-phone: "+1-618-566-2118"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.bettyannmarket.com/"
+street: Mascoutah Plaza Drive
+housenumber: "95"
+phone: +1-618-566-2118
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.bettyannmarket.com/

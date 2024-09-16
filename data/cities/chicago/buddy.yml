@@ -4,8 +4,8 @@ latitude: 41.88345
 longitude: -87.62481
 postcode: "60602"
 city: Chicago
-street: "East Washington Street"
-housenumber: 78
+street: East Washington Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
-website: "https://hi-buddy.org/"
+website: https://hi-buddy.org/

@@ -1,11 +1,11 @@
 id: 467523789
-type: way
+type: node
 latitude: 41.88217
 longitude: -88.10622
-postcode: "60187-3146"
+postcode: 60187-3146
 city: Wheaton
-street: "North Main Street"
-housenumber: 1705
-phone: "+1 630-682-3636"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: North Main Street
+housenumber: "1705"
+phone: +1 630-682-3636
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

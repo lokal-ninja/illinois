@@ -1,11 +1,11 @@
 id: 162715003
-type: way
+type: node
 latitude: 41.96005
 longitude: -87.76866
 postcode: "60634"
 city: Chicago
-street: "West Montrose Avenue"
-housenumber: 5635
+street: West Montrose Avenue
+housenumber: "5635"
 phone: ""
 opening_hours: ""
-website: "https://www.hagensfishmarket.com/"
+website: https://www.hagensfishmarket.com/

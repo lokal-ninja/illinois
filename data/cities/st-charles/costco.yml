@@ -1,11 +1,11 @@
 id: 343601439
-type: way
+type: node
 latitude: 41.90976
 longitude: -88.34414
 postcode: "60174"
 city: St. Charles
-street: "South Randall Road"
-housenumber: 221
-phone: "+1 630-549-2024"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/st-charles-saint-charles-il-1040.html"
+street: South Randall Road
+housenumber: "221"
+phone: +1 630-549-2024
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/st-charles-saint-charles-il-1040.html

@@ -1,11 +1,11 @@
 id: 1284905848
-type: way
+type: node
 latitude: 42.38717
 longitude: -87.98765
 postcode: "60031"
 city: Gurnee
-street: "Grand Avenue"
-housenumber: 7520
-phone: "+1 855-464-7062"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/gurnee/7520-grand-ave"
+street: Grand Avenue
+housenumber: "7520"
+phone: +1 855-464-7062
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/gurnee/7520-grand-ave

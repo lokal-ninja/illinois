@@ -4,8 +4,8 @@ latitude: 41.97643
 longitude: -87.66826
 postcode: "60640"
 city: Chicago
-street: "North Clark Street"
-housenumber: 5205
+street: North Clark Street
+housenumber: "5205"
 phone: ""
-opening_hours: "Mo,We-Sa 10:00-19:00; Su 10:00-18:30"
+opening_hours: Mo,We-Sa 10:00-19:00; Su 10:00-18:30
 website: ""

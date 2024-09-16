@@ -1,11 +1,11 @@
 id: 517995334
-type: way
+type: node
 latitude: 41.7742
 longitude: -88.43944
 postcode: "60554"
 city: Sugar Grove
-street: "Illinois Route 47"
-housenumber: 495
-phone: "+1-630-466-9701"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 08:00-19:00; Su 09:00-17:00"
-website: "https://locations.haircuttery.com/il/sugar-grove/495-n-state-route-47.html"
+street: Illinois Route 47
+housenumber: "495"
+phone: +1-630-466-9701
+opening_hours: Mo-Fr 09:00-21:00; Sa 08:00-19:00; Su 09:00-17:00
+website: https://locations.haircuttery.com/il/sugar-grove/495-n-state-route-47.html

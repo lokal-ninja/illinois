@@ -1,11 +1,11 @@
 id: 252694381
-type: way
+type: node
 latitude: 42.07398
 longitude: -87.69125
 postcode: "60091"
 city: Wilmette
-street: "Linden Avenue"
-housenumber: 332
+street: Linden Avenue
+housenumber: "332"
 phone: ""
 opening_hours: ""
-website: "https://www.shawneeservicectr.com/"
+website: https://www.shawneeservicectr.com/

@@ -1,11 +1,11 @@
 id: 155090490
-type: way
+type: node
 latitude: 42.00659
 longitude: -87.71296
 postcode: "60712"
 city: Lincolnwood
-street: "North McCormick Boulevard"
-housenumber: 6900
+street: North McCormick Boulevard
+housenumber: "6900"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 117975128
-type: way
+type: node
 latitude: 42.13763
 longitude: -88.03333
 postcode: "60074"
 city: Palatine
-street: "East Dundee Road"
-housenumber: 423
-phone: "+1 847-991-4545"
-opening_hours: "Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00"
-website: "https://local.jewelosco.com/il/palatine/423-e-dundee-rd.html"
+street: East Dundee Road
+housenumber: "423"
+phone: +1 847-991-4545
+opening_hours: Mo-Fr 06:00-24:00; Sa-Su 06:00-24:00
+website: https://local.jewelosco.com/il/palatine/423-e-dundee-rd.html

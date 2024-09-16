@@ -1,11 +1,11 @@
 id: 816310688
-type: way
+type: node
 latitude: 39.84439
 longitude: -88.92479
 postcode: "62521"
 city: Decatur
-street: "East William Street"
-housenumber: 2239
-phone: "+1-217-429-2984"
+street: East William Street
+housenumber: "2239"
+phone: +1-217-429-2984
 opening_hours: ""
-website: "http://www.disctobacco.com/"
+website: http://www.disctobacco.com/

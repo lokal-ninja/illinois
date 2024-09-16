@@ -1,11 +1,11 @@
 id: 1293297203
-type: way
+type: node
 latitude: 41.08356
 longitude: -87.87044
 postcode: "60901"
 city: Kankakee
-street: "South Schuyler Avenue"
-housenumber: 2705
-phone: "+1 833-468-7038"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/il/kankakee/2705-south-schuyler-avenue"
+street: South Schuyler Avenue
+housenumber: "2705"
+phone: +1 833-468-7038
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/il/kankakee/2705-south-schuyler-avenue

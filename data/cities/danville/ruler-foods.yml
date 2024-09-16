@@ -1,11 +1,11 @@
 id: 887984133
-type: way
+type: node
 latitude: 40.13068
 longitude: -87.60309
 postcode: "61832"
 city: Danville
-street: "North Griffin Street"
-housenumber: 102
+street: North Griffin Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

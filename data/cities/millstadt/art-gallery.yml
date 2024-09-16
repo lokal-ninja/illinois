@@ -1,11 +1,11 @@
 id: 1302906016
-type: way
+type: node
 latitude: 38.45912
 longitude: -90.09489
 postcode: "62260"
 city: Millstadt
-street: "West Laurel Street"
-housenumber: 305
+street: West Laurel Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

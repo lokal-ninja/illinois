@@ -1,11 +1,11 @@
 id: 209938987
-type: way
+type: node
 latitude: 41.96581
 longitude: -87.66768
 postcode: "60640"
 city: Chicago
-street: "North Clark Street"
-housenumber: 4610
+street: North Clark Street
+housenumber: "4610"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/il/chicago/4610-north-clark-chicago"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/il/chicago/4610-north-clark-chicago

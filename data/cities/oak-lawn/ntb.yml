@@ -1,11 +1,11 @@
 id: 1222298015
-type: way
+type: node
 latitude: 41.72715
 longitude: -87.73191
 postcode: "60456"
 city: Oak Lawn
-street: "Southwest Highway"
-housenumber: 4453
+street: Southwest Highway
+housenumber: "4453"
 phone: ""
 opening_hours: ""
 website: ""

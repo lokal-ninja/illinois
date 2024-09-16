@@ -1,11 +1,11 @@
 id: 1254227621
-type: way
+type: node
 latitude: 38.86747
 longitude: -90.09884
 postcode: "62095"
 city: Wood River
-street: "North Wood River Avenue"
-housenumber: 570
+street: North Wood River Avenue
+housenumber: "570"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /aledo/walmart/
-shop: supermarket
+shop: department store
 ---

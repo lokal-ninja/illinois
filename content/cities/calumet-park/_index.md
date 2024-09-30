@@ -1,6 +1,6 @@
 ---
 title: Calumet Park
 url: /calumet-park/
-latitude: 41.663
-longitude: -87.662
+latitude: 41.657
+longitude: -87.659
 ---

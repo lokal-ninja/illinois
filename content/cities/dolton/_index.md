@@ -1,6 +1,6 @@
 ---
 title: Dolton
 url: /dolton/
-latitude: 41.625
-longitude: -87.582
+latitude: 41.624
+longitude: -87.595
 ---

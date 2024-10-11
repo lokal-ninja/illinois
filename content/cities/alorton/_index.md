@@ -1,6 +1,6 @@
 ---
 title: Alorton
 url: /alorton/
-latitude: 38.59
-longitude: -90.12
+latitude: 38.583
+longitude: -90.121
 ---

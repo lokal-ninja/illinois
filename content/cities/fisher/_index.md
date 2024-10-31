@@ -1,6 +1,6 @@
 ---
 title: Fisher
 url: /fisher/
-latitude: 40.311
-longitude: -88.358
+latitude: 40.318
+longitude: -88.35
 ---

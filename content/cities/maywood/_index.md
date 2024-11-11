@@ -1,6 +1,6 @@
 ---
 title: Maywood
 url: /maywood/
-latitude: 41.878
-longitude: -87.831
+latitude: 41.891
+longitude: -87.844
 ---

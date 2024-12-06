@@ -1,6 +1,6 @@
 ---
 title: Lake Barrington
 url: /lake-barrington/
-latitude: 42.184
-longitude: -88.19
+latitude: 42.186
+longitude: -88.194
 ---

@@ -1,6 +1,6 @@
 ---
 title: Deer Park
 url: /deer-park/
-latitude: 42.164
-longitude: -88.06
+latitude: 42.16
+longitude: -88.048
 ---

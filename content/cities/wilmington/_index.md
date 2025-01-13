@@ -1,6 +1,6 @@
 ---
 title: Wilmington
 url: /wilmington/
-latitude: 41.306
-longitude: -88.157
+latitude: 41.303
+longitude: -88.211
 ---

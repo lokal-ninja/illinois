@@ -7,5 +7,5 @@ city: Montgomery
 street: Caterpillar Drive
 housenumber: "1930"
 phone: +1 630-423-9502
-opening_hours: Mo-Su 09:00-21:00
+opening_hours: Mo-Sa 09:00-21:00; Su 9:00-20:00
 website: https://www.dollartree.com/locations/il/montgomery/7686/

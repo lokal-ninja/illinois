@@ -1,6 +1,6 @@
 ---
 title: Yorkville
 url: /yorkville/
-latitude: 41.665
-longitude: -88.441
+latitude: 41.631
+longitude: -88.522
 ---

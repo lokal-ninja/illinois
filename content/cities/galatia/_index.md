@@ -1,6 +1,6 @@
 ---
 title: Galatia
 url: /galatia/
-latitude: 37.841
-longitude: -88.61
+latitude: 37.84
+longitude: -88.602
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lake Villa
 url: /lake-villa/
-latitude: 42.439
-longitude: -88.071
+latitude: 42.387
+longitude: -88.005
 ---

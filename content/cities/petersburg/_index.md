@@ -1,6 +1,6 @@
 ---
 title: Petersburg
 url: /petersburg/
-latitude: 40.009
-longitude: -89.848
+latitude: 40.019
+longitude: -89.851
 ---

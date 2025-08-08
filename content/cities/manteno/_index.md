@@ -1,6 +1,6 @@
 ---
 title: Manteno
 url: /manteno/
-latitude: 41.253
-longitude: -87.831
+latitude: 41.251
+longitude: -87.836
 ---

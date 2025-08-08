@@ -1,6 +1,6 @@
 ---
 title: Martinsville
 url: /martinsville/
-latitude: 39.191
-longitude: -87.895
+latitude: 39.362
+longitude: -87.883
 ---

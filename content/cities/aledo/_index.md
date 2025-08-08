@@ -1,6 +1,6 @@
 ---
 title: Aledo
 url: /aledo/
-latitude: 41.2
-longitude: -90.742
+latitude: 41.199
+longitude: -90.741
 ---

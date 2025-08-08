@@ -1,5 +1,5 @@
 ---
-title: "D’amato’s Wholesale Bakery"
+title: "D’Amato’s Wholesale Bakery"
 url: /chicago/damatos-wholesale-bakery/
 shop: bakery
 ---

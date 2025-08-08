@@ -2,5 +2,5 @@
 title: Hometown
 url: /hometown/
 latitude: 41.734
-longitude: -87.74
+longitude: -87.725
 ---

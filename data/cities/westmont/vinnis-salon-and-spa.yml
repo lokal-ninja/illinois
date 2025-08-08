@@ -7,5 +7,6 @@ city: Westmont
 street: Fairview Avenue
 housenumber: "1121"
 phone: ""
-opening_hours: ""
+opening_hours: Mo 09:30-16:30; Tu 12:00-19:00; Th 12:00-19:00; Fr,Sa 07:00-13:30;
+    We,Su off
 website: ""

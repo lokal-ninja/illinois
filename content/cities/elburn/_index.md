@@ -1,6 +1,6 @@
 ---
 title: Elburn
 url: /elburn/
-latitude: 41.902
-longitude: -88.475
+latitude: 41.89
+longitude: -88.473
 ---

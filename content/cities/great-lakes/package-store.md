@@ -1,5 +1,0 @@
----
-title: "Package Store"
-url: /great-lakes/package-store/
-shop: alcohol
----

@@ -1,6 +1,6 @@
 ---
 title: Evanston
 url: /evanston/
-latitude: 42.02
-longitude: -87.674
+latitude: 42.021
+longitude: -87.705
 ---

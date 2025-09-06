@@ -1,6 +1,6 @@
 ---
 title: Mount Prospect
 url: /mount-prospect/
-latitude: 42.038
-longitude: -87.943
+latitude: 42.04
+longitude: -87.928
 ---

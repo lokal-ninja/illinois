@@ -1,6 +1,6 @@
 ---
 title: Blue Island
 url: /blue-island/
-latitude: 41.658
-longitude: -87.661
+latitude: 41.664
+longitude: -87.68
 ---

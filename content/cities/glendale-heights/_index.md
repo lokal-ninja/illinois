@@ -1,6 +1,6 @@
 ---
 title: Glendale Heights
 url: /glendale-heights/
-latitude: 41.938
-longitude: -88.082
+latitude: 41.936
+longitude: -88.081
 ---

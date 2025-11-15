@@ -1,6 +1,6 @@
 ---
 title: Park Forest
 url: /park-forest/
-latitude: 41.485
-longitude: -87.676
+latitude: 41.482
+longitude: -87.685
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mokena
 url: /mokena/
-latitude: 41.503
-longitude: -87.892
+latitude: 41.542
+longitude: -87.889
 ---

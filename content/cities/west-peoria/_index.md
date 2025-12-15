@@ -1,6 +1,6 @@
 ---
 title: West Peoria
 url: /west-peoria/
-latitude: 40.692
-longitude: -89.623
+latitude: 40.704
+longitude: -89.63
 ---

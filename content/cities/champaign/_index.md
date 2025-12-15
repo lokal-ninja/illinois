@@ -1,6 +1,6 @@
 ---
 title: Champaign
 url: /champaign/
-latitude: 40.111
-longitude: -88.245
+latitude: 40.137
+longitude: -88.242
 ---

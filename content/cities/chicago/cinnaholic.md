@@ -1,5 +1,5 @@
 ---
 title: "Cinnaholic"
 url: /chicago/cinnaholic/
-shop: bakery
+shop: pastry
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mahomet
 url: /mahomet/
-latitude: 40.191
-longitude: -88.393
+latitude: 40.197
+longitude: -88.397
 ---

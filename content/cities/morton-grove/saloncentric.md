@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /morton-grove/saloncentric/
-shop: hairdresser
+shop: hairdresser supply
 ---

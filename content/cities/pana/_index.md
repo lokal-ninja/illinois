@@ -1,6 +1,6 @@
 ---
 title: Pana
 url: /pana/
-latitude: 39.388
+latitude: 39.39
 longitude: -89.08
 ---

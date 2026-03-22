@@ -1,6 +1,6 @@
 ---
 title: Paw Paw
 url: /paw-paw/
-latitude: 41.689
+latitude: 41.688
 longitude: -88.982
 ---

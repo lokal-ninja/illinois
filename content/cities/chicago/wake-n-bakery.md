@@ -1,5 +1,5 @@
 ---
-title: "Wake N Bakery"
+title: "Wake-N-Bakery"
 url: /chicago/wake-n-bakery/
 shop: bakery
 ---

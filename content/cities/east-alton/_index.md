@@ -1,6 +1,6 @@
 ---
 title: East Alton
 url: /east-alton/
-latitude: 38.88
-longitude: -90.119
+latitude: 38.879
+longitude: -90.117
 ---

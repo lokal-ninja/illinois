@@ -1,6 +1,6 @@
 ---
 title: Cahokia
 url: /cahokia/
-latitude: 38.56
-longitude: -90.172
+latitude: 38.555
+longitude: -90.165
 ---

@@ -1,6 +1,6 @@
 ---
 title: Romeoville
 url: /romeoville/
-latitude: 41.653
-longitude: -88.081
+latitude: 41.639
+longitude: -88.082
 ---

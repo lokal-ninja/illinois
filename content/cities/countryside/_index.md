@@ -1,6 +1,6 @@
 ---
 title: Countryside
 url: /countryside/
-latitude: 41.791
-longitude: -87.866
+latitude: 41.784
+longitude: -87.872
 ---

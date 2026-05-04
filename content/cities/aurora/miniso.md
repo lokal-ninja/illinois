@@ -1,5 +1,5 @@
 ---
-title: "MINISO"
+title: "Miniso"
 url: /aurora/miniso/
-shop: gift
+shop: variety store
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dupo
 url: /dupo/
-latitude: 38.52
-longitude: -90.21
+latitude: 38.533
+longitude: -90.204
 ---

@@ -1,6 +1,6 @@
 ---
 title: Matteson
 url: /matteson/
-latitude: 41.507
-longitude: -87.732
+latitude: 41.504
+longitude: -87.717
 ---

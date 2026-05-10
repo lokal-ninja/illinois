@@ -1,6 +1,6 @@
 ---
 title: Neoga
 url: /neoga/
-latitude: 39.33
-longitude: -88.444
+latitude: 39.322
+longitude: -88.451
 ---

@@ -1,6 +1,6 @@
 ---
 title: Riverwoods
 url: /riverwoods/
-latitude: 42.167
-longitude: -87.92
+latitude: 42.17
+longitude: -87.922
 ---

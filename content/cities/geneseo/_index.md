@@ -1,6 +1,6 @@
 ---
 title: Geneseo
 url: /geneseo/
-latitude: 41.453
-longitude: -90.155
+latitude: 41.437
+longitude: -90.138
 ---

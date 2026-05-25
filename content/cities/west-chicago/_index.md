@@ -1,6 +1,6 @@
 ---
 title: West Chicago
 url: /west-chicago/
-latitude: 41.866
-longitude: -88.203
+latitude: 41.865
+longitude: -88.202
 ---

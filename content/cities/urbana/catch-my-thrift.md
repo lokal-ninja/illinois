@@ -1,5 +1,5 @@
 ---
-title: "Catch my thrift"
+title: "Catch My Thrift"
 url: /urbana/catch-my-thrift/
 shop: charity
 ---

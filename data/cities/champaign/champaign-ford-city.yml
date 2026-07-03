@@ -7,5 +7,6 @@ city: Champaign
 street: West Marketview Drive
 housenumber: "701"
 phone: +1-217-352-0462
-opening_hours: ""
+opening_hours: Mo-Th 09:00-19:00 open; Fr 09:00-18:00 open; Sa 09:00-17:00 open ||
+    Mo-Fr 07:00-17:30 open "service" || Mo-Fr 07:00-17:30 open "parts"
 website: https://www.champaignfordcity.net/

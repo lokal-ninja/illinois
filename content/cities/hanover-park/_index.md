@@ -1,6 +1,6 @@
 ---
 title: Hanover Park
 url: /hanover-park/
-latitude: 42.008
-longitude: -88.158
+latitude: 41.942
+longitude: -88.151
 ---

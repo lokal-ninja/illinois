@@ -7,6 +7,5 @@ city: Batavia
 street: West Wilson Street
 housenumber: "1995"
 phone: +1 630-482-9822
-opening_hours: 'Monday-Friday:10 AM - 8 PM, Saturday:10 AM - 6 PM,Sunday: 11 AM -
-    5 PM'
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-18:00, Su 11:00-17:00
 website: https://www.shopthegreatescape.com/

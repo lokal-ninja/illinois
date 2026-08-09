@@ -7,5 +7,5 @@ city: Chicago
 street: North Broadway
 housenumber: "4653"
 phone: +1-773-728-5212
-opening_hours: Tu,Th,F,Sa 11AM-6PM; M,W,Su Closed
+opening_hours: Mo,We,Su off; Tu,Th-Sa 11:00-18:00
 website: ""

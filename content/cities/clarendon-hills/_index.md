@@ -1,6 +1,6 @@
 ---
 title: Clarendon Hills
 url: /clarendon-hills/
-latitude: 41.796
-longitude: -87.954
+latitude: 41.798
+longitude: -87.953
 ---

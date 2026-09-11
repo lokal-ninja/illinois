@@ -1,6 +1,6 @@
 ---
 title: Hinsdale
 url: /hinsdale/
-latitude: 41.818
-longitude: -87.917
+latitude: 41.783
+longitude: -87.907
 ---

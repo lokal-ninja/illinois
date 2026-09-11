@@ -7,5 +7,5 @@ city: Lockport
 street: Archer Ave
 housenumber: "14354"
 phone: +1-815-838-8130
-opening_hours: Varied
+opening_hours: Mo,Tu,Th,Fr 09:00-19:00; We 09:00-18:00; Sa 09:00-16:00; Su 10:00-15:00
 website: ""

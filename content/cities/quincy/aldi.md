@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /quincy/aldi/
 shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Palatine
 url: /palatine/
-latitude: 42.114
-longitude: -88.034
+latitude: 42.136
+longitude: -88.017
 ---

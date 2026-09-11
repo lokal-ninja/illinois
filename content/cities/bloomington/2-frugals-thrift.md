@@ -1,5 +1,5 @@
 ---
-title: "2 FruGals Thrift"
+title: "2 FruGALS Thrift"
 url: /bloomington/2-frugals-thrift/
 shop: charity
 ---

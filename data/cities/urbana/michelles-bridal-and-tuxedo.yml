@@ -7,5 +7,7 @@ city: Urbana
 street: North Willow Road
 housenumber: "2210"
 phone: +1-217-384-7914
-opening_hours: ""
+opening_hours: 'Mo,Fr 12:00-17:00, We-Th 12:00-19:00, Sa 10:00-16:00, Mo,Fr 10:00-12:00
+    open "bridal only", We-Th 10:00-12:00 open "bridal only", Sa 09:00-10:00 open
+    "bridal only", Aug 2-Sep 13: Su 12:00-16:00 open "Homecoming only"'
 website: https://www.michellesbridalandtuxedo.com/

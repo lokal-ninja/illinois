@@ -1,6 +1,6 @@
 ---
 title: Norridge
 url: /norridge/
-latitude: 41.955
-longitude: -87.808
+latitude: 41.967
+longitude: -87.836
 ---

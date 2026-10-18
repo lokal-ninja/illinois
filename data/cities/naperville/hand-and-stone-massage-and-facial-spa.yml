@@ -7,5 +7,5 @@ city: Naperville
 street: 95th Street
 housenumber: "2911"
 phone: +1 630 590 9823
-opening_hours: Mo-Fr 08:00-22:00, Sa 08:00-21:00, Su 09:00-21:00
+opening_hours: Mo-Fr 08:00-22:00; Sa 08:00-20:00; Su 09:00-19:00
 website: https://www.handandstonenaperville95th.com/

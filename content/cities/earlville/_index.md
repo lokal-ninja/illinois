@@ -1,6 +1,6 @@
 ---
 title: Earlville
 url: /earlville/
-latitude: 41.59
-longitude: -88.921
+latitude: 41.591
+longitude: -88.922
 ---

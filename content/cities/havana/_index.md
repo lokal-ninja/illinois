@@ -1,6 +1,6 @@
 ---
 title: Havana
 url: /havana/
-latitude: 40.3
-longitude: -90.064
+latitude: 40.297
+longitude: -90.065
 ---

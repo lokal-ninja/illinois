@@ -1,6 +1,6 @@
 ---
 title: Carmi
 url: /carmi/
-latitude: 38.073
-longitude: -88.191
+latitude: 38.077
+longitude: -88.185
 ---

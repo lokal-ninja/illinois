@@ -1,6 +1,6 @@
 ---
 title: Modesto
 url: /modesto/
-latitude: 39.478
-longitude: -89.979
+latitude: 39.477
+longitude: -89.982
 ---

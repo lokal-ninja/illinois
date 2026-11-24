@@ -1,6 +1,6 @@
 ---
 title: Schaumburg
 url: /schaumburg/
-latitude: 42.047
-longitude: -88.036
+latitude: 42.049
+longitude: -88.101
 ---

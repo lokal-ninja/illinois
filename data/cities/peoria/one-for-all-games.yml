@@ -7,5 +7,6 @@ city: Peoria
 street: North Sheridan Road
 housenumber: "3915"
 phone: +1 309-307-4508
-opening_hours: Mo-Th 17:00-21:00; Fr-Su 12:00-21:00
+opening_hours: 'Mo-Th 17:00-21:00; Fr-Su 12:00-21:00; Fr 21:00-24:00 closed "Late
+    night Magic: The Gathering play. Closed for sales."'
 website: https://www.oneforallgames.win
